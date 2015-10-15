@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_95</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_92</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_93</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_94</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_97</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_98</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_99</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_96</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_100</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_08_101</key>
-    <text xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</text>
+    <original xml:space="preserve">セットボタンを押して詠唱後、セットボタンを押して放つ</original>
   </message>
 </resource>

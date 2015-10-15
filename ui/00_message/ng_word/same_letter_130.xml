@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_130_123</key>
-    <text xml:space="preserve">ﾀﾞ</text>
+    <original xml:space="preserve">ﾀﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_124</key>
-    <text xml:space="preserve">ﾀ゛</text>
+    <original xml:space="preserve">ﾀ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_130_125</key>
-    <text xml:space="preserve">たﾞ</text>
+    <original xml:space="preserve">たﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_126</key>
-    <text xml:space="preserve">た゛</text>
+    <original xml:space="preserve">た゛</original>
   </message>
   <message>
     <key>SAME_LETTER_130_127</key>
-    <text xml:space="preserve">だ</text>
+    <original xml:space="preserve">だ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_128</key>
-    <text xml:space="preserve">タﾞ</text>
+    <original xml:space="preserve">タﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_129</key>
-    <text xml:space="preserve">タ゛</text>
+    <original xml:space="preserve">タ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_130_130</key>
-    <text xml:space="preserve">ダ</text>
+    <original xml:space="preserve">ダ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_131</key>
-    <text xml:space="preserve">夕ﾞ</text>
+    <original xml:space="preserve">夕ﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_130_132</key>
-    <text xml:space="preserve">夕゛</text>
+    <original xml:space="preserve">夕゛</original>
   </message>
 </resource>

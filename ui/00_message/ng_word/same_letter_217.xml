@@ -1,34 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_217_425</key>
-    <text xml:space="preserve">P</text>
+    <original xml:space="preserve">P</original>
   </message>
   <message>
     <key>SAME_LETTER_217_426</key>
-    <text xml:space="preserve">p</text>
+    <original xml:space="preserve">p</original>
   </message>
   <message>
     <key>SAME_LETTER_217_427</key>
-    <text xml:space="preserve">Ｐ</text>
+    <original xml:space="preserve">Ｐ</original>
   </message>
   <message>
     <key>SAME_LETTER_217_428</key>
-    <text xml:space="preserve">ｐ</text>
+    <original xml:space="preserve">ｐ</original>
   </message>
   <message>
     <key>SAME_LETTER_217_429</key>
-    <text xml:space="preserve">Ρ</text>
+    <original xml:space="preserve">Ρ</original>
   </message>
   <message>
     <key>SAME_LETTER_217_430</key>
-    <text xml:space="preserve">ρ</text>
+    <original xml:space="preserve">ρ</original>
   </message>
   <message>
     <key>SAME_LETTER_217_431</key>
-    <text xml:space="preserve">Р</text>
+    <original xml:space="preserve">Р</original>
   </message>
   <message>
     <key>SAME_LETTER_217_432</key>
-    <text xml:space="preserve">р</text>
+    <original xml:space="preserve">р</original>
   </message>
 </resource>

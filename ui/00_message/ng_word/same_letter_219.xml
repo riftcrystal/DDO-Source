@@ -1,26 +1,26 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_219_437</key>
-    <text xml:space="preserve">R</text>
+    <original xml:space="preserve">R</original>
   </message>
   <message>
     <key>SAME_LETTER_219_438</key>
-    <text xml:space="preserve">r</text>
+    <original xml:space="preserve">r</original>
   </message>
   <message>
     <key>SAME_LETTER_219_439</key>
-    <text xml:space="preserve">Ｒ</text>
+    <original xml:space="preserve">Ｒ</original>
   </message>
   <message>
     <key>SAME_LETTER_219_440</key>
-    <text xml:space="preserve">ｒ</text>
+    <original xml:space="preserve">ｒ</original>
   </message>
   <message>
     <key>SAME_LETTER_219_441</key>
-    <text xml:space="preserve">Я</text>
+    <original xml:space="preserve">Я</original>
   </message>
   <message>
     <key>SAME_LETTER_219_442</key>
-    <text xml:space="preserve">я</text>
+    <original xml:space="preserve">я</original>
   </message>
 </resource>

@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_RANK_REWARD_37</key>
-    <text xml:space="preserve">支援品の配給</text>
+    <original xml:space="preserve">支援品の配給</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_38</key>
-    <text xml:space="preserve">《密猟者のキャンプ》に新たな強敵が出現</text>
+    <original xml:space="preserve">《密猟者のキャンプ》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_39</key>
-    <text xml:space="preserve">《イニアス湿地帯》に新たな強敵が出現</text>
+    <original xml:space="preserve">《イニアス湿地帯》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_40</key>
-    <text xml:space="preserve">封鎖エリア《蒼葉のテラス》開放</text>
+    <original xml:space="preserve">封鎖エリア《蒼葉のテラス》開放</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_41</key>
-    <text xml:space="preserve">支援品ランクアップ</text>
+    <original xml:space="preserve">支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_42</key>
-    <text xml:space="preserve">交通路《ディナン山道～ディナン深層林》復旧</text>
+    <original xml:space="preserve">交通路《ディナン山道～ディナン深層林》復旧</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_43</key>
-    <text xml:space="preserve">《聖獣の間》に新たな強敵が出現</text>
+    <original xml:space="preserve">《聖獣の間》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_44</key>
-    <text xml:space="preserve">《名もなき廃村》に新たな強敵が出現</text>
+    <original xml:space="preserve">《名もなき廃村》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_45</key>
-    <text xml:space="preserve">《巨人の寝床》に新たな強敵が出現</text>
+    <original xml:space="preserve">《巨人の寝床》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_46</key>
-    <text xml:space="preserve">支援品ランクアップ</text>
+    <original xml:space="preserve">支援品ランクアップ</original>
   </message>
 </resource>

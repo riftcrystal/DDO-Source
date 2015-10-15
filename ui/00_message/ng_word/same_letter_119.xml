@@ -1,58 +1,58 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_119_15</key>
-    <text xml:space="preserve">ｯﾞ</text>
+    <original xml:space="preserve">ｯﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_16</key>
-    <text xml:space="preserve">ｯ゛</text>
+    <original xml:space="preserve">ｯ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_17</key>
-    <text xml:space="preserve">ﾂﾞ</text>
+    <original xml:space="preserve">ﾂﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_18</key>
-    <text xml:space="preserve">ﾂ゛</text>
+    <original xml:space="preserve">ﾂ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_19</key>
-    <text xml:space="preserve">っﾞ</text>
+    <original xml:space="preserve">っﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_20</key>
-    <text xml:space="preserve">っ゛</text>
+    <original xml:space="preserve">っ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_21</key>
-    <text xml:space="preserve">つﾞ</text>
+    <original xml:space="preserve">つﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_22</key>
-    <text xml:space="preserve">つ゛</text>
+    <original xml:space="preserve">つ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_23</key>
-    <text xml:space="preserve">づ</text>
+    <original xml:space="preserve">づ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_24</key>
-    <text xml:space="preserve">ッﾞ</text>
+    <original xml:space="preserve">ッﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_25</key>
-    <text xml:space="preserve">ッ゛</text>
+    <original xml:space="preserve">ッ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_26</key>
-    <text xml:space="preserve">ツﾞ</text>
+    <original xml:space="preserve">ツﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_119_27</key>
-    <text xml:space="preserve">ツ゛</text>
+    <original xml:space="preserve">ツ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_119_28</key>
-    <text xml:space="preserve">ヅ</text>
+    <original xml:space="preserve">ヅ</original>
   </message>
 </resource>

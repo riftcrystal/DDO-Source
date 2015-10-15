@@ -1,26 +1,26 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_228_492</key>
-    <text xml:space="preserve">ｩ</text>
+    <original xml:space="preserve">ｩ</original>
   </message>
   <message>
     <key>SAME_LETTER_228_493</key>
-    <text xml:space="preserve">ｳ</text>
+    <original xml:space="preserve">ｳ</original>
   </message>
   <message>
     <key>SAME_LETTER_228_494</key>
-    <text xml:space="preserve">ぅ</text>
+    <original xml:space="preserve">ぅ</original>
   </message>
   <message>
     <key>SAME_LETTER_228_495</key>
-    <text xml:space="preserve">う</text>
+    <original xml:space="preserve">う</original>
   </message>
   <message>
     <key>SAME_LETTER_228_496</key>
-    <text xml:space="preserve">ゥ</text>
+    <original xml:space="preserve">ゥ</original>
   </message>
   <message>
     <key>SAME_LETTER_228_497</key>
-    <text xml:space="preserve">ウ</text>
+    <original xml:space="preserve">ウ</original>
   </message>
 </resource>

@@ -1,70 +1,70 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>map_menumap_titlee</key>
-    <text xml:space="preserve">MAP</text>
+    <original xml:space="preserve">MAP</original>
   </message>
   <message>
     <key>map_menumap_titlej</key>
-    <text xml:space="preserve">マップ</text>
+    <original xml:space="preserve">マップ</original>
   </message>
   <message>
     <key>map_menumap_maptypes</key>
-    <text xml:space="preserve">詳細マップ</text>
+    <original xml:space="preserve">詳細マップ</original>
   </message>
   <message>
     <key>map_menumap_maptypem</key>
-    <text xml:space="preserve">フィールドマップ</text>
+    <original xml:space="preserve">フィールドマップ</original>
   </message>
   <message>
     <key>map_menumap_maptypel</key>
-    <text xml:space="preserve">広域マップ</text>
+    <original xml:space="preserve">広域マップ</original>
   </message>
   <message>
     <key>map_menumap_guide_zoom</key>
-    <text xml:space="preserve">ズームイン/アウト</text>
+    <original xml:space="preserve">ズームイン/アウト</original>
   </message>
   <message>
     <key>map_menumap_guide_filter</key>
-    <text xml:space="preserve">マーカーフィルター変更</text>
+    <original xml:space="preserve">マーカーフィルター変更</original>
   </message>
   <message>
     <key>map_menumap_guide_movecursor</key>
-    <text xml:space="preserve">カーソル移動</text>
+    <original xml:space="preserve">カーソル移動</original>
   </message>
   <message>
     <key>map_menumap_guide_moveplayer</key>
-    <text xml:space="preserve">プレイヤー移動</text>
+    <original xml:space="preserve">プレイヤー移動</original>
   </message>
   <message>
     <key>map_menumap_guide_backgm</key>
-    <text xml:space="preserve">ゲームメニューに戻る</text>
+    <original xml:space="preserve">ゲームメニューに戻る</original>
   </message>
   <message>
     <key>map_menumap_guide_chat</key>
-    <text xml:space="preserve">チャット</text>
+    <original xml:space="preserve">チャット</original>
   </message>
   <message>
     <key>map_menumap_guide_freemarker</key>
-    <text xml:space="preserve">フリーマーカー (長押しで消去)</text>
+    <original xml:space="preserve">フリーマーカー (長押しで消去)</original>
   </message>
   <message>
     <key>map_menumap_guide_close</key>
-    <text xml:space="preserve">閉じる</text>
+    <original xml:space="preserve">閉じる</original>
   </message>
   <message>
     <key>map_menumap_guide_transparent</key>
-    <text xml:space="preserve">透明度の変更</text>
+    <original xml:space="preserve">透明度の変更</original>
   </message>
   <message>
     <key>map_menumap_guide_resetcursor</key>
-    <text xml:space="preserve">カーソルリセット</text>
+    <original xml:space="preserve">カーソルリセット</original>
   </message>
   <message>
     <key>map_menumap_guide_changemap</key>
-    <text xml:space="preserve">マップ切替</text>
+    <original xml:space="preserve">マップ切替</original>
   </message>
   <message>
     <key>map_menumap_guide_speedup</key>
-    <text xml:space="preserve">カーソルスピードアップ</text>
+    <original xml:space="preserve">カーソルスピードアップ</original>
   </message>
 </resource>

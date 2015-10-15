@@ -1,27 +1,27 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">オークの懐、バートランド北地――
-結構な荒れようですね</text>
+    <original xml:space="preserve">オークの懐、バートランド北地――
+結構な荒れようですね</original>
   </message>
   <message>
-    <text xml:space="preserve">マスター、ここは敵地ですし
+    <original xml:space="preserve">マスター、ここは敵地ですし
 休息と補給はいつもより気を付けましょう
-ドラワン村のためにも――</text>
+ドラワン村のためにも――</original>
   </message>
   <message>
-    <text xml:space="preserve">いやね、この臭い――
+    <original xml:space="preserve">いやね、この臭い――
 本当に髪や肌に染み込みそう
-おまけに埃っぽいし</text>
+おまけに埃っぽいし</original>
   </message>
   <message>
-    <text xml:space="preserve">ベヘモットにコロッサスにグリムワーグ
+    <original xml:space="preserve">ベヘモットにコロッサスにグリムワーグ
 それにしてもいろいろな魔物を
-扱っているものですね、オーク達は</text>
+扱っているものですね、オーク達は</original>
   </message>
   <message>
-    <text xml:space="preserve">白竜さまと都を守るはずの砦が
+    <original xml:space="preserve">白竜さまと都を守るはずの砦が
 まさか魔物の居城になるなんて――
 ガルドノック砦を作った人達は考えも
-しなかったでしょうね</text>
+しなかったでしょうね</original>
   </message>
 </resource>

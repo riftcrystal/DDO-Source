@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_224_472</key>
-    <text xml:space="preserve">Z</text>
+    <original xml:space="preserve">Z</original>
   </message>
   <message>
     <key>SAME_LETTER_224_473</key>
-    <text xml:space="preserve">z</text>
+    <original xml:space="preserve">z</original>
   </message>
   <message>
     <key>SAME_LETTER_224_474</key>
-    <text xml:space="preserve">Ｚ</text>
+    <original xml:space="preserve">Ｚ</original>
   </message>
   <message>
     <key>SAME_LETTER_224_475</key>
-    <text xml:space="preserve">ｚ</text>
+    <original xml:space="preserve">ｚ</original>
   </message>
   <message>
     <key>SAME_LETTER_224_476</key>
-    <text xml:space="preserve">Ζ</text>
+    <original xml:space="preserve">Ζ</original>
   </message>
 </resource>

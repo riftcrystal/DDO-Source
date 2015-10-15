@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000403_00_58</key>
-    <text xml:space="preserve">太古の強者</text>
+    <original xml:space="preserve">太古の強者</original>
   </message>
   <message>
     <key>q90000403_00_58</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
   <message>
     <key>q90000403_00_58</key>
-    <text xml:space="preserve"></text>
+    <original xml:space="preserve"></original>
   </message>
 </resource>

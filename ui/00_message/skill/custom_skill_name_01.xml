@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_01_8</key>
-    <text xml:space="preserve">一閃突き</text>
+    <original xml:space="preserve">一閃突き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_12</key>
-    <text xml:space="preserve">刀牙昇斬</text>
+    <original xml:space="preserve">刀牙昇斬</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_10</key>
-    <text xml:space="preserve">シールドバッシュ</text>
+    <original xml:space="preserve">シールドバッシュ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_13</key>
-    <text xml:space="preserve">天蓋斬り</text>
+    <original xml:space="preserve">天蓋斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_15</key>
-    <text xml:space="preserve">逸らし斬り</text>
+    <original xml:space="preserve">逸らし斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_9</key>
-    <text xml:space="preserve">直下突き</text>
+    <original xml:space="preserve">直下突き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_11</key>
-    <text xml:space="preserve">センチュリオンスパイク</text>
+    <original xml:space="preserve">センチュリオンスパイク</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_14</key>
-    <text xml:space="preserve">円月斬り</text>
+    <original xml:space="preserve">円月斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_18</key>
-    <text xml:space="preserve">チャリオットムーブ</text>
+    <original xml:space="preserve">チャリオットムーブ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_16</key>
-    <text xml:space="preserve">弐段突き</text>
+    <original xml:space="preserve">弐段突き</original>
   </message>
 </resource>

@@ -1,478 +1,478 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ENEMY_NAME_1</key>
-    <text xml:space="preserve">ゴブリン</text>
+    <original xml:space="preserve">ゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_2</key>
-    <text xml:space="preserve">ゴブリンファイター</text>
+    <original xml:space="preserve">ゴブリンファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_3</key>
-    <text xml:space="preserve">シールドゴブリン</text>
+    <original xml:space="preserve">シールドゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_4</key>
-    <text xml:space="preserve">スリングゴブリン</text>
+    <original xml:space="preserve">スリングゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_5</key>
-    <text xml:space="preserve">ゴブリンリーダー</text>
+    <original xml:space="preserve">ゴブリンリーダー</original>
   </message>
   <message>
     <key>ENEMY_NAME_6</key>
-    <text xml:space="preserve">ホブゴブリン</text>
+    <original xml:space="preserve">ホブゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_7</key>
-    <text xml:space="preserve">ホブゴブリンファイター</text>
+    <original xml:space="preserve">ホブゴブリンファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_8</key>
-    <text xml:space="preserve">スリングホブゴブリン</text>
+    <original xml:space="preserve">スリングホブゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_9</key>
-    <text xml:space="preserve">ホブゴブリンリーダー</text>
+    <original xml:space="preserve">ホブゴブリンリーダー</original>
   </message>
   <message>
     <key>ENEMY_NAME_11</key>
-    <text xml:space="preserve">モゴック</text>
+    <original xml:space="preserve">モゴック</original>
   </message>
   <message>
     <key>ENEMY_NAME_12</key>
-    <text xml:space="preserve">ジェネラルオーク</text>
+    <original xml:space="preserve">ジェネラルオーク</original>
   </message>
   <message>
     <key>ENEMY_NAME_13</key>
-    <text xml:space="preserve">キャプテンオーク</text>
+    <original xml:space="preserve">キャプテンオーク</original>
   </message>
   <message>
     <key>ENEMY_NAME_14</key>
-    <text xml:space="preserve">オークバトラー</text>
+    <original xml:space="preserve">オークバトラー</original>
   </message>
   <message>
     <key>ENEMY_NAME_15</key>
-    <text xml:space="preserve">オークソルジャー</text>
+    <original xml:space="preserve">オークソルジャー</original>
   </message>
   <message>
     <key>ENEMY_NAME_16</key>
-    <text xml:space="preserve">スライム</text>
+    <original xml:space="preserve">スライム</original>
   </message>
   <message>
     <key>ENEMY_NAME_17</key>
-    <text xml:space="preserve">ディープスライム</text>
+    <original xml:space="preserve">ディープスライム</original>
   </message>
   <message>
     <key>ENEMY_NAME_18</key>
-    <text xml:space="preserve">ブロブ</text>
+    <original xml:space="preserve">ブロブ</original>
   </message>
   <message>
     <key>ENEMY_NAME_19</key>
-    <text xml:space="preserve">グラトンウーズ</text>
+    <original xml:space="preserve">グラトンウーズ</original>
   </message>
   <message>
     <key>ENEMY_NAME_20</key>
-    <text xml:space="preserve">ウーズ</text>
+    <original xml:space="preserve">ウーズ</original>
   </message>
   <message>
     <key>ENEMY_NAME_23</key>
-    <text xml:space="preserve">ベヘモット</text>
+    <original xml:space="preserve">ベヘモット</original>
   </message>
   <message>
     <key>ENEMY_NAME_24</key>
-    <text xml:space="preserve">アングルス</text>
+    <original xml:space="preserve">アングルス</original>
   </message>
   <message>
     <key>ENEMY_NAME_25</key>
-    <text xml:space="preserve">リンドブルム</text>
+    <original xml:space="preserve">リンドブルム</original>
   </message>
   <message>
     <key>ENEMY_NAME_180</key>
-    <text xml:space="preserve">ダムドウルフ</text>
+    <original xml:space="preserve">ダムドウルフ</original>
   </message>
   <message>
     <key>ENEMY_NAME_28</key>
-    <text xml:space="preserve">ウルフアルケミー</text>
+    <original xml:space="preserve">ウルフアルケミー</original>
   </message>
   <message>
     <key>ENEMY_NAME_30</key>
-    <text xml:space="preserve">グリムワーグ</text>
+    <original xml:space="preserve">グリムワーグ</original>
   </message>
   <message>
     <key>ENEMY_NAME_31</key>
-    <text xml:space="preserve">ダイアウルフ</text>
+    <original xml:space="preserve">ダイアウルフ</original>
   </message>
   <message>
     <key>ENEMY_NAME_32</key>
-    <text xml:space="preserve">オオカミ</text>
+    <original xml:space="preserve">オオカミ</original>
   </message>
   <message>
     <key>ENEMY_NAME_33</key>
-    <text xml:space="preserve">スケルトンアルケミー</text>
+    <original xml:space="preserve">スケルトンアルケミー</original>
   </message>
   <message>
     <key>ENEMY_NAME_36</key>
-    <text xml:space="preserve">スケルトンソーサラー</text>
+    <original xml:space="preserve">スケルトンソーサラー</original>
   </message>
   <message>
     <key>ENEMY_NAME_37</key>
-    <text xml:space="preserve">スケルトンメイジ</text>
+    <original xml:space="preserve">スケルトンメイジ</original>
   </message>
   <message>
     <key>ENEMY_NAME_39</key>
-    <text xml:space="preserve">スケルトンナイト</text>
+    <original xml:space="preserve">スケルトンナイト</original>
   </message>
   <message>
     <key>ENEMY_NAME_40</key>
-    <text xml:space="preserve">スケルトン</text>
+    <original xml:space="preserve">スケルトン</original>
   </message>
   <message>
     <key>ENEMY_NAME_41</key>
-    <text xml:space="preserve">ブルーニュート</text>
+    <original xml:space="preserve">ブルーニュート</original>
   </message>
   <message>
     <key>ENEMY_NAME_42</key>
-    <text xml:space="preserve">ロックリザード</text>
+    <original xml:space="preserve">ロックリザード</original>
   </message>
   <message>
     <key>ENEMY_NAME_43</key>
-    <text xml:space="preserve">ラージサルファー</text>
+    <original xml:space="preserve">ラージサルファー</original>
   </message>
   <message>
     <key>ENEMY_NAME_44</key>
-    <text xml:space="preserve">サルファーリザード</text>
+    <original xml:space="preserve">サルファーリザード</original>
   </message>
   <message>
     <key>ENEMY_NAME_45</key>
-    <text xml:space="preserve">ラージリザード</text>
+    <original xml:space="preserve">ラージリザード</original>
   </message>
   <message>
     <key>ENEMY_NAME_46</key>
-    <text xml:space="preserve">リザードマン</text>
+    <original xml:space="preserve">リザードマン</original>
   </message>
   <message>
     <key>ENEMY_NAME_48</key>
-    <text xml:space="preserve">コープスパニッシャー</text>
+    <original xml:space="preserve">コープスパニッシャー</original>
   </message>
   <message>
     <key>ENEMY_NAME_49</key>
-    <text xml:space="preserve">スラッジマン</text>
+    <original xml:space="preserve">スラッジマン</original>
   </message>
   <message>
     <key>ENEMY_NAME_50</key>
-    <text xml:space="preserve">マッドマン</text>
+    <original xml:space="preserve">マッドマン</original>
   </message>
   <message>
     <key>ENEMY_NAME_52</key>
-    <text xml:space="preserve">ソードアンデッド</text>
+    <original xml:space="preserve">ソードアンデッド</original>
   </message>
   <message>
     <key>ENEMY_NAME_53</key>
-    <text xml:space="preserve">ファットアンデッド</text>
+    <original xml:space="preserve">ファットアンデッド</original>
   </message>
   <message>
     <key>ENEMY_NAME_54</key>
-    <text xml:space="preserve">アンデッド</text>
+    <original xml:space="preserve">アンデッド</original>
   </message>
   <message>
     <key>ENEMY_NAME_57</key>
-    <text xml:space="preserve">スノーハーピー</text>
+    <original xml:space="preserve">スノーハーピー</original>
   </message>
   <message>
     <key>ENEMY_NAME_58</key>
-    <text xml:space="preserve">ハーピー</text>
+    <original xml:space="preserve">ハーピー</original>
   </message>
   <message>
     <key>ENEMY_NAME_61</key>
-    <text xml:space="preserve">ミストソーサラー</text>
+    <original xml:space="preserve">ミストソーサラー</original>
   </message>
   <message>
     <key>ENEMY_NAME_62</key>
-    <text xml:space="preserve">ミストプリースト</text>
+    <original xml:space="preserve">ミストプリースト</original>
   </message>
   <message>
     <key>ENEMY_NAME_63</key>
-    <text xml:space="preserve">ミストハンター</text>
+    <original xml:space="preserve">ミストハンター</original>
   </message>
   <message>
     <key>ENEMY_NAME_64</key>
-    <text xml:space="preserve">ミストファイター</text>
+    <original xml:space="preserve">ミストファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_67</key>
-    <text xml:space="preserve">ローグファイター</text>
+    <original xml:space="preserve">ローグファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_68</key>
-    <text xml:space="preserve">リーチ</text>
+    <original xml:space="preserve">リーチ</original>
   </message>
   <message>
     <key>ENEMY_NAME_69</key>
-    <text xml:space="preserve">ワーム</text>
+    <original xml:space="preserve">ワーム</original>
   </message>
   <message>
     <key>ENEMY_NAME_70</key>
-    <text xml:space="preserve">サイクロプス</text>
+    <original xml:space="preserve">サイクロプス</original>
   </message>
   <message>
     <key>ENEMY_NAME_71</key>
-    <text xml:space="preserve">モルトロール</text>
+    <original xml:space="preserve">モルトロール</original>
   </message>
   <message>
     <key>ENEMY_NAME_72</key>
-    <text xml:space="preserve">トロール</text>
+    <original xml:space="preserve">トロール</original>
   </message>
   <message>
     <key>ENEMY_NAME_73</key>
-    <text xml:space="preserve">エント</text>
+    <original xml:space="preserve">エント</original>
   </message>
   <message>
     <key>ENEMY_NAME_74</key>
-    <text xml:space="preserve">グランエント</text>
+    <original xml:space="preserve">グランエント</original>
   </message>
   <message>
     <key>ENEMY_NAME_75</key>
-    <text xml:space="preserve">コロッサス</text>
+    <original xml:space="preserve">コロッサス</original>
   </message>
   <message>
     <key>ENEMY_NAME_76</key>
-    <text xml:space="preserve">アーマーサイクロプス</text>
+    <original xml:space="preserve">アーマーサイクロプス</original>
   </message>
   <message>
     <key>ENEMY_NAME_78</key>
-    <text xml:space="preserve">ホワイトキメラ</text>
+    <original xml:space="preserve">ホワイトキメラ</original>
   </message>
   <message>
     <key>ENEMY_NAME_79</key>
-    <text xml:space="preserve">キメラ</text>
+    <original xml:space="preserve">キメラ</original>
   </message>
   <message>
     <key>ENEMY_NAME_83</key>
-    <text xml:space="preserve">ゴーレム</text>
+    <original xml:space="preserve">ゴーレム</original>
   </message>
   <message>
     <key>ENEMY_NAME_84</key>
-    <text xml:space="preserve">グリフィン</text>
+    <original xml:space="preserve">グリフィン</original>
   </message>
   <message>
     <key>ENEMY_NAME_85</key>
-    <text xml:space="preserve">コカトリス</text>
+    <original xml:space="preserve">コカトリス</original>
   </message>
   <message>
     <key>ENEMY_NAME_89</key>
-    <text xml:space="preserve">スフィンクス</text>
+    <original xml:space="preserve">スフィンクス</original>
   </message>
   <message>
     <key>ENEMY_NAME_95</key>
-    <text xml:space="preserve">ブルトエイプ</text>
+    <original xml:space="preserve">ブルトエイプ</original>
   </message>
   <message>
     <key>ENEMY_NAME_96</key>
-    <text xml:space="preserve">グール</text>
+    <original xml:space="preserve">グール</original>
   </message>
   <message>
     <key>ENEMY_NAME_97</key>
-    <text xml:space="preserve">ドレッドエイプ</text>
+    <original xml:space="preserve">ドレッドエイプ</original>
   </message>
   <message>
     <key>ENEMY_NAME_98</key>
-    <text xml:space="preserve">オーガ</text>
+    <original xml:space="preserve">オーガ</original>
   </message>
   <message>
     <key>ENEMY_NAME_100</key>
-    <text xml:space="preserve">ウィッチ</text>
+    <original xml:space="preserve">ウィッチ</original>
   </message>
   <message>
     <key>ENEMY_NAME_101</key>
-    <text xml:space="preserve">ワイト</text>
+    <original xml:space="preserve">ワイト</original>
   </message>
   <message>
     <key>ENEMY_NAME_103</key>
-    <text xml:space="preserve">エルダードラゴン</text>
+    <original xml:space="preserve">エルダードラゴン</original>
   </message>
   <message>
     <key>ENEMY_NAME_104</key>
-    <text xml:space="preserve">白竜</text>
+    <original xml:space="preserve">白竜</original>
   </message>
   <message>
     <key>ENEMY_NAME_106</key>
-    <text xml:space="preserve">ズール</text>
+    <original xml:space="preserve">ズール</original>
   </message>
   <message>
     <key>ENEMY_NAME_107</key>
-    <text xml:space="preserve">カブトグモ</text>
+    <original xml:space="preserve">カブトグモ</original>
   </message>
   <message>
     <key>ENEMY_NAME_108</key>
-    <text xml:space="preserve">ブタ</text>
+    <original xml:space="preserve">ブタ</original>
   </message>
   <message>
     <key>ENEMY_NAME_109</key>
-    <text xml:space="preserve">野ブタ</text>
+    <original xml:space="preserve">野ブタ</original>
   </message>
   <message>
     <key>ENEMY_NAME_110</key>
-    <text xml:space="preserve">オオネズミ</text>
+    <original xml:space="preserve">オオネズミ</original>
   </message>
   <message>
     <key>ENEMY_NAME_111</key>
-    <text xml:space="preserve">牛</text>
+    <original xml:space="preserve">牛</original>
   </message>
   <message>
     <key>ENEMY_NAME_112</key>
-    <text xml:space="preserve">雌ジカ</text>
+    <original xml:space="preserve">雌ジカ</original>
   </message>
   <message>
     <key>ENEMY_NAME_113</key>
-    <text xml:space="preserve">雄ジカ</text>
+    <original xml:space="preserve">雄ジカ</original>
   </message>
   <message>
     <key>ENEMY_NAME_114</key>
-    <text xml:space="preserve">ウサギ</text>
+    <original xml:space="preserve">ウサギ</original>
   </message>
   <message>
     <key>ENEMY_NAME_115</key>
-    <text xml:space="preserve">スカルロード</text>
+    <original xml:space="preserve">スカルロード</original>
   </message>
   <message>
     <key>ENEMY_NAME_116</key>
-    <text xml:space="preserve">ゴブリンアルケミーファイター</text>
+    <original xml:space="preserve">ゴブリンアルケミーファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_119</key>
-    <text xml:space="preserve">ポーンファイター</text>
+    <original xml:space="preserve">ポーンファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_120</key>
-    <text xml:space="preserve">ポーンシーカー</text>
+    <original xml:space="preserve">ポーンシーカー</original>
   </message>
   <message>
     <key>ENEMY_NAME_121</key>
-    <text xml:space="preserve">ポーンハンター</text>
+    <original xml:space="preserve">ポーンハンター</original>
   </message>
   <message>
     <key>ENEMY_NAME_122</key>
-    <text xml:space="preserve">ポーンヒーラー</text>
+    <original xml:space="preserve">ポーンヒーラー</original>
   </message>
   <message>
     <key>ENEMY_NAME_123</key>
-    <text xml:space="preserve">ポーンガーダー</text>
+    <original xml:space="preserve">ポーンガーダー</original>
   </message>
   <message>
     <key>ENEMY_NAME_124</key>
-    <text xml:space="preserve">ポーンメイジ</text>
+    <original xml:space="preserve">ポーンメイジ</original>
   </message>
   <message>
     <key>ENEMY_NAME_126</key>
-    <text xml:space="preserve">ポーンエレメンター</text>
+    <original xml:space="preserve">ポーンエレメンター</original>
   </message>
   <message>
     <key>ENEMY_NAME_128</key>
-    <text xml:space="preserve">フォレストゴブリン</text>
+    <original xml:space="preserve">フォレストゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_129</key>
-    <text xml:space="preserve">フォレストゴブリンファイター</text>
+    <original xml:space="preserve">フォレストゴブリンファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_130</key>
-    <text xml:space="preserve">スリングフォレストゴブリン</text>
+    <original xml:space="preserve">スリングフォレストゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_131</key>
-    <text xml:space="preserve">レッドキャップ</text>
+    <original xml:space="preserve">レッドキャップ</original>
   </message>
   <message>
     <key>ENEMY_NAME_132</key>
-    <text xml:space="preserve">レッドキャップファイター</text>
+    <original xml:space="preserve">レッドキャップファイター</original>
   </message>
   <message>
     <key>ENEMY_NAME_133</key>
-    <text xml:space="preserve">スリングレッドキャップ</text>
+    <original xml:space="preserve">スリングレッドキャップ</original>
   </message>
   <message>
     <key>ENEMY_NAME_134</key>
-    <text xml:space="preserve">ゴブリンアルケミー</text>
+    <original xml:space="preserve">ゴブリンアルケミー</original>
   </message>
   <message>
     <key>ENEMY_NAME_136</key>
-    <text xml:space="preserve">ローグシーカー</text>
+    <original xml:space="preserve">ローグシーカー</original>
   </message>
   <message>
     <key>ENEMY_NAME_137</key>
-    <text xml:space="preserve">ローグハンター</text>
+    <original xml:space="preserve">ローグハンター</original>
   </message>
   <message>
     <key>ENEMY_NAME_138</key>
-    <text xml:space="preserve">ローグヒーラー</text>
+    <original xml:space="preserve">ローグヒーラー</original>
   </message>
   <message>
     <key>ENEMY_NAME_139</key>
-    <text xml:space="preserve">ローグガーダー</text>
+    <original xml:space="preserve">ローグガーダー</original>
   </message>
   <message>
     <key>ENEMY_NAME_140</key>
-    <text xml:space="preserve">ローグメイジ</text>
+    <original xml:space="preserve">ローグメイジ</original>
   </message>
   <message>
     <key>ENEMY_NAME_155</key>
-    <text xml:space="preserve">オークエイマー</text>
+    <original xml:space="preserve">オークエイマー</original>
   </message>
   <message>
     <key>ENEMY_NAME_156</key>
-    <text xml:space="preserve">オークバンガー</text>
+    <original xml:space="preserve">オークバンガー</original>
   </message>
   <message>
     <key>ENEMY_NAME_157</key>
-    <text xml:space="preserve">オークブリンガー</text>
+    <original xml:space="preserve">オークブリンガー</original>
   </message>
   <message>
     <key>ENEMY_NAME_158</key>
-    <text xml:space="preserve">オークトルーパー</text>
+    <original xml:space="preserve">オークトルーパー</original>
   </message>
   <message>
     <key>ENEMY_NAME_159</key>
-    <text xml:space="preserve">キラービー</text>
+    <original xml:space="preserve">キラービー</original>
   </message>
   <message>
     <key>ENEMY_NAME_161</key>
-    <text xml:space="preserve">ゴブリンボマー</text>
+    <original xml:space="preserve">ゴブリンボマー</original>
   </message>
   <message>
     <key>ENEMY_NAME_162</key>
-    <text xml:space="preserve">ゴブリンキング</text>
+    <original xml:space="preserve">ゴブリンキング</original>
   </message>
   <message>
     <key>ENEMY_NAME_168</key>
-    <text xml:space="preserve">ダムドゴブリン</text>
+    <original xml:space="preserve">ダムドゴブリン</original>
   </message>
   <message>
     <key>ENEMY_NAME_169</key>
-    <text xml:space="preserve">スリングゴブリンアルケミー</text>
+    <original xml:space="preserve">スリングゴブリンアルケミー</original>
   </message>
   <message>
     <key>ENEMY_NAME_170</key>
-    <text xml:space="preserve">シルバーロア</text>
+    <original xml:space="preserve">シルバーロア</original>
   </message>
   <message>
     <key>ENEMY_NAME_171</key>
-    <text xml:space="preserve">ロックリザードスピネル</text>
+    <original xml:space="preserve">ロックリザードスピネル</original>
   </message>
   <message>
     <key>ENEMY_NAME_172</key>
-    <text xml:space="preserve">子ブタ</text>
+    <original xml:space="preserve">子ブタ</original>
   </message>
   <message>
     <key>ENEMY_NAME_173</key>
-    <text xml:space="preserve">巨大な謎の肉塊</text>
+    <original xml:space="preserve">巨大な謎の肉塊</original>
   </message>
   <message>
     <key>ENEMY_NAME_174</key>
-    <text xml:space="preserve">謎の肉塊</text>
+    <original xml:space="preserve">謎の肉塊</original>
   </message>
   <message>
     <key>ENEMY_NAME_179</key>
-    <text xml:space="preserve">？？？</text>
+    <original xml:space="preserve">？？？</original>
   </message>
 </resource>

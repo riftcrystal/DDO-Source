@@ -1,10 +1,10 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_200_410</key>
-    <text xml:space="preserve">7</text>
+    <original xml:space="preserve">7</original>
   </message>
   <message>
     <key>SAME_LETTER_200_411</key>
-    <text xml:space="preserve">７</text>
+    <original xml:space="preserve">７</original>
   </message>
 </resource>

@@ -1,10 +1,10 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PlatformWord_Controller</key>
-    <text xml:space="preserve">コントローラー</text>
+    <original xml:space="preserve">コントローラー</original>
   </message>
   <message>
     <key>PlatformWord_PlatformName</key>
-    <text xml:space="preserve">PC</text>
+    <original xml:space="preserve">PC</original>
   </message>
 </resource>

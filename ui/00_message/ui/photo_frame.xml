@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>photo_frame_6142</key>
-    <text xml:space="preserve">なし</text>
+    <original xml:space="preserve">なし</original>
   </message>
   <message>
     <key>photo_frame_6143</key>
-    <text xml:space="preserve">ロゴフレーム</text>
+    <original xml:space="preserve">ロゴフレーム</original>
   </message>
   <message>
     <key>photo_frame_6144</key>
-    <text xml:space="preserve">ハートフレーム</text>
+    <original xml:space="preserve">ハートフレーム</original>
   </message>
   <message>
     <key>photo_frame_6145</key>
-    <text xml:space="preserve">集中線フレーム</text>
+    <original xml:space="preserve">集中線フレーム</original>
   </message>
   <message>
     <key>photo_frame_6146</key>
-    <text xml:space="preserve">きらきらフレーム</text>
+    <original xml:space="preserve">きらきらフレーム</original>
   </message>
   <message>
     <key>photo_frame_6147</key>
-    <text xml:space="preserve">ニュースフレーム</text>
+    <original xml:space="preserve">ニュースフレーム</original>
   </message>
   <message>
     <key>photo_frame_6148</key>
-    <text xml:space="preserve">ショックフレーム</text>
+    <original xml:space="preserve">ショックフレーム</original>
   </message>
   <message>
     <key>photo_frame_6149</key>
-    <text xml:space="preserve">フレイムフレーム</text>
+    <original xml:space="preserve">フレイムフレーム</original>
   </message>
   <message>
     <key>photo_frame_6150</key>
-    <text xml:space="preserve">シネマティックフレーム</text>
+    <original xml:space="preserve">シネマティックフレーム</original>
   </message>
   <message>
     <key>photo_frame_6151</key>
-    <text xml:space="preserve">フラワーフレーム</text>
+    <original xml:space="preserve">フラワーフレーム</original>
   </message>
   <message>
     <key>photo_frame_9370</key>
-    <text xml:space="preserve">バウンティフレーム</text>
+    <original xml:space="preserve">バウンティフレーム</original>
   </message>
 </resource>

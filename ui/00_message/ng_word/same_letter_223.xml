@@ -1,30 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_223_465</key>
-    <text xml:space="preserve">Y</text>
+    <original xml:space="preserve">Y</original>
   </message>
   <message>
     <key>SAME_LETTER_223_466</key>
-    <text xml:space="preserve">y</text>
+    <original xml:space="preserve">y</original>
   </message>
   <message>
     <key>SAME_LETTER_223_467</key>
-    <text xml:space="preserve">Ｙ</text>
+    <original xml:space="preserve">Ｙ</original>
   </message>
   <message>
     <key>SAME_LETTER_223_468</key>
-    <text xml:space="preserve">ｙ</text>
+    <original xml:space="preserve">ｙ</original>
   </message>
   <message>
     <key>SAME_LETTER_223_469</key>
-    <text xml:space="preserve">Υ</text>
+    <original xml:space="preserve">Υ</original>
   </message>
   <message>
     <key>SAME_LETTER_223_470</key>
-    <text xml:space="preserve">У</text>
+    <original xml:space="preserve">У</original>
   </message>
   <message>
     <key>SAME_LETTER_223_471</key>
-    <text xml:space="preserve">у</text>
+    <original xml:space="preserve">у</original>
   </message>
 </resource>

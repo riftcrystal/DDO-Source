@@ -1,69 +1,69 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000003_00_29</key>
-    <text xml:space="preserve">助手の助手</text>
+    <original xml:space="preserve">助手の助手</original>
   </message>
   <message>
     <key>q20000003_00_29</key>
-    <text xml:space="preserve">クラウスの依頼を聞き
-神殿各所に営業許可証を届ける</text>
+    <original xml:space="preserve">クラウスの依頼を聞き
+神殿各所に営業許可証を届ける</original>
   </message>
   <message>
     <key>q20000003_00_29</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;には今
-覚者の助けを欲する者がいるらしい</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20000003_00_29</key>
-    <text xml:space="preserve">いつも何か上の空な印象のあるクラウス殿だが
+    <original xml:space="preserve">いつも何か上の空な印象のあるクラウス殿だが
 さきほどお見かけしたときは少々真剣な表情を
 しておられた
 ご自身の研究のことで考え事でもされていたのか
 あるいは急ぎの用事でも思い出されたのか――
-ふむ、お声をかけておくべきだったかな</text>
+ふむ、お声をかけておくべきだったかな</original>
   </message>
   <message>
     <key>q20000003_00_811</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り８）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り８）</original>
   </message>
   <message>
     <key>q20000003_00_1069</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り７）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り７）</original>
   </message>
   <message>
     <key>q20000003_00_1070</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り６）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り６）</original>
   </message>
   <message>
     <key>q20000003_00_1071</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り５）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り５）</original>
   </message>
   <message>
     <key>q20000003_00_1072</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り４）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り４）</original>
   </message>
   <message>
     <key>q20000003_00_1073</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り３）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り３）</original>
   </message>
   <message>
     <key>q20000003_00_1074</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り２）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り２）</original>
   </message>
   <message>
     <key>q20000003_00_1075</key>
-    <text xml:space="preserve">神殿内の商人に営業許可証を渡す（残り１）</text>
+    <original xml:space="preserve">神殿内の商人に営業許可証を渡す（残り１）</original>
   </message>
   <message>
     <key>q20000003_00_896</key>
-    <text xml:space="preserve">クラウスに報告する</text>
+    <original xml:space="preserve">クラウスに報告する</original>
   </message>
   <message>
     <key>q20000003_00_1131</key>
-    <text xml:space="preserve">グリッテン砦のタルコットに許可証を渡す</text>
+    <original xml:space="preserve">グリッテン砦のタルコットに許可証を渡す</original>
   </message>
   <message>
     <key>q20000003_00_896</key>
-    <text xml:space="preserve">クラウスに報告する</text>
+    <original xml:space="preserve">クラウスに報告する</original>
   </message>
 </resource>

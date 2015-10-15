@@ -1,26 +1,26 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_216_416</key>
-    <text xml:space="preserve">N</text>
+    <original xml:space="preserve">N</original>
   </message>
   <message>
     <key>SAME_LETTER_216_417</key>
-    <text xml:space="preserve">n</text>
+    <original xml:space="preserve">n</original>
   </message>
   <message>
     <key>SAME_LETTER_216_419</key>
-    <text xml:space="preserve">Ｎ</text>
+    <original xml:space="preserve">Ｎ</original>
   </message>
   <message>
     <key>SAME_LETTER_216_420</key>
-    <text xml:space="preserve">ｎ</text>
+    <original xml:space="preserve">ｎ</original>
   </message>
   <message>
     <key>SAME_LETTER_216_423</key>
-    <text xml:space="preserve">Ν</text>
+    <original xml:space="preserve">Ν</original>
   </message>
   <message>
     <key>SAME_LETTER_216_424</key>
-    <text xml:space="preserve">η</text>
+    <original xml:space="preserve">η</original>
   </message>
 </resource>

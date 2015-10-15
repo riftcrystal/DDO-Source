@@ -1,32 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">あぁ？　何か言いてぇことでも？</text>
+    <original xml:space="preserve">あぁ？　何か言いてぇことでも？</original>
   </message>
   <message>
-    <text xml:space="preserve">しみったれた村だよなぁ、ったく！
+    <original xml:space="preserve">しみったれた村だよなぁ、ったく！
 エンポリオやゴートのオッサンくらいしか
-飲み相手もいねぇしよ！</text>
+飲み相手もいねぇしよ！</original>
   </message>
   <message>
-    <text xml:space="preserve">キャプテンオーク共の角飾りよ
+    <original xml:space="preserve">キャプテンオーク共の角飾りよ
 あれ、あいつらが作りやがったんかな？
-売りゃそこそこ金になりそうだよな</text>
+売りゃそこそこ金になりそうだよな</original>
   </message>
   <message>
-    <text xml:space="preserve">遠出するのも面倒臭ぇが、いっぺん
-キノザや神殿にゃ行ってみてぇな</text>
+    <original xml:space="preserve">遠出するのも面倒臭ぇが、いっぺん
+キノザや神殿にゃ行ってみてぇな</original>
   </message>
   <message>
-    <text xml:space="preserve">おお、そういやぁよ
+    <original xml:space="preserve">おお、そういやぁよ
 砦前のあそこ――なんつったっけ
-《千本砦の陣》だっけ？</text>
+《千本砦の陣》だっけ？</original>
   </message>
   <message>
-    <text xml:space="preserve">あそこにオークの隊長格が
-部隊をぞろぞろ連れてることがあんだよ</text>
+    <original xml:space="preserve">あそこにオークの隊長格が
+部隊をぞろぞろ連れてることがあんだよ</original>
   </message>
   <message>
-    <text xml:space="preserve">きっとありゃあ、南の砦攻めの準備部隊だぜ
-おかげでこの村は無視してくれるがな</text>
+    <original xml:space="preserve">きっとありゃあ、南の砦攻めの準備部隊だぜ
+おかげでこの村は無視してくれるがな</original>
   </message>
 </resource>

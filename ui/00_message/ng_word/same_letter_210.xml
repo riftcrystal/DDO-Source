@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_210_364</key>
-    <text xml:space="preserve">G</text>
+    <original xml:space="preserve">G</original>
   </message>
   <message>
     <key>SAME_LETTER_210_365</key>
-    <text xml:space="preserve">g</text>
+    <original xml:space="preserve">g</original>
   </message>
   <message>
     <key>SAME_LETTER_210_366</key>
-    <text xml:space="preserve">Ｇ</text>
+    <original xml:space="preserve">Ｇ</original>
   </message>
   <message>
     <key>SAME_LETTER_210_367</key>
-    <text xml:space="preserve">ｇ</text>
+    <original xml:space="preserve">ｇ</original>
   </message>
 </resource>

@@ -1,34 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>mai_msg_title_e</key>
-    <text xml:space="preserve">Area Rank</text>
+    <original xml:space="preserve">Area Rank</original>
   </message>
   <message>
     <key>mai_msg_nodeta</key>
-    <text xml:space="preserve">データがありません</text>
+    <original xml:space="preserve">データがありません</original>
   </message>
   <message>
     <key>mai_msg_title_j</key>
-    <text xml:space="preserve">エリアランク</text>
+    <original xml:space="preserve">エリアランク</original>
   </message>
   <message>
     <key>mai_msg_category_area</key>
-    <text xml:space="preserve">エリア</text>
+    <original xml:space="preserve">エリア</original>
   </message>
   <message>
     <key>mai_msg_category_rank</key>
-    <text xml:space="preserve">ランク</text>
+    <original xml:space="preserve">ランク</original>
   </message>
   <message>
     <key>mai_msg_next</key>
-    <text xml:space="preserve">次のランクアップまで</text>
+    <original xml:space="preserve">次のランクアップまで</original>
   </message>
   <message>
     <key>mai_msg_weekly</key>
-    <text xml:space="preserve">今週の獲得ポイント</text>
+    <original xml:space="preserve">今週の獲得ポイント</original>
   </message>
   <message>
     <key>mai_msg_rank</key>
-    <text xml:space="preserve">Rank</text>
+    <original xml:space="preserve">Rank</original>
   </message>
 </resource>

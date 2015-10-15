@@ -1,50 +1,50 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_132_143</key>
-    <text xml:space="preserve">ﾃﾞ</text>
+    <original xml:space="preserve">ﾃﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_144</key>
-    <text xml:space="preserve">ﾃ゛</text>
+    <original xml:space="preserve">ﾃ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_132_145</key>
-    <text xml:space="preserve">〒ﾞ</text>
+    <original xml:space="preserve">〒ﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_146</key>
-    <text xml:space="preserve">〒゛</text>
+    <original xml:space="preserve">〒゛</original>
   </message>
   <message>
     <key>SAME_LETTER_132_147</key>
-    <text xml:space="preserve">てﾞ</text>
+    <original xml:space="preserve">てﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_148</key>
-    <text xml:space="preserve">て゛</text>
+    <original xml:space="preserve">て゛</original>
   </message>
   <message>
     <key>SAME_LETTER_132_149</key>
-    <text xml:space="preserve">で</text>
+    <original xml:space="preserve">で</original>
   </message>
   <message>
     <key>SAME_LETTER_132_150</key>
-    <text xml:space="preserve">テﾞ</text>
+    <original xml:space="preserve">テﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_151</key>
-    <text xml:space="preserve">テ゛</text>
+    <original xml:space="preserve">テ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_132_152</key>
-    <text xml:space="preserve">デ</text>
+    <original xml:space="preserve">デ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_153</key>
-    <text xml:space="preserve">乙ﾞ</text>
+    <original xml:space="preserve">乙ﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_132_154</key>
-    <text xml:space="preserve">乙゛</text>
+    <original xml:space="preserve">乙゛</original>
   </message>
 </resource>

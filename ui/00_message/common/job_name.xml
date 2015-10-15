@@ -1,34 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JOB_NAME_0</key>
-    <text xml:space="preserve">指定なし</text>
+    <original xml:space="preserve">指定なし</original>
   </message>
   <message>
     <key>JOB_NAME_1</key>
-    <text xml:space="preserve">ファイター</text>
+    <original xml:space="preserve">ファイター</original>
   </message>
   <message>
     <key>JOB_NAME_2</key>
-    <text xml:space="preserve">シーカー</text>
+    <original xml:space="preserve">シーカー</original>
   </message>
   <message>
     <key>JOB_NAME_3</key>
-    <text xml:space="preserve">ハンター</text>
+    <original xml:space="preserve">ハンター</original>
   </message>
   <message>
     <key>JOB_NAME_4</key>
-    <text xml:space="preserve">プリースト</text>
+    <original xml:space="preserve">プリースト</original>
   </message>
   <message>
     <key>JOB_NAME_5</key>
-    <text xml:space="preserve">シールドセージ</text>
+    <original xml:space="preserve">シールドセージ</original>
   </message>
   <message>
     <key>JOB_NAME_6</key>
-    <text xml:space="preserve">ソーサラー</text>
+    <original xml:space="preserve">ソーサラー</original>
   </message>
   <message>
     <key>JOB_NAME_8</key>
-    <text xml:space="preserve">エレメントアーチャー</text>
+    <original xml:space="preserve">エレメントアーチャー</original>
   </message>
 </resource>

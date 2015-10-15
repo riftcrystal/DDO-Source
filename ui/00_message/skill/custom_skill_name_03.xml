@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_03_32</key>
-    <text xml:space="preserve">連なり射ち</text>
+    <original xml:space="preserve">連なり射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_37</key>
-    <text xml:space="preserve">貫き射ち</text>
+    <original xml:space="preserve">貫き射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_33</key>
-    <text xml:space="preserve">扇射ち</text>
+    <original xml:space="preserve">扇射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_34</key>
-    <text xml:space="preserve">仕込み爆音矢</text>
+    <original xml:space="preserve">仕込み爆音矢</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_36</key>
-    <text xml:space="preserve">降らし射ち</text>
+    <original xml:space="preserve">降らし射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_38</key>
-    <text xml:space="preserve">渦巻き射ち</text>
+    <original xml:space="preserve">渦巻き射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_39</key>
-    <text xml:space="preserve">紅蓮爆矢</text>
+    <original xml:space="preserve">紅蓮爆矢</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_35</key>
-    <text xml:space="preserve">剛力射ち</text>
+    <original xml:space="preserve">剛力射ち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_42</key>
-    <text xml:space="preserve">逆縮地</text>
+    <original xml:space="preserve">逆縮地</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_03_40</key>
-    <text xml:space="preserve">降らし爆炎矢</text>
+    <original xml:space="preserve">降らし爆炎矢</original>
   </message>
 </resource>

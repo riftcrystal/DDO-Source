@@ -1,24 +1,24 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60080002_00_68</key>
-    <text xml:space="preserve">バートランド平原　試練：オーク隊追撃任務</text>
+    <original xml:space="preserve">バートランド平原　試練：オーク隊追撃任務</original>
   </message>
   <message>
     <key>q60080002_00_68</key>
-    <text xml:space="preserve">バートランド平原の問題解決のため
+    <original xml:space="preserve">バートランド平原の問題解決のため
 戦鬼の影穴を探し当て、部隊の指揮官
-戦鬼ゲソムを討伐する</text>
+戦鬼ゲソムを討伐する</original>
   </message>
   <message>
     <key>q60080002_00_1427</key>
-    <text xml:space="preserve">戦鬼の影穴を探し戦鬼ゲソムを発見する</text>
+    <original xml:space="preserve">戦鬼の影穴を探し戦鬼ゲソムを発見する</original>
   </message>
   <message>
     <key>q60080002_00_1428</key>
-    <text xml:space="preserve">脅威となる敵を掃討する</text>
+    <original xml:space="preserve">脅威となる敵を掃討する</original>
   </message>
   <message>
     <key>q60080002_00_1429</key>
-    <text xml:space="preserve">グリッテン砦のスケルツォに報告する</text>
+    <original xml:space="preserve">グリッテン砦のスケルツォに報告する</original>
   </message>
 </resource>

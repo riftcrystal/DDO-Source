@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_245_568</key>
-    <text xml:space="preserve">ﾀ</text>
+    <original xml:space="preserve">ﾀ</original>
   </message>
   <message>
     <key>SAME_LETTER_245_569</key>
-    <text xml:space="preserve">た</text>
+    <original xml:space="preserve">た</original>
   </message>
   <message>
     <key>SAME_LETTER_245_570</key>
-    <text xml:space="preserve">タ</text>
+    <original xml:space="preserve">タ</original>
   </message>
   <message>
     <key>SAME_LETTER_245_571</key>
-    <text xml:space="preserve">夕</text>
+    <original xml:space="preserve">夕</original>
   </message>
 </resource>

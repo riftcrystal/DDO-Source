@@ -1,58 +1,58 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>popp_mokuteki_1</key>
-    <text xml:space="preserve">冒険目的</text>
+    <original xml:space="preserve">冒険目的</original>
   </message>
   <message>
     <key>popp_mokuteki_2</key>
-    <text xml:space="preserve">活動場所</text>
+    <original xml:space="preserve">活動場所</original>
   </message>
   <message>
     <key>popp_playstyle</key>
-    <text xml:space="preserve">プレイスタイル</text>
+    <original xml:space="preserve">プレイスタイル</original>
   </message>
   <message>
     <key>popp_comment</key>
-    <text xml:space="preserve">コメント</text>
+    <original xml:space="preserve">コメント</original>
   </message>
   <message>
     <key>popp_party</key>
-    <text xml:space="preserve">パーティー参加</text>
+    <original xml:space="preserve">パーティー参加</original>
   </message>
   <message>
     <key>popp_maching_profile_en</key>
-    <text xml:space="preserve">Matching Profile</text>
+    <original xml:space="preserve">Matching Profile</original>
   </message>
   <message>
     <key>popp_maching_profile_jp</key>
-    <text xml:space="preserve">マッチングプロフィール</text>
+    <original xml:space="preserve">マッチングプロフィール</original>
   </message>
   <message>
     <key>popp_decide</key>
-    <text xml:space="preserve">決定</text>
+    <original xml:space="preserve">決定</original>
   </message>
   <message>
     <key>popp_cancel</key>
-    <text xml:space="preserve">キャンセル</text>
+    <original xml:space="preserve">キャンセル</original>
   </message>
   <message>
     <key>popp_pt_ok</key>
-    <text xml:space="preserve">受ける</text>
+    <original xml:space="preserve">受ける</original>
   </message>
   <message>
     <key>popp_pt_ng</key>
-    <text xml:space="preserve">受けない</text>
+    <original xml:space="preserve">受けない</original>
   </message>
   <message>
     <key>popp_main_purpose</key>
-    <text xml:space="preserve">冒険目的</text>
+    <original xml:space="preserve">冒険目的</original>
   </message>
   <message>
     <key>popp_sub_purpose</key>
-    <text xml:space="preserve">活動場所</text>
+    <original xml:space="preserve">活動場所</original>
   </message>
   <message>
     <key>popp_job</key>
-    <text xml:space="preserve">遊びたいジョブ</text>
+    <original xml:space="preserve">遊びたいジョブ</original>
   </message>
 </resource>

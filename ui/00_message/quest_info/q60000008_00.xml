@@ -1,51 +1,51 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000008_00_25</key>
-    <text xml:space="preserve">魔攻の証　ソーサラー戦術試練</text>
+    <original xml:space="preserve">魔攻の証　ソーサラー戦術試練</original>
   </message>
   <message>
     <key>q60000008_00_25</key>
-    <text xml:space="preserve">ソーサラーの基本戦術を学ぶため
-修練の祠にて試練に挑む</text>
+    <original xml:space="preserve">ソーサラーの基本戦術を学ぶため
+修練の祠にて試練に挑む</original>
   </message>
   <message>
     <key>q60000008_00_1102</key>
-    <text xml:space="preserve">修練の祠内のウィルソンと話す</text>
+    <original xml:space="preserve">修練の祠内のウィルソンと話す</original>
   </message>
   <message>
     <key>q60000008_00_1160</key>
-    <text xml:space="preserve">敵にマジックボールを3回当てよ</text>
+    <original xml:space="preserve">敵にマジックボールを3回当てよ</original>
   </message>
   <message>
     <key>q60000008_00_1161</key>
-    <text xml:space="preserve">敵にマジックトラップを3回成功せよ</text>
+    <original xml:space="preserve">敵にマジックトラップを3回成功せよ</original>
   </message>
   <message>
     <key>q60000008_00_1255</key>
-    <text xml:space="preserve">詠唱完了状態で移動せよ</text>
+    <original xml:space="preserve">詠唱完了状態で移動せよ</original>
   </message>
   <message>
     <key>q60000008_00_1254</key>
-    <text xml:space="preserve">魔法を詠唱しロックオフ状態で魔法を放て</text>
+    <original xml:space="preserve">魔法を詠唱しロックオフ状態で魔法を放て</original>
   </message>
   <message>
     <key>q60000008_00_1278</key>
-    <text xml:space="preserve">スペリングで魔法威力を上昇させよ</text>
+    <original xml:space="preserve">スペリングで魔法威力を上昇させよ</original>
   </message>
   <message>
     <key>q60000008_00_1103</key>
-    <text xml:space="preserve">最奥の敵にしがみつきマジッククラッカーで攻撃せよ</text>
+    <original xml:space="preserve">最奥の敵にしがみつきマジッククラッカーで攻撃せよ</original>
   </message>
   <message>
     <key>q60000008_00_1162</key>
-    <text xml:space="preserve">サイクロプスを倒せ</text>
+    <original xml:space="preserve">サイクロプスを倒せ</original>
   </message>
   <message>
     <key>q60000008_00_1163</key>
-    <text xml:space="preserve">最奥にある＜魔攻の証＞を入手する</text>
+    <original xml:space="preserve">最奥にある＜魔攻の証＞を入手する</original>
   </message>
   <message>
     <key>q60000008_00_1104</key>
-    <text xml:space="preserve">白竜神殿のレンテンに経緯を報告する</text>
+    <original xml:space="preserve">白竜神殿のレンテンに経緯を報告する</original>
   </message>
 </resource>

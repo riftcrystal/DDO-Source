@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_212_375</key>
-    <text xml:space="preserve">J</text>
+    <original xml:space="preserve">J</original>
   </message>
   <message>
     <key>SAME_LETTER_212_376</key>
-    <text xml:space="preserve">j</text>
+    <original xml:space="preserve">j</original>
   </message>
   <message>
     <key>SAME_LETTER_212_377</key>
-    <text xml:space="preserve">Ｊ</text>
+    <original xml:space="preserve">Ｊ</original>
   </message>
   <message>
     <key>SAME_LETTER_212_378</key>
-    <text xml:space="preserve">ｊ</text>
+    <original xml:space="preserve">ｊ</original>
   </message>
 </resource>

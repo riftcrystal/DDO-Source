@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_235_535</key>
-    <text xml:space="preserve">ｶ</text>
+    <original xml:space="preserve">ｶ</original>
   </message>
   <message>
     <key>SAME_LETTER_235_536</key>
-    <text xml:space="preserve">か</text>
+    <original xml:space="preserve">か</original>
   </message>
   <message>
     <key>SAME_LETTER_235_537</key>
-    <text xml:space="preserve">カ</text>
+    <original xml:space="preserve">カ</original>
   </message>
   <message>
     <key>SAME_LETTER_235_538</key>
-    <text xml:space="preserve">ヵ</text>
+    <original xml:space="preserve">ヵ</original>
   </message>
   <message>
     <key>SAME_LETTER_235_539</key>
-    <text xml:space="preserve">力</text>
+    <original xml:space="preserve">力</original>
   </message>
 </resource>

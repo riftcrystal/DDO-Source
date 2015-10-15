@@ -1,954 +1,954 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>syslog_battle_danger_tg</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が行動不能になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が行動不能になりました</original>
   </message>
   <message>
     <key>syslog_battle_danger</key>
-    <text xml:space="preserve">&lt;VAL&gt; 秒で最後に立ち寄った拠点から再開されます</text>
+    <original xml:space="preserve">&lt;VAL&gt; 秒で最後に立ち寄った拠点から再開されます</original>
   </message>
   <message>
     <key>syslog_battle_die</key>
-    <text xml:space="preserve">あと&lt;VAL&gt;秒で最後に立ち寄った拠点から再開されます</text>
+    <original xml:space="preserve">あと&lt;VAL&gt;秒で最後に立ち寄った拠点から再開されます</original>
   </message>
   <message>
     <key>syslog_tail_on</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;に追従オートランしました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;に追従オートランしました</original>
   </message>
   <message>
     <key>syslog_tail_off</key>
-    <text xml:space="preserve">追従オートランが解除されました</text>
+    <original xml:space="preserve">追従オートランが解除されました</original>
   </message>
   <message>
     <key>syslog_archieve_get</key>
-    <text xml:space="preserve">アチーブメント「&lt;NAME ACHIEVE&gt;」を獲得しました</text>
+    <original xml:space="preserve">アチーブメント「&lt;NAME ACHIEVE&gt;」を獲得しました</original>
   </message>
   <message>
     <key>syslog_error_tell</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;にメッセージが送れませんでした</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;にメッセージが送れませんでした</original>
   </message>
   <message>
     <key>syslog_error_clan</key>
-    <text xml:space="preserve">クランに加入していません</text>
+    <original xml:space="preserve">クランに加入していません</original>
   </message>
   <message>
     <key>syslog_error_entryb</key>
-    <text xml:space="preserve">エントリーボードに登録していません</text>
+    <original xml:space="preserve">エントリーボードに登録していません</original>
   </message>
   <message>
     <key>syslog_error_party_member_0</key>
-    <text xml:space="preserve">パーティーメンバーがいません</text>
+    <original xml:space="preserve">パーティーメンバーがいません</original>
   </message>
   <message>
     <key>syslog_friend_request</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;にフレンド申請をしました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;にフレンド申請をしました</original>
   </message>
   <message>
     <key>syslog_friend_requested</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;からフレンド申請されました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からフレンド申請されました</original>
   </message>
   <message>
     <key>syslog_friend_ok</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;とフレンドになりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;とフレンドになりました</original>
   </message>
   <message>
     <key>syslog_friend_cancel_by_decline</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のフレンド申請を断りました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;のフレンド申請を断りました</original>
   </message>
   <message>
     <key>syslog_party_request</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;にパーティー要請しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;にパーティー要請しました</original>
   </message>
   <message>
     <key>syslog_party_requested</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;にパーティー要請されました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;にパーティー要請されました</original>
   </message>
   <message>
     <key>syslog_party_decline</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のパーティー要請を拒否しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;のパーティー要請を拒否しました</original>
   </message>
   <message>
     <key>syslog_party_declined</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;へのパーティー要請がキャンセルされました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;へのパーティー要請がキャンセルされました</original>
   </message>
   <message>
     <key>syslog_party_takeback</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;からのパーティー要請が取り消されました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からのパーティー要請が取り消されました</original>
   </message>
   <message>
     <key>syslog_party_join_me</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のパーティーに加わりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;のパーティーに加わりました</original>
   </message>
   <message>
     <key>syslog_party_join_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がパーティーに加わりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がパーティーに加わりました</original>
   </message>
   <message>
     <key>syslog_party_join_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;がパーティーに加わりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;がパーティーに加わりました</original>
   </message>
   <message>
     <key>syslog_party_leave_me</key>
-    <text xml:space="preserve">パーティーから抜けました</text>
+    <original xml:space="preserve">パーティーから抜けました</original>
   </message>
   <message>
     <key>syslog_party_leave_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がパーティーから抜けました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がパーティーから抜けました</original>
   </message>
   <message>
     <key>syslog_party_leave_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;がパーティーから抜けました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;がパーティーから抜けました</original>
   </message>
   <message>
     <key>syslog_status_down_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt;が行動不能になりました</text>
+    <original xml:space="preserve">&lt;NAME PLAYER&gt;が行動不能になりました</original>
   </message>
   <message>
     <key>syslog_status_down_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が行動不能になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が行動不能になりました</original>
   </message>
   <message>
     <key>syslog_status_down_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が行動不能になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が行動不能になりました</original>
   </message>
   <message>
     <key>syslog_status_die_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt;が死亡状態になりました</text>
+    <original xml:space="preserve">&lt;NAME PLAYER&gt;が死亡状態になりました</original>
   </message>
   <message>
     <key>syslog_status_die_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が死亡状態になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が死亡状態になりました</original>
   </message>
   <message>
     <key>syslog_status_die_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が死亡状態になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が死亡状態になりました</original>
   </message>
   <message>
     <key>syslog_status_resurrection_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt;が復活しました</text>
+    <original xml:space="preserve">&lt;NAME PLAYER&gt;が復活しました</original>
   </message>
   <message>
     <key>syslog_status_resurrection_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が復活しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が復活しました</original>
   </message>
   <message>
     <key>syslog_status_resurrection_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が復活しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が復活しました</original>
   </message>
   <message>
     <key>syslog_favorite_login</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がログインしました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がログインしました</original>
   </message>
   <message>
     <key>syslog_pawn_rescue_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;を救出してください</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;を救出してください</original>
   </message>
   <message>
     <key>syslog_pawn_rescue_faild</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に失敗しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の救出に失敗しました</original>
   </message>
   <message>
     <key>syslog_pawn_rescue_success</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に成功しました。奥に進みポーンを解放しましょう</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の救出に成功しました。奥に進みポーンを解放しましょう</original>
   </message>
   <message>
     <key>syslog_pawn_rescue_resurrection</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が復活して待機状態に戻り、再呼び出し可能になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が復活して待機状態に戻り、再呼び出し可能になりました</original>
   </message>
   <message>
     <key>syslog_quest_accept_solo</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を受注しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を受注しました</original>
   </message>
   <message>
     <key>syslog_quest_accept_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME QUEST&gt;を受注しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME QUEST&gt;を受注しました</original>
   </message>
   <message>
     <key>syslog_quest_discover_solo</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を発見しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を発見しました</original>
   </message>
   <message>
     <key>syslog_quest_discover_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME QUEST&gt;を発見しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME QUEST&gt;を発見しました</original>
   </message>
   <message>
     <key>syslog_quest_clear</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;をクリアしました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;をクリアしました</original>
   </message>
   <message>
     <key>syslog_quest_assist</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;のクリアをアシストしました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;のクリアをアシストしました</original>
   </message>
   <message>
     <key>syslog_quest_happen</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;に異常事態が発生しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;に異常事態が発生しました</original>
   </message>
   <message>
     <key>syslog_quest_dog_solo</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</original>
   </message>
   <message>
     <key>syslog_quest_dog_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;NAME ITEM&gt;×&lt;VAL&gt;を納品しました</original>
   </message>
   <message>
     <key>syslog_quest_dog_clear</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;の納品が完了しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;の納品が完了しました</original>
   </message>
   <message>
     <key>syslog_quest_order_wait</key>
-    <text xml:space="preserve">パーティーリーダーが&lt;NAME QUEST&gt;を受注待ちです</text>
+    <original xml:space="preserve">パーティーリーダーが&lt;NAME QUEST&gt;を受注待ちです</original>
   </message>
   <message>
     <key>syslog_quest_order</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞が受注待ちになりました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞が受注待ちになりました</original>
   </message>
   <message>
     <key>syslog_quest_discontinue</key>
-    <text xml:space="preserve">進行不可能になったクエストがあります</text>
+    <original xml:space="preserve">進行不可能になったクエストがあります</original>
   </message>
   <message>
     <key>syslog_reward_box_limit_notion</key>
-    <text xml:space="preserve">報酬ボックスの容量が少なくなっています
-古い報酬を失う可能性があります</text>
+    <original xml:space="preserve">報酬ボックスの容量が少なくなっています
+古い報酬を失う可能性があります</original>
   </message>
   <message>
     <key>syslog_quest_update</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的用テキスト≫</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的用テキスト≫</original>
   </message>
   <message>
     <key>syslog_quest_dialog</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;：≪汎用アナウンス用テキスト≫</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;：≪汎用アナウンス用テキスト≫</original>
   </message>
   <message>
     <key>syslog_quest_partyquest_set</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストに設定されました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストに設定されました</original>
   </message>
   <message>
     <key>syslog_quest_partyquest_unset</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストから外されました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;がパーティークエストから外されました</original>
   </message>
   <message>
     <key>syslog_quest_ready_start</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がイベント準備・パーティー招集を行いました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がイベント準備・パーティー招集を行いました</original>
   </message>
   <message>
     <key>syslog_quest_ready_ready</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が進行準備完了になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が進行準備完了になりました</original>
   </message>
   <message>
     <key>syslog_quest_meinquest_enable</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;が受注可能になりました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;が受注可能になりました</original>
   </message>
   <message>
     <key>syslog_quest_stopedquest_enable</key>
-    <text xml:space="preserve">進行不能が解除されたクエストがあります</text>
+    <original xml:space="preserve">進行不能が解除されたクエストがあります</original>
   </message>
   <message>
     <key>syslog_quest_cancel</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を破棄しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を破棄しました</original>
   </message>
   <message>
     <key>syslog_quest_accept_max</key>
-    <text xml:space="preserve">クエスト受注数が最大になりました</text>
+    <original xml:space="preserve">クエスト受注数が最大になりました</original>
   </message>
   <message>
     <key>syslog_areamaster_ap_get</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
-&lt;VAL AP&gt;を獲得しました</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
+&lt;VAL AP&gt;を獲得しました</original>
   </message>
   <message>
     <key>syslog_areamaster_rankup_ready</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;のエリアランクアップが
-可能になりました</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;のエリアランクアップが
+可能になりました</original>
   </message>
   <message>
     <key>syslog_areamaster_spot_open</key>
-    <text xml:space="preserve">&lt;NAME SPOT&gt;が解放されました</text>
+    <original xml:space="preserve">&lt;NAME SPOT&gt;が解放されました</original>
   </message>
   <message>
     <key>syslog_jobmaster_job_get</key>
-    <text xml:space="preserve">新ジョブ「&lt;NAME JOB&gt;」への転職が可能になりました</text>
+    <original xml:space="preserve">新ジョブ「&lt;NAME JOB&gt;」への転職が可能になりました</original>
   </message>
   <message>
     <key>syslog_jobmaster_skill_get</key>
-    <text xml:space="preserve">「&lt;NAME SKILL&gt; &lt;VAL LV&gt;」へのレベルアップが可能になりました</text>
+    <original xml:space="preserve">「&lt;NAME SKILL&gt; &lt;VAL LV&gt;」へのレベルアップが可能になりました</original>
   </message>
   <message>
     <key>syslog_jobmaster_order_clear</key>
-    <text xml:space="preserve">ジョブ修練ログ「&lt;VAL&gt;」の課題を達成しました
-ジョブマスターに報告してください</text>
+    <original xml:space="preserve">ジョブ修練ログ「&lt;VAL&gt;」の課題を達成しました
+ジョブマスターに報告してください</original>
   </message>
   <message>
     <key>syslog_entryboard_creat</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;のエントリーボードを作成しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;のエントリーボードを作成しました</original>
   </message>
   <message>
     <key>syslog_entryboard_entry</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;にエントリーしました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;にエントリーしました</original>
   </message>
   <message>
     <key>syslog_entryboard_cancel</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;のエントリーを取り消しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;のエントリーを取り消しました</original>
   </message>
   <message>
     <key>syslog_content_start</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を開始しました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を開始しました</original>
   </message>
   <message>
     <key>syslog_content_update</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的テキスト≫</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;：≪小目的テキスト≫</original>
   </message>
   <message>
     <key>syslog_content_enemy_engage</key>
-    <text xml:space="preserve">&lt;EMNM n&gt;が乱入しました</text>
+    <original xml:space="preserve">&lt;EMNM n&gt;が乱入しました</original>
   </message>
   <message>
     <key>syslog_content_convoy_hp_half</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のHPが50％をきりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが50％をきりました</original>
   </message>
   <message>
     <key>syslog_content_convoy_hp_little</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;のHPが瀕死状態です</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;のHPが瀕死状態です</original>
   </message>
   <message>
     <key>syslog_content_convoy_hp_zero</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が倒れました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が倒れました</original>
   </message>
   <message>
     <key>syslog_content_pawn_rescure_success</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;(共闘ポーン名)の援護に成功しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;(共闘ポーン名)の援護に成功しました</original>
   </message>
   <message>
     <key>syslog_content_pawn_add_reward</key>
-    <text xml:space="preserve">セカンドポーンの恩恵により&lt;NAME QUEST&gt;に報酬が追加されました</text>
+    <original xml:space="preserve">セカンドポーンの恩恵により&lt;NAME QUEST&gt;に報酬が追加されました</original>
   </message>
   <message>
     <key>syslog_content_pawn_get_pawn</key>
-    <text xml:space="preserve">セカンドポーンが仲間に加わりました</text>
+    <original xml:space="preserve">セカンドポーンが仲間に加わりました</original>
   </message>
   <message>
     <key>syslog_content_boss_beat</key>
-    <text xml:space="preserve">&lt;EMNM n&gt;を退けました</text>
+    <original xml:space="preserve">&lt;EMNM n&gt;を退けました</original>
   </message>
   <message>
     <key>syslog_content_boss_defeat</key>
-    <text xml:space="preserve">&lt;EMNM n&gt;を討伐しました</text>
+    <original xml:space="preserve">&lt;EMNM n&gt;を討伐しました</original>
   </message>
   <message>
     <key>syslog_content_end_by_clear</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;をクリアにより終了します</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;をクリアにより終了します</original>
   </message>
   <message>
     <key>syslog_content_end_by_escape</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を離脱により終了します</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を離脱により終了します</original>
   </message>
   <message>
     <key>syslog_content_end_by_friends_down</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;を&lt;NAME TARGET&gt;が倒れたため、終了します</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;を&lt;NAME TARGET&gt;が倒れたため、終了します</original>
   </message>
   <message>
     <key>syslog_content_end_by_timeup</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;をタイムアップにより終了します</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;をタイムアップにより終了します</original>
   </message>
   <message>
     <key>syslog_content_anounce_prepare</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;が準備期間中です</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;が準備期間中です</original>
   </message>
   <message>
     <key>syslog_content_anounce_hold</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;が開催期間中です</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;が開催期間中です</original>
   </message>
   <message>
     <key>syslog_content_anounce_calcurate</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;が集計期間中です</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;が集計期間中です</original>
   </message>
   <message>
     <key>syslog_content_anounce_reward</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;が報酬受取期間中です</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;が報酬受取期間中です</original>
   </message>
   <message>
     <key>syslog_content_reward_get_boarder</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;の累計スコア報酬が保管ボックスに入りました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;の累計スコア報酬が保管ボックスに入りました</original>
   </message>
   <message>
     <key>syslog_content_reward_get_ranked</key>
-    <text xml:space="preserve">&lt;NAME QUEST&gt;のランキング報酬が保管ボックスに入りました</text>
+    <original xml:space="preserve">&lt;NAME QUEST&gt;のランキング報酬が保管ボックスに入りました</original>
   </message>
   <message>
     <key>syslog_pawnrestore_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;を救出せよ</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;を救出せよ</original>
   </message>
   <message>
     <key>syslog_pawnrestore_success</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に成功しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の救出に成功しました</original>
   </message>
   <message>
     <key>syslog_pawnrestore_failure</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の救出に失敗しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の救出に失敗しました</original>
   </message>
   <message>
     <key>syslog_pawnrestore_restore</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が復活しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が復活しました</original>
   </message>
   <message>
     <key>syslog_craft_consume_item</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、消費しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、消費しました</original>
   </message>
   <message>
     <key>syslog_craft_consume_gold</key>
-    <text xml:space="preserve">&lt;VAL GOLD&gt;を消費しました</text>
+    <original xml:space="preserve">&lt;VAL GOLD&gt;を消費しました</original>
   </message>
   <message>
     <key>syslog_craft_start</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;NAME ITEM&gt;の生産を開始しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;NAME ITEM&gt;の生産を開始しました</original>
   </message>
   <message>
     <key>syslog_craft_recieve</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を受け取りました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を受け取りました</original>
   </message>
   <message>
     <key>syslog_craft_exp_get</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;がクラフト経験値&lt;VAL XP&gt;を取得しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;がクラフト経験値&lt;VAL XP&gt;を取得しました</original>
   </message>
   <message>
     <key>syslog_craft_sophistcate</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;がグレードアップしました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;がグレードアップしました</original>
   </message>
   <message>
     <key>syslog_craft_crest_break</key>
-    <text xml:space="preserve">クレストを破壊しました</text>
+    <original xml:space="preserve">クレストを破壊しました</original>
   </message>
   <message>
     <key>syslog_craft_levelup</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL&gt;になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL&gt;になりました</original>
   </message>
   <message>
     <key>syslog_craft_complete</key>
-    <text xml:space="preserve">クラフトが完成しました</text>
+    <original xml:space="preserve">クラフトが完成しました</original>
   </message>
   <message>
     <key>syslog_om_door_open_by_key</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;は鍵を使って扉を開けた</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;は鍵を使って扉を開けた</original>
   </message>
   <message>
     <key>syslog_om_door_open_by_enemy</key>
-    <text xml:space="preserve">敵によって閉ざされていた道が開けた</text>
+    <original xml:space="preserve">敵によって閉ざされていた道が開けた</original>
   </message>
   <message>
     <key>syslog_om_door_open_by_gimmik</key>
-    <text xml:space="preserve">仕掛けにより扉が開いた</text>
+    <original xml:space="preserve">仕掛けにより扉が開いた</original>
   </message>
   <message>
     <key>syslog_om_rock_remove</key>
-    <text xml:space="preserve">岩壁が爆破された</text>
+    <original xml:space="preserve">岩壁が爆破された</original>
   </message>
   <message>
     <key>syslog_om_rock_fall</key>
-    <text xml:space="preserve">鍾乳石が落下した！</text>
+    <original xml:space="preserve">鍾乳石が落下した！</original>
   </message>
   <message>
     <key>syslog_om_trap</key>
-    <text xml:space="preserve">天井の罠が発動した！</text>
+    <original xml:space="preserve">天井の罠が発動した！</original>
   </message>
   <message>
     <key>syslog_om_warp</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;はリム転移した</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;はリム転移した</original>
   </message>
   <message>
     <key>syslog_om_crank</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;はレバーを動かした</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;はレバーを動かした</original>
   </message>
   <message>
     <key>syslog_om_gimmik</key>
-    <text xml:space="preserve">仕掛けが作動した</text>
+    <original xml:space="preserve">仕掛けが作動した</original>
   </message>
   <message>
     <key>syslog_om_waterfall</key>
-    <text xml:space="preserve">滝の流れが止まった</text>
+    <original xml:space="preserve">滝の流れが止まった</original>
   </message>
   <message>
     <key>syslog_om_treasure_trap</key>
-    <text xml:space="preserve">宝箱のトラップが発動した！</text>
+    <original xml:space="preserve">宝箱のトラップが発動した！</original>
   </message>
   <message>
     <key>syslog_om_treasure_untrap</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;は宝箱のトラップを解除した</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;は宝箱のトラップを解除した</original>
   </message>
   <message>
     <key>syslog_achieve_open</key>
-    <text xml:space="preserve">&lt;NAME ACHIEVE&gt;を解放しました</text>
+    <original xml:space="preserve">&lt;NAME ACHIEVE&gt;を解放しました</original>
   </message>
   <message>
     <key>syslog_achieve_unlock</key>
-    <text xml:space="preserve">アチーブメント報酬を獲得しました！</text>
+    <original xml:space="preserve">アチーブメント報酬を獲得しました！</original>
   </message>
   <message>
     <key>syslog_tutorial_open</key>
-    <text xml:space="preserve">&lt;NAME TUTORIAL&gt;がチュートリアルガイドに追加されました</text>
+    <original xml:space="preserve">&lt;NAME TUTORIAL&gt;がチュートリアルガイドに追加されました</original>
   </message>
   <message>
     <key>syslog_map_freemarker_on</key>
-    <text xml:space="preserve">マップにフリーマーカーを記入しました</text>
+    <original xml:space="preserve">マップにフリーマーカーを記入しました</original>
   </message>
   <message>
     <key>syslog_map_freemarker_off</key>
-    <text xml:space="preserve">マップのフリーマーカーを消去しました</text>
+    <original xml:space="preserve">マップのフリーマーカーを消去しました</original>
   </message>
   <message>
     <key>syslog_map_freemarker_described</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がマップにフリーマーカーを記入しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がマップにフリーマーカーを記入しました</original>
   </message>
   <message>
     <key>syslog_map_freemarker_removed</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がマップのフリーマーカーを消去しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がマップのフリーマーカーを消去しました</original>
   </message>
   <message>
     <key>syslog_levelup_job_me</key>
-    <text xml:space="preserve">&lt;NAME PLAYER&gt;が&lt;VAL LV&gt;になりました</text>
+    <original xml:space="preserve">&lt;NAME PLAYER&gt;が&lt;VAL LV&gt;になりました</original>
   </message>
   <message>
     <key>syslog_levelup_job_someone</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;が&lt;VAL LV&gt;になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;が&lt;VAL LV&gt;になりました</original>
   </message>
   <message>
     <key>syslog_levelup_job_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL LV&gt;になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL LV&gt;になりました</original>
   </message>
   <message>
     <key>syslog_money_get</key>
-    <text xml:space="preserve">&lt;VAL G&gt;を入手しました</text>
+    <original xml:space="preserve">&lt;VAL G&gt;を入手しました</original>
   </message>
   <message>
     <key>syslog_rim_get</key>
-    <text xml:space="preserve">&lt;VAL R&gt;を入手しました</text>
+    <original xml:space="preserve">&lt;VAL R&gt;を入手しました</original>
   </message>
   <message>
     <key>syslog_bo_get</key>
-    <text xml:space="preserve">&lt;VAL BO&gt;を入手しました</text>
+    <original xml:space="preserve">&lt;VAL BO&gt;を入手しました</original>
   </message>
   <message>
     <key>syslog_bless_get</key>
-    <text xml:space="preserve">復活力 が回復しました</text>
+    <original xml:space="preserve">復活力 が回復しました</original>
   </message>
   <message>
     <key>syslog_item_consume</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、使用しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、使用しました</original>
   </message>
   <message>
     <key>syslog_item_get</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、獲得しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、獲得しました</original>
   </message>
   <message>
     <key>syslog_bazaar_put</key>
-    <text xml:space="preserve">バザーに&lt;NAME ITEM&gt;を出品しました</text>
+    <original xml:space="preserve">バザーに&lt;NAME ITEM&gt;を出品しました</original>
   </message>
   <message>
     <key>syslog_bazaar_reput</key>
-    <text xml:space="preserve">バザーに&lt;NAME ITEM&gt;を再出品しました</text>
+    <original xml:space="preserve">バザーに&lt;NAME ITEM&gt;を再出品しました</original>
   </message>
   <message>
     <key>syslog_bazaar_cancel</key>
-    <text xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;を取り消しました</text>
+    <original xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;を取り消しました</original>
   </message>
   <message>
     <key>syslog_bazaar_sell</key>
-    <text xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;が取引成立しました</text>
+    <original xml:space="preserve">バザーに出品中の&lt;NAME ITEM&gt;が取引成立しました</original>
   </message>
   <message>
     <key>syslog_item_lost</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、失いました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、失いました</original>
   </message>
   <message>
     <key>syslog_item_fortify</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を強化しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を強化しました</original>
   </message>
   <message>
     <key>syslog_item_sold</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、売却しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、売却しました</original>
   </message>
   <message>
     <key>system_chat_renzoku</key>
-    <text xml:space="preserve">同一のテキストは連続して発言できません</text>
+    <original xml:space="preserve">同一のテキストは連続して発言できません</original>
   </message>
   <message>
     <key>syslog_item_error</key>
-    <text xml:space="preserve">アイテムの処理に失敗しました</text>
+    <original xml:space="preserve">アイテムの処理に失敗しました</original>
   </message>
   <message>
     <key>syslog_chatmacro_error</key>
-    <text xml:space="preserve">そのコマンドは実行できません</text>
+    <original xml:space="preserve">そのコマンドは実行できません</original>
   </message>
   <message>
     <key>syslog_clan_create</key>
-    <text xml:space="preserve">クランを作成しました</text>
+    <original xml:space="preserve">クランを作成しました</original>
   </message>
   <message>
     <key>syslog_clan_invite</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;からクランへの招待があります</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からクランへの招待があります</original>
   </message>
   <message>
     <key>syslog_clan_req</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;からクラン加入申請がありました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からクラン加入申請がありました</original>
   </message>
   <message>
     <key>syslog_clan_join_other</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</original>
   </message>
   <message>
     <key>syslog_clan_join</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランに加入しました</original>
   </message>
   <message>
     <key>syslog_clan_chg_master</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランマスターになりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランマスターになりました</original>
   </message>
   <message>
     <key>syslog_clan_chg_leader</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がクランリーダーになりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がクランリーダーになりました</original>
   </message>
   <message>
     <key>syslog_party_chg_leader</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がパーティーリーダーになりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がパーティーリーダーになりました</original>
   </message>
   <message>
     <key>syslog_party_kicked</key>
-    <text xml:space="preserve">パーティーからはずれました</text>
+    <original xml:space="preserve">パーティーからはずれました</original>
   </message>
   <message>
     <key>syslog_party_request_ok</key>
-    <text xml:space="preserve">パーティー要請が受諾されました</text>
+    <original xml:space="preserve">パーティー要請が受諾されました</original>
   </message>
   <message>
     <key>syslog_pawn_lost_escape</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;がロストを回避してリムストーンに帰還しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;がロストを回避してリムストーンに帰還しました</original>
   </message>
   <message>
     <key>syslog_charge_course_start</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; が発動しました</text>
+    <original xml:space="preserve">&lt;NAME ETC&gt; が発動しました</original>
   </message>
   <message>
     <key>syslog_charge_course_limit_1h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り1時間をきりました</text>
+    <original xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り1時間をきりました</original>
   </message>
   <message>
     <key>syslog_charge_course_limit_24h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り24時間をきりました</text>
+    <original xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り24時間をきりました</original>
   </message>
   <message>
     <key>syslog_charge_course_end</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; が切れました</text>
+    <original xml:space="preserve">&lt;NAME ETC&gt; が切れました</original>
   </message>
   <message>
     <key>syslog_content_entry</key>
-    <text xml:space="preserve">エクストリームミッションにエントリーしました</text>
+    <original xml:space="preserve">エクストリームミッションにエントリーしました</original>
   </message>
   <message>
     <key>syslog_mission_quit_reject</key>
-    <text xml:space="preserve">コンテンツ途中離脱が拒否されました</text>
+    <original xml:space="preserve">コンテンツ途中離脱が拒否されました</original>
   </message>
   <message>
     <key>syslog_mission_end</key>
-    <text xml:space="preserve">コンテンツを終了します</text>
+    <original xml:space="preserve">コンテンツを終了します</original>
   </message>
   <message>
     <key>syslog_mission_result_guid</key>
-    <text xml:space="preserve">リザルト確認後、&lt;NAME SPOT&gt;に帰還します</text>
+    <original xml:space="preserve">リザルト確認後、&lt;NAME SPOT&gt;に帰還します</original>
   </message>
   <message>
     <key>syslog_mission_npc_dying</key>
-    <text xml:space="preserve">護衛対象の体力が残りわずかです</text>
+    <original xml:space="preserve">護衛対象の体力が残りわずかです</original>
   </message>
   <message>
     <key>syslog_mission_time_add</key>
-    <text xml:space="preserve">残り時間が&lt;VAL&gt;秒追加されました</text>
+    <original xml:space="preserve">残り時間が&lt;VAL&gt;秒追加されました</original>
   </message>
   <message>
     <key>syslog_mission_time_less_60sec</key>
-    <text xml:space="preserve">残り60秒になりました</text>
+    <original xml:space="preserve">残り60秒になりました</original>
   </message>
   <message>
     <key>syslog_mission_time_less_30sec</key>
-    <text xml:space="preserve">残り30秒になりました</text>
+    <original xml:space="preserve">残り30秒になりました</original>
   </message>
   <message>
     <key>syslog_mission_time_less_10sec</key>
-    <text xml:space="preserve">残り10秒になりました</text>
+    <original xml:space="preserve">残り10秒になりました</original>
   </message>
   <message>
     <key>syslog_mission_time_over</key>
-    <text xml:space="preserve">時間切れになりました</text>
+    <original xml:space="preserve">時間切れになりました</original>
   </message>
   <message>
     <key>syslog_mission_quit_suggest</key>
-    <text xml:space="preserve">コンテンツ途中離脱の提案を行いました</text>
+    <original xml:space="preserve">コンテンツ途中離脱の提案を行いました</original>
   </message>
   <message>
     <key>syslog_mission_quit_receive</key>
-    <text xml:space="preserve">コンテンツ途中離脱の提案がありました</text>
+    <original xml:space="preserve">コンテンツ途中離脱の提案がありました</original>
   </message>
   <message>
     <key>syslog_mission_quit_decide</key>
-    <text xml:space="preserve">コンテンツ途中離脱が決定されました</text>
+    <original xml:space="preserve">コンテンツ途中離脱が決定されました</original>
   </message>
   <message>
     <key>syslog_pawn_adventure_dec</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が減りました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が減りました</original>
   </message>
   <message>
     <key>syslog_pawn_adventure_zero</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が0になりました
-パーティーから外れます</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;の冒険回数が0になりました
+パーティーから外れます</original>
   </message>
   <message>
     <key>syslog_pawn_crafter_dec</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が減りました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が減りました</original>
   </message>
   <message>
     <key>syslog_pawn_crafter_zero</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が0になりました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフト回数が0になりました</original>
   </message>
   <message>
     <key>syslog_item_deliver</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、納品しました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、納品しました</original>
   </message>
   <message>
     <key>syslog_stamp_bonus_day</key>
-    <text xml:space="preserve">受け取っていない連続スタンプボーナスがあります</text>
+    <original xml:space="preserve">受け取っていない連続スタンプボーナスがあります</original>
   </message>
   <message>
     <key>syslog_stamp_bonus_cumulative</key>
-    <text xml:space="preserve">受け取っていない累計スタンプボーナスがあります</text>
+    <original xml:space="preserve">受け取っていない累計スタンプボーナスがあります</original>
   </message>
   <message>
     <key>syslog_mission_interruption</key>
-    <text xml:space="preserve">コンテンツを中断します</text>
+    <original xml:space="preserve">コンテンツを中断します</original>
   </message>
   <message>
     <key>syslog_touchom_areamaster_lock</key>
-    <text xml:space="preserve">エリアマスターにより封鎖されている――</text>
+    <original xml:space="preserve">エリアマスターにより封鎖されている――</original>
   </message>
   <message>
     <key>syslog_soloquest_lock</key>
-    <text xml:space="preserve">現在クエストを受注する事は出来ません。謁見の間でレオに話しかけてメインクエストを進行してください</text>
+    <original xml:space="preserve">現在クエストを受注する事は出来ません。謁見の間でレオに話しかけてメインクエストを進行してください</original>
   </message>
   <message>
     <key>syslog_areamaster_ap_get_ex</key>
-    <text xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
-&lt;VAL AP&gt;(+&lt;VAL&gt;)を獲得しました</text>
+    <original xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
+&lt;VAL AP&gt;(+&lt;VAL&gt;)を獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_jp_get</key>
-    <text xml:space="preserve">ジョブポイントを&lt;VAL JP&gt;獲得しました</text>
+    <original xml:space="preserve">ジョブポイントを&lt;VAL JP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_jp_get_ex</key>
-    <text xml:space="preserve">ジョブポイントを&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</text>
+    <original xml:space="preserve">ジョブポイントを&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</original>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL XP&gt;獲得しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL XP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL XP&gt;(+&lt;VAL&gt;)獲得しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL XP&gt;(+&lt;VAL&gt;)獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_pawn_jp</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL JP&gt;獲得しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL JP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_pawn_jp_ex</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</original>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
-    <text xml:space="preserve">黄金石を&lt;VAL&gt;個、入手しました（所持数：&lt;VAL&gt;）</text>
+    <original xml:space="preserve">黄金石を&lt;VAL&gt;個、入手しました（所持数：&lt;VAL&gt;）</original>
   </message>
   <message>
     <key>syslog_silvertickets_get</key>
-    <text xml:space="preserve">シルバーチケットを&lt;VAL&gt;枚、入手しました（所持数：&lt;VAL&gt;）</text>
+    <original xml:space="preserve">シルバーチケットを&lt;VAL&gt;枚、入手しました（所持数：&lt;VAL&gt;）</original>
   </message>
   <message>
     <key>syslog_success_input_eventcode</key>
-    <text xml:space="preserve">イベントコードの入力に成功しました</text>
+    <original xml:space="preserve">イベントコードの入力に成功しました</original>
   </message>
   <message>
     <key>syslog_receipt_mailitem</key>
-    <text xml:space="preserve">メールで特典アイテムをお受け取りください</text>
+    <original xml:space="preserve">メールで特典アイテムをお受け取りください</original>
   </message>
   <message>
     <key>syslog_party_num_talk</key>
-    <text xml:space="preserve">パーティーメンバーがあと&lt;VAL&gt;人話しかけていません</text>
+    <original xml:space="preserve">パーティーメンバーがあと&lt;VAL&gt;人話しかけていません</original>
   </message>
   <message>
     <key>syslog_quest_end_dist_cancel</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞の配信期間が終了したためクエスト破棄されました</text>
+    <original xml:space="preserve">＜&lt;VAL&gt;＞の配信期間が終了したためクエスト破棄されました</original>
   </message>
   <message>
     <key>syslog_awaitquest_auto_cancel</key>
-    <text xml:space="preserve">受注待ちクエスト＜&lt;VAL&gt;＞を破棄しました</text>
+    <original xml:space="preserve">受注待ちクエスト＜&lt;VAL&gt;＞を破棄しました</original>
   </message>
   <message>
     <key>syslog_craft_recieve2</key>
-    <text xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、受け取りました</text>
+    <original xml:space="preserve">&lt;NAME ITEM&gt;を&lt;VAL&gt;個、受け取りました</original>
   </message>
   <message>
     <key>syslog_silvertichet_lost</key>
-    <text xml:space="preserve">シルバーチケットを&lt;VAL&gt;枚、消費しました（所持数：&lt;VAL&gt;）</text>
+    <original xml:space="preserve">シルバーチケットを&lt;VAL&gt;枚、消費しました（所持数：&lt;VAL&gt;）</original>
   </message>
   <message>
     <key>syslog_goldstone_lost</key>
-    <text xml:space="preserve">黄金石を&lt;VAL&gt;個、消費しました（所持数：&lt;VAL&gt;）</text>
+    <original xml:space="preserve">黄金石を&lt;VAL&gt;個、消費しました（所持数：&lt;VAL&gt;）</original>
   </message>
   <message>
     <key>syslog_bo_lost</key>
-    <text xml:space="preserve">&lt;VAL BO&gt;を消費しました</text>
+    <original xml:space="preserve">&lt;VAL BO&gt;を消費しました</original>
   </message>
   <message>
     <key>syslog_rim_lost</key>
-    <text xml:space="preserve">&lt;VAL R&gt;を消費しました</text>
+    <original xml:space="preserve">&lt;VAL R&gt;を消費しました</original>
   </message>
   <message>
     <key>syslog_money_lost</key>
-    <text xml:space="preserve">&lt;VAL G&gt;を消費しました</text>
+    <original xml:space="preserve">&lt;VAL G&gt;を消費しました</original>
   </message>
   <message>
     <key>syslog_login_unclaimed_qreward</key>
-    <text xml:space="preserve">保管ボックスに未受け取りのクエスト報酬があります</text>
+    <original xml:space="preserve">保管ボックスに未受け取りのクエスト報酬があります</original>
   </message>
   <message>
     <key>syslog_quest_repeat_reward</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞の報酬に、繰り返しボーナスが適用されました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の報酬に、繰り返しボーナスが適用されました</original>
   </message>
   <message>
     <key>syslog_quest_undiscover_reward</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞の未公開報酬を獲得しました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の未公開報酬を獲得しました</original>
   </message>
   <message>
     <key>syslog_quest_help_reward</key>
-    <text xml:space="preserve">リーダーが＜&lt;NAME QUEST&gt;＞をクリアしたため、アシスト報酬を獲得しました</text>
+    <original xml:space="preserve">リーダーが＜&lt;NAME QUEST&gt;＞をクリアしたため、アシスト報酬を獲得しました</original>
   </message>
   <message>
     <key>syslog_quest_party_bonus</key>
-    <text xml:space="preserve">パーティーでの＜&lt;NAME QUEST&gt;＞クリアにより、報酬にパーティーボーナスが適用されました</text>
+    <original xml:space="preserve">パーティーでの＜&lt;NAME QUEST&gt;＞クリアにより、報酬にパーティーボーナスが適用されました</original>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_party</key>
-    <text xml:space="preserve">リーダーと進行状況が異なるため、&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行保留になりました</text>
+    <original xml:space="preserve">リーダーと進行状況が異なるため、&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行保留になりました</original>
   </message>
   <message>
     <key>syslog_quest_can_progress_party</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行可能になりました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;の＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
   </message>
   <message>
     <key>syslog_quest_wait_order</key>
-    <text xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が受注待ちになりました</text>
+    <original xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が受注待ちになりました</original>
   </message>
   <message>
     <key>syslog_quest_can_progress_leader</key>
-    <text xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行可能になりました</text>
+    <original xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
   </message>
   <message>
     <key>syslog_quest_can_progress</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞が進行可能になりました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞が進行可能になりました</original>
   </message>
   <message>
     <key>syslog_quest_cannot_progress_leader</key>
-    <text xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行不可になりました</text>
+    <original xml:space="preserve">パーティーリーダーの＜&lt;NAME QUEST&gt;＞が進行不可になりました</original>
   </message>
   <message>
     <key>syslog_quest_cannot_progress</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞が進行不可になりました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞が進行不可になりました</original>
   </message>
   <message>
     <key>syslog_quest_party_progress_myself</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞を進行しようとしました（あと&lt;VAL&gt;人で進行）</text>
+    <original xml:space="preserve">＜&lt;VAL&gt;＞を進行しようとしました（あと&lt;VAL&gt;人で進行）</original>
   </message>
   <message>
     <key>syslog_quest_party_progress</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞をパーティーメンバーが進行しようとしました（あと&lt;VAL&gt;人で進行）</text>
+    <original xml:space="preserve">＜&lt;VAL&gt;＞をパーティーメンバーが進行しようとしました（あと&lt;VAL&gt;人で進行）</original>
   </message>
   <message>
     <key>syslog_quest_party_order_myself</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞を受注しようとしました（あと&lt;VAL&gt;人で受注）</text>
+    <original xml:space="preserve">＜&lt;VAL&gt;＞を受注しようとしました（あと&lt;VAL&gt;人で受注）</original>
   </message>
   <message>
     <key>syslog_quest_party_order</key>
-    <text xml:space="preserve">＜&lt;VAL&gt;＞をパーティーメンバーが受注しようとしました（あと&lt;VAL&gt;人で受注）</text>
+    <original xml:space="preserve">＜&lt;VAL&gt;＞をパーティーメンバーが受注しようとしました（あと&lt;VAL&gt;人で受注）</original>
   </message>
   <message>
     <key>syslog_reward_box_limit_over</key>
-    <text xml:space="preserve">報酬ボックスの容量がいっぱいです
-容量を超えると古い報酬は失われます</text>
+    <original xml:space="preserve">報酬ボックスの容量がいっぱいです
+容量を超えると古い報酬は失われます</original>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_stone</key>
-    <text xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを1回行いました</text>
+    <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを1回行いました</original>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_stones</key>
-    <text xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</text>
+    <original xml:space="preserve">黄金石&lt;VAL&gt;個を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_ticket</key>
-    <text xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、ロットを1回まわしました</text>
+    <original xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、ロットを1回まわしました</original>
   </message>
   <message>
     <key>syslog_gacha_msg_drawn_by_a_tickets</key>
-    <text xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、ロットを&lt;VAL&gt;連続でまわしました</text>
+    <original xml:space="preserve">チケット&lt;VAL&gt;枚を消費して、ロットを&lt;VAL&gt;連続でまわしました</original>
   </message>
   <message>
     <key>syslog_pawn_instruction_others</key>
-    <text xml:space="preserve">&lt;NAME TARGET&gt;がポーンに
-&lt;PORD&gt;を命令しました</text>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;がポーンに
+&lt;PORD&gt;を命令しました</original>
   </message>
   <message>
     <key>syslog_quest_decide_deliver</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞の納品目標を達成しました</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の納品目標を達成しました</original>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice</key>
-    <text xml:space="preserve">ジョブポイントの所持量が最大に近づいています
-( &lt;VAL&gt; / &lt;VAL JP&gt; )</text>
+    <original xml:space="preserve">ジョブポイントの所持量が最大に近づいています
+( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
   </message>
   <message>
     <key>syslog_jp_possession_max</key>
-    <text xml:space="preserve">ジョブポイントが最大に達したため、これ以上獲得できません</text>
+    <original xml:space="preserve">ジョブポイントが最大に達したため、これ以上獲得できません</original>
   </message>
   <message>
     <key>syslog_jp_possession_max_notice_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のジョブポイントの所持量が最大に近づいています
-( &lt;VAL&gt; / &lt;VAL JP&gt; )</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;のジョブポイントの所持量が最大に近づいています
+( &lt;VAL&gt; / &lt;VAL JP&gt; )</original>
   </message>
   <message>
     <key>syslog_jp_possession_max_pawn</key>
-    <text xml:space="preserve">&lt;NAME PAWN&gt;のジョブポイントが最大に達したため、これ以上獲得できません</text>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;のジョブポイントが最大に達したため、これ以上獲得できません</original>
   </message>
   <message>
     <key>syslog_rentalpoint_get</key>
-    <text xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;獲得しました</text>
+    <original xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_rentalpoint_get_ex</key>
-    <text xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;(+&lt;VAL&gt;)獲得しました</text>
+    <original xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;(+&lt;VAL&gt;)獲得しました</original>
   </message>
   <message>
     <key>syslog_rentalpoint_lost</key>
-    <text xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;消費しました</text>
+    <original xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;消費しました</original>
   </message>
   <message>
     <key>syslog_break_region_raid_boss</key>
-    <text xml:space="preserve">&lt;VAL&gt;の部位破壊に成功！
-討伐成功時にボーナス追加！</text>
+    <original xml:space="preserve">&lt;VAL&gt;の部位破壊に成功！
+討伐成功時にボーナス追加！</original>
   </message>
   <message>
     <key>syslog_quest_progress_failed</key>
-    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞の進行に失敗しました
-クエストログで進行状況を確認してください</text>
+    <original xml:space="preserve">＜&lt;NAME QUEST&gt;＞の進行に失敗しました
+クエストログで進行状況を確認してください</original>
   </message>
   <message>
     <key>syslog_break_region_lose_raid_boss</key>
-    <text xml:space="preserve">&lt;VAL&gt;の部位が壊れた！</text>
+    <original xml:space="preserve">&lt;VAL&gt;の部位が壊れた！</original>
   </message>
 </resource>

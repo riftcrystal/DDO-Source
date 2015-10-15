@@ -1,30 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_206_342</key>
-    <text xml:space="preserve">C</text>
+    <original xml:space="preserve">C</original>
   </message>
   <message>
     <key>SAME_LETTER_206_343</key>
-    <text xml:space="preserve">c</text>
+    <original xml:space="preserve">c</original>
   </message>
   <message>
     <key>SAME_LETTER_206_344</key>
-    <text xml:space="preserve">℃</text>
+    <original xml:space="preserve">℃</original>
   </message>
   <message>
     <key>SAME_LETTER_206_345</key>
-    <text xml:space="preserve">Ｃ</text>
+    <original xml:space="preserve">Ｃ</original>
   </message>
   <message>
     <key>SAME_LETTER_206_346</key>
-    <text xml:space="preserve">ｃ</text>
+    <original xml:space="preserve">ｃ</original>
   </message>
   <message>
     <key>SAME_LETTER_206_347</key>
-    <text xml:space="preserve">С</text>
+    <original xml:space="preserve">С</original>
   </message>
   <message>
     <key>SAME_LETTER_206_348</key>
-    <text xml:space="preserve">с</text>
+    <original xml:space="preserve">с</original>
   </message>
 </resource>

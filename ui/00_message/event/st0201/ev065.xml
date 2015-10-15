@@ -1,45 +1,45 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">さあ、どうぞ</text>
+    <original xml:space="preserve">さあ、どうぞ</original>
   </message>
   <message>
-    <text xml:space="preserve">誇り高き者の命――
-どうか白竜様へ</text>
+    <original xml:space="preserve">誇り高き者の命――
+どうか白竜様へ</original>
   </message>
   <message>
-    <text xml:space="preserve">やはり――そうか――</text>
+    <original xml:space="preserve">やはり――そうか――</original>
   </message>
   <message>
-    <text xml:space="preserve">理を乱す者の手が――
-鈍色の手がすでに伸びている――</text>
+    <original xml:space="preserve">理を乱す者の手が――
+鈍色の手がすでに伸びている――</original>
   </message>
   <message>
-    <text xml:space="preserve">その手の主を――
-我は知っている――</text>
+    <original xml:space="preserve">その手の主を――
+我は知っている――</original>
   </message>
   <message>
-    <text xml:space="preserve">よく覚えている――</text>
+    <original xml:space="preserve">よく覚えている――</original>
   </message>
   <message>
-    <text xml:space="preserve">その者は――</text>
+    <original xml:space="preserve">その者は――</original>
   </message>
   <message>
-    <text xml:space="preserve">ディアマンテス――か</text>
+    <original xml:space="preserve">ディアマンテス――か</original>
   </message>
   <message>
-    <text xml:space="preserve">類い希な知力を持つが――
-その執念の他、学ぶことなし</text>
+    <original xml:space="preserve">類い希な知力を持つが――
+その執念の他、学ぶことなし</original>
   </message>
   <message>
-    <text xml:space="preserve">レオ――
-その名を、どこで？</text>
+    <original xml:space="preserve">レオ――
+その名を、どこで？</original>
   </message>
   <message>
-    <text xml:space="preserve">イリスからだ
-あなたは知っていたのか？</text>
+    <original xml:space="preserve">イリスからだ
+あなたは知っていたのか？</original>
   </message>
   <message>
-    <text xml:space="preserve">ああ――
-書物の中の住人としてな</text>
+    <original xml:space="preserve">ああ――
+書物の中の住人としてな</original>
   </message>
 </resource>

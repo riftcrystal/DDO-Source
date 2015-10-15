@@ -1,78 +1,78 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">エルテ・ディナンのアーマ区画――
+    <original xml:space="preserve">エルテ・ディナンのアーマ区画――
 《レ・カルパス・アーマ》の調査
 引き受けてくれるのかい？
-ありがとう！　</text>
+ありがとう！　</original>
   </message>
   <message>
-    <text xml:space="preserve">君が前にコカトリスを倒してくれた
+    <original xml:space="preserve">君が前にコカトリスを倒してくれた
 《神花のテラス》で、気になる手記を
-発見したんだ</text>
+発見したんだ</original>
   </message>
   <message>
-    <text xml:space="preserve">“都に降りた“白い災厄”に貫かれ、
+    <original xml:space="preserve">“都に降りた“白い災厄”に貫かれ、
 残っていたわずかな仲間も
-命を落としてしまった”</text>
+命を落としてしまった”</original>
   </message>
   <message>
-    <text xml:space="preserve">“災厄をどうにかアーマの奥に閉じ込める
+    <original xml:space="preserve">“災厄をどうにかアーマの奥に閉じ込める
 ことがができたが、もはや都を立て直すことは
-叶わない――”</text>
+叶わない――”</original>
   </message>
   <message>
-    <text xml:space="preserve">この手記の通りだとすると――
+    <original xml:space="preserve">この手記の通りだとすると――
 今でもその“災厄”はアーマ区画に
-あることになる</text>
+あることになる</original>
   </message>
   <message>
-    <text xml:space="preserve">アーマの入り口は、その手記にあった
+    <original xml:space="preserve">アーマの入り口は、その手記にあった
 スペリングで開放しておいた
 僕は馬鹿なことをしているのかもしれないけど、
-どうか災厄の正体を突き止めてくれ</text>
+どうか災厄の正体を突き止めてくれ</original>
   </message>
   <message>
-    <text xml:space="preserve">――そして、できれば君の手で――</text>
+    <original xml:space="preserve">――そして、できれば君の手で――</original>
   </message>
   <message>
-    <text xml:space="preserve">――ありがとう
+    <original xml:space="preserve">――ありがとう
 “白い災厄”を退けてくれたのだな
-覚者よ――</text>
+覚者よ――</original>
   </message>
   <message>
-    <text xml:space="preserve">これでようやく、無念のまま命を落とした
-仲間達を弔うことができた――</text>
+    <original xml:space="preserve">これでようやく、無念のまま命を落とした
+仲間達を弔うことができた――</original>
   </message>
   <message>
-    <text xml:space="preserve">――――ん？</text>
+    <original xml:space="preserve">――――ん？</original>
   </message>
   <message>
-    <text xml:space="preserve">なんだい、僕今何か変な事言ったかな？
+    <original xml:space="preserve">なんだい、僕今何か変な事言ったかな？
 ところで、“白い災厄”の正体は
-歳経たアングルスだったんだね</text>
+歳経たアングルスだったんだね</original>
   </message>
   <message>
-    <text xml:space="preserve">でも、不思議だよ
+    <original xml:space="preserve">でも、不思議だよ
 正体も分からない、見たこともない
 “白い災厄”なんてものを、どうしてここまで
-僕は調べ消し去りたいと思ったのか</text>
+僕は調べ消し去りたいと思ったのか</original>
   </message>
   <message>
-    <text xml:space="preserve">なぜかは解らないけど、気分は晴れやかだ
+    <original xml:space="preserve">なぜかは解らないけど、気分は晴れやかだ
 君の力を借りる事ができて
-本当に良かったよ</text>
+本当に良かったよ</original>
   </message>
   <message>
-    <text xml:space="preserve">“白い災厄”が封じられているのは
+    <original xml:space="preserve">“白い災厄”が封じられているのは
 エルテ・ディナンの中にある区画
-《レ・カルパス・アーマ》だ</text>
+《レ・カルパス・アーマ》だ</original>
   </message>
   <message>
-    <text xml:space="preserve">どうかそこに向かい、災厄の正体を
-突きとめてほしんだ</text>
+    <original xml:space="preserve">どうかそこに向かい、災厄の正体を
+突きとめてほしんだ</original>
   </message>
   <message>
-    <text xml:space="preserve">そして、できるなら君の手で
-災厄そのものを――</text>
+    <original xml:space="preserve">そして、できるなら君の手で
+災厄そのものを――</original>
   </message>
 </resource>

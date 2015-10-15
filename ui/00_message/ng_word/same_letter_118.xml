@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_118_2</key>
-    <text xml:space="preserve">ｩﾞ</text>
+    <original xml:space="preserve">ｩﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_3</key>
-    <text xml:space="preserve">ｳﾞ</text>
+    <original xml:space="preserve">ｳﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_4</key>
-    <text xml:space="preserve">ﾌﾞ</text>
+    <original xml:space="preserve">ﾌﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_5</key>
-    <text xml:space="preserve">ﾌ゛</text>
+    <original xml:space="preserve">ﾌ゛</original>
   </message>
   <message>
     <key>SAME_LETTER_118_6</key>
-    <text xml:space="preserve">ぅﾞ</text>
+    <original xml:space="preserve">ぅﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_7</key>
-    <text xml:space="preserve">うﾞ</text>
+    <original xml:space="preserve">うﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_8</key>
-    <text xml:space="preserve">う゛</text>
+    <original xml:space="preserve">う゛</original>
   </message>
   <message>
     <key>SAME_LETTER_118_9</key>
-    <text xml:space="preserve">ふﾞ</text>
+    <original xml:space="preserve">ふﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_10</key>
-    <text xml:space="preserve">ぶ</text>
+    <original xml:space="preserve">ぶ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_11</key>
-    <text xml:space="preserve">ウﾞ</text>
+    <original xml:space="preserve">ウﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_12</key>
-    <text xml:space="preserve">フﾞ</text>
+    <original xml:space="preserve">フﾞ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_13</key>
-    <text xml:space="preserve">ブ</text>
+    <original xml:space="preserve">ブ</original>
   </message>
   <message>
     <key>SAME_LETTER_118_14</key>
-    <text xml:space="preserve">ヴ</text>
+    <original xml:space="preserve">ヴ</original>
   </message>
 </resource>

@@ -1,8 +1,8 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">戦闘エリアから離れています</text>
+    <original xml:space="preserve">戦闘エリアから離れています</original>
   </message>
   <message>
-    <text xml:space="preserve">戦闘エリアを出たためワープします</text>
+    <original xml:space="preserve">戦闘エリアを出たためワープします</original>
   </message>
 </resource>

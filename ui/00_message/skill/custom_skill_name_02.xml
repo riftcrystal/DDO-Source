@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_02_20</key>
-    <text xml:space="preserve">かまいたち</text>
+    <original xml:space="preserve">かまいたち</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_21</key>
-    <text xml:space="preserve">アギト裂き</text>
+    <original xml:space="preserve">アギト裂き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_24</key>
-    <text xml:space="preserve">返し蹴り</text>
+    <original xml:space="preserve">返し蹴り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_22</key>
-    <text xml:space="preserve">引き寄せ</text>
+    <original xml:space="preserve">引き寄せ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_29</key>
-    <text xml:space="preserve">隼落とし</text>
+    <original xml:space="preserve">隼落とし</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_23</key>
-    <text xml:space="preserve">蹴り跳び</text>
+    <original xml:space="preserve">蹴り跳び</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_25</key>
-    <text xml:space="preserve">構え直し</text>
+    <original xml:space="preserve">構え直し</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_26</key>
-    <text xml:space="preserve">爆炎線</text>
+    <original xml:space="preserve">爆炎線</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_30</key>
-    <text xml:space="preserve">旋風刃</text>
+    <original xml:space="preserve">旋風刃</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_02_31</key>
-    <text xml:space="preserve">足刈り綱</text>
+    <original xml:space="preserve">足刈り綱</original>
   </message>
 </resource>

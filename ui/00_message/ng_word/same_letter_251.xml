@@ -1,14 +1,14 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_251_593</key>
-    <text xml:space="preserve">ﾇ</text>
+    <original xml:space="preserve">ﾇ</original>
   </message>
   <message>
     <key>SAME_LETTER_251_594</key>
-    <text xml:space="preserve">ぬ</text>
+    <original xml:space="preserve">ぬ</original>
   </message>
   <message>
     <key>SAME_LETTER_251_595</key>
-    <text xml:space="preserve">ヌ</text>
+    <original xml:space="preserve">ヌ</original>
   </message>
 </resource>

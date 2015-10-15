@@ -1,32 +1,32 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">エルフ達の都――
+    <original xml:space="preserve">エルフ達の都――
 どれほど多くのエルフが、この都で
-暮らしていたのでしょう</text>
+暮らしていたのでしょう</original>
   </message>
   <message>
-    <text xml:space="preserve">緑に覆われ、滅びてしまった今も
+    <original xml:space="preserve">緑に覆われ、滅びてしまった今も
 この都市は美しいままですね
-年月の経ち方が、人のものとは違うのでしょうか</text>
+年月の経ち方が、人のものとは違うのでしょうか</original>
   </message>
   <message>
-    <text xml:space="preserve">不思議な扉がここそこにあります
-なるべく固まって行動しましょう</text>
+    <original xml:space="preserve">不思議な扉がここそこにあります
+なるべく固まって行動しましょう</original>
   </message>
   <message>
-    <text xml:space="preserve">森の魔物たちが相当数
+    <original xml:space="preserve">森の魔物たちが相当数
 入り込んでいるかもしれません
-ご注意ください</text>
+ご注意ください</original>
   </message>
   <message>
-    <text xml:space="preserve">人の町とは違う、古い都跡――
-ここが賑わっていた時代を見てみたいです</text>
+    <original xml:space="preserve">人の町とは違う、古い都跡――
+ここが賑わっていた時代を見てみたいです</original>
   </message>
   <message>
-    <text xml:space="preserve">美しい装飾があちこちにありますね
-私のクラフトに取り入れたいものです</text>
+    <original xml:space="preserve">美しい装飾があちこちにありますね
+私のクラフトに取り入れたいものです</original>
   </message>
   <message>
-    <text xml:space="preserve">何か使えるものがあるかもしれませんね</text>
+    <original xml:space="preserve">何か使えるものがあるかもしれませんね</original>
   </message>
 </resource>

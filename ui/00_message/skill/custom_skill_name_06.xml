@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_06_68</key>
-    <text xml:space="preserve">ファイアストーム</text>
+    <original xml:space="preserve">ファイアストーム</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_72</key>
-    <text xml:space="preserve">サンダーケージ</text>
+    <original xml:space="preserve">サンダーケージ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_74</key>
-    <text xml:space="preserve">ブラックヘイズ</text>
+    <original xml:space="preserve">ブラックヘイズ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_71</key>
-    <text xml:space="preserve">フロストスパイク</text>
+    <original xml:space="preserve">フロストスパイク</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_69</key>
-    <text xml:space="preserve">フレイムウォール</text>
+    <original xml:space="preserve">フレイムウォール</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_73</key>
-    <text xml:space="preserve">クレセントブレード</text>
+    <original xml:space="preserve">クレセントブレード</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_75</key>
-    <text xml:space="preserve">ロックビート</text>
+    <original xml:space="preserve">ロックビート</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_70</key>
-    <text xml:space="preserve">メテオフォール</text>
+    <original xml:space="preserve">メテオフォール</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_76</key>
-    <text xml:space="preserve">サンダーレイン</text>
+    <original xml:space="preserve">サンダーレイン</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_06_78</key>
-    <text xml:space="preserve">ダークネスミスト</text>
+    <original xml:space="preserve">ダークネスミスト</original>
   </message>
 </resource>

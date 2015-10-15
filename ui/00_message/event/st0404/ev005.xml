@@ -1,43 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">――覚者さんたち、やるね</text>
+    <original xml:space="preserve">――覚者さんたち、やるね</original>
   </message>
   <message>
-    <text xml:space="preserve">もう、メイリーフは
-――任せるよ</text>
+    <original xml:space="preserve">もう、メイリーフは
+――任せるよ</original>
   </message>
   <message>
-    <text xml:space="preserve">ひとつ、頼みがある――</text>
+    <original xml:space="preserve">ひとつ、頼みがある――</original>
   </message>
   <message>
-    <text xml:space="preserve">まもなく尽きる――</text>
+    <original xml:space="preserve">まもなく尽きる――</original>
   </message>
   <message>
-    <text xml:space="preserve">僕の命――</text>
+    <original xml:space="preserve">僕の命――</original>
   </message>
   <message>
-    <text xml:space="preserve">あの器に入れて――
-白竜に捧げて欲しい――</text>
+    <original xml:space="preserve">あの器に入れて――
+白竜に捧げて欲しい――</original>
   </message>
   <message>
-    <text xml:space="preserve">きっときみたちの――</text>
+    <original xml:space="preserve">きっときみたちの――</original>
   </message>
   <message>
-    <text xml:space="preserve">役に立つはず――</text>
+    <original xml:space="preserve">役に立つはず――</original>
   </message>
   <message>
-    <text xml:space="preserve">ああ――</text>
+    <original xml:space="preserve">ああ――</original>
   </message>
   <message>
-    <text xml:space="preserve">看取られて死ねるなんて――</text>
+    <original xml:space="preserve">看取られて死ねるなんて――</original>
   </message>
   <message>
-    <text xml:space="preserve">考えたこともなかった――</text>
+    <original xml:space="preserve">考えたこともなかった――</original>
   </message>
   <message>
-    <text xml:space="preserve">これはいただくぞ！</text>
+    <original xml:space="preserve">これはいただくぞ！</original>
   </message>
   <message>
-    <text xml:space="preserve">（高笑い）</text>
+    <original xml:space="preserve">（高笑い）</original>
   </message>
 </resource>

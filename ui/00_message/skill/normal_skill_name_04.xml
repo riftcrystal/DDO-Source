@@ -1,38 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_04_61</key>
-    <text xml:space="preserve">ブラストビット</text>
+    <original xml:space="preserve">ブラストビット</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_62</key>
-    <text xml:space="preserve">ヒールオーラ</text>
+    <original xml:space="preserve">ヒールオーラ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_63</key>
-    <text xml:space="preserve">ヒールオーラエクス</text>
+    <original xml:space="preserve">ヒールオーラエクス</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_64</key>
-    <text xml:space="preserve">セイントオーラ</text>
+    <original xml:space="preserve">セイントオーラ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_65</key>
-    <text xml:space="preserve">セイントオーラエクス</text>
+    <original xml:space="preserve">セイントオーラエクス</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_66</key>
-    <text xml:space="preserve">フィールドシフト</text>
+    <original xml:space="preserve">フィールドシフト</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_68</key>
-    <text xml:space="preserve">フローティング</text>
+    <original xml:space="preserve">フローティング</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_69</key>
-    <text xml:space="preserve">ライドヒールオーラ</text>
+    <original xml:space="preserve">ライドヒールオーラ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_04_146</key>
-    <text xml:space="preserve">ライドセイントオーラ</text>
+    <original xml:space="preserve">ライドセイントオーラ</original>
   </message>
 </resource>

@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_250_589</key>
-    <text xml:space="preserve">ﾆ</text>
+    <original xml:space="preserve">ﾆ</original>
   </message>
   <message>
     <key>SAME_LETTER_250_590</key>
-    <text xml:space="preserve">に</text>
+    <original xml:space="preserve">に</original>
   </message>
   <message>
     <key>SAME_LETTER_250_591</key>
-    <text xml:space="preserve">ニ</text>
+    <original xml:space="preserve">ニ</original>
   </message>
   <message>
     <key>SAME_LETTER_250_592</key>
-    <text xml:space="preserve">二</text>
+    <original xml:space="preserve">二</original>
   </message>
 </resource>

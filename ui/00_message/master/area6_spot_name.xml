@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">ミスリウ森林深部</text>
+    <original xml:space="preserve">ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">標の祠　ミスリウ森林深部</text>
+    <original xml:space="preserve">標の祠　ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">イヴァンの山小屋</text>
+    <original xml:space="preserve">イヴァンの山小屋</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">ディナン山道</text>
+    <original xml:space="preserve">ディナン山道</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">密猟者のキャンプ</text>
+    <original xml:space="preserve">密猟者のキャンプ</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">イニアス湿地帯</text>
+    <original xml:space="preserve">イニアス湿地帯</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">蒼葉のテラス</text>
+    <original xml:space="preserve">蒼葉のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">聖獣の間</text>
+    <original xml:space="preserve">聖獣の間</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">名もなき廃村</text>
+    <original xml:space="preserve">名もなき廃村</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">巨人の寝床</text>
+    <original xml:space="preserve">巨人の寝床</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">森の廃墟地下</text>
+    <original xml:space="preserve">森の廃墟地下</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">深緑のテラス</text>
+    <original xml:space="preserve">深緑のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <text xml:space="preserve">霊泉のテラス</text>
+    <original xml:space="preserve">霊泉のテラス</original>
   </message>
 </resource>

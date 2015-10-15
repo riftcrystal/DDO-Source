@@ -1,8 +1,8 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">ウボオォォォ――</text>
+    <original xml:space="preserve">ウボオォォォ――</original>
   </message>
   <message>
-    <text xml:space="preserve">ォォォ――レェェェ――</text>
+    <original xml:space="preserve">ォォォ――レェェェ――</original>
   </message>
 </resource>

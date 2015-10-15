@@ -1,34 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_137_195</key>
-    <text xml:space="preserve">ﾋﾟ</text>
+    <original xml:space="preserve">ﾋﾟ</original>
   </message>
   <message>
     <key>SAME_LETTER_137_196</key>
-    <text xml:space="preserve">ﾋ°</text>
+    <original xml:space="preserve">ﾋ°</original>
   </message>
   <message>
     <key>SAME_LETTER_137_197</key>
-    <text xml:space="preserve">ひﾟ</text>
+    <original xml:space="preserve">ひﾟ</original>
   </message>
   <message>
     <key>SAME_LETTER_137_198</key>
-    <text xml:space="preserve">ひ°</text>
+    <original xml:space="preserve">ひ°</original>
   </message>
   <message>
     <key>SAME_LETTER_137_199</key>
-    <text xml:space="preserve">ぴ</text>
+    <original xml:space="preserve">ぴ</original>
   </message>
   <message>
     <key>SAME_LETTER_137_200</key>
-    <text xml:space="preserve">ヒﾟ</text>
+    <original xml:space="preserve">ヒﾟ</original>
   </message>
   <message>
     <key>SAME_LETTER_137_201</key>
-    <text xml:space="preserve">ヒ°</text>
+    <original xml:space="preserve">ヒ°</original>
   </message>
   <message>
     <key>SAME_LETTER_137_202</key>
-    <text xml:space="preserve">ピ</text>
+    <original xml:space="preserve">ピ</original>
   </message>
 </resource>

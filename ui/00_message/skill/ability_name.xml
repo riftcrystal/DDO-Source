@@ -1,706 +1,706 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ABILITY_NAME_27</key>
-    <text xml:space="preserve">精密</text>
+    <original xml:space="preserve">精密</original>
   </message>
   <message>
     <key>ABILITY_NAME_62</key>
-    <text xml:space="preserve">防炎</text>
+    <original xml:space="preserve">防炎</original>
   </message>
   <message>
     <key>ABILITY_NAME_82</key>
-    <text xml:space="preserve">合昇</text>
+    <original xml:space="preserve">合昇</original>
   </message>
   <message>
     <key>ABILITY_NAME_111</key>
-    <text xml:space="preserve">悠握</text>
+    <original xml:space="preserve">悠握</original>
   </message>
   <message>
     <key>ABILITY_NAME_126</key>
-    <text xml:space="preserve">倒陣</text>
+    <original xml:space="preserve">倒陣</original>
   </message>
   <message>
     <key>ABILITY_NAME_159</key>
-    <text xml:space="preserve">甦活</text>
+    <original xml:space="preserve">甦活</original>
   </message>
   <message>
     <key>ABILITY_NAME_231</key>
-    <text xml:space="preserve">柔触</text>
+    <original xml:space="preserve">柔触</original>
   </message>
   <message>
     <key>ABILITY_NAME_4</key>
-    <text xml:space="preserve">受倒</text>
+    <original xml:space="preserve">受倒</original>
   </message>
   <message>
     <key>ABILITY_NAME_34</key>
-    <text xml:space="preserve">遅爆</text>
+    <original xml:space="preserve">遅爆</original>
   </message>
   <message>
     <key>ABILITY_NAME_67</key>
-    <text xml:space="preserve">減炎</text>
+    <original xml:space="preserve">減炎</original>
   </message>
   <message>
     <key>ABILITY_NAME_85</key>
-    <text xml:space="preserve">壮防</text>
+    <original xml:space="preserve">壮防</original>
   </message>
   <message>
     <key>ABILITY_NAME_116</key>
-    <text xml:space="preserve">制倒</text>
+    <original xml:space="preserve">制倒</original>
   </message>
   <message>
     <key>ABILITY_NAME_142</key>
-    <text xml:space="preserve">楽揚</text>
+    <original xml:space="preserve">楽揚</original>
   </message>
   <message>
     <key>ABILITY_NAME_166</key>
-    <text xml:space="preserve">死線</text>
+    <original xml:space="preserve">死線</original>
   </message>
   <message>
     <key>ABILITY_NAME_232</key>
-    <text xml:space="preserve">延泉</text>
+    <original xml:space="preserve">延泉</original>
   </message>
   <message>
     <key>ABILITY_NAME_15</key>
-    <text xml:space="preserve">剛腕</text>
+    <original xml:space="preserve">剛腕</original>
   </message>
   <message>
     <key>ABILITY_NAME_42</key>
-    <text xml:space="preserve">底力</text>
+    <original xml:space="preserve">底力</original>
   </message>
   <message>
     <key>ABILITY_NAME_57</key>
-    <text xml:space="preserve">防助</text>
+    <original xml:space="preserve">防助</original>
   </message>
   <message>
     <key>ABILITY_NAME_79</key>
-    <text xml:space="preserve">異彩</text>
+    <original xml:space="preserve">異彩</original>
   </message>
   <message>
     <key>ABILITY_NAME_109</key>
-    <text xml:space="preserve">躍握</text>
+    <original xml:space="preserve">躍握</original>
   </message>
   <message>
     <key>ABILITY_NAME_137</key>
-    <text xml:space="preserve">至極</text>
+    <original xml:space="preserve">至極</original>
   </message>
   <message>
     <key>ABILITY_NAME_154</key>
-    <text xml:space="preserve">延助</text>
+    <original xml:space="preserve">延助</original>
   </message>
   <message>
     <key>ABILITY_NAME_236</key>
-    <text xml:space="preserve">強投</text>
+    <original xml:space="preserve">強投</original>
   </message>
   <message>
     <key>ABILITY_NAME_5</key>
-    <text xml:space="preserve">受拡</text>
+    <original xml:space="preserve">受拡</original>
   </message>
   <message>
     <key>ABILITY_NAME_26</key>
-    <text xml:space="preserve">制動</text>
+    <original xml:space="preserve">制動</original>
   </message>
   <message>
     <key>ABILITY_NAME_52</key>
-    <text xml:space="preserve">漲魂</text>
+    <original xml:space="preserve">漲魂</original>
   </message>
   <message>
     <key>ABILITY_NAME_81</key>
-    <text xml:space="preserve">過給</text>
+    <original xml:space="preserve">過給</original>
   </message>
   <message>
     <key>ABILITY_NAME_101</key>
-    <text xml:space="preserve">延縄</text>
+    <original xml:space="preserve">延縄</original>
   </message>
   <message>
     <key>ABILITY_NAME_129</key>
-    <text xml:space="preserve">続詠</text>
+    <original xml:space="preserve">続詠</original>
   </message>
   <message>
     <key>ABILITY_NAME_167</key>
-    <text xml:space="preserve">炎襲</text>
+    <original xml:space="preserve">炎襲</original>
   </message>
   <message>
     <key>ABILITY_NAME_228</key>
-    <text xml:space="preserve">探採</text>
+    <original xml:space="preserve">探採</original>
   </message>
   <message>
     <key>ABILITY_NAME_1</key>
-    <text xml:space="preserve">敏動</text>
+    <original xml:space="preserve">敏動</original>
   </message>
   <message>
     <key>ABILITY_NAME_30</key>
-    <text xml:space="preserve">集中</text>
+    <original xml:space="preserve">集中</original>
   </message>
   <message>
     <key>ABILITY_NAME_63</key>
-    <text xml:space="preserve">防氷</text>
+    <original xml:space="preserve">防氷</original>
   </message>
   <message>
     <key>ABILITY_NAME_89</key>
-    <text xml:space="preserve">揺抑</text>
+    <original xml:space="preserve">揺抑</original>
   </message>
   <message>
     <key>ABILITY_NAME_123</key>
-    <text xml:space="preserve">高舞</text>
+    <original xml:space="preserve">高舞</original>
   </message>
   <message>
     <key>ABILITY_NAME_130</key>
-    <text xml:space="preserve">攻炎</text>
+    <original xml:space="preserve">攻炎</original>
   </message>
   <message>
     <key>ABILITY_NAME_168</key>
-    <text xml:space="preserve">氷襲</text>
+    <original xml:space="preserve">氷襲</original>
   </message>
   <message>
     <key>ABILITY_NAME_235</key>
-    <text xml:space="preserve">薬効</text>
+    <original xml:space="preserve">薬効</original>
   </message>
   <message>
     <key>ABILITY_NAME_9</key>
-    <text xml:space="preserve">本領</text>
+    <original xml:space="preserve">本領</original>
   </message>
   <message>
     <key>ABILITY_NAME_36</key>
-    <text xml:space="preserve">逞姿</text>
+    <original xml:space="preserve">逞姿</original>
   </message>
   <message>
     <key>ABILITY_NAME_68</key>
-    <text xml:space="preserve">減氷</text>
+    <original xml:space="preserve">減氷</original>
   </message>
   <message>
     <key>ABILITY_NAME_93</key>
-    <text xml:space="preserve">開悟</text>
+    <original xml:space="preserve">開悟</original>
   </message>
   <message>
     <key>ABILITY_NAME_124</key>
-    <text xml:space="preserve">巨護</text>
+    <original xml:space="preserve">巨護</original>
   </message>
   <message>
     <key>ABILITY_NAME_131</key>
-    <text xml:space="preserve">攻氷</text>
+    <original xml:space="preserve">攻氷</original>
   </message>
   <message>
     <key>ABILITY_NAME_160</key>
-    <text xml:space="preserve">勢命</text>
+    <original xml:space="preserve">勢命</original>
   </message>
   <message>
     <key>ABILITY_NAME_237</key>
-    <text xml:space="preserve">効延</text>
+    <original xml:space="preserve">効延</original>
   </message>
   <message>
     <key>ABILITY_NAME_16</key>
-    <text xml:space="preserve">速離</text>
+    <original xml:space="preserve">速離</original>
   </message>
   <message>
     <key>ABILITY_NAME_33</key>
-    <text xml:space="preserve">匠填</text>
+    <original xml:space="preserve">匠填</original>
   </message>
   <message>
     <key>ABILITY_NAME_58</key>
-    <text xml:space="preserve">魔助</text>
+    <original xml:space="preserve">魔助</original>
   </message>
   <message>
     <key>ABILITY_NAME_99</key>
-    <text xml:space="preserve">溌剌</text>
+    <original xml:space="preserve">溌剌</original>
   </message>
   <message>
     <key>ABILITY_NAME_106</key>
-    <text xml:space="preserve">耐揺</text>
+    <original xml:space="preserve">耐揺</original>
   </message>
   <message>
     <key>ABILITY_NAME_132</key>
-    <text xml:space="preserve">攻雷</text>
+    <original xml:space="preserve">攻雷</original>
   </message>
   <message>
     <key>ABILITY_NAME_161</key>
-    <text xml:space="preserve">煌命</text>
+    <original xml:space="preserve">煌命</original>
   </message>
   <message>
     <key>ABILITY_NAME_240</key>
-    <text xml:space="preserve">新攻</text>
+    <original xml:space="preserve">新攻</original>
   </message>
   <message>
     <key>ABILITY_NAME_6</key>
-    <text xml:space="preserve">受得</text>
+    <original xml:space="preserve">受得</original>
   </message>
   <message>
     <key>ABILITY_NAME_50</key>
-    <text xml:space="preserve">鬼狙</text>
+    <original xml:space="preserve">鬼狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_64</key>
-    <text xml:space="preserve">防雷</text>
+    <original xml:space="preserve">防雷</original>
   </message>
   <message>
     <key>ABILITY_NAME_84</key>
-    <text xml:space="preserve">長守</text>
+    <original xml:space="preserve">長守</original>
   </message>
   <message>
     <key>ABILITY_NAME_102</key>
-    <text xml:space="preserve">縄倒</text>
+    <original xml:space="preserve">縄倒</original>
   </message>
   <message>
     <key>ABILITY_NAME_146</key>
-    <text xml:space="preserve">魔狙</text>
+    <original xml:space="preserve">魔狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_169</key>
-    <text xml:space="preserve">雷襲</text>
+    <original xml:space="preserve">雷襲</original>
   </message>
   <message>
     <key>ABILITY_NAME_241</key>
-    <text xml:space="preserve">新防</text>
+    <original xml:space="preserve">新防</original>
   </message>
   <message>
     <key>ABILITY_NAME_25</key>
-    <text xml:space="preserve">軟狙</text>
+    <original xml:space="preserve">軟狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_48</key>
-    <text xml:space="preserve">翼狙</text>
+    <original xml:space="preserve">翼狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_69</key>
-    <text xml:space="preserve">減雷</text>
+    <original xml:space="preserve">減雷</original>
   </message>
   <message>
     <key>ABILITY_NAME_87</key>
-    <text xml:space="preserve">見極</text>
+    <original xml:space="preserve">見極</original>
   </message>
   <message>
     <key>ABILITY_NAME_125</key>
-    <text xml:space="preserve">巨狙</text>
+    <original xml:space="preserve">巨狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_148</key>
-    <text xml:space="preserve">呪狙</text>
+    <original xml:space="preserve">呪狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_173</key>
-    <text xml:space="preserve">霊狙</text>
+    <original xml:space="preserve">霊狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_244</key>
-    <text xml:space="preserve">雨攻</text>
+    <original xml:space="preserve">雨攻</original>
   </message>
   <message>
     <key>ABILITY_NAME_23</key>
-    <text xml:space="preserve">亜狙</text>
+    <original xml:space="preserve">亜狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_49</key>
-    <text xml:space="preserve">鬼護</text>
+    <original xml:space="preserve">鬼護</original>
   </message>
   <message>
     <key>ABILITY_NAME_75</key>
-    <text xml:space="preserve">骨狙</text>
+    <original xml:space="preserve">骨狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_86</key>
-    <text xml:space="preserve">抗意</text>
+    <original xml:space="preserve">抗意</original>
   </message>
   <message>
     <key>ABILITY_NAME_120</key>
-    <text xml:space="preserve">力跳</text>
+    <original xml:space="preserve">力跳</original>
   </message>
   <message>
     <key>ABILITY_NAME_145</key>
-    <text xml:space="preserve">魔護</text>
+    <original xml:space="preserve">魔護</original>
   </message>
   <message>
     <key>ABILITY_NAME_175</key>
-    <text xml:space="preserve">造狙</text>
+    <original xml:space="preserve">造狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_245</key>
-    <text xml:space="preserve">雨防</text>
+    <original xml:space="preserve">雨防</original>
   </message>
   <message>
     <key>ABILITY_NAME_24</key>
-    <text xml:space="preserve">軟護</text>
+    <original xml:space="preserve">軟護</original>
   </message>
   <message>
     <key>ABILITY_NAME_47</key>
-    <text xml:space="preserve">翼護</text>
+    <original xml:space="preserve">翼護</original>
   </message>
   <message>
     <key>ABILITY_NAME_73</key>
-    <text xml:space="preserve">腐狙</text>
+    <original xml:space="preserve">腐狙</original>
   </message>
   <message>
     <key>ABILITY_NAME_88</key>
-    <text xml:space="preserve">堅牢</text>
+    <original xml:space="preserve">堅牢</original>
   </message>
   <message>
     <key>ABILITY_NAME_121</key>
-    <text xml:space="preserve">軽跳</text>
+    <original xml:space="preserve">軽跳</original>
   </message>
   <message>
     <key>ABILITY_NAME_147</key>
-    <text xml:space="preserve">呪護</text>
+    <original xml:space="preserve">呪護</original>
   </message>
   <message>
     <key>ABILITY_NAME_165</key>
-    <text xml:space="preserve">快癒</text>
+    <original xml:space="preserve">快癒</original>
   </message>
   <message>
     <key>ABILITY_NAME_229</key>
-    <text xml:space="preserve">巧掘</text>
+    <original xml:space="preserve">巧掘</original>
   </message>
   <message>
     <key>ABILITY_NAME_22</key>
-    <text xml:space="preserve">亜護</text>
+    <original xml:space="preserve">亜護</original>
   </message>
   <message>
     <key>ABILITY_NAME_31</key>
-    <text xml:space="preserve">巧填</text>
+    <original xml:space="preserve">巧填</original>
   </message>
   <message>
     <key>ABILITY_NAME_74</key>
-    <text xml:space="preserve">骨護</text>
+    <original xml:space="preserve">骨護</original>
   </message>
   <message>
     <key>ABILITY_NAME_77</key>
-    <text xml:space="preserve">貪吸</text>
+    <original xml:space="preserve">貪吸</original>
   </message>
   <message>
     <key>ABILITY_NAME_117</key>
-    <text xml:space="preserve">空撃</text>
+    <original xml:space="preserve">空撃</original>
   </message>
   <message>
     <key>ABILITY_NAME_127</key>
-    <text xml:space="preserve">精唱</text>
+    <original xml:space="preserve">精唱</original>
   </message>
   <message>
     <key>ABILITY_NAME_172</key>
-    <text xml:space="preserve">霊護</text>
+    <original xml:space="preserve">霊護</original>
   </message>
   <message>
     <key>ABILITY_NAME_230</key>
-    <text xml:space="preserve">流断</text>
+    <original xml:space="preserve">流断</original>
   </message>
   <message>
     <key>ABILITY_NAME_10</key>
-    <text xml:space="preserve">壮腕</text>
+    <original xml:space="preserve">壮腕</original>
   </message>
   <message>
     <key>ABILITY_NAME_29</key>
-    <text xml:space="preserve">充矢</text>
+    <original xml:space="preserve">充矢</original>
   </message>
   <message>
     <key>ABILITY_NAME_72</key>
-    <text xml:space="preserve">腐護</text>
+    <original xml:space="preserve">腐護</original>
   </message>
   <message>
     <key>ABILITY_NAME_80</key>
-    <text xml:space="preserve">烈放</text>
+    <original xml:space="preserve">烈放</original>
   </message>
   <message>
     <key>ABILITY_NAME_104</key>
-    <text xml:space="preserve">高跳</text>
+    <original xml:space="preserve">高跳</original>
   </message>
   <message>
     <key>ABILITY_NAME_128</key>
-    <text xml:space="preserve">麗詠</text>
+    <original xml:space="preserve">麗詠</original>
   </message>
   <message>
     <key>ABILITY_NAME_174</key>
-    <text xml:space="preserve">造護</text>
+    <original xml:space="preserve">造護</original>
   </message>
   <message>
     <key>ABILITY_NAME_233</key>
-    <text xml:space="preserve">羽踏</text>
+    <original xml:space="preserve">羽踏</original>
   </message>
   <message>
     <key>ABILITY_NAME_2</key>
-    <text xml:space="preserve">狂刺</text>
+    <original xml:space="preserve">狂刺</original>
   </message>
   <message>
     <key>ABILITY_NAME_35</key>
-    <text xml:space="preserve">威姿</text>
+    <original xml:space="preserve">威姿</original>
   </message>
   <message>
     <key>ABILITY_NAME_51</key>
-    <text xml:space="preserve">緩療</text>
+    <original xml:space="preserve">緩療</original>
   </message>
   <message>
     <key>ABILITY_NAME_95</key>
-    <text xml:space="preserve">専心</text>
+    <original xml:space="preserve">専心</original>
   </message>
   <message>
     <key>ABILITY_NAME_112</key>
-    <text xml:space="preserve">粘着</text>
+    <original xml:space="preserve">粘着</original>
   </message>
   <message>
     <key>ABILITY_NAME_134</key>
-    <text xml:space="preserve">攻闇</text>
+    <original xml:space="preserve">攻闇</original>
   </message>
   <message>
     <key>ABILITY_NAME_156</key>
-    <text xml:space="preserve">延療</text>
+    <original xml:space="preserve">延療</original>
   </message>
   <message>
     <key>ABILITY_NAME_242</key>
-    <text xml:space="preserve">月攻</text>
+    <original xml:space="preserve">月攻</original>
   </message>
   <message>
     <key>ABILITY_NAME_12</key>
-    <text xml:space="preserve">重盾</text>
+    <original xml:space="preserve">重盾</original>
   </message>
   <message>
     <key>ABILITY_NAME_39</key>
-    <text xml:space="preserve">芯撃</text>
+    <original xml:space="preserve">芯撃</original>
   </message>
   <message>
     <key>ABILITY_NAME_61</key>
-    <text xml:space="preserve">我慢</text>
+    <original xml:space="preserve">我慢</original>
   </message>
   <message>
     <key>ABILITY_NAME_96</key>
-    <text xml:space="preserve">堅忍</text>
+    <original xml:space="preserve">堅忍</original>
   </message>
   <message>
     <key>ABILITY_NAME_119</key>
-    <text xml:space="preserve">翻防</text>
+    <original xml:space="preserve">翻防</original>
   </message>
   <message>
     <key>ABILITY_NAME_138</key>
-    <text xml:space="preserve">泰然</text>
+    <original xml:space="preserve">泰然</original>
   </message>
   <message>
     <key>ABILITY_NAME_170</key>
-    <text xml:space="preserve">聖襲</text>
+    <original xml:space="preserve">聖襲</original>
   </message>
   <message>
     <key>ABILITY_NAME_243</key>
-    <text xml:space="preserve">月防</text>
+    <original xml:space="preserve">月防</original>
   </message>
   <message>
     <key>ABILITY_NAME_17</key>
-    <text xml:space="preserve">意地</text>
+    <original xml:space="preserve">意地</original>
   </message>
   <message>
     <key>ABILITY_NAME_45</key>
-    <text xml:space="preserve">射極</text>
+    <original xml:space="preserve">射極</original>
   </message>
   <message>
     <key>ABILITY_NAME_65</key>
-    <text xml:space="preserve">防聖</text>
+    <original xml:space="preserve">防聖</original>
   </message>
   <message>
     <key>ABILITY_NAME_97</key>
-    <text xml:space="preserve">聖体</text>
+    <original xml:space="preserve">聖体</original>
   </message>
   <message>
     <key>ABILITY_NAME_122</key>
-    <text xml:space="preserve">健着</text>
+    <original xml:space="preserve">健着</original>
   </message>
   <message>
     <key>ABILITY_NAME_143</key>
-    <text xml:space="preserve">延浮</text>
+    <original xml:space="preserve">延浮</original>
   </message>
   <message>
     <key>ABILITY_NAME_171</key>
-    <text xml:space="preserve">闇襲</text>
+    <original xml:space="preserve">闇襲</original>
   </message>
   <message>
     <key>ABILITY_NAME_19</key>
-    <text xml:space="preserve">無衝</text>
+    <original xml:space="preserve">無衝</original>
   </message>
   <message>
     <key>ABILITY_NAME_41</key>
-    <text xml:space="preserve">充実</text>
+    <original xml:space="preserve">充実</original>
   </message>
   <message>
     <key>ABILITY_NAME_66</key>
-    <text xml:space="preserve">防闇</text>
+    <original xml:space="preserve">防闇</original>
   </message>
   <message>
     <key>ABILITY_NAME_92</key>
-    <text xml:space="preserve">気鋭</text>
+    <original xml:space="preserve">気鋭</original>
   </message>
   <message>
     <key>ABILITY_NAME_105</key>
-    <text xml:space="preserve">腕力</text>
+    <original xml:space="preserve">腕力</original>
   </message>
   <message>
     <key>ABILITY_NAME_149</key>
-    <text xml:space="preserve">人護</text>
+    <original xml:space="preserve">人護</original>
   </message>
   <message>
     <key>ABILITY_NAME_151</key>
-    <text xml:space="preserve">一勢</text>
+    <original xml:space="preserve">一勢</original>
   </message>
   <message>
     <key>ABILITY_NAME_8</key>
-    <text xml:space="preserve">闘勢</text>
+    <original xml:space="preserve">闘勢</original>
   </message>
   <message>
     <key>ABILITY_NAME_32</key>
-    <text xml:space="preserve">侵矢</text>
+    <original xml:space="preserve">侵矢</original>
   </message>
   <message>
     <key>ABILITY_NAME_55</key>
-    <text xml:space="preserve">攻援</text>
+    <original xml:space="preserve">攻援</original>
   </message>
   <message>
     <key>ABILITY_NAME_76</key>
-    <text xml:space="preserve">積吸</text>
+    <original xml:space="preserve">積吸</original>
   </message>
   <message>
     <key>ABILITY_NAME_103</key>
-    <text xml:space="preserve">避旋</text>
+    <original xml:space="preserve">避旋</original>
   </message>
   <message>
     <key>ABILITY_NAME_133</key>
-    <text xml:space="preserve">攻聖</text>
+    <original xml:space="preserve">攻聖</original>
   </message>
   <message>
     <key>ABILITY_NAME_153</key>
-    <text xml:space="preserve">迅矢</text>
+    <original xml:space="preserve">迅矢</original>
   </message>
   <message>
     <key>ABILITY_NAME_18</key>
-    <text xml:space="preserve">硬台</text>
+    <original xml:space="preserve">硬台</original>
   </message>
   <message>
     <key>ABILITY_NAME_56</key>
-    <text xml:space="preserve">魔援</text>
+    <original xml:space="preserve">魔援</original>
   </message>
   <message>
     <key>ABILITY_NAME_248</key>
-    <text xml:space="preserve">抗毒</text>
+    <original xml:space="preserve">抗毒</original>
   </message>
   <message>
     <key>ABILITY_NAME_249</key>
-    <text xml:space="preserve">抗遅</text>
+    <original xml:space="preserve">抗遅</original>
   </message>
   <message>
     <key>ABILITY_NAME_252</key>
-    <text xml:space="preserve">抗水</text>
+    <original xml:space="preserve">抗水</original>
   </message>
   <message>
     <key>ABILITY_NAME_253</key>
-    <text xml:space="preserve">抗油</text>
+    <original xml:space="preserve">抗油</original>
   </message>
   <message>
     <key>ABILITY_NAME_255</key>
-    <text xml:space="preserve">抗軟</text>
+    <original xml:space="preserve">抗軟</original>
   </message>
   <message>
     <key>ABILITY_NAME_258</key>
-    <text xml:space="preserve">親炎</text>
+    <original xml:space="preserve">親炎</original>
   </message>
   <message>
     <key>ABILITY_NAME_259</key>
-    <text xml:space="preserve">親氷</text>
+    <original xml:space="preserve">親氷</original>
   </message>
   <message>
     <key>ABILITY_NAME_260</key>
-    <text xml:space="preserve">親雷</text>
+    <original xml:space="preserve">親雷</original>
   </message>
   <message>
     <key>ABILITY_NAME_261</key>
-    <text xml:space="preserve">親聖</text>
+    <original xml:space="preserve">親聖</original>
   </message>
   <message>
     <key>ABILITY_NAME_262</key>
-    <text xml:space="preserve">親闇</text>
+    <original xml:space="preserve">親闇</original>
   </message>
   <message>
     <key>ABILITY_NAME_263</key>
-    <text xml:space="preserve">制毒</text>
+    <original xml:space="preserve">制毒</original>
   </message>
   <message>
     <key>ABILITY_NAME_264</key>
-    <text xml:space="preserve">制遅</text>
+    <original xml:space="preserve">制遅</original>
   </message>
   <message>
     <key>ABILITY_NAME_267</key>
-    <text xml:space="preserve">速乾</text>
+    <original xml:space="preserve">速乾</original>
   </message>
   <message>
     <key>ABILITY_NAME_268</key>
-    <text xml:space="preserve">速清</text>
+    <original xml:space="preserve">速清</original>
   </message>
   <message>
     <key>ABILITY_NAME_269</key>
-    <text xml:space="preserve">縮封</text>
+    <original xml:space="preserve">縮封</original>
   </message>
   <message>
     <key>ABILITY_NAME_270</key>
-    <text xml:space="preserve">縮軟</text>
+    <original xml:space="preserve">縮軟</original>
   </message>
   <message>
     <key>ABILITY_NAME_271</key>
-    <text xml:space="preserve">縮石</text>
+    <original xml:space="preserve">縮石</original>
   </message>
   <message>
     <key>ABILITY_NAME_273</key>
-    <text xml:space="preserve">縮焼</text>
+    <original xml:space="preserve">縮焼</original>
   </message>
   <message>
     <key>ABILITY_NAME_274</key>
-    <text xml:space="preserve">縮凍</text>
+    <original xml:space="preserve">縮凍</original>
   </message>
   <message>
     <key>ABILITY_NAME_275</key>
-    <text xml:space="preserve">縮霧</text>
+    <original xml:space="preserve">縮霧</original>
   </message>
   <message>
     <key>ABILITY_NAME_276</key>
-    <text xml:space="preserve">縮炎</text>
+    <original xml:space="preserve">縮炎</original>
   </message>
   <message>
     <key>ABILITY_NAME_277</key>
-    <text xml:space="preserve">縮氷</text>
+    <original xml:space="preserve">縮氷</original>
   </message>
   <message>
     <key>ABILITY_NAME_278</key>
-    <text xml:space="preserve">縮雷</text>
+    <original xml:space="preserve">縮雷</original>
   </message>
   <message>
     <key>ABILITY_NAME_279</key>
-    <text xml:space="preserve">縮聖</text>
+    <original xml:space="preserve">縮聖</original>
   </message>
   <message>
     <key>ABILITY_NAME_280</key>
-    <text xml:space="preserve">縮闇</text>
+    <original xml:space="preserve">縮闇</original>
   </message>
   <message>
     <key>ABILITY_NAME_281</key>
-    <text xml:space="preserve">縮攻</text>
+    <original xml:space="preserve">縮攻</original>
   </message>
   <message>
     <key>ABILITY_NAME_282</key>
-    <text xml:space="preserve">縮防</text>
+    <original xml:space="preserve">縮防</original>
   </message>
   <message>
     <key>ABILITY_NAME_283</key>
-    <text xml:space="preserve">縮念</text>
+    <original xml:space="preserve">縮念</original>
   </message>
   <message>
     <key>ABILITY_NAME_284</key>
-    <text xml:space="preserve">縮衰</text>
+    <original xml:space="preserve">縮衰</original>
   </message>
   <message>
     <key>ABILITY_NAME_291</key>
-    <text xml:space="preserve">奏狩</text>
+    <original xml:space="preserve">奏狩</original>
   </message>
   <message>
     <key>ABILITY_NAME_292</key>
-    <text xml:space="preserve">奏泣</text>
+    <original xml:space="preserve">奏泣</original>
   </message>
   <message>
     <key>ABILITY_NAME_293</key>
-    <text xml:space="preserve">奏隆</text>
+    <original xml:space="preserve">奏隆</original>
   </message>
   <message>
     <key>ABILITY_NAME_294</key>
-    <text xml:space="preserve">奏岩</text>
+    <original xml:space="preserve">奏岩</original>
   </message>
   <message>
     <key>ABILITY_NAME_295</key>
-    <text xml:space="preserve">奏村</text>
+    <original xml:space="preserve">奏村</original>
   </message>
 </resource>

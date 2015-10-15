@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SAME_LETTER_145_256</key>
-    <text xml:space="preserve">Ⅹ</text>
+    <original xml:space="preserve">Ⅹ</original>
   </message>
   <message>
     <key>SAME_LETTER_145_257</key>
-    <text xml:space="preserve">X</text>
+    <original xml:space="preserve">X</original>
   </message>
   <message>
     <key>SAME_LETTER_145_258</key>
-    <text xml:space="preserve">x</text>
+    <original xml:space="preserve">x</original>
   </message>
   <message>
     <key>SAME_LETTER_145_259</key>
-    <text xml:space="preserve">×</text>
+    <original xml:space="preserve">×</original>
   </message>
   <message>
     <key>SAME_LETTER_145_260</key>
-    <text xml:space="preserve">Ｘ</text>
+    <original xml:space="preserve">Ｘ</original>
   </message>
   <message>
     <key>SAME_LETTER_145_261</key>
-    <text xml:space="preserve">ｘ</text>
+    <original xml:space="preserve">ｘ</original>
   </message>
   <message>
     <key>SAME_LETTER_145_262</key>
-    <text xml:space="preserve">Χ</text>
+    <original xml:space="preserve">Χ</original>
   </message>
   <message>
     <key>SAME_LETTER_145_263</key>
-    <text xml:space="preserve">χ</text>
+    <original xml:space="preserve">χ</original>
   </message>
   <message>
     <key>SAME_LETTER_145_264</key>
-    <text xml:space="preserve">Х</text>
+    <original xml:space="preserve">Х</original>
   </message>
   <message>
     <key>SAME_LETTER_145_265</key>
-    <text xml:space="preserve">х</text>
+    <original xml:space="preserve">х</original>
   </message>
 </resource>

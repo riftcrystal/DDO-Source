@@ -1,62 +1,62 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>photo_guide_print</key>
-    <text xml:space="preserve">撮影</text>
+    <original xml:space="preserve">撮影</original>
   </message>
   <message>
     <key>photo_guide_ploff</key>
-    <text xml:space="preserve">プレイヤーを非表示</text>
+    <original xml:space="preserve">プレイヤーを非表示</original>
   </message>
   <message>
     <key>photo_guide_cam_move</key>
-    <text xml:space="preserve">カメラ移動</text>
+    <original xml:space="preserve">カメラ移動</original>
   </message>
   <message>
     <key>photo_guide_cam_roll</key>
-    <text xml:space="preserve">カメラ回転</text>
+    <original xml:space="preserve">カメラ回転</original>
   </message>
   <message>
     <key>photo_guide_zoomin</key>
-    <text xml:space="preserve">ズームイン</text>
+    <original xml:space="preserve">ズームイン</original>
   </message>
   <message>
     <key>photo_guide_zoomout</key>
-    <text xml:space="preserve">ズームアウト</text>
+    <original xml:space="preserve">ズームアウト</original>
   </message>
   <message>
     <key>photo_guide_comm_sc</key>
-    <text xml:space="preserve">コミュニケーションショートカット</text>
+    <original xml:space="preserve">コミュニケーションショートカット</original>
   </message>
   <message>
     <key>photo_guide_album_num</key>
-    <text xml:space="preserve">アルバム保存枚数</text>
+    <original xml:space="preserve">アルバム保存枚数</original>
   </message>
   <message>
     <key>photo_guide_copy_right</key>
-    <text xml:space="preserve">©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</text>
+    <original xml:space="preserve">©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</original>
   </message>
   <message>
     <key>photo_guide_title</key>
-    <text xml:space="preserve">Dragon's Dogma Online*</text>
+    <original xml:space="preserve">Dragon's Dogma Online*</original>
   </message>
   <message>
     <key>photo_frame_title_jp</key>
-    <text xml:space="preserve">Photo Frame</text>
+    <original xml:space="preserve">Photo Frame</original>
   </message>
   <message>
     <key>photo_frame_title_en</key>
-    <text xml:space="preserve">フレーム選択</text>
+    <original xml:space="preserve">フレーム選択</original>
   </message>
   <message>
     <key>photo_savedata_picture_album</key>
-    <text xml:space="preserve">Dragon's Dogma Online</text>
+    <original xml:space="preserve">Dragon's Dogma Online</original>
   </message>
   <message>
     <key>photo_savedata_picture_name</key>
-    <text xml:space="preserve">Dragon's Dogma Online Screen Shot</text>
+    <original xml:space="preserve">Dragon's Dogma Online Screen Shot</original>
   </message>
   <message>
     <key>photo_savedata_picture_info</key>
-    <text xml:space="preserve">Dragon's Dogma Online で撮影したスクリーンショットです</text>
+    <original xml:space="preserve">Dragon's Dogma Online で撮影したスクリーンショットです</original>
   </message>
 </resource>
