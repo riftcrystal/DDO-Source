@@ -18,6 +18,9 @@
     <text xml:space="preserve">よろず屋</text>
   </message>
   <message>
+    <text xml:space="preserve">道具屋</text>
+  </message>
+  <message>
     <text xml:space="preserve">冒険仲介係</text>
   </message>
   <message>
@@ -55,6 +58,9 @@
   </message>
   <message>
     <text xml:space="preserve">レスタニアニュース</text>
+  </message>
+  <message>
+    <text xml:space="preserve">グランドミッション：太古の強者</text>
   </message>
   <message>
     <text xml:space="preserve">宿屋</text>
@@ -189,6 +195,21 @@
     <text xml:space="preserve">よろず屋</text>
   </message>
   <message>
+    <text xml:space="preserve">宿・戦技補佐</text>
+  </message>
+  <message>
+    <text xml:space="preserve">エリアマスター</text>
+  </message>
+  <message>
+    <text xml:space="preserve">道具屋</text>
+  </message>
+  <message>
+    <text xml:space="preserve">素材屋</text>
+  </message>
+  <message>
+    <text xml:space="preserve">冒険仲介係</text>
+  </message>
+  <message>
     <text xml:space="preserve">よろず屋</text>
   </message>
   <message>
@@ -225,19 +246,28 @@
     <text xml:space="preserve">ジョブマスター：ソーサラー</text>
   </message>
   <message>
+    <text xml:space="preserve">宿・ジョブマスター：Ｅアーチャ―</text>
+  </message>
+  <message>
     <text xml:space="preserve">道具屋・ジョブマスター：ハンター</text>
   </message>
   <message>
-    <text xml:space="preserve">ジョブマスター</text>
+    <text xml:space="preserve">ジョブマスター：シーカー</text>
   </message>
   <message>
     <text xml:space="preserve">エリアマスター・宿</text>
+  </message>
+  <message>
+    <text xml:space="preserve">エリアマスター・道具屋</text>
   </message>
   <message>
     <text xml:space="preserve">復活力・ログインスタンプ</text>
   </message>
   <message>
     <text xml:space="preserve">よろず屋</text>
+  </message>
+  <message>
+    <text xml:space="preserve">鑑定交換</text>
   </message>
   <message>
     <text xml:space="preserve">よろず屋</text>

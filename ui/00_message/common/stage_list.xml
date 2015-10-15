@@ -160,6 +160,10 @@
     <text xml:space="preserve">民家</text>
   </message>
   <message>
+    <key>STAGE_NAME_46</key>
+    <text xml:space="preserve">民家</text>
+  </message>
+  <message>
     <key>STAGE_NAME_47</key>
     <text xml:space="preserve">灯台守の家</text>
   </message>
@@ -172,12 +176,20 @@
     <text xml:space="preserve">ラウル武具工房</text>
   </message>
   <message>
+    <key>STAGE_NAME_50</key>
+    <text xml:space="preserve">ブランドン道具店</text>
+  </message>
+  <message>
     <key>STAGE_NAME_51</key>
     <text xml:space="preserve">渓谷の一軒家</text>
   </message>
   <message>
     <key>STAGE_NAME_52</key>
     <text xml:space="preserve">キノザ組合宿　紅水晶亭</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_53</key>
+    <text xml:space="preserve">ドラワン組合宿　眠り狼亭</text>
   </message>
   <message>
     <key>STAGE_NAME_66</key>
@@ -188,8 +200,16 @@
     <text xml:space="preserve">燐光虫の洞窟</text>
   </message>
   <message>
+    <key>STAGE_NAME_68</key>
+    <text xml:space="preserve">ガルドノック砦</text>
+  </message>
+  <message>
     <key>STAGE_NAME_69</key>
     <text xml:space="preserve">ドリード城</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_70</key>
+    <text xml:space="preserve">エルテ・ディナン</text>
   </message>
   <message>
     <key>STAGE_NAME_71</key>
@@ -218,6 +238,10 @@
   <message>
     <key>STAGE_NAME_80</key>
     <text xml:space="preserve">キノザ鉱泉</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_82</key>
+    <text xml:space="preserve">古の祭祀場</text>
   </message>
   <message>
     <key>STAGE_NAME_83</key>
@@ -260,6 +284,10 @@
     <text xml:space="preserve">採掘師の隠れ道</text>
   </message>
   <message>
+    <key>STAGE_NAME_97</key>
+    <text xml:space="preserve">森民の地下道</text>
+  </message>
+  <message>
     <key>STAGE_NAME_98</key>
     <text xml:space="preserve">潮騒洞窟</text>
   </message>
@@ -288,6 +316,26 @@
     <text xml:space="preserve">南壁のひび</text>
   </message>
   <message>
+    <key>STAGE_NAME_105</key>
+    <text xml:space="preserve">秘弓師の住居</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_106</key>
+    <text xml:space="preserve">レ・カルバス・パティーロ</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_107</key>
+    <text xml:space="preserve">レ・カルバス・ロタナ</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_108</key>
+    <text xml:space="preserve">レ・カルバス・サルトー</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_109</key>
+    <text xml:space="preserve">レ・カルバス・アーマ</text>
+  </message>
+  <message>
     <key>STAGE_NAME_110</key>
     <text xml:space="preserve">深緑のテラス</text>
   </message>
@@ -300,6 +348,14 @@
     <text xml:space="preserve">蒼葉のテラス</text>
   </message>
   <message>
+    <key>STAGE_NAME_113</key>
+    <text xml:space="preserve">斜陽のテラス</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_114</key>
+    <text xml:space="preserve">月影のテラス</text>
+  </message>
+  <message>
     <key>STAGE_NAME_115</key>
     <text xml:space="preserve">ドリード排水路</text>
   </message>
@@ -310,6 +366,10 @@
   <message>
     <key>STAGE_NAME_117</key>
     <text xml:space="preserve">地下通用口</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_118</key>
+    <text xml:space="preserve">不浄の地下水道</text>
   </message>
   <message>
     <key>STAGE_NAME_119</key>
@@ -326,6 +386,10 @@
   <message>
     <key>STAGE_NAME_122</key>
     <text xml:space="preserve">浄水区</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_123</key>
+    <text xml:space="preserve">旧騎士団資材庫</text>
   </message>
   <message>
     <key>STAGE_NAME_124</key>
@@ -346,6 +410,14 @@
   <message>
     <key>STAGE_NAME_128</key>
     <text xml:space="preserve">旧鉱泉湧き口</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_129</key>
+    <text xml:space="preserve">生活用水汲み場</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_130</key>
+    <text xml:space="preserve">朽ちかけた井戸</text>
   </message>
   <message>
     <key>STAGE_NAME_133</key>
@@ -380,12 +452,20 @@
     <text xml:space="preserve">異界の狭間</text>
   </message>
   <message>
+    <key>STAGE_NAME_144</key>
+    <text xml:space="preserve">第二のアーク</text>
+  </message>
+  <message>
     <key>STAGE_NAME_146</key>
     <text xml:space="preserve">アーク</text>
   </message>
   <message>
-    <key>STAGE_NAME_149</key>
-    <text xml:space="preserve">湖底連絡路</text>
+    <key>STAGE_NAME_147</key>
+    <text xml:space="preserve">第二のアーク</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_150</key>
+    <text xml:space="preserve">戦鬼の影穴</text>
   </message>
   <message>
     <key>STAGE_NAME_151</key>
@@ -404,6 +484,14 @@
     <text xml:space="preserve">旧騎士団詰め所</text>
   </message>
   <message>
+    <key>STAGE_NAME_155</key>
+    <text xml:space="preserve">バートランド地下道</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_158</key>
+    <text xml:space="preserve">蒼水路</text>
+  </message>
+  <message>
     <key>STAGE_NAME_159</key>
     <text xml:space="preserve">ミスリウ鍾乳洞</text>
   </message>
@@ -414,6 +502,14 @@
   <message>
     <key>STAGE_NAME_161</key>
     <text xml:space="preserve">狩人の抜け穴</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_162</key>
+    <text xml:space="preserve">聖樹のテラス</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_163</key>
+    <text xml:space="preserve">神花のテラス</text>
   </message>
   <message>
     <key>STAGE_NAME_165</key>
@@ -428,8 +524,20 @@
     <text xml:space="preserve">呻きの枯れ井戸</text>
   </message>
   <message>
+    <key>STAGE_NAME_170</key>
+    <text xml:space="preserve">水陰の淵辺</text>
+  </message>
+  <message>
     <key>STAGE_NAME_171</key>
     <text xml:space="preserve">木陰の古井戸</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_172</key>
+    <text xml:space="preserve">妖精の枯れ井戸</text>
+  </message>
+  <message>
+    <key>STAGE_NAME_173</key>
+    <text xml:space="preserve">地下納骨堂</text>
   </message>
   <message>
     <key>STAGE_NAME_174</key>

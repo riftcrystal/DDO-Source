@@ -1,0 +1,25 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">オークの砦――ガルドノック
+うぅ、少し緊張してしまいます――！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">砦の奥、オークの隊長格や将軍格が
+まだまだ残っていそうです――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">こ、こんなに臭いがきついと
+さすがに鼻が――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">き、気を付けていきましょう
+敵の懐の中です――！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">何か役に立ちそうなものがあれば――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">大丈夫です
+こんなとこ、こ、怖いわけじゃ――</text>
+  </message>
+</resource>

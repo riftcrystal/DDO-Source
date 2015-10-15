@@ -47,7 +47,8 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
   <message>
     <key>CUSTOM_SKILL_INFO_05_63</key>
     <text xml:space="preserve">魔法のアンカーを射出し、敵を一定時間拘束する
-大型の敵や一部の強敵には弱体化効果
+大型の敵や一部の強敵には、物攻低下・魔攻低下・
+物防低下・魔防低下の状態異常値を蓄積させる
 &lt;COL ffdc78&gt;LV UP毎に拘束中のスタミナ消費減少
 LV.６で射程距離延長&lt;/COL&gt;</text>
   </message>
@@ -56,5 +57,21 @@ LV.６で射程距離延長&lt;/COL&gt;</text>
     <text xml:space="preserve">大盾に広範囲を防御できる魔法の壁を付加する
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間延長
 LV.６で防御範囲が全方位化&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_65</key>
+    <text xml:space="preserve">属性防御の低下異常値を敵に蓄積させる放射光を放つ
+（ロッドに付与した炎・氷・雷・聖・闇のいずれか）
+フォースゲージ１本以上の時、消費して技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に選択中属性の異常値上昇
+LV.６で照射範囲拡大&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_66</key>
+    <text xml:space="preserve">大盾で敵の攻撃を弾き返し、敵に気絶
+効果のある衝撃を与える
+フォースゲージ１本以上の時、消費して技性能上昇
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で構え持続時間延長&lt;/COL&gt;</text>
   </message>
 </resource>

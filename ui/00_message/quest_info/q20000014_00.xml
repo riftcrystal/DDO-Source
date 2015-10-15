@@ -23,6 +23,6 @@
   </message>
   <message>
     <key>q20000014_00_958</key>
-    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、メイリーフに渡す</text>
+    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、メイリーフに渡す（残り:&lt;SQDI DNUM&gt;）</text>
   </message>
 </resource>

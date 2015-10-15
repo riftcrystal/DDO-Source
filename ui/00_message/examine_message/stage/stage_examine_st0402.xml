@@ -1,0 +1,36 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">オーク語だろうか、歪んだ文字らしきものと
+図が紙に記されている</text>
+  </message>
+  <message>
+    <text xml:space="preserve">図からして、命の器とアークのようだ――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">生々しい爪あとがいくつも内側に
+ついている――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">“血濡れのメモ入り見取り図”</text>
+  </message>
+  <message>
+    <text xml:space="preserve">砦の中枢は２つの大門で守られている
+侵入したとしても、門を突破せねば
+奥へ進むことは不可能だ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">どこかに開門用の装置が２台あるはずだ
+それぞれを起動できれば、門は開くだろう</text>
+  </message>
+  <message>
+    <text xml:space="preserve">オークどもが遠征から戻って来る前に
+装置を見つけられれば、勝機はある</text>
+  </message>
+  <message>
+    <text xml:space="preserve">無事でいてくれ――ミレイア</text>
+  </message>
+  <message>
+    <text xml:space="preserve">扉には鍵がかかっている
+鍵には赤黒い錆びが浮いている――</text>
+  </message>
+</resource>

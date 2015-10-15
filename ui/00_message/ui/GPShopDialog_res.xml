@@ -131,4 +131,8 @@
     <key>OSD_msg_no_history</key>
     <text xml:space="preserve">履歴はありません</text>
   </message>
+  <message>
+    <key>OSD_msg_no_list</key>
+    <text xml:space="preserve">リストはありません</text>
+  </message>
 </resource>

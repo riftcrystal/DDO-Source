@@ -144,10 +144,6 @@
     <text xml:space="preserve">黄金石 &lt;VAL&gt; 個</text>
   </message>
   <message>
-    <key>OS_announce_buy_item</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
-  </message>
-  <message>
     <key>OS_announce_buy_use_item</key>
     <text xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</text>
   </message>
@@ -170,10 +166,6 @@
   <message>
     <key>OS_announce_buyanduse</key>
     <text xml:space="preserve">&lt;NAME ETC&gt; を購入して使用しました</text>
-  </message>
-  <message>
-    <key>OS_announce_buygs</key>
-    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</text>
   </message>
   <message>
     <key>OS_announce_use</key>
@@ -222,20 +214,6 @@
   <message>
     <key>OS_annnounce_nolist</key>
     <text xml:space="preserve">表示するリストがありません</text>
-  </message>
-  <message>
-    <key>OS_annnounce_for_itempost</key>
-    <text xml:space="preserve">装備・アイテムの受け取りは
-アイテムポストをご確認ください</text>
-  </message>
-  <message>
-    <key>OS_annnounce_for_rimstone</key>
-    <text xml:space="preserve">クラフトマスターポーンのご利用は
-リムストーンで行えます</text>
-  </message>
-  <message>
-    <key>OS_annnounce_for_beautyshop</key>
-    <text xml:space="preserve">ポーンボイスの設定は美容院で行えます</text>
   </message>
   <message>
     <key>OS_activetetimer_remaining</key>

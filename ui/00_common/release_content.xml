@@ -76,6 +76,10 @@
     <text xml:space="preserve">ソーサラーのジョブ修練</text>
   </message>
   <message>
+    <key>RELEASE_CONTENT_24</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブ修練</text>
+  </message>
+  <message>
     <key>RELEASE_CONTENT_26</key>
     <text xml:space="preserve">他のジョブへの転職</text>
   </message>

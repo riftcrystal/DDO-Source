@@ -21,11 +21,13 @@
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
-    <text xml:space="preserve">削除するキャラクターを選択してください</text>
+    <text xml:space="preserve">削除するキャラクターを選択してください
+削除したキャラクターは二度と復活できません</text>
   </message>
   <message>
     <key>char_sel_del_info</key>
-    <text xml:space="preserve">削除したキャラクターは二度と復活できません</text>
+    <text xml:space="preserve">
+&lt;COL ffdc78&gt;未使用の黄金石や&lt;OPCS&gt;等もすべて失われます&lt;/COL&gt;</text>
   </message>
   <message>
     <key>char_sel_code_text</key>

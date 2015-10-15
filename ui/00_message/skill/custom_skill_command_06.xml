@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_COMMAND_06_70</key>
     <text xml:space="preserve">セットボタンを押して詠唱、詠唱完了で発動</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_76</key>
+    <text xml:space="preserve">セットボタンを押して詠唱、詠唱完了で発動</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_78</key>
+    <text xml:space="preserve">セットボタンを押して詠唱、詠唱完了で発動</text>
+  </message>
 </resource>

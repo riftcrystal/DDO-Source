@@ -825,4 +825,16 @@
     <key>MSG_NO_CLASS_UP_EXAM</key>
     <text xml:space="preserve">昇格試験がありません</text>
   </message>
+  <message>
+    <key>GUIDE_MSG_CHARACTER_CHANGE</key>
+    <text xml:space="preserve">試着切り替え</text>
+  </message>
+  <message>
+    <key>TITLE_MSG_CHARACTER_CHANGE</key>
+    <text xml:space="preserve">キャラクターを選択してください</text>
+  </message>
+  <message>
+    <key>RECIPE_CATE_MATERIAL_OTHER</key>
+    <text xml:space="preserve">その他</text>
+  </message>
 </resource>

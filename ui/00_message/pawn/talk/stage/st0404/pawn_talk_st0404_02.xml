@@ -1,0 +1,28 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">エルフの都、エルテ・ディナン――
+まるですべてが庭園のような都市ですね</text>
+  </message>
+  <message>
+    <text xml:space="preserve">辺りの樹木はもともと生えていたのでしょうか
+それとも、都が滅んでから
+生えたんでしょうか</text>
+  </message>
+  <message>
+    <text xml:space="preserve">植物が都のほとんどを覆っています
+家財道具や生活の跡もほとんど
+残っていませんね――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">森の魔物が棲みついているようです
+ご注意ください</text>
+  </message>
+  <message>
+    <text xml:space="preserve">植物や虫をあしらった模様が
+いたるところにありますね</text>
+  </message>
+  <message>
+    <text xml:space="preserve">こんな繊細な装飾――！
+すごい技術です</text>
+  </message>
+</resource>

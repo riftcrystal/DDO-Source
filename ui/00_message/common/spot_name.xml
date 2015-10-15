@@ -28,6 +28,10 @@
     <text xml:space="preserve">ホボリック洞穴</text>
   </message>
   <message>
+    <key>SPOT_NAME_457</key>
+    <text xml:space="preserve">ドラワン</text>
+  </message>
+  <message>
     <key>SPOT_NAME_460</key>
     <text xml:space="preserve">ハイデル平原</text>
   </message>
@@ -56,6 +60,14 @@
     <text xml:space="preserve">ミスリウ森林深部</text>
   </message>
   <message>
+    <key>SPOT_NAME_467</key>
+    <text xml:space="preserve">バートランド平原北部</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_470</key>
+    <text xml:space="preserve">ディナン深層林</text>
+  </message>
+  <message>
     <key>SPOT_NAME_471</key>
     <text xml:space="preserve">グリッテン砦</text>
   </message>
@@ -64,8 +76,16 @@
     <text xml:space="preserve">燐光虫の洞窟</text>
   </message>
   <message>
+    <key>SPOT_NAME_473</key>
+    <text xml:space="preserve">ガルドノック砦</text>
+  </message>
+  <message>
     <key>SPOT_NAME_474</key>
     <text xml:space="preserve">ドリード城</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_475</key>
+    <text xml:space="preserve">エルテ・ディナン</text>
   </message>
   <message>
     <key>SPOT_NAME_476</key>
@@ -128,12 +148,24 @@
     <text xml:space="preserve">蒼葉のテラス</text>
   </message>
   <message>
+    <key>SPOT_NAME_494</key>
+    <text xml:space="preserve">神花のテラス</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_495</key>
+    <text xml:space="preserve">レ・カルバス・アーマ</text>
+  </message>
+  <message>
     <key>SPOT_NAME_496</key>
     <text xml:space="preserve">戦鬼の影穴</text>
   </message>
   <message>
     <key>SPOT_NAME_497</key>
     <text xml:space="preserve">バートランド地下道</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_498</key>
+    <text xml:space="preserve">地下納骨堂</text>
   </message>
   <message>
     <key>SPOT_NAME_503</key>
@@ -154,6 +186,10 @@
   <message>
     <key>SPOT_NAME_507</key>
     <text xml:space="preserve">バートランド山道</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_508</key>
+    <text xml:space="preserve">フロックヴァルト大橋</text>
   </message>
   <message>
     <key>SPOT_NAME_509</key>
@@ -212,12 +248,24 @@
     <text xml:space="preserve">灯台下の古井戸</text>
   </message>
   <message>
+    <key>SPOT_NAME_523</key>
+    <text xml:space="preserve">レ・カルパス・サルトー</text>
+  </message>
+  <message>
     <key>SPOT_NAME_524</key>
     <text xml:space="preserve">外に出る</text>
   </message>
   <message>
+    <key>SPOT_NAME_525</key>
+    <text xml:space="preserve">ドラワン教会</text>
+  </message>
+  <message>
     <key>SPOT_NAME_528</key>
     <text xml:space="preserve">謎の礎</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_529</key>
+    <text xml:space="preserve">テゴル川</text>
   </message>
   <message>
     <key>SPOT_NAME_530</key>
@@ -308,6 +356,10 @@
     <text xml:space="preserve">狩人の抜け穴</text>
   </message>
   <message>
+    <key>SPOT_NAME_556</key>
+    <text xml:space="preserve">秘弓師の住居</text>
+  </message>
+  <message>
     <key>SPOT_NAME_557</key>
     <text xml:space="preserve">深緑のテラス</text>
   </message>
@@ -316,8 +368,24 @@
     <text xml:space="preserve">霊泉のテラス</text>
   </message>
   <message>
+    <key>SPOT_NAME_559</key>
+    <text xml:space="preserve">斜陽のテラス</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_560</key>
+    <text xml:space="preserve">月影のテラス</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_561</key>
+    <text xml:space="preserve">聖樹のテラス</text>
+  </message>
+  <message>
     <key>SPOT_NAME_562</key>
     <text xml:space="preserve">旧騎士団連絡路</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_563</key>
+    <text xml:space="preserve">旧騎士団資材庫</text>
   </message>
   <message>
     <key>SPOT_NAME_564</key>
@@ -330,6 +398,10 @@
   <message>
     <key>SPOT_NAME_566</key>
     <text xml:space="preserve">キノザ治水路</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_567</key>
+    <text xml:space="preserve">テゴル治水路</text>
   </message>
   <message>
     <key>SPOT_NAME_569</key>
@@ -412,6 +484,18 @@
     <text xml:space="preserve">森の廃墟地下</text>
   </message>
   <message>
+    <key>SPOT_NAME_593</key>
+    <text xml:space="preserve">妖精の枯れ井戸</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_594</key>
+    <text xml:space="preserve">水陰の淵辺</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_595</key>
+    <text xml:space="preserve">蒼水路</text>
+  </message>
+  <message>
     <key>SPOT_NAME_596</key>
     <text xml:space="preserve">呻きの枯れ井戸</text>
   </message>
@@ -430,6 +514,10 @@
   <message>
     <key>SPOT_NAME_601</key>
     <text xml:space="preserve">大石塊(アーク)</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_602</key>
+    <text xml:space="preserve">朽ちかけた井戸</text>
   </message>
   <message>
     <key>SPOT_NAME_606</key>
@@ -528,6 +616,18 @@
     <text xml:space="preserve">巨人の寝床</text>
   </message>
   <message>
+    <key>SPOT_NAME_635</key>
+    <text xml:space="preserve">グローン・ノス</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_636</key>
+    <text xml:space="preserve">エルネア・スプリング</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_637</key>
+    <text xml:space="preserve">サーズ・ディナン</text>
+  </message>
+  <message>
     <key>SPOT_NAME_638</key>
     <text xml:space="preserve">湖岸の廃墟</text>
   </message>
@@ -538,6 +638,18 @@
   <message>
     <key>SPOT_NAME_640</key>
     <text xml:space="preserve">セラー湖船墓場</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_641</key>
+    <text xml:space="preserve">砦前・千本棘の陣</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_642</key>
+    <text xml:space="preserve">魔犬養育所</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_643</key>
+    <text xml:space="preserve">ガルドノック哨戒地</text>
   </message>
   <message>
     <key>SPOT_NAME_652</key>
@@ -572,6 +684,10 @@
     <text xml:space="preserve">リムの淵辺</text>
   </message>
   <message>
+    <key>SPOT_NAME_670</key>
+    <text xml:space="preserve">第二のアーク</text>
+  </message>
+  <message>
     <key>SPOT_NAME_672</key>
     <text xml:space="preserve">白竜神殿レーゼ（大門前）</text>
   </message>
@@ -602,5 +718,17 @@
   <message>
     <key>SPOT_NAME_679</key>
     <text xml:space="preserve">臥竜のうろ</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_680</key>
+    <text xml:space="preserve">水流制御室</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_681</key>
+    <text xml:space="preserve">聖滝の間</text>
+  </message>
+  <message>
+    <key>SPOT_NAME_682</key>
+    <text xml:space="preserve">中央大水廊</text>
   </message>
 </resource>

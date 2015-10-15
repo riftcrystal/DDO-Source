@@ -105,11 +105,11 @@
   </message>
   <message>
     <key>pawn_command_636</key>
-    <text xml:space="preserve"></text>
+    <text xml:space="preserve">エナジースポット発動</text>
   </message>
   <message>
     <key>pawn_command_637</key>
-    <text xml:space="preserve"></text>
+    <text xml:space="preserve">ソリッドライザー発動</text>
   </message>
   <message>
     <key>pawn_command_638</key>

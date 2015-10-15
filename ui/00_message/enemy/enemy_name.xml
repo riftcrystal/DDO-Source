@@ -40,8 +40,16 @@
     <text xml:space="preserve">モゴック</text>
   </message>
   <message>
+    <key>ENEMY_NAME_12</key>
+    <text xml:space="preserve">ジェネラルオーク</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_13</key>
     <text xml:space="preserve">キャプテンオーク</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_14</key>
+    <text xml:space="preserve">オークバトラー</text>
   </message>
   <message>
     <key>ENEMY_NAME_15</key>
@@ -56,6 +64,10 @@
     <text xml:space="preserve">ディープスライム</text>
   </message>
   <message>
+    <key>ENEMY_NAME_18</key>
+    <text xml:space="preserve">ブロブ</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_19</key>
     <text xml:space="preserve">グラトンウーズ</text>
   </message>
@@ -68,8 +80,16 @@
     <text xml:space="preserve">ベヘモット</text>
   </message>
   <message>
+    <key>ENEMY_NAME_24</key>
+    <text xml:space="preserve">アングルス</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_25</key>
     <text xml:space="preserve">リンドブルム</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_180</key>
+    <text xml:space="preserve">ダムドウルフ</text>
   </message>
   <message>
     <key>ENEMY_NAME_28</key>
@@ -117,7 +137,7 @@
   </message>
   <message>
     <key>ENEMY_NAME_43</key>
-    <text xml:space="preserve">ラージサルファ―</text>
+    <text xml:space="preserve">ラージサルファー</text>
   </message>
   <message>
     <key>ENEMY_NAME_44</key>
@@ -130,6 +150,10 @@
   <message>
     <key>ENEMY_NAME_46</key>
     <text xml:space="preserve">リザードマン</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_48</key>
+    <text xml:space="preserve">コープスパニッシャー</text>
   </message>
   <message>
     <key>ENEMY_NAME_49</key>
@@ -192,6 +216,10 @@
     <text xml:space="preserve">サイクロプス</text>
   </message>
   <message>
+    <key>ENEMY_NAME_71</key>
+    <text xml:space="preserve">モルトロール</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_72</key>
     <text xml:space="preserve">トロール</text>
   </message>
@@ -200,12 +228,20 @@
     <text xml:space="preserve">エント</text>
   </message>
   <message>
+    <key>ENEMY_NAME_74</key>
+    <text xml:space="preserve">グランエント</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_75</key>
     <text xml:space="preserve">コロッサス</text>
   </message>
   <message>
     <key>ENEMY_NAME_76</key>
     <text xml:space="preserve">アーマーサイクロプス</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_78</key>
+    <text xml:space="preserve">ホワイトキメラ</text>
   </message>
   <message>
     <key>ENEMY_NAME_79</key>
@@ -220,6 +256,10 @@
     <text xml:space="preserve">グリフィン</text>
   </message>
   <message>
+    <key>ENEMY_NAME_85</key>
+    <text xml:space="preserve">コカトリス</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_89</key>
     <text xml:space="preserve">スフィンクス</text>
   </message>
@@ -228,12 +268,20 @@
     <text xml:space="preserve">ブルトエイプ</text>
   </message>
   <message>
+    <key>ENEMY_NAME_96</key>
+    <text xml:space="preserve">グール</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_97</key>
     <text xml:space="preserve">ドレッドエイプ</text>
   </message>
   <message>
     <key>ENEMY_NAME_98</key>
     <text xml:space="preserve">オーガ</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_100</key>
+    <text xml:space="preserve">ウィッチ</text>
   </message>
   <message>
     <key>ENEMY_NAME_101</key>
@@ -316,6 +364,10 @@
     <text xml:space="preserve">ポーンメイジ</text>
   </message>
   <message>
+    <key>ENEMY_NAME_126</key>
+    <text xml:space="preserve">ポーンエレメンター</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_128</key>
     <text xml:space="preserve">フォレストゴブリン</text>
   </message>
@@ -372,6 +424,14 @@
     <text xml:space="preserve">オークバンガー</text>
   </message>
   <message>
+    <key>ENEMY_NAME_157</key>
+    <text xml:space="preserve">オークブリンガー</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_158</key>
+    <text xml:space="preserve">オークトルーパー</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_159</key>
     <text xml:space="preserve">キラービー</text>
   </message>
@@ -384,8 +444,16 @@
     <text xml:space="preserve">ゴブリンキング</text>
   </message>
   <message>
+    <key>ENEMY_NAME_168</key>
+    <text xml:space="preserve">ダムドゴブリン</text>
+  </message>
+  <message>
     <key>ENEMY_NAME_169</key>
     <text xml:space="preserve">スリングゴブリンアルケミー</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_170</key>
+    <text xml:space="preserve">シルバーロア</text>
   </message>
   <message>
     <key>ENEMY_NAME_171</key>
@@ -402,5 +470,9 @@
   <message>
     <key>ENEMY_NAME_174</key>
     <text xml:space="preserve">謎の肉塊</text>
+  </message>
+  <message>
+    <key>ENEMY_NAME_179</key>
+    <text xml:space="preserve">？？？</text>
   </message>
 </resource>

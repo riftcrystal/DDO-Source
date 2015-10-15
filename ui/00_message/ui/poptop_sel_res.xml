@@ -273,7 +273,7 @@
   </message>
   <message>
     <key>poptop_entryboard_reentry</key>
-    <text xml:space="preserve">再登録</text>
+    <text xml:space="preserve">再エントリー</text>
   </message>
   <message>
     <key>poptop_entryboard_newspaper</key>
@@ -286,5 +286,25 @@
   <message>
     <key>poptop_rim_stone_lost_pawn</key>
     <text xml:space="preserve">ポーンの救出</text>
+  </message>
+  <message>
+    <key>poptop_entryboard_password_release</key>
+    <text xml:space="preserve">パスワード解除</text>
+  </message>
+  <message>
+    <key>poptop_entryboard_comment_input</key>
+    <text xml:space="preserve">コメント再編集</text>
+  </message>
+  <message>
+    <key>poptop_entryboard_member_check</key>
+    <text xml:space="preserve">メンバー確認</text>
+  </message>
+  <message>
+    <key>poptop_entryboard_entry_invitation_pt</key>
+    <text xml:space="preserve">パーティー招待</text>
+  </message>
+  <message>
+    <key>poptop_entryboard_ready</key>
+    <text xml:space="preserve">準備完了</text>
   </message>
 </resource>

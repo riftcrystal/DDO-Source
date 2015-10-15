@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_NAME_04_54</key>
     <text xml:space="preserve">ソウルエクスプロージョン</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_55</key>
+    <text xml:space="preserve">ソリッドライザー</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_52</key>
+    <text xml:space="preserve">エナジースポット</text>
+  </message>
 </resource>

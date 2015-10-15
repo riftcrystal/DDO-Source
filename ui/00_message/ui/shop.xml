@@ -159,7 +159,7 @@
   </message>
   <message>
     <key>SHOP_TEXT_DIALOG_TRYON</key>
-    <text xml:space="preserve">試着する対象を選択してください</text>
+    <text xml:space="preserve">キャラクターを選択してください</text>
   </message>
   <message>
     <key>SHOP_TEXT_ATTENTIONBUY_BO</key>

@@ -59,4 +59,18 @@ LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</text>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇／仕込み時間短縮
 LV.６で攻撃ヒット数増加／爆風に風圧追加&lt;/COL&gt;</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_30</key>
+    <text xml:space="preserve">ダガーを高速回転させ、敵を巻き込み斬りつける
+&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;で任意方向に移動できる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_31</key>
+    <text xml:space="preserve">シーカーロープを放って敵を捕らえ、反動を利用して
+鋭いスライディング攻撃を繰り出す
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で移動距離が延長&lt;/COL&gt;</text>
+  </message>
 </resource>

@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_NAME_03_35</key>
     <text xml:space="preserve">剛力射ち</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_42</key>
+    <text xml:space="preserve">逆縮地</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_40</key>
+    <text xml:space="preserve">降らし爆炎矢</text>
+  </message>
 </resource>

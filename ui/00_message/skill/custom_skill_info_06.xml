@@ -56,4 +56,17 @@ LV.６で岩塊数が増加（１→２）&lt;/COL&gt;</text>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で隕石弾数が増加（４→７）&lt;/COL&gt;</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_76</key>
+    <text xml:space="preserve">魔力を溜めた後、敵の頭上に落雷を発生させる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で落雷数が増加（３→５）&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_78</key>
+    <text xml:space="preserve">魔力を溜めた後、上空に濃い闇の霧を発生させる
+霧に侵入した全ての敵に継続ダメージを与える
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
+  </message>
 </resource>

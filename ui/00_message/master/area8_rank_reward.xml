@@ -19,4 +19,24 @@
     <key>AREA_RANK_REWARD_115</key>
     <text xml:space="preserve">支援品ランクアップ</text>
   </message>
+  <message>
+    <key>AREA_RANK_REWARD_116</key>
+    <text xml:space="preserve">交通路《バートランド山道～北部》復旧</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_117</key>
+    <text xml:space="preserve">封鎖エリア《不浄の地下水道》開放</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_118</key>
+    <text xml:space="preserve">《セラー湖船墓場》に新たな強敵が出現</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_119</key>
+    <text xml:space="preserve">封鎖エリア《戦鬼の影穴》開放</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_120</key>
+    <text xml:space="preserve">支援品ランクアップ</text>
+  </message>
 </resource>

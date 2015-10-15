@@ -1,0 +1,14 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">――取引か？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">今ある品が全部だ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">気に入るものはないか？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">――何か、買って行け</text>
+  </message>
+</resource>

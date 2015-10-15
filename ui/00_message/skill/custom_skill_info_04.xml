@@ -57,4 +57,19 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
 &lt;COL ffdc78&gt;LV UP毎に発動中のスタミナ消費減少
 LV.６で攻撃威力の上昇／攻撃範囲拡大&lt;/COL&gt;</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_55</key>
+    <text xml:space="preserve">自身を中心に、耐久力を
+一時的に強化する魔法エリアを展開する
+フィールドシフトに対応
+&lt;COL ffdc78&gt;LV UP毎に離脱後の効果持続時間延長
+LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_52</key>
+    <text xml:space="preserve">急速にスタミナを回復させる魔法エリアを
+発現させる（対不死には攻撃）
+&lt;COL ffdc78&gt;LV UP毎に設置持続時間が延長
+LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</text>
+  </message>
 </resource>

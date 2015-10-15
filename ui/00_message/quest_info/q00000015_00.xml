@@ -10,7 +10,11 @@
   </message>
   <message>
     <key>q00000015_00_1009</key>
-    <text xml:space="preserve">森林深部の奥へ向かいエルテ・ディナンを目指す</text>
+    <text xml:space="preserve">秘弓師の住居にいるロンドジールから情報を聞く</text>
+  </message>
+  <message>
+    <key>q00000015_00_1552</key>
+    <text xml:space="preserve">キースヒルトを追っているオークを探し出す</text>
   </message>
   <message>
     <key>q00000015_00_1010</key>
@@ -19,6 +23,14 @@
   <message>
     <key>q00000015_00_1011</key>
     <text xml:space="preserve">エルテ・ディナン中心部へ向かう</text>
+  </message>
+  <message>
+    <key>q00000015_00_1550</key>
+    <text xml:space="preserve">「ディナンの古鍵」を手に入れる</text>
+  </message>
+  <message>
+    <key>q00000015_00_1551</key>
+    <text xml:space="preserve">入手した鍵を使って先に進む</text>
   </message>
   <message>
     <key>q00000015_00_1012</key>

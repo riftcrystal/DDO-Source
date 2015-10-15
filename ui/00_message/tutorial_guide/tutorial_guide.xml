@@ -76,6 +76,10 @@
     <text xml:space="preserve">アイテムの活用</text>
   </message>
   <message>
+    <key>TUTORIAL_57</key>
+    <text xml:space="preserve">エレメントアーチャーの戦術的役割</text>
+  </message>
+  <message>
     <key>TUTORIAL_66</key>
     <text xml:space="preserve">ファイターの戦術的役割</text>
   </message>
@@ -122,6 +126,10 @@
   <message>
     <key>TUTORIAL_79</key>
     <text xml:space="preserve">ソーサラーの戦法：基本</text>
+  </message>
+  <message>
+    <key>TUTORIAL_80</key>
+    <text xml:space="preserve">エレメントアーチャーの戦法：基本</text>
   </message>
   <message>
     <key>TUTORIAL_81</key>
@@ -256,6 +264,10 @@
     <text xml:space="preserve">覚者とは</text>
   </message>
   <message>
+    <key>TUTORIAL_154</key>
+    <text xml:space="preserve">レイドボス戦</text>
+  </message>
+  <message>
     <key>TUTORIAL_155</key>
     <text xml:space="preserve">グリッテン砦攻防戦</text>
   </message>
@@ -356,6 +368,14 @@
     <text xml:space="preserve">ソーサラーの戦法：追記</text>
   </message>
   <message>
+    <key>TUTORIAL_214</key>
+    <text xml:space="preserve">エレメントアーチャーの戦法：追記</text>
+  </message>
+  <message>
+    <key>TUTORIAL_219</key>
+    <text xml:space="preserve">太古の強者</text>
+  </message>
+  <message>
     <key>TUTORIAL_222</key>
     <text xml:space="preserve">ポーンのリアクション設定</text>
   </message>
@@ -404,6 +424,10 @@
     <text xml:space="preserve">エリアマスターの支援品</text>
   </message>
   <message>
+    <key>TUTORIAL_237</key>
+    <text xml:space="preserve">ランキングへの挑戦</text>
+  </message>
+  <message>
     <key>TUTORIAL_238</key>
     <text xml:space="preserve">エリアランクとその上昇</text>
   </message>
@@ -446,5 +470,13 @@
   <message>
     <key>TUTORIAL_252</key>
     <text xml:space="preserve">レスタニア序節　到達</text>
+  </message>
+  <message>
+    <key>TUTORIAL_253</key>
+    <text xml:space="preserve">レスタニア第二節　到達</text>
+  </message>
+  <message>
+    <key>TUTORIAL_255</key>
+    <text xml:space="preserve">鑑定交換</text>
   </message>
 </resource>

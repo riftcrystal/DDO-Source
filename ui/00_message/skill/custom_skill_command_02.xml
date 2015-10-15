@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_COMMAND_02_26</key>
     <text xml:space="preserve">セットボタンを押す</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_30</key>
+    <text xml:space="preserve">セットボタンを押す</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_31</key>
+    <text xml:space="preserve">セットボタンを押す</text>
+  </message>
 </resource>

@@ -16,6 +16,14 @@
     <text xml:space="preserve">神の目覚め</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_522</key>
+    <text xml:space="preserve">闇を纏う娘</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_523</key>
+    <text xml:space="preserve">命の行方</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_528</key>
     <text xml:space="preserve">新兵の心</text>
   </message>
@@ -160,6 +168,18 @@
     <text xml:space="preserve">血濡れの赤帽Ⅲ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_881</key>
+    <text xml:space="preserve">異形の小鬼Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_882</key>
+    <text xml:space="preserve">異形の小鬼Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_883</key>
+    <text xml:space="preserve">異形の小鬼Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_623</key>
     <text xml:space="preserve">ワイルドウルフⅠ</text>
   </message>
@@ -182,6 +202,18 @@
   <message>
     <key>ACHIEVEMENT_NAME_631</key>
     <text xml:space="preserve">貪欲な魔獣Ⅲ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_635</key>
+    <text xml:space="preserve">金の獣牙Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_636</key>
+    <text xml:space="preserve">金の獣牙Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_637</key>
+    <text xml:space="preserve">金の獣牙Ⅲ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_641</key>
@@ -280,6 +312,18 @@
     <text xml:space="preserve">パペットクラッシャーⅢ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_713</key>
+    <text xml:space="preserve">葬儀屋Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_714</key>
+    <text xml:space="preserve">葬儀屋Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_715</key>
+    <text xml:space="preserve">葬儀屋Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_719</key>
     <text xml:space="preserve">歌う鳥妖Ⅰ</text>
   </message>
@@ -341,15 +385,15 @@
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_818</key>
-    <text xml:space="preserve">荒くれ鎮圧Ⅰ</text>
+    <text xml:space="preserve">ゴーストバスターⅠ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_819</key>
-    <text xml:space="preserve">荒くれ鎮圧Ⅱ</text>
+    <text xml:space="preserve">ゴーストバスターⅡ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_820</key>
-    <text xml:space="preserve">荒くれ鎮圧Ⅲ</text>
+    <text xml:space="preserve">ゴーストバスターⅢ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_836</key>
@@ -400,6 +444,18 @@
     <text xml:space="preserve">樹木伐採者Ⅲ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_1297</key>
+    <text xml:space="preserve">森の賢者Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1298</key>
+    <text xml:space="preserve">森の賢者Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1299</key>
+    <text xml:space="preserve">森の賢者Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_938</key>
     <text xml:space="preserve">巨人討伐衆Ⅰ</text>
   </message>
@@ -436,6 +492,18 @@
     <text xml:space="preserve">吠える三つ首Ⅲ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_959</key>
+    <text xml:space="preserve">白き幻獣Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_960</key>
+    <text xml:space="preserve">白き幻獣Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_961</key>
+    <text xml:space="preserve">白き幻獣Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_965</key>
     <text xml:space="preserve">スカイグライダーⅠ</text>
   </message>
@@ -446,6 +514,18 @@
   <message>
     <key>ACHIEVEMENT_NAME_967</key>
     <text xml:space="preserve">スカイグライダーⅢ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_968</key>
+    <text xml:space="preserve">石の上にも１年</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_969</key>
+    <text xml:space="preserve">石の上にも２年</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_970</key>
+    <text xml:space="preserve">石の上にも３年</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_971</key>
@@ -484,6 +564,30 @@
     <text xml:space="preserve">暴れ猿Ⅲ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_1004</key>
+    <text xml:space="preserve">デッドイーターⅠ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1005</key>
+    <text xml:space="preserve">デッドイーターⅡ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1006</key>
+    <text xml:space="preserve">デッドイーターⅢ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1010</key>
+    <text xml:space="preserve">猛るいぶし銀Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1011</key>
+    <text xml:space="preserve">猛るいぶし銀Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1012</key>
+    <text xml:space="preserve">猛るいぶし銀Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_1013</key>
     <text xml:space="preserve">エクソシストⅠ</text>
   </message>
@@ -496,6 +600,18 @@
     <text xml:space="preserve">エクソシストⅢ</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_1016</key>
+    <text xml:space="preserve">異端審問官Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1017</key>
+    <text xml:space="preserve">異端審問官Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1018</key>
+    <text xml:space="preserve">異端審問官Ⅲ</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_1028</key>
     <text xml:space="preserve">雷纏う海魔Ⅰ</text>
   </message>
@@ -506,6 +622,18 @@
   <message>
     <key>ACHIEVEMENT_NAME_1030</key>
     <text xml:space="preserve">雷纏う海魔Ⅲ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1031</key>
+    <text xml:space="preserve">閃光の一角Ⅰ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1032</key>
+    <text xml:space="preserve">閃光の一角Ⅱ</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1033</key>
+    <text xml:space="preserve">閃光の一角Ⅲ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_1034</key>
@@ -636,6 +764,14 @@
     <text xml:space="preserve">魔導の究士</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_1117</key>
+    <text xml:space="preserve">光弾の射手</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1118</key>
+    <text xml:space="preserve">閃弾の射手</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_1133</key>
     <text xml:space="preserve">覚者の教訓</text>
   </message>
@@ -726,6 +862,14 @@
   <message>
     <key>ACHIEVEMENT_NAME_1162</key>
     <text xml:space="preserve">ワイヤーマン</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1164</key>
+    <text xml:space="preserve">秘弓見習い</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1165</key>
+    <text xml:space="preserve">秘弓の使い手</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_1173</key>
@@ -860,6 +1004,10 @@
     <text xml:space="preserve">高名なる甲冑師</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_NAME_1261</key>
+    <text xml:space="preserve">鎧の神様</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_NAME_1262</key>
     <text xml:space="preserve">より良き相棒</text>
   </message>
@@ -937,7 +1085,7 @@
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_1925</key>
-    <text xml:space="preserve">レンジェンド闘牛士</text>
+    <text xml:space="preserve">レジェンド闘牛士</text>
   </message>
   <message>
     <key>ACHIEVEMENT_NAME_1076</key>
@@ -2438,5 +2586,241 @@
   <message>
     <key>ACHIEVEMENT_NAME_1606</key>
     <text xml:space="preserve">ソーサラーのジョブレベルが60になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1666</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが2になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1667</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが3になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1668</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが4になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1669</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが5になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1670</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが6になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1671</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが7になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1672</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが8になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1673</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが9になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1674</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが10になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1675</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが11になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1676</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが12になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1677</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが13になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1678</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが14になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1679</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが15になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1680</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが16になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1681</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが17になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1682</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが18になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1683</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが19になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1684</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが20になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1685</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが21になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1686</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが22になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1687</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが23になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1688</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが24になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1689</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが25になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1690</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが26になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1691</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが27になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1692</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが28になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1693</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが29になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1694</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが30になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1695</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが31になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1696</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが32になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1697</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが33になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1698</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが34になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1699</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが35になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1700</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが36になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1701</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが37になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1702</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが38になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1703</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが39になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1704</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが40になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1705</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが41になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1706</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが42になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1707</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが43になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1708</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが44になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1709</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが45になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1710</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが46になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1711</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが47になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1712</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが48になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1713</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが49になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1714</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが50になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1715</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが51になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1716</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが52になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1717</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが53になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1718</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが54になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1719</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが55になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1720</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが56になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1721</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが57になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1722</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが58になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1723</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが59になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_NAME_1724</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが60になった</text>
   </message>
 </resource>

@@ -937,4 +937,18 @@
     <key>syslog_rentalpoint_lost</key>
     <text xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;消費しました</text>
   </message>
+  <message>
+    <key>syslog_break_region_raid_boss</key>
+    <text xml:space="preserve">&lt;VAL&gt;の部位破壊に成功！
+討伐成功時にボーナス追加！</text>
+  </message>
+  <message>
+    <key>syslog_quest_progress_failed</key>
+    <text xml:space="preserve">＜&lt;NAME QUEST&gt;＞の進行に失敗しました
+クエストログで進行状況を確認してください</text>
+  </message>
+  <message>
+    <key>syslog_break_region_lose_raid_boss</key>
+    <text xml:space="preserve">&lt;VAL&gt;の部位が壊れた！</text>
+  </message>
 </resource>

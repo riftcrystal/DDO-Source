@@ -19,4 +19,24 @@
     <key>AREA_RANK_REWARD_41</key>
     <text xml:space="preserve">支援品ランクアップ</text>
   </message>
+  <message>
+    <key>AREA_RANK_REWARD_42</key>
+    <text xml:space="preserve">交通路《ディナン山道～ディナン深層林》復旧</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_43</key>
+    <text xml:space="preserve">《聖獣の間》に新たな強敵が出現</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_44</key>
+    <text xml:space="preserve">《名もなき廃村》に新たな強敵が出現</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_45</key>
+    <text xml:space="preserve">《巨人の寝床》に新たな強敵が出現</text>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_46</key>
+    <text xml:space="preserve">支援品ランクアップ</text>
+  </message>
 </resource>

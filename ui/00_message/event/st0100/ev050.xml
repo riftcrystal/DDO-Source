@@ -1,0 +1,23 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">見ろ――！？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">なんだ？
+何が起こっている！？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ほーら、こい、こい、こっちへこい！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">モゴック――エルフ野郎の居場所がわかった
+エルテ・ディナンだ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ははっ！　ズールよ、そりゃいい</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ろくでなしども！　引き上げるぞ！
+エルテ・ディナンへ行く</text>
+  </message>
+</resource>

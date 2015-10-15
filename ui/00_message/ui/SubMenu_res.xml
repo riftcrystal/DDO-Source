@@ -211,4 +211,8 @@
     <key>msg_SUB_MENU_SP_DISTRIBUTE</key>
     <text xml:space="preserve">レンタルポイントを割り振る</text>
   </message>
+  <message>
+    <key>msg_SUB_MENU_ENTRY_INVITATION</key>
+    <text xml:space="preserve">エントリーボード招待</text>
+  </message>
 </resource>

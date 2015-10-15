@@ -163,4 +163,8 @@
     <key>REWARD_MSG_ALL_DELETE</key>
     <text xml:space="preserve">報酬を売却しました</text>
   </message>
+  <message>
+    <key>REWARD_MSG_REWARD_PARTS</key>
+    <text xml:space="preserve">部位破壊報酬</text>
+  </message>
 </resource>

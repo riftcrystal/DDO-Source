@@ -24,7 +24,15 @@
     <text xml:space="preserve">ミスリウ森林深部</text>
   </message>
   <message>
+    <key>AREA_NAME_7</key>
+    <text xml:space="preserve">ディナン深層林</text>
+  </message>
+  <message>
     <key>AREA_NAME_8</key>
     <text xml:space="preserve">バートランド平原</text>
+  </message>
+  <message>
+    <key>AREA_NAME_9</key>
+    <text xml:space="preserve">バートランド平原北部</text>
   </message>
 </resource>

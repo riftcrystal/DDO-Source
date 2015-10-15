@@ -1,0 +1,21 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">イリス、どこへ行くの？
+ここには何があるの？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">イリス、やめて！
+変だよ、どうしちゃったの？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">メイリーフの声だ――
+イリスって言ってる――やっぱり――</text>
+  </message>
+  <message>
+    <text xml:space="preserve">メイリーフは俺たちが保護する
+渡してもらおう</text>
+  </message>
+  <message>
+    <text xml:space="preserve">――！？</text>
+  </message>
+</resource>

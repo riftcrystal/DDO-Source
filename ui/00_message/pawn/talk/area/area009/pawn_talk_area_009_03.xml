@@ -1,0 +1,24 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">マスター！
+オーク闊歩するこの地では、特に用心を！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">くっ、やはりこの一帯は荒れていますね
+なんとか我らの手で平穏を取り返すことが
+できるといいのですが――！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">この土埃に混じった強いオーク臭――
+服にまで染みそうです</text>
+  </message>
+  <message>
+    <text xml:space="preserve">オークに魔犬、
+何が立ち塞がろうとも薙ぎ倒すのみッ！！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ガルドノック砦をはじめ、この辺りにも
+旧騎士団の施設が多く残っています
+もっとも、どこも今や魔物の巣窟でしょうが</text>
+  </message>
+</resource>

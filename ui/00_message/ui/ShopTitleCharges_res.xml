@@ -179,4 +179,8 @@
     <key>msg_ShopTitle_Charges44</key>
     <text xml:space="preserve">獲得スコア%s倍！</text>
   </message>
+  <message>
+    <key>msg_ShopTitle_Charges45</key>
+    <text xml:space="preserve">発動中</text>
+  </message>
 </resource>

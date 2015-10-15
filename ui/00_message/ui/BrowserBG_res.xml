@@ -7,4 +7,16 @@
     <key>NFB_MSG_BACK</key>
     <text xml:space="preserve">操作を戻す</text>
   </message>
+  <message>
+    <key>NFB_MSG_RETURN</key>
+    <text xml:space="preserve">戻る</text>
+  </message>
+  <message>
+    <key>NFB_MSG_ADVANCE</key>
+    <text xml:space="preserve">進む</text>
+  </message>
+  <message>
+    <key>NFB_MSG_RELOAD</key>
+    <text xml:space="preserve">更新</text>
+  </message>
 </resource>

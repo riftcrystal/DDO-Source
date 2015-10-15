@@ -220,4 +220,8 @@
     <key>areamaster_msg_area_trial</key>
     <text xml:space="preserve">エリア試練</text>
   </message>
+  <message>
+    <key>areamaster_msg_item_num</key>
+    <text xml:space="preserve"> × &lt;VAL&gt;</text>
+  </message>
 </resource>

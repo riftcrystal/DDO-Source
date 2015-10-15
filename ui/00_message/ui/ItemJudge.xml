@@ -1,0 +1,23 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <key>ItemJudge_000</key>
+    <text xml:space="preserve">どれを鑑定しますか？</text>
+  </message>
+  <message>
+    <key>ItemJudge_001</key>
+    <text xml:space="preserve">(所持数：%d)</text>
+  </message>
+  <message>
+    <key>ItemJudge_002</key>
+    <text xml:space="preserve">鑑定しました。以下の内容でよろしいですか？
+
+　鑑定アイテム ： &lt;VAL&gt; × &lt;VAL&gt;
+　&lt;COL ffdc78&gt;鑑定結果　　 ： &lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>ItemJudge_003</key>
+    <text xml:space="preserve">以下のアイテムを獲得しました
+
+　&lt;COL ffdc78&gt;&lt;VAL&gt; × &lt;VAL&gt;&lt;/COL&gt;</text>
+  </message>
+</resource>

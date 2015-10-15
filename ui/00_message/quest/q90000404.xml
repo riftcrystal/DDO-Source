@@ -1,0 +1,21 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">先の森の
+魔物討伐における報酬を支給している</text>
+  </message>
+  <message>
+    <text xml:space="preserve">まだのものは
+保管ボックスから受け取ってくれ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">先の戦闘評価が終わっている――
+報酬を支給するので受け取ってくれ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">先の魔物討伐の戦果が発表されています</text>
+  </message>
+  <message>
+    <text xml:space="preserve">報酬も支給されていますので
+レスタニアニュースにて確認くださいね</text>
+  </message>
+</resource>

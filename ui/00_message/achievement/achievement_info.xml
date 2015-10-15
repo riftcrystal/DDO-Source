@@ -16,6 +16,14 @@
     <text xml:space="preserve">クエスト「神の目覚め」クリア</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_522</key>
+    <text xml:space="preserve">クエスト「闇を纏う娘」クリア</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_523</key>
+    <text xml:space="preserve">クエスト「命の行方」クリア</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_528</key>
     <text xml:space="preserve">ボードクエスト（討伐）を初めてクリア</text>
   </message>
@@ -160,6 +168,18 @@
     <text xml:space="preserve">《レッドキャップ》系エネミーを300体討伐</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_881</key>
+    <text xml:space="preserve">《錬魔ゴブリン》系エネミーを50体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_882</key>
+    <text xml:space="preserve">《錬魔ゴブリン》系エネミーを200体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_883</key>
+    <text xml:space="preserve">《錬魔ゴブリン》系エネミーを500体討伐</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_623</key>
     <text xml:space="preserve">《ウルフ》系エネミーを50体討伐</text>
   </message>
@@ -182,6 +202,18 @@
   <message>
     <key>ACHIEVEMENT_INFO_631</key>
     <text xml:space="preserve">グリムワーグを300体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_635</key>
+    <text xml:space="preserve">《錬魔オオカミ》系エネミーを50体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_636</key>
+    <text xml:space="preserve">《錬魔オオカミ》系エネミーを100体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_637</key>
+    <text xml:space="preserve">《錬魔オオカミ》系エネミーを300体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_641</key>
@@ -278,6 +310,18 @@
   <message>
     <key>ACHIEVEMENT_INFO_709</key>
     <text xml:space="preserve">《液状人形》系エネミーを500体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_713</key>
+    <text xml:space="preserve">《コープス》系エネミーを30体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_714</key>
+    <text xml:space="preserve">《コープス》系エネミーを100体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_715</key>
+    <text xml:space="preserve">《コープス》系エネミーを300体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_719</key>
@@ -400,12 +444,24 @@
     <text xml:space="preserve">エントを100体討伐</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1297</key>
+    <text xml:space="preserve">グランエントを10体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1298</key>
+    <text xml:space="preserve">グランエントを30体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1299</key>
+    <text xml:space="preserve">グランエントを100体討伐</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_938</key>
     <text xml:space="preserve">《トロール》系エネミーを30体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_939</key>
-    <text xml:space="preserve">《トロール》系エネミーを30体討伐</text>
+    <text xml:space="preserve">《トロール》系エネミーを50体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_940</key>
@@ -436,6 +492,18 @@
     <text xml:space="preserve">キメラを100体討伐</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_959</key>
+    <text xml:space="preserve">ホワイトキメラを10体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_960</key>
+    <text xml:space="preserve">ホワイトキメラを30体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_961</key>
+    <text xml:space="preserve">ホワイトキメラを100体討伐</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_965</key>
     <text xml:space="preserve">グリフィンを10体討伐</text>
   </message>
@@ -446,6 +514,18 @@
   <message>
     <key>ACHIEVEMENT_INFO_967</key>
     <text xml:space="preserve">グリフィンを100体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_968</key>
+    <text xml:space="preserve">コカトリスを10体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_969</key>
+    <text xml:space="preserve">コカトリスを30体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_970</key>
+    <text xml:space="preserve">コカトリスを100体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_971</key>
@@ -484,6 +564,30 @@
     <text xml:space="preserve">《エイプ》系エネミーを200体討伐</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1004</key>
+    <text xml:space="preserve">グールを20体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1005</key>
+    <text xml:space="preserve">グールを50体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1006</key>
+    <text xml:space="preserve">グールを100体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1010</key>
+    <text xml:space="preserve">シルバーロアを20体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1011</key>
+    <text xml:space="preserve">シルバーロアを50体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1012</key>
+    <text xml:space="preserve">シルバーロアを100体討伐</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1013</key>
     <text xml:space="preserve">ワイトを20体討伐</text>
   </message>
@@ -496,6 +600,18 @@
     <text xml:space="preserve">ワイトを100体討伐</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1016</key>
+    <text xml:space="preserve">ウィッチを20体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1017</key>
+    <text xml:space="preserve">ウィッチを50体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1018</key>
+    <text xml:space="preserve">ウィッチを100体討伐</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1028</key>
     <text xml:space="preserve">リンドブルムを10体討伐</text>
   </message>
@@ -506,6 +622,18 @@
   <message>
     <key>ACHIEVEMENT_INFO_1030</key>
     <text xml:space="preserve">リンドブルムを100体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1031</key>
+    <text xml:space="preserve">アングルスを10体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1032</key>
+    <text xml:space="preserve">アングルスを30体討伐</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1033</key>
+    <text xml:space="preserve">アングルスを100体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1034</key>
@@ -521,7 +649,7 @@
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1043</key>
-    <text xml:space="preserve">《オーク》系エネミーを10体討伐</text>
+    <text xml:space="preserve">《オーク》系エネミーを30体討伐</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1044</key>
@@ -558,32 +686,32 @@
   <message>
     <key>ACHIEVEMENT_INFO_1091</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-体力値を初めて強化</text>
+覚者の体力値を初めて強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1092</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-体力値を最大まで強化</text>
+覚者の体力値を20回強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1093</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-スタミナ値を初めて強化</text>
+覚者のスタミナ値を初めて強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1094</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-スタミナ値を最大まで強化</text>
+覚者のスタミナ値を28回強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1095</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-アビリティコストを初めて強化</text>
+覚者のアビリティコストを初めて強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1096</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-アビリティコストを最大まで強化</text>
+覚者のアビリティコストを12回強化</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1097</key>
@@ -593,7 +721,7 @@
   <message>
     <key>ACHIEVEMENT_INFO_1098</key>
     <text xml:space="preserve">白竜にブラッドオーブを捧げ
-メインポーン契約枠を最大まで増加</text>
+サポートポーン雇用枠を2回増加</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1099</key>
@@ -656,44 +784,54 @@
 40に到達</text>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_1117</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが
+10に到達</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1118</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが
+40に到達</text>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_1133</key>
-    <text xml:space="preserve">カスタムスキルを
-ショップリストで10種習得</text>
+    <text xml:space="preserve">カスタムスキルを10回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1134</key>
-    <text xml:space="preserve">カスタムスキルを
-ショップリストで50種習得</text>
+    <text xml:space="preserve">カスタムスキルを50回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1135</key>
-    <text xml:space="preserve">カスタムスキルを
-ショップリストで100種習得</text>
+    <text xml:space="preserve">カスタムスキルを100回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1136</key>
-    <text xml:space="preserve">カスタムスキルを
-ショップリストで300種習得</text>
+    <text xml:space="preserve">カスタムスキルを300回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1137</key>
-    <text xml:space="preserve">アビリティを
-ショップリストで10種習得</text>
+    <text xml:space="preserve">アビリティを10回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1138</key>
-    <text xml:space="preserve">アビリティを
-ショップリストで100種習得</text>
+    <text xml:space="preserve">アビリティを100回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1139</key>
-    <text xml:space="preserve">アビリティを
-ショップリストで300種習得</text>
+    <text xml:space="preserve">アビリティを300回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1140</key>
-    <text xml:space="preserve">アビリティを
-ショップリストで500種習得</text>
+    <text xml:space="preserve">アビリティを500回
+習得、またはレベルアップ</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1143</key>
@@ -765,6 +903,16 @@
   <message>
     <key>ACHIEVEMENT_INFO_1162</key>
     <text xml:space="preserve">メインポーン（シーカー）の
+ジョブレベルが40に到達</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1164</key>
+    <text xml:space="preserve">メインポーン（エレメントアーチャー）の
+ジョブレベルが10に到達</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1165</key>
+    <text xml:space="preserve">メインポーン（エレメントアーチャー）の
 ジョブレベルが40に到達</text>
   </message>
   <message>
@@ -902,6 +1050,10 @@
   <message>
     <key>ACHIEVEMENT_INFO_1260</key>
     <text xml:space="preserve">クラフトにより防具を300種作成</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1261</key>
+    <text xml:space="preserve">クラフトにより防具を500種作成</text>
   </message>
   <message>
     <key>ACHIEVEMENT_INFO_1262</key>
@@ -2482,5 +2634,241 @@
   <message>
     <key>ACHIEVEMENT_INFO_1606</key>
     <text xml:space="preserve">ソーサラーのジョブレベルが60になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1666</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが2になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1667</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが3になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1668</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが4になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1669</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが5になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1670</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが6になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1671</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが7になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1672</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが8になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1673</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが9になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1674</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが10になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1675</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが11になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1676</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが12になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1677</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが13になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1678</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが14になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1679</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが15になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1680</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが16になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1681</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが17になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1682</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが18になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1683</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが19になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1684</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが20になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1685</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが21になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1686</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが22になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1687</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが23になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1688</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが24になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1689</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが25になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1690</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが26になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1691</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが27になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1692</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが28になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1693</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが29になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1694</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが30になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1695</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが31になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1696</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが32になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1697</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが33になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1698</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが34になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1699</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが35になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1700</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが36になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1701</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが37になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1702</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが38になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1703</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが39になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1704</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが40になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1705</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが41になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1706</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが42になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1707</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが43になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1708</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが44になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1709</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが45になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1710</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが46になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1711</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが47になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1712</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが48になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1713</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが49になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1714</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが50になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1715</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが51になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1716</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが52になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1717</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが53になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1718</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが54になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1719</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが55になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1720</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが56になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1721</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが57になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1722</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが58になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1723</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが59になった</text>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_INFO_1724</key>
+    <text xml:space="preserve">エレメントアーチャーのジョブレベルが60になった</text>
   </message>
 </resource>

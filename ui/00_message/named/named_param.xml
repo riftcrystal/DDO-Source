@@ -140,6 +140,74 @@
     <text xml:space="preserve">召喚されし牙竜</text>
   </message>
   <message>
+    <key>namedparam_149</key>
+    <text xml:space="preserve">異形のオオカミ</text>
+  </message>
+  <message>
+    <key>namedparam_150</key>
+    <text xml:space="preserve">異形のゴブリン</text>
+  </message>
+  <message>
+    <key>namedparam_151</key>
+    <text xml:space="preserve">異形のゴブリン</text>
+  </message>
+  <message>
+    <key>namedparam_152</key>
+    <text xml:space="preserve">オーク尖兵</text>
+  </message>
+  <message>
+    <key>namedparam_153</key>
+    <text xml:space="preserve">オーク侵略兵</text>
+  </message>
+  <message>
+    <key>namedparam_154</key>
+    <text xml:space="preserve">軍狼</text>
+  </message>
+  <message>
+    <key>namedparam_155</key>
+    <text xml:space="preserve">オーク軍指揮官</text>
+  </message>
+  <message>
+    <key>namedparam_156</key>
+    <text xml:space="preserve">オーク突撃兵</text>
+  </message>
+  <message>
+    <key>namedparam_157</key>
+    <text xml:space="preserve">軍竜</text>
+  </message>
+  <message>
+    <key>namedparam_158</key>
+    <text xml:space="preserve">オーク追撃兵</text>
+  </message>
+  <message>
+    <key>namedparam_159</key>
+    <text xml:space="preserve">オーク軍指揮官</text>
+  </message>
+  <message>
+    <key>namedparam_160</key>
+    <text xml:space="preserve">オーク突撃兵</text>
+  </message>
+  <message>
+    <key>namedparam_161</key>
+    <text xml:space="preserve">オーク投撃兵</text>
+  </message>
+  <message>
+    <key>namedparam_162</key>
+    <text xml:space="preserve">オーク軍少将</text>
+  </message>
+  <message>
+    <key>namedparam_163</key>
+    <text xml:space="preserve">番兵</text>
+  </message>
+  <message>
+    <key>namedparam_164</key>
+    <text xml:space="preserve">オーク兵</text>
+  </message>
+  <message>
+    <key>namedparam_165</key>
+    <text xml:space="preserve">オーク精鋭兵</text>
+  </message>
+  <message>
     <key>namedparam_187</key>
     <text xml:space="preserve">兎喰らいの</text>
   </message>
@@ -268,6 +336,14 @@
     <text xml:space="preserve">盾破りのオッド</text>
   </message>
   <message>
+    <key>namedparam_225</key>
+    <text xml:space="preserve">レイクニュート</text>
+  </message>
+  <message>
+    <key>namedparam_226</key>
+    <text xml:space="preserve">セラー湖の水竜</text>
+  </message>
+  <message>
     <key>namedparam_227</key>
     <text xml:space="preserve">葉影の密猟者</text>
   </message>
@@ -276,12 +352,76 @@
     <text xml:space="preserve">密猟者の護衛</text>
   </message>
   <message>
+    <key>namedparam_229</key>
+    <text xml:space="preserve">忘れられた亡霊</text>
+  </message>
+  <message>
+    <key>namedparam_230</key>
+    <text xml:space="preserve">目覚めし亡者</text>
+  </message>
+  <message>
+    <key>namedparam_231</key>
+    <text xml:space="preserve">さまよう亡者</text>
+  </message>
+  <message>
+    <key>namedparam_232</key>
+    <text xml:space="preserve">帰還のヨトン</text>
+  </message>
+  <message>
     <key>namedparam_233</key>
     <text xml:space="preserve">コバルトニュート</text>
   </message>
   <message>
+    <key>namedparam_234</key>
+    <text xml:space="preserve">遠征準備の小隊長</text>
+  </message>
+  <message>
+    <key>namedparam_235</key>
+    <text xml:space="preserve">オーク遊撃兵</text>
+  </message>
+  <message>
+    <key>namedparam_236</key>
+    <text xml:space="preserve">オーク偵察兵</text>
+  </message>
+  <message>
+    <key>namedparam_241</key>
+    <text xml:space="preserve">淀みの泥人形</text>
+  </message>
+  <message>
+    <key>namedparam_242</key>
+    <text xml:space="preserve">淀みの水精</text>
+  </message>
+  <message>
+    <key>namedparam_243</key>
+    <text xml:space="preserve">泉の徘徊霊</text>
+  </message>
+  <message>
+    <key>namedparam_245</key>
+    <text xml:space="preserve">泉の徘徊霊</text>
+  </message>
+  <message>
+    <key>namedparam_246</key>
+    <text xml:space="preserve">泉の徘徊霊</text>
+  </message>
+  <message>
+    <key>namedparam_247</key>
+    <text xml:space="preserve">泉の徘徊霊</text>
+  </message>
+  <message>
+    <key>namedparam_248</key>
+    <text xml:space="preserve">エルフイーター・</text>
+  </message>
+  <message>
+    <key>namedparam_264</key>
+    <text xml:space="preserve">白獅子アルバス</text>
+  </message>
+  <message>
     <key>namedparam_265</key>
     <text xml:space="preserve">斥候のコロッサス</text>
+  </message>
+  <message>
+    <key>namedparam_267</key>
+    <text xml:space="preserve">強襲用コロッサス</text>
   </message>
   <message>
     <key>namedparam_283</key>
@@ -404,6 +544,18 @@
     <text xml:space="preserve">いびき鳴り</text>
   </message>
   <message>
+    <key>namedparam_342</key>
+    <text xml:space="preserve">魔女の従僕</text>
+  </message>
+  <message>
+    <key>namedparam_343</key>
+    <text xml:space="preserve">魔女マリヴェラ</text>
+  </message>
+  <message>
+    <key>namedparam_344</key>
+    <text xml:space="preserve">魔女の従僕</text>
+  </message>
+  <message>
     <key>namedparam_345</key>
     <text xml:space="preserve">死体齧りの</text>
   </message>
@@ -412,12 +564,60 @@
     <text xml:space="preserve">グレイブワーグ</text>
   </message>
   <message>
+    <key>namedparam_347</key>
+    <text xml:space="preserve">戦鬼ゲソム</text>
+  </message>
+  <message>
+    <key>namedparam_348</key>
+    <text xml:space="preserve">戦鬼の副官</text>
+  </message>
+  <message>
     <key>namedparam_349</key>
     <text xml:space="preserve">蒼葉の</text>
   </message>
   <message>
     <key>namedparam_350</key>
     <text xml:space="preserve">蒼葉の</text>
+  </message>
+  <message>
+    <key>namedparam_351</key>
+    <text xml:space="preserve">“白い災厄”エルダーアングルス</text>
+  </message>
+  <message>
+    <key>namedparam_352</key>
+    <text xml:space="preserve">影穴の軍狼</text>
+  </message>
+  <message>
+    <key>namedparam_353</key>
+    <text xml:space="preserve">影穴の部隊兵</text>
+  </message>
+  <message>
+    <key>namedparam_354</key>
+    <text xml:space="preserve">神花の</text>
+  </message>
+  <message>
+    <key>namedparam_357</key>
+    <text xml:space="preserve">ケイブ・</text>
+  </message>
+  <message>
+    <key>namedparam_358</key>
+    <text xml:space="preserve">テゴル不死兵</text>
+  </message>
+  <message>
+    <key>namedparam_359</key>
+    <text xml:space="preserve">納骨堂の屍食鬼</text>
+  </message>
+  <message>
+    <key>namedparam_360</key>
+    <text xml:space="preserve">ドラワン不死兵</text>
+  </message>
+  <message>
+    <key>namedparam_363</key>
+    <text xml:space="preserve">ピット・</text>
+  </message>
+  <message>
+    <key>namedparam_364</key>
+    <text xml:space="preserve">分隊</text>
   </message>
   <message>
     <key>namedparam_387</key>
@@ -622,5 +822,77 @@
   <message>
     <key>namedparam_484</key>
     <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>namedparam_485</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_488</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_489</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_490</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_491</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_492</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_493</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_494</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_495</key>
+    <text xml:space="preserve">ディナン・ピアサー</text>
+  </message>
+  <message>
+    <key>namedparam_497</key>
+    <text xml:space="preserve">賞金首</text>
+  </message>
+  <message>
+    <key>namedparam_498</key>
+    <text xml:space="preserve">金装のスケルトン</text>
+  </message>
+  <message>
+    <key>namedparam_499</key>
+    <text xml:space="preserve">錬術の女守官</text>
+  </message>
+  <message>
+    <key>namedparam_500</key>
+    <text xml:space="preserve">テイムド・</text>
+  </message>
+  <message>
+    <key>namedparam_501</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>namedparam_502</key>
+    <text xml:space="preserve"></text>
+  </message>
+  <message>
+    <key>namedparam_506</key>
+    <text xml:space="preserve">穢れの大魔像</text>
+  </message>
+  <message>
+    <key>namedparam_507</key>
+    <text xml:space="preserve">ケイブレイダー</text>
+  </message>
+  <message>
+    <key>namedparam_508</key>
+    <text xml:space="preserve">大騒音の主</text>
   </message>
 </resource>

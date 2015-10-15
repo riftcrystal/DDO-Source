@@ -32,8 +32,16 @@
     <text xml:space="preserve">「油濡れ」解消</text>
   </message>
   <message>
+    <key>ITEM_WORK_9</key>
+    <text xml:space="preserve">「封印」解消</text>
+  </message>
+  <message>
     <key>ITEM_WORK_10</key>
     <text xml:space="preserve">「軟化」解消</text>
+  </message>
+  <message>
+    <key>ITEM_WORK_11</key>
+    <text xml:space="preserve">「石化」解消</text>
   </message>
   <message>
     <key>ITEM_WORK_13</key>

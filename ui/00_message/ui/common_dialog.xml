@@ -869,7 +869,7 @@
   <message>
     <key>ana_mitem_opt_alert</key>
     <text xml:space="preserve">【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
-※&lt;OPCS&gt;は受け取ると、効果が発動します</text>
+※&lt;OPCS&gt;は受け取ると発動します</text>
   </message>
   <message>
     <key>ana_mitem_get_num</key>
@@ -907,7 +907,7 @@
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
-    <text xml:space="preserve">&lt;OPCS&gt;  x &lt;VAL&gt; の効果を獲得しました</text>
+    <text xml:space="preserve">&lt;OPCS&gt;  x &lt;VAL&gt; を発動しました</text>
   </message>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
@@ -979,11 +979,11 @@
   </message>
   <message>
     <key>ana_charge_course_limit_1h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り1時間をきりました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り1時間をきりました</text>
   </message>
   <message>
     <key>ana_charge_course_limit_24h</key>
-    <text xml:space="preserve">&lt;NAME ETC&gt; の効果が、残り24時間をきりました</text>
+    <text xml:space="preserve">&lt;NAME ETC&gt; の期限が、残り24時間をきりました</text>
   </message>
   <message>
     <key>ana_charge_course_end</key>
@@ -1139,7 +1139,7 @@
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
-    <text xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の効果により利用可能です</text>
+    <text xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</text>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_frame</key>
@@ -1280,8 +1280,7 @@
   </message>
   <message>
     <key>ana_box_err_exspace</key>
-    <text xml:space="preserve">拡張枠は使用できません
-＜&lt;OPCS&gt;＞の効果により収納可能になります</text>
+    <text xml:space="preserve">拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</text>
   </message>
   <message>
     <key>ana_input_device_err_pad</key>
@@ -1297,7 +1296,7 @@
   </message>
   <message>
     <key>ana_notion_exbox_without_charge</key>
-    <text xml:space="preserve">本ボックスは＜&lt;OPCS&gt;＞の効果により利用可能です</text>
+    <text xml:space="preserve">本ボックスは＜&lt;OPCS&gt;＞の発動中に使用可能となります</text>
   </message>
   <message>
     <key>ana_dialog_areatest</key>
@@ -1627,7 +1626,7 @@
   </message>
   <message>
     <key>ana_rimstone_menu_ex_lost_pawn</key>
-    <text xml:space="preserve">＜&lt;OPCS&gt;＞の効果により利用可能です</text>
+    <text xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</text>
   </message>
   <message>
     <key>ana_skill_release_order_start</key>
@@ -1662,7 +1661,7 @@
   </message>
   <message>
     <key>ana_error_no_target_opcs</key>
-    <text xml:space="preserve">＜&lt;OPCS&gt;＞の効果により利用可能です</text>
+    <text xml:space="preserve">＜&lt;OPCS&gt;＞の発動中に使用可能となります</text>
   </message>
   <message>
     <key>ana_simple_req_notfound</key>
@@ -1675,5 +1674,99 @@
   <message>
     <key>ana_play_news</key>
     <text xml:space="preserve">レスタニアニュースで遊ぶ</text>
+  </message>
+  <message>
+    <key>ana_request_entry_invitation</key>
+    <text xml:space="preserve">エントリーボードに招待されました</text>
+  </message>
+  <message>
+    <key>ana_entry_password_release_conf</key>
+    <text xml:space="preserve">パスワードを解除します。よろしいですか？</text>
+  </message>
+  <message>
+    <key>ana_entry_password_release_deci</key>
+    <text xml:space="preserve">パスワードを解除しました</text>
+  </message>
+  <message>
+    <key>ana_entry_comment_input</key>
+    <text xml:space="preserve">コメントを入力してください</text>
+  </message>
+  <message>
+    <key>ana_entry_comment_change</key>
+    <text xml:space="preserve">コメントを変更しました</text>
+  </message>
+  <message>
+    <key>ana_entry_invitation_pl_conf</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;を
+エントリーボードに招待します。よろしいですか？</text>
+  </message>
+  <message>
+    <key>ana_entry_invitation_pt_conf</key>
+    <text xml:space="preserve">パーティーメンバーを
+エントリーボードに招待します。よろしいですか？</text>
+  </message>
+  <message>
+    <key>ana_entry_invitation_pl_deci</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;を
+エントリーボードに招待しました</text>
+  </message>
+  <message>
+    <key>ana_entry_invitation_pt_deci</key>
+    <text xml:space="preserve">パーティーメンバーを
+エントリーボードに招待しました</text>
+  </message>
+  <message>
+    <key>ana_get_gmission_reward</key>
+    <text xml:space="preserve">を獲得！</text>
+  </message>
+  <message>
+    <key>ana_totalscore_reward</key>
+    <text xml:space="preserve">累計スコア報酬を獲得！</text>
+  </message>
+  <message>
+    <key>ana_totalscore_ability_reward</key>
+    <text xml:space="preserve">累計スコア報酬で
+シークレットアビリティを獲得！</text>
+  </message>
+  <message>
+    <key>ana_ranking_reward</key>
+    <text xml:space="preserve">ランキング報酬を獲得！</text>
+  </message>
+  <message>
+    <key>ana_ranking_ability_reward</key>
+    <text xml:space="preserve">ランキング報酬で
+シークレットアビリティを獲得！</text>
+  </message>
+  <message>
+    <key>OS_announce_buy_item</key>
+    <text xml:space="preserve">&lt;NAME ETC&gt; を購入しました</text>
+  </message>
+  <message>
+    <key>OS_announce_buygs</key>
+    <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を購入しました</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_itempost</key>
+    <text xml:space="preserve">装備・アイテムの受け取りは
+アイテムポストをご確認ください</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_rimstone</key>
+    <text xml:space="preserve">クラフトマスターポーンのご利用は
+リムストーンで行えます</text>
+  </message>
+  <message>
+    <key>OS_annnounce_for_beautyshop</key>
+    <text xml:space="preserve">ポーンボイスの設定は美容院で行えます</text>
+  </message>
+  <message>
+    <key>ana_party_join_leader_name_info</key>
+    <text xml:space="preserve">クイックパーティーで合流しました
+目的を共有しあい、冒険を楽しみましょう
+リーダーは &lt;NAME TARGET&gt; です</text>
+  </message>
+  <message>
+    <key>ana_main_quest_accept_error_party_inviting</key>
+    <text xml:space="preserve">パーティー要請中のため、メインクエストを受注できません</text>
   </message>
 </resource>

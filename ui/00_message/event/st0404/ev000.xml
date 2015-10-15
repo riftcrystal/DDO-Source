@@ -1,0 +1,17 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">あれを見ろ！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">くそっ！　優男を死なせるな！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">逃がすな！　　捕まえろ！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">おい、頼んだぞ！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">（息遣い）</text>
+  </message>
+</resource>

@@ -41,7 +41,7 @@ LV.６で受付時間延長／
     <key>CUSTOM_SKILL_INFO_01_9</key>
     <text xml:space="preserve">跳躍し、鋭い一撃を放って下方に突き立てる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</text>
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</text>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_11</key>
@@ -56,5 +56,18 @@ LV.６で速度上昇／最大攻撃回数増加（５→８）&lt;/COL&gt;</tex
 のけぞり中にも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_18</key>
+    <text xml:space="preserve">盾を構えながら素早く踏み込む
+&lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により特定方向に移動できる
+&lt;COL ffdc78&gt;LV UP毎に防御性能の上昇／スタミナ消費減少
+LV.６で移動速度上昇／移動方向に左右追加&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_01_16</key>
+    <text xml:space="preserve">素早く剣を突き、直後に引き抜く二段攻撃を放つ
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</text>
   </message>
 </resource>

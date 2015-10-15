@@ -27,4 +27,8 @@
     <key>JOB_NAME_6</key>
     <text xml:space="preserve">ソーサラー</text>
   </message>
+  <message>
+    <key>JOB_NAME_8</key>
+    <text xml:space="preserve">エレメントアーチャー</text>
+  </message>
 </resource>

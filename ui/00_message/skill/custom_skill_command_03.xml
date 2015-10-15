@@ -32,4 +32,12 @@
     <key>CUSTOM_SKILL_COMMAND_03_35</key>
     <text xml:space="preserve">&lt;PADM&gt;セットボタンで構え後、&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;で発射&lt;KEYM&gt;セットボタンで構え後、セットボタンで発射</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_42</key>
+    <text xml:space="preserve">セットボタンを押す</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_40</key>
+    <text xml:space="preserve">&lt;PADM&gt;セットボタンで構え後、&lt;ICON PAD_L2&gt;または&lt;ICON PAD_R2&gt;で発射&lt;KEYM&gt;セットボタンで構え後、セットボタンで発射</text>
+  </message>
 </resource>

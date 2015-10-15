@@ -91,4 +91,12 @@
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
     <text xml:space="preserve">女</text>
   </message>
+  <message>
+    <key>RIM_POP_MSG_SEARCH_JOB</key>
+    <text xml:space="preserve">ジョブで探す</text>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
+    <text xml:space="preserve">クラフトスキルで探す</text>
+  </message>
 </resource>

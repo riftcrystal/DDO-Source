@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_NAME_06_70</key>
     <text xml:space="preserve">メテオフォール</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_06_76</key>
+    <text xml:space="preserve">サンダーレイン</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_06_78</key>
+    <text xml:space="preserve">ダークネスミスト</text>
+  </message>
 </resource>

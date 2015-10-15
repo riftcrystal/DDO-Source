@@ -9,15 +9,27 @@
   </message>
   <message>
     <key>q00000012_00_993</key>
-    <text xml:space="preserve">目撃者を探し話を聞く</text>
+    <text xml:space="preserve">白竜神殿のパメラから話を聞く</text>
   </message>
   <message>
     <key>q00000012_00_994</key>
     <text xml:space="preserve">情報をもとにリンウッドへ向かう</text>
   </message>
   <message>
+    <key>q00000012_00_1545</key>
+    <text xml:space="preserve">ミスリウ森林深部のクリスティーヌから情報を得る</text>
+  </message>
+  <message>
+    <key>q00000012_00_1546</key>
+    <text xml:space="preserve">ミスリウ森林深部のワールドクエストを1個クリアする</text>
+  </message>
+  <message>
+    <key>q00000012_00_1547</key>
+    <text xml:space="preserve">クリスティーヌに報告する</text>
+  </message>
+  <message>
     <key>q00000012_00_995</key>
-    <text xml:space="preserve">情報をもとに森の奥にある湖へ向かう</text>
+    <text xml:space="preserve">情報をもとにイニアス湖南東にある小島の方へ向かう</text>
   </message>
   <message>
     <key>q00000012_00_996</key>

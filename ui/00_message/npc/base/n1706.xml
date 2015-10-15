@@ -1,0 +1,22 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">素材を扱っていますよ
+見ていかれますか？</text>
+  </message>
+  <message>
+    <text xml:space="preserve">植物や鉱石の採取もここでは命がけです
+くれぐれも、あなたも警戒を</text>
+  </message>
+  <message>
+    <text xml:space="preserve">バートランド北部にしか自生していない植物や
+発見されていない鉱石もかなりの数があります</text>
+  </message>
+  <message>
+    <text xml:space="preserve">南へ行けば、もっと高値で取引き
+されるのでしょうね</text>
+  </message>
+  <message>
+    <text xml:space="preserve">薬草一つが命綱となることもあります
+特に、ここドラワンのような環境では</text>
+  </message>
+</resource>

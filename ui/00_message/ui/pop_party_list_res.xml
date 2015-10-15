@@ -214,8 +214,8 @@
   <message>
     <key>PopPartyList_QuickPartyEdit_Warning</key>
     <text xml:space="preserve">※進行に変化があった場合は、クイックパーティーの登録が解除されます
-※パーティーにポーンがいる場合は、クイックパーティー合流時に
-　パーティーから外れます</text>
+※パーティー内のポーンは、合流時にパーティーから外れます
+※登録時のジョブと異なる場合は、合流時に元のジョブに戻ります</text>
   </message>
   <message>
     <key>PopPartyList_QuickPartyEdit_MainPurpose_Main</key>

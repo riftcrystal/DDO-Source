@@ -24,11 +24,11 @@
   </message>
   <message>
     <key>q20030000_00_1124</key>
-    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す</text>
+    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</text>
   </message>
   <message>
     <key>q20030000_00_1124</key>
-    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す</text>
+    <text xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</text>
   </message>
   <message>
     <key>q20030000_00_838</key>

@@ -139,4 +139,18 @@
 ボードクエストやワールドクエストを
 しつつ様子を見てみてくれないかな</text>
   </message>
+  <message>
+    <text xml:space="preserve">【ヒント：スポット情報の見方】</text>
+  </message>
+  <message>
+    <text xml:space="preserve">採取アイテムや討伐対象の魔物を探すには、
+エリアマスターの《スポット情報》が便利です</text>
+  </message>
+  <message>
+    <text xml:space="preserve">①《エリア情報》から《スポット情報》を選択</text>
+  </message>
+  <message>
+    <text xml:space="preserve">②スポット情報で、「入手可能アイテム」と
+　「魔物情報」を確認</text>
+  </message>
 </resource>

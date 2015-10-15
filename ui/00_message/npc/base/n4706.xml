@@ -1,14 +1,45 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <text xml:space="preserve">あまり無理はするなよ</text>
+    <text xml:space="preserve">珍しい物をお持ちでしたら
+相応の逸品と交換してさしあげますよ？
+――へっへへ</text>
   </message>
   <message>
-    <text xml:space="preserve">冒険は順調か？</text>
+    <text xml:space="preserve">覚者さんは、世界のあちこちを旅されているとか
+では、見聞が広い分、相当に貴重な品や武具も
+お持ちなんでしょうなぁ――いやはや</text>
   </message>
   <message>
-    <text xml:space="preserve">調子はどうだ？</text>
+    <text xml:space="preserve">わたしはね、自分が扱う品には絶対の自信を
+持っておりましてね――
+鑑定交換に足る品をお持ちでしたら、ぜひお声掛けを</text>
   </message>
   <message>
-    <text xml:space="preserve">ああ、何か用か？</text>
+    <text xml:space="preserve">へっへへ――
+希少品、珍品の鑑定交換でしたらお任せを</text>
+  </message>
+  <message>
+    <text xml:space="preserve">わたしは、《鑑定交換》を生業とする
+グレゴリーと申す者――
+へっへへ、歯牙ない商人でございますよ</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ええまぁしかし――
+わたしが扱い、交換に応じるのは
+希少品、珍品、もしくは興味を引かれた逸品のみ！</text>
+  </message>
+  <message>
+    <text xml:space="preserve">もしこのリストにある品をお持ちでしたら
+それに相応しき価値ある品と
+鑑定交換してさしあげましょう</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ささ、いかがですかな？
+――覚者様</text>
+  </message>
+  <message>
+    <text xml:space="preserve">さてさて――ここに腰を落ち着けるか否か――
+どんな方々に何を持ってきていただけるかで
+へっへへ、考えるとしますかねぇ</text>
   </message>
 </resource>

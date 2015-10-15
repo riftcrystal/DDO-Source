@@ -52,4 +52,8 @@
     <key>q90000115_00_1470</key>
     <text xml:space="preserve">大隊長を撃破し、防衛を完遂せよ</text>
   </message>
+  <message>
+    <key>q90000115_00_40</key>
+    <text xml:space="preserve">グリッテン砦攻防戦：激戦《リザルト報酬》</text>
+  </message>
 </resource>

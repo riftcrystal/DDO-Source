@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_NAME_01_14</key>
     <text xml:space="preserve">円月斬り</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_18</key>
+    <text xml:space="preserve">チャリオットムーブ</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_16</key>
+    <text xml:space="preserve">弐段突き</text>
+  </message>
 </resource>

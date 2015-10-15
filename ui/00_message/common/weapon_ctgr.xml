@@ -28,6 +28,10 @@
     <text xml:space="preserve">弓</text>
   </message>
   <message>
+    <key>WEAPON_CTGR_9</key>
+    <text xml:space="preserve">魔道弓</text>
+  </message>
+  <message>
     <key>WEAPON_CTGR_11</key>
     <text xml:space="preserve">杖</text>
   </message>

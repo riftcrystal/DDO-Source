@@ -72,6 +72,14 @@
     <text xml:space="preserve">冒険エリア＜バートランド平原＞</text>
   </message>
   <message>
+    <key>PLAY_PURPOSE_AREA_008</key>
+    <text xml:space="preserve">冒険エリア＜バートランド平原北部＞</text>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_009</key>
+    <text xml:space="preserve">冒険エリア＜ディナン深層林＞</text>
+  </message>
+  <message>
     <key>PLAY_STYLE_001</key>
     <text xml:space="preserve">指定なし</text>
   </message>

@@ -29,4 +29,8 @@
     <text xml:space="preserve">黄金石 &lt;VAL&gt; 個を
 &lt;VAL CAP&gt;で購入します</text>
   </message>
+  <message>
+    <key>OSC_caution_gs</key>
+    <text xml:space="preserve">※「黄金石」は最大５か月で無効になります</text>
+  </message>
 </resource>

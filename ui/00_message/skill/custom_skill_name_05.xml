@@ -31,4 +31,12 @@
     <key>CUSTOM_SKILL_NAME_05_57</key>
     <text xml:space="preserve">セントウォール</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_65</key>
+    <text xml:space="preserve">エレメントライト</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_66</key>
+    <text xml:space="preserve">スタンバースト</text>
+  </message>
 </resource>

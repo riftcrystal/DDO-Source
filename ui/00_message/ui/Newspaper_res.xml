@@ -113,7 +113,7 @@
   </message>
   <message>
     <key>np_msg_rab_reward</key>
-    <text xml:space="preserve">リワード</text>
+    <text xml:space="preserve">報酬</text>
   </message>
   <message>
     <key>np_msg_pt</key>
@@ -181,7 +181,7 @@
   </message>
   <message>
     <key>np_msg_mypoint</key>
-    <text xml:space="preserve">獲得ポイント</text>
+    <text xml:space="preserve">スコア</text>
   </message>
   <message>
     <key>np_msg_area_select</key>
@@ -297,5 +297,9 @@
   <message>
     <key>np_msg_state_receiving</key>
     <text xml:space="preserve">報酬配分中</text>
+  </message>
+  <message>
+    <key>np_msg_reward_item_num</key>
+    <text xml:space="preserve"> × </text>
   </message>
 </resource>

@@ -297,11 +297,15 @@
   </message>
   <message>
     <key>NPC_NAME_326</key>
-    <text xml:space="preserve">息絶えた覚者</text>
+    <text xml:space="preserve">ジョナス</text>
   </message>
   <message>
     <key>NPC_NAME_327</key>
     <text xml:space="preserve">息絶えた覚者</text>
+  </message>
+  <message>
+    <key>NPC_NAME_827</key>
+    <text xml:space="preserve">グランエント</text>
   </message>
   <message>
     <key>NPC_NAME_328</key>
@@ -717,7 +721,7 @@
   </message>
   <message>
     <key>NPC_NAME_423</key>
-    <text xml:space="preserve">セシリー</text>
+    <text xml:space="preserve">セレア</text>
   </message>
   <message>
     <key>NPC_NAME_424</key>
@@ -766,6 +770,42 @@
   <message>
     <key>NPC_NAME_755</key>
     <text xml:space="preserve">イサップ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_434</key>
+    <text xml:space="preserve">エンポリオ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_435</key>
+    <text xml:space="preserve">サニー</text>
+  </message>
+  <message>
+    <key>NPC_NAME_436</key>
+    <text xml:space="preserve">ブランドン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_437</key>
+    <text xml:space="preserve">ゴート</text>
+  </message>
+  <message>
+    <key>NPC_NAME_438</key>
+    <text xml:space="preserve">レジーナ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_439</key>
+    <text xml:space="preserve">ヨハン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_440</key>
+    <text xml:space="preserve">ローシェ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_441</key>
+    <text xml:space="preserve">ジョーダン</text>
+  </message>
+  <message>
+    <key>NPC_NAME_442</key>
+    <text xml:space="preserve">アウグスト</text>
   </message>
   <message>
     <key>NPC_NAME_457</key>
@@ -904,6 +944,10 @@
     <text xml:space="preserve">エメラダ</text>
   </message>
   <message>
+    <key>NPC_NAME_493</key>
+    <text xml:space="preserve">リングディール</text>
+  </message>
+  <message>
     <key>NPC_NAME_494</key>
     <text xml:space="preserve">イヴァン</text>
   </message>
@@ -914,6 +958,10 @@
   <message>
     <key>NPC_NAME_497</key>
     <text xml:space="preserve">クリスティーヌ</text>
+  </message>
+  <message>
+    <key>NPC_NAME_686</key>
+    <text xml:space="preserve">ロンドジール</text>
   </message>
   <message>
     <key>NPC_NAME_690</key>
@@ -941,7 +989,7 @@
   </message>
   <message>
     <key>NPC_NAME_695</key>
-    <text xml:space="preserve">文化Ａ：男3</text>
+    <text xml:space="preserve">グレゴリー</text>
   </message>
   <message>
     <key>NPC_NAME_694</key>
@@ -1044,7 +1092,15 @@
     <text xml:space="preserve">覚者隊の隊士</text>
   </message>
   <message>
+    <key>NPC_NAME_717</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
     <key>NPC_NAME_724</key>
+    <text xml:space="preserve">覚者隊の隊士</text>
+  </message>
+  <message>
+    <key>NPC_NAME_725</key>
     <text xml:space="preserve">覚者隊の隊士</text>
   </message>
   <message>

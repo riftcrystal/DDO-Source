@@ -53,7 +53,7 @@
   </message>
   <message>
     <key>info_mail_list</key>
-    <text xml:space="preserve">未読メールがあります</text>
+    <text xml:space="preserve">未読／未取得メールがあります</text>
   </message>
   <message>
     <key>info_news</key>
@@ -214,14 +214,22 @@
   </message>
   <message>
     <key>info_caplink_invite_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;からゲーム招待メッセージが届いています</text>
+    <text xml:space="preserve">カプリンク：%sからゲーム招待メッセージが届いています</text>
   </message>
   <message>
     <key>info_caplink_friend_online_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;がオンラインになりました</text>
+    <text xml:space="preserve">カプリンク：%sがオンラインになりました</text>
   </message>
   <message>
     <key>info_caplink_friend_content_detail</key>
-    <text xml:space="preserve">カプリンク：&lt;VAL&gt;とカプトモになりました</text>
+    <text xml:space="preserve">カプリンク：%sとカプトモになりました</text>
+  </message>
+  <message>
+    <key>info_entry_invitation</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;からエントリーボードに招待されました</text>
+  </message>
+  <message>
+    <key>info_entry_invitation_list</key>
+    <text xml:space="preserve">&lt;NAME TARGET&gt;からエントリーボードへの招待があります</text>
   </message>
 </resource>

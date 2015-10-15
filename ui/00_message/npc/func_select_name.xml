@@ -167,4 +167,8 @@
     <key>FUNC_SELECT_NAME_47</key>
     <text xml:space="preserve">戦徒の契り</text>
   </message>
+  <message>
+    <key>FUNC_SELECT_NAME_48</key>
+    <text xml:space="preserve">鑑定交換</text>
+  </message>
 </resource>

@@ -55,4 +55,18 @@ LV.６で攻撃範囲拡大&lt;/COL&gt;</text>
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</text>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_03_42</key>
+    <text xml:space="preserve">素早く後方に移動する
+敵との間合いを素早く離す
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少／発動中の耐久力上昇
+LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</text>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_03_40</key>
+    <text xml:space="preserve">火薬を巻きつけた複数の矢を、
+渾身の力で空に放ち、敵の頭上に降らせる
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</text>
+  </message>
 </resource>

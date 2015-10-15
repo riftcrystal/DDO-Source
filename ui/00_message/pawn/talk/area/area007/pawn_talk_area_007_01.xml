@@ -1,0 +1,23 @@
+﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
+  <message>
+    <text xml:space="preserve">深き古の森ディナン――
+樹木の一つ一つがまるで巨大な塔ですね</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ミスリウ森林以上に、ここは森民の
+なごりが強い場所です
+遺跡もきっと、その分多く残っているでしょう</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ここは変わったキノコや木材、鉱石が
+たくさん採れそうですね</text>
+  </message>
+  <message>
+    <text xml:space="preserve">木立一つ隔てた向こうには
+強力な魔物が潜んでいるかもしれません
+ご注意ください</text>
+  </message>
+  <message>
+    <text xml:space="preserve">ミスリウの森とはかなり雰囲気が違いますね</text>
+  </message>
+</resource>
