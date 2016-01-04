@@ -31,13 +31,15 @@
     <key>NORMAL_SKILL_INFO_05_75</key>
     <original xml:space="preserve">大盾を構え、防御方向を固定する
 固定中は攻力吸収量が上がり、スキが減少
-空中でも発動可能</original>
+ロッドの選択属性と受けた攻撃が同属性だと
+吸収量増加。空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_76</key>
     <original xml:space="preserve">大盾で敵の攻撃をタイミングよく直前防御する
 多量の攻力を吸収し、スタミナ消費もゼロになる
-空中でも発動可能</original>
+ロッドの選択属性と受けた攻撃が同属性だと
+吸収量増加。空中でも発動可能</original>
   </message>
   <message>
     <key>NORMAL_SKILL_INFO_05_77</key>

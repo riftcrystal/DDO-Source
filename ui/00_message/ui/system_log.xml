@@ -735,7 +735,7 @@
   <message>
     <key>syslog_areamaster_ap_get_ex</key>
     <original xml:space="preserve">&lt;NAME AREA&gt;のエリアポイント
-&lt;VAL AP&gt;(+&lt;VAL&gt;)を獲得しました</original>
+&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT AP&gt;を獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_jp_get</key>
@@ -743,7 +743,7 @@
   </message>
   <message>
     <key>syslog_mission_jp_get_ex</key>
-    <original xml:space="preserve">ジョブポイントを&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</original>
+    <original xml:space="preserve">ジョブポイントを&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get</key>
@@ -751,7 +751,7 @@
   </message>
   <message>
     <key>syslog_quest_pawn_xp_get_ex</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL XP&gt;(+&lt;VAL&gt;)獲得しました</original>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_mission_pawn_jp</key>
@@ -759,7 +759,7 @@
   </message>
   <message>
     <key>syslog_mission_pawn_jp_ex</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL JP&gt;(+&lt;VAL&gt;)獲得しました</original>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;が&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT JP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_goldstone_get</key>
@@ -931,7 +931,7 @@
   </message>
   <message>
     <key>syslog_rentalpoint_get_ex</key>
-    <original xml:space="preserve">レンタルポイントを&lt;VAL RP&gt;(+&lt;VAL&gt;)獲得しました</original>
+    <original xml:space="preserve">レンタルポイントを&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT RP&gt;獲得しました</original>
   </message>
   <message>
     <key>syslog_rentalpoint_lost</key>

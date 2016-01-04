@@ -212,6 +212,10 @@
     <original xml:space="preserve">与【石化】蓄積値</original>
   </message>
   <message>
+    <key>give_gold</key>
+    <original xml:space="preserve">与【黄金化】蓄積値</original>
+  </message>
+  <message>
     <key>give_cought_fire</key>
     <original xml:space="preserve">与【延焼】蓄積値</original>
   </message>
@@ -370,6 +374,10 @@
   <message>
     <key>resist_petrify</key>
     <original xml:space="preserve">石化耐性</original>
+  </message>
+  <message>
+    <key>resist_gold</key>
+    <original xml:space="preserve">黄金化耐性</original>
   </message>
   <message>
     <key>resist_fire_resist_down</key>
@@ -598,6 +606,10 @@
   <message>
     <key>parts_jewelry</key>
     <original xml:space="preserve">ジュエリー</original>
+  </message>
+  <message>
+    <key>parts_costume</key>
+    <original xml:space="preserve">一式装備</original>
   </message>
   <message>
     <key>item_tower_shield_collect_point</key>

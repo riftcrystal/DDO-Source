@@ -66,6 +66,9 @@
     <original xml:space="preserve">宿屋</original>
   </message>
   <message>
+    <original xml:space="preserve">グランドミッション：失われた秩序</original>
+  </message>
+  <message>
     <original xml:space="preserve">クラフト係官</original>
   </message>
   <message>
@@ -213,6 +216,30 @@
     <original xml:space="preserve">よろず屋</original>
   </message>
   <message>
+    <original xml:space="preserve">道具屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+  </message>
+  <message>
+    <original xml:space="preserve">道具屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">ジョブマスター：ウォリアー</original>
+  </message>
+  <message>
+    <original xml:space="preserve">店員</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
     <original xml:space="preserve">宿・戦技補佐</original>
   </message>
   <message>
@@ -240,6 +267,18 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+  </message>
+  <message>
     <original xml:space="preserve">ジョブマスター：シールドセージ</original>
   </message>
   <message>
@@ -253,6 +292,9 @@
   </message>
   <message>
     <original xml:space="preserve">ジョブマスター：シーカー</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター・宿</original>
   </message>
   <message>
     <original xml:space="preserve">エリアマスター・宿</original>

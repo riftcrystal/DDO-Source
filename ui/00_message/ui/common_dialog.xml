@@ -443,7 +443,7 @@
   </message>
   <message>
     <key>ana_quiq_mach_ready_info</key>
-    <original xml:space="preserve">クイックパーティーのマッチングに成功しました。一定時間内に準備完了してください</original>
+    <original xml:space="preserve">クイックパーティーで同じ目的のプレイヤーが見つかりました。合流するには一定時間内に準備完了してください</original>
   </message>
   <message>
     <key>ana_entryb_ready_info</key>
@@ -864,12 +864,13 @@
   </message>
   <message>
     <key>ana_mitem_all_get_q</key>
-    <original xml:space="preserve">アイテム付きメール&lt;VAL&gt;件のアイテムを全て受け取りますか？</original>
+    <original xml:space="preserve">アイテム付きメール&lt;VAL&gt;件のアイテムを
+すべて受け取りますか？</original>
   </message>
   <message>
     <key>ana_mitem_opt_alert</key>
-    <original xml:space="preserve">【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
-※&lt;OPCS&gt;は受け取ると発動します</original>
+    <original xml:space="preserve">※&lt;OPCS&gt;のアイテムは
+　個別に受け取ってください</original>
   </message>
   <message>
     <key>ana_mitem_get_num</key>
@@ -903,39 +904,39 @@
   </message>
   <message>
     <key>ana_mitem_get_gameitem</key>
-    <original xml:space="preserve">アイテム&lt;VAL&gt;個をアイテムポストに受け取りました</original>
+    <original xml:space="preserve">　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
-    <original xml:space="preserve">&lt;OPCS&gt;  x &lt;VAL&gt; を発動しました</original>
+    <original xml:space="preserve">　&lt;OPCS&gt; x &lt;VAL&gt; 発動</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_goldstone</key>
-    <original xml:space="preserve">黄金石付きメール &lt;VAL&gt;件を受け取りました</original>
+    <original xml:space="preserve">　メール &lt;VAL&gt;件分の黄金石 直接入手</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_cticket</key>
-    <original xml:space="preserve">通貨系アイテム &lt;VAL&gt;件を直接受け取りました</original>
+    <original xml:space="preserve">　通貨系アイテム x &lt;VAL&gt; 直接入手</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_lpawnticket</key>
-    <original xml:space="preserve">クラフトマスターポーン利用券 x &lt;VAL&gt; を受け取りました</original>
+    <original xml:space="preserve">　クラフトマスターポーン利用券 x &lt;VAL&gt; 入手</original>
   </message>
   <message>
     <key>ana_mitem_get_err_gameitem</key>
-    <original xml:space="preserve">アイテム&lt;VAL&gt;個を受け取れませんでした</original>
+    <original xml:space="preserve">アイテム x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_course</key>
-    <original xml:space="preserve">&lt;OPCS&gt;  x &lt;VAL&gt; を受け取れませんでした</original>
+    <original xml:space="preserve">&lt;OPCS&gt; x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_goldstone</key>
-    <original xml:space="preserve">黄金石付きメール &lt;VAL&gt;件を受け取れませんでした</original>
+    <original xml:space="preserve">メール &lt;VAL&gt;件分の黄金石 を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_cticket</key>
-    <original xml:space="preserve">通貨系アイテム &lt;VAL&gt;件を受け取れませんでした</original>
+    <original xml:space="preserve">通貨系アイテム x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
     <key>ana_mitem_get_err_opt_lpawnticket</key>
@@ -1320,7 +1321,7 @@
   </message>
   <message>
     <key>ana_play_area</key>
-    <original xml:space="preserve">エリアで遊ぶ</original>
+    <original xml:space="preserve">エリアスポットで遊ぶ</original>
   </message>
   <message>
     <key>ana_common_back</key>
@@ -1768,5 +1769,102 @@
   <message>
     <key>ana_main_quest_accept_error_party_inviting</key>
     <original xml:space="preserve">パーティー要請中のため、メインクエストを受注できません</original>
+  </message>
+  <message>
+    <key>ana_err_cannot_use_me</key>
+    <original xml:space="preserve">自分には使用できません</original>
+  </message>
+  <message>
+    <key>ana_err_quest_progress_no_leader_</key>
+    <original xml:space="preserve">リーダーが不在のため、クエストを進行できません</original>
+  </message>
+  <message>
+    <key>ana_mitem_get_num_all_opcsitem</key>
+    <original xml:space="preserve">受け取れるアイテムがありませんでした</original>
+  </message>
+  <message>
+    <key>ana_mitem_get_opt_course_notget</key>
+    <original xml:space="preserve">※&lt;OPCS&gt;は個別に受け取ってください</original>
+  </message>
+  <message>
+    <key>ana_mitem_opt_alert_one</key>
+    <original xml:space="preserve">【ご注意】アイテムの中に&lt;OPCS&gt;が含まれています
+※&lt;OPCS&gt;は受け取ると発動します</original>
+  </message>
+  <message>
+    <key>ana_mail_delete_all_read_mail_q</key>
+    <original xml:space="preserve">未読／未取得以外のメール&lt;VAL&gt;件を
+すべて削除します。よろしいですか？</original>
+  </message>
+  <message>
+    <key>ana_mail_deleted</key>
+    <original xml:space="preserve">削除しました</original>
+  </message>
+  <message>
+    <key>ana_mail_delete_all_read_mail_0</key>
+    <original xml:space="preserve">既読メールはありません</original>
+  </message>
+  <message>
+    <key>ana_quiq_mach_ready_info_pop</key>
+    <original xml:space="preserve">クイックパーティーで同じ目的のプレイヤーが見つかりました
+合流するには一定時間内に準備完了してください</original>
+  </message>
+  <message>
+    <key>ana_entry_no_war_situation</key>
+    <original xml:space="preserve">参加しようとしていた戦況が終了しました</original>
+  </message>
+  <message>
+    <key>ana_gm_reward_syslog</key>
+    <original xml:space="preserve">グランドミッションの戦果報酬配分期間です
+参加した覚者は窓口の人物に話しかけて
+報酬を受け取りましょう</original>
+  </message>
+  <message>
+    <key>ana_gm_situation_syslog</key>
+    <original xml:space="preserve">グランドミッションの戦況が変化しました
+窓口の人物に話しかけて確認しましょう</original>
+  </message>
+  <message>
+    <key>ana_quickpt_ng_mq_solo</key>
+    <original xml:space="preserve">受注条件がパーティープレイ不可のため使用できません</original>
+  </message>
+  <message>
+    <key>ana_mq_ng_different_progression_usenot_keyite</key>
+    <original xml:space="preserve">リーダーと進行状況が異なるため
+キーアイテムは使用できません</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_ng_ticket</key>
+    <original xml:space="preserve">使えません</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_ng_craft</key>
+    <original xml:space="preserve">クラフト中なので使用できません</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_ng_party</key>
+    <original xml:space="preserve">パーティー中なので使用できません</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_conf</key>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;に使用しますか？</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_dec</key>
+    <original xml:space="preserve">&lt;NAME PAWN&gt;は使用しました</original>
+  </message>
+  <message>
+    <key>ana_storageextension_dec</key>
+    <original xml:space="preserve">ストレージが拡張されました
+該当する画面を確認してください</original>
+  </message>
+  <message>
+    <key>ana_craftskillreset_dec_guide</key>
+    <original xml:space="preserve">ご利用は
+リムストーンで行えます</original>
+  </message>
+  <message>
+    <key>ana_quest_invalid_status_change</key>
+    <original xml:space="preserve">クエスト状況が変化したため進行できませんでした</original>
   </message>
 </resource>

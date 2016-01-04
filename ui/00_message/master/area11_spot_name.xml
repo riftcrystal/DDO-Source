@@ -37,19 +37,19 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">灯台の地下倉庫</original>
-  </message>
-  <message>
-    <key>SPOT_NAME_</key>
     <original xml:space="preserve">東ザンドラ廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">虚ろの小堂</original>
+    <original xml:space="preserve">灯台の地下倉庫</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
     <original xml:space="preserve">怨嗟の祠</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original xml:space="preserve">虚ろの小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>

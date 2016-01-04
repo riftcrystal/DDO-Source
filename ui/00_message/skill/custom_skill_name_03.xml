@@ -39,4 +39,8 @@
     <key>CUSTOM_SKILL_NAME_03_40</key>
     <original xml:space="preserve">降らし爆炎矢</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_03_41</key>
+    <original xml:space="preserve">矢継ぎ嵐</original>
+  </message>
 </resource>

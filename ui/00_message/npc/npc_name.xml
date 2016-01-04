@@ -36,6 +36,14 @@
     <original xml:space="preserve">ハインツ</original>
   </message>
   <message>
+    <key>NPC_NAME_259</key>
+    <original xml:space="preserve">ディアマンテス</original>
+  </message>
+  <message>
+    <key>NPC_NAME_260</key>
+    <original xml:space="preserve">テオドール</original>
+  </message>
+  <message>
     <key>NPC_NAME_261</key>
     <original xml:space="preserve">ヴァネッサ</original>
   </message>
@@ -62,6 +70,14 @@
   <message>
     <key>NPC_NAME_267</key>
     <original xml:space="preserve">ズール</original>
+  </message>
+  <message>
+    <key>NPC_NAME_268</key>
+    <original xml:space="preserve">ディアマンテス</original>
+  </message>
+  <message>
+    <key>NPC_NAME_688</key>
+    <original xml:space="preserve">ゴルゴラン</original>
   </message>
   <message>
     <key>NPC_NAME_269</key>
@@ -808,6 +824,66 @@
     <original xml:space="preserve">アウグスト</original>
   </message>
   <message>
+    <key>NPC_NAME_443</key>
+    <original xml:space="preserve">オズワルド</original>
+  </message>
+  <message>
+    <key>NPC_NAME_444</key>
+    <original xml:space="preserve">ケイシー</original>
+  </message>
+  <message>
+    <key>NPC_NAME_445</key>
+    <original xml:space="preserve">イザベル</original>
+  </message>
+  <message>
+    <key>NPC_NAME_446</key>
+    <original xml:space="preserve">ポー</original>
+  </message>
+  <message>
+    <key>NPC_NAME_447</key>
+    <original xml:space="preserve">ライオネット</original>
+  </message>
+  <message>
+    <key>NPC_NAME_448</key>
+    <original xml:space="preserve">ダイアン</original>
+  </message>
+  <message>
+    <key>NPC_NAME_449</key>
+    <original xml:space="preserve">ツエッペリ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_450</key>
+    <original xml:space="preserve">リック</original>
+  </message>
+  <message>
+    <key>NPC_NAME_451</key>
+    <original xml:space="preserve">ソーニャ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_452</key>
+    <original xml:space="preserve">オリバー</original>
+  </message>
+  <message>
+    <key>NPC_NAME_453</key>
+    <original xml:space="preserve">シェリン</original>
+  </message>
+  <message>
+    <key>NPC_NAME_454</key>
+    <original xml:space="preserve">ナディア</original>
+  </message>
+  <message>
+    <key>NPC_NAME_455</key>
+    <original xml:space="preserve">サラミス</original>
+  </message>
+  <message>
+    <key>NPC_NAME_456</key>
+    <original xml:space="preserve">マジョリー</original>
+  </message>
+  <message>
+    <key>NPC_NAME_756</key>
+    <original xml:space="preserve">ララ</original>
+  </message>
+  <message>
     <key>NPC_NAME_457</key>
     <original xml:space="preserve">サイラス</original>
   </message>
@@ -936,6 +1012,26 @@
     <original xml:space="preserve">オーク</original>
   </message>
   <message>
+    <key>NPC_NAME_486</key>
+    <original xml:space="preserve">アクタイオン</original>
+  </message>
+  <message>
+    <key>NPC_NAME_487</key>
+    <original xml:space="preserve">ベアトリクス</original>
+  </message>
+  <message>
+    <key>NPC_NAME_488</key>
+    <original xml:space="preserve">イオセフ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_489</key>
+    <original xml:space="preserve">アリアドネ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_490</key>
+    <original xml:space="preserve">メトロファネス</original>
+  </message>
+  <message>
     <key>NPC_NAME_491</key>
     <original xml:space="preserve">ルドルフォ</original>
   </message>
@@ -952,12 +1048,20 @@
     <original xml:space="preserve">イヴァン</original>
   </message>
   <message>
+    <key>NPC_NAME_495</key>
+    <original xml:space="preserve">バイヤール</original>
+  </message>
+  <message>
     <key>NPC_NAME_496</key>
     <original xml:space="preserve">チェスター</original>
   </message>
   <message>
     <key>NPC_NAME_497</key>
     <original xml:space="preserve">クリスティーヌ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_498</key>
+    <original xml:space="preserve">ダイオン</original>
   </message>
   <message>
     <key>NPC_NAME_686</key>
@@ -969,7 +1073,7 @@
   </message>
   <message>
     <key>NPC_NAME_691</key>
-    <original xml:space="preserve">神殿男：予備枠</original>
+    <original xml:space="preserve">禁域守の神官</original>
   </message>
   <message>
     <key>NPC_NAME_692</key>
@@ -1088,6 +1192,10 @@
     <original xml:space="preserve">覚者隊の隊士</original>
   </message>
   <message>
+    <key>NPC_NAME_719</key>
+    <original xml:space="preserve">覚者隊の隊士</original>
+  </message>
+  <message>
     <key>NPC_NAME_718</key>
     <original xml:space="preserve">覚者隊の隊士</original>
   </message>
@@ -1118,6 +1226,22 @@
   <message>
     <key>NPC_NAME_726</key>
     <original xml:space="preserve">術士　女2</original>
+  </message>
+  <message>
+    <key>NPC_NAME_733</key>
+    <original xml:space="preserve">亡都の錬金術師</original>
+  </message>
+  <message>
+    <key>NPC_NAME_732</key>
+    <original xml:space="preserve">亡都の民</original>
+  </message>
+  <message>
+    <key>NPC_NAME_731</key>
+    <original xml:space="preserve">エウニケ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_730</key>
+    <original xml:space="preserve">妖艶な錬金術師</original>
   </message>
   <message>
     <key>NPC_NAME_741</key>

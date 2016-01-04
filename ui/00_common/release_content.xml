@@ -16,6 +16,10 @@
     <original xml:space="preserve">グランドミッション</original>
   </message>
   <message>
+    <key>RELEASE_CONTENT_6</key>
+    <original xml:space="preserve">着飾り装備</original>
+  </message>
+  <message>
     <key>RELEASE_CONTENT_7</key>
     <original xml:space="preserve">レスタニアニュース</original>
   </message>
@@ -74,6 +78,10 @@
   <message>
     <key>RELEASE_CONTENT_22</key>
     <original xml:space="preserve">ソーサラーのジョブ修練</original>
+  </message>
+  <message>
+    <key>RELEASE_CONTENT_23</key>
+    <original xml:space="preserve">ウォリアーのジョブ修練</original>
   </message>
   <message>
     <key>RELEASE_CONTENT_24</key>

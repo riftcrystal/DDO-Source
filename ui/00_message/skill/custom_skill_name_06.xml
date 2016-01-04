@@ -39,4 +39,8 @@
     <key>CUSTOM_SKILL_NAME_06_78</key>
     <original xml:space="preserve">ダークネスミスト</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_06_77</key>
+    <original xml:space="preserve">ブリザードアロー</original>
+  </message>
 </resource>

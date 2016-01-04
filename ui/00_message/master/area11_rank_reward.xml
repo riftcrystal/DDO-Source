@@ -5,7 +5,7 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_157</key>
-    <original xml:space="preserve">《奇岩谷》に新たな強敵が出現</original>
+    <original xml:space="preserve">《奇岩谷》復旧・新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_158</key>
@@ -22,21 +22,5 @@
   <message>
     <key>AREA_RANK_REWARD_161</key>
     <original xml:space="preserve">封鎖エリア《湖底連絡路》開放</original>
-  </message>
-  <message>
-    <key>AREA_RANK_REWARD_162</key>
-    <original xml:space="preserve">《ザンドラ灯台》に新たな強敵が出現</original>
-  </message>
-  <message>
-    <key>AREA_RANK_REWARD_163</key>
-    <original xml:space="preserve">《呪詛の庭》に新たな強敵が出現</original>
-  </message>
-  <message>
-    <key>AREA_RANK_REWARD_164</key>
-    <original xml:space="preserve">封鎖エリア《死王の迷宮》開放</original>
-  </message>
-  <message>
-    <key>AREA_RANK_REWARD_165</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
   </message>
 </resource>

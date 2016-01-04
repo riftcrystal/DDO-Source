@@ -39,4 +39,8 @@
     <key>CUSTOM_SKILL_NAME_05_66</key>
     <original xml:space="preserve">スタンバースト</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_64</key>
+    <original xml:space="preserve">ハンズオブゴッド</original>
+  </message>
 </resource>

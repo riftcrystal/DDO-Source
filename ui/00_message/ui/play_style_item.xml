@@ -80,6 +80,18 @@
     <original xml:space="preserve">冒険エリア＜ディナン深層林＞</original>
   </message>
   <message>
+    <key>PLAY_PURPOSE_AREA_010</key>
+    <original xml:space="preserve">冒険エリア＜ザンドラ東部＞</original>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_011</key>
+    <original xml:space="preserve">冒険エリア＜ザンドラ禁域＞</original>
+  </message>
+  <message>
+    <key>PLAY_PURPOSE_AREA_012</key>
+    <original xml:space="preserve">冒険エリア＜亡都メルゴダ＞</original>
+  </message>
+  <message>
     <key>PLAY_STYLE_001</key>
     <original xml:space="preserve">指定なし</original>
   </message>

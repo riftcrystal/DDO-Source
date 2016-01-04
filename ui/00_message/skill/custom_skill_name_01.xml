@@ -39,4 +39,8 @@
     <key>CUSTOM_SKILL_NAME_01_16</key>
     <original xml:space="preserve">弐段突き</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_19</key>
+    <original xml:space="preserve">流剣閃</original>
+  </message>
 </resource>

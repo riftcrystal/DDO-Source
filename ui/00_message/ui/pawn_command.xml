@@ -61,7 +61,7 @@
   </message>
   <message>
     <key>pawn_command_625</key>
-    <original xml:space="preserve">敵体勢崩し</original>
+    <original xml:space="preserve">怯ませ・吹き飛ばし</original>
   </message>
   <message>
     <key>pawn_command_626</key>
@@ -113,10 +113,14 @@
   </message>
   <message>
     <key>pawn_command_638</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ハンズオブゴッド発動</original>
   </message>
   <message>
     <key>pawn_command_639</key>
     <original xml:space="preserve">命令キャンセル</original>
+  </message>
+  <message>
+    <key>pawn_command_9499</key>
+    <original xml:space="preserve">ゆさぶり命令</original>
   </message>
 </resource>
