@@ -17,7 +17,7 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_101</key>
-    <original xml:space="preserve">ジョブ《エレメントアーチャ―》入門紹介</original>
+    <original xml:space="preserve">《エレメントアーチャ―》のジョブマスターに紹介</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_102</key>
@@ -38,5 +38,9 @@
   <message>
     <key>AREA_RANK_REWARD_106</key>
     <original xml:space="preserve">支援品ランクアップ</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_211</key>
+    <original xml:space="preserve">《ディナン深層林》各地にある未解放のリム転移 解放</original>
   </message>
 </resource>

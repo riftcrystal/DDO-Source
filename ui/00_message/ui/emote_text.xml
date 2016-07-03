@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>emote_text_853</key>
-    <original xml:space="preserve">あいさつ</original>
+    <original xml:space="preserve">あいさつ・１</original>
   </message>
   <message>
     <key>emote_text_854</key>
@@ -53,7 +53,7 @@
   </message>
   <message>
     <key>emote_text_866</key>
-    <original xml:space="preserve">落ち込む</original>
+    <original xml:space="preserve">あいさつ・２</original>
   </message>
   <message>
     <key>emote_text_867</key>
@@ -153,15 +153,15 @@
   </message>
   <message>
     <key>emote_text_891</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">祈る</original>
   </message>
   <message>
     <key>emote_text_892</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">謝る</original>
   </message>
   <message>
     <key>emote_text_893</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">大賛成</original>
   </message>
   <message>
     <key>emote_text_894</key>
@@ -177,11 +177,11 @@
   </message>
   <message>
     <key>emote_text_897</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">歓喜</original>
   </message>
   <message>
     <key>emote_text_898</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">うさぎ跳び</original>
   </message>
   <message>
     <key>emote_text_899</key>
@@ -189,7 +189,7 @@
   </message>
   <message>
     <key>emote_text_900</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">居眠り</original>
   </message>
   <message>
     <key>emote_text_901</key>
@@ -201,7 +201,7 @@
   </message>
   <message>
     <key>emote_text_903</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ポーズ・参上１</original>
   </message>
   <message>
     <key>emote_text_904</key>
@@ -209,7 +209,7 @@
   </message>
   <message>
     <key>emote_text_905</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ポーズ・参上２</original>
   </message>
   <message>
     <key>emote_text_906</key>
@@ -221,7 +221,7 @@
   </message>
   <message>
     <key>emote_text_908</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">大反対</original>
   </message>
   <message>
     <key>emote_text_909</key>
@@ -261,19 +261,19 @@
   </message>
   <message>
     <key>emote_text_918</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ポーズ・参上３</original>
   </message>
   <message>
     <key>emote_text_919</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ポーズ・独創的２</original>
   </message>
   <message>
     <key>emote_text_920</key>
-    <original xml:space="preserve">ポーズ・独創的</original>
+    <original xml:space="preserve">ポーズ・独創的１</original>
   </message>
   <message>
     <key>emote_text_921</key>
-    <original xml:space="preserve"></original>
+    <original xml:space="preserve">ポーズ・参上４</original>
   </message>
   <message>
     <key>emote_text_922</key>

@@ -37,6 +37,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original xml:space="preserve">鉱山の大踊り場</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original xml:space="preserve">キノザ治水路</original>
   </message>
   <message>
@@ -54,5 +58,9 @@
   <message>
     <key>SPOT_NAME_</key>
     <original xml:space="preserve">山頂の小堂</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original xml:space="preserve">灼熱の封鎖道</original>
   </message>
 </resource>

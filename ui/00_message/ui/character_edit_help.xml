@@ -89,7 +89,7 @@
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM</key>
-    <original xml:space="preserve">モデル回転 / ズーム</original>
+    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
   </message>
   <message>
     <key>EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA</key>

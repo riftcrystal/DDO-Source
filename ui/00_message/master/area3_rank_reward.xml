@@ -17,7 +17,7 @@
   </message>
   <message>
     <key>AREA_RANK_REWARD_86</key>
-    <original xml:space="preserve">ジョブ《ソーサラー》入門紹介</original>
+    <original xml:space="preserve">《ソーサラー》のジョブマスターに紹介</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_87</key>
@@ -38,5 +38,9 @@
   <message>
     <key>AREA_RANK_REWARD_91</key>
     <original xml:space="preserve">支援品ランクアップ</original>
+  </message>
+  <message>
+    <key>AREA_RANK_REWARD_191</key>
+    <original xml:space="preserve">《ミスリウ森林》各地にある未解放のリム転移 解放</original>
   </message>
 </resource>

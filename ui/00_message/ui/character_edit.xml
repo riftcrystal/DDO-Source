@@ -348,7 +348,7 @@
   </message>
   <message>
     <key>EDIT_MSG_TYPE_EAR_ELF</key>
-    <original xml:space="preserve">エルフ耳</original>
+    <original xml:space="preserve">耳の輪郭</original>
   </message>
   <message>
     <key>EDIT_MSG_TYPE_BEARD_PARTS</key>
@@ -593,5 +593,9 @@
   <message>
     <key>EDIT_MSG_TYPE_TYPE</key>
     <original xml:space="preserve">タイプ</original>
+  </message>
+  <message>
+    <key>EDIT_MSG_EX</key>
+    <original xml:space="preserve">EX</original>
   </message>
 </resource>

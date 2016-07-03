@@ -9,10 +9,16 @@
     <original xml:space="preserve">記録官</original>
   </message>
   <message>
+    <original xml:space="preserve">ジョブマスター：アルケミスト</original>
+  </message>
+  <message>
     <original xml:space="preserve">ジョブマスター：ファイター</original>
   </message>
   <message>
     <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">グランドミッション</original>
   </message>
   <message>
     <original xml:space="preserve">よろず屋</original>
@@ -60,7 +66,13 @@
     <original xml:space="preserve">レスタニアニュース</original>
   </message>
   <message>
+    <original xml:space="preserve">グランドミッション：目覚めし闇の魔物</original>
+  </message>
+  <message>
     <original xml:space="preserve">グランドミッション：太古の強者</original>
+  </message>
+  <message>
+    <original xml:space="preserve">グランドミッション：眩き黄金</original>
   </message>
   <message>
     <original xml:space="preserve">宿屋</original>
@@ -96,9 +108,6 @@
     <original xml:space="preserve">道具屋</original>
   </message>
   <message>
-    <original xml:space="preserve">道具屋</original>
-  </message>
-  <message>
     <original xml:space="preserve">素材屋</original>
   </message>
   <message>
@@ -132,13 +141,10 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
-    <original xml:space="preserve">エリアマスター</original>
-  </message>
-  <message>
     <original xml:space="preserve">素材屋</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">宿・戦技補佐</original>
@@ -147,19 +153,13 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
-    <original xml:space="preserve">エリアマスター</original>
-  </message>
-  <message>
     <original xml:space="preserve">宿・戦技補佐</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
-  </message>
-  <message>
-    <original xml:space="preserve">エリアマスター</original>
   </message>
   <message>
     <original xml:space="preserve">素材屋</original>
@@ -192,19 +192,13 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
-    <original xml:space="preserve">受付</original>
-  </message>
-  <message>
-    <original xml:space="preserve">よろず屋</original>
-  </message>
-  <message>
     <original xml:space="preserve">宿・戦技補佐</original>
   </message>
   <message>
     <original xml:space="preserve">エリアマスター</original>
   </message>
   <message>
-    <original xml:space="preserve">道具屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">素材屋</original>
@@ -213,7 +207,7 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">道具屋</original>
@@ -237,7 +231,7 @@
     <original xml:space="preserve">冒険仲介係</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">宿・戦技補佐</original>
@@ -273,7 +267,7 @@
     <original xml:space="preserve">エリアマスター</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">武具屋</original>
   </message>
   <message>
     <original xml:space="preserve">冒険仲介係</original>
@@ -300,13 +294,22 @@
     <original xml:space="preserve">エリアマスター・宿</original>
   </message>
   <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
     <original xml:space="preserve">エリアマスター・道具屋</original>
   </message>
   <message>
-    <original xml:space="preserve">復活力・ログインスタンプ</original>
+    <original xml:space="preserve">道具屋</original>
   </message>
   <message>
-    <original xml:space="preserve">よろず屋</original>
+    <original xml:space="preserve">復活力・ログインスタンプ</original>
   </message>
   <message>
     <original xml:space="preserve">鑑定交換</original>
@@ -315,6 +318,39 @@
     <original xml:space="preserve">よろず屋</original>
   </message>
   <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">自室の管理</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エクストリームトーナメント</original>
+  </message>
+  <message>
+    <original xml:space="preserve">受付</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
     <original xml:space="preserve">現れしポーン</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エリアマスター</original>
+  </message>
+  <message>
+    <original xml:space="preserve">エクストリームミッション</original>
+  </message>
+  <message>
+    <original xml:space="preserve">宿・戦技補佐</original>
+  </message>
+  <message>
+    <original xml:space="preserve">よろず屋</original>
+  </message>
+  <message>
+    <original xml:space="preserve">冒険仲介係</original>
+  </message>
+  <message>
+    <original xml:space="preserve">ジョブマスター：スピリットランサー</original>
   </message>
 </resource>

@@ -50,6 +50,7 @@
   <message>
     <key>NORMAL_SKILL_INFO_05_78</key>
     <original xml:space="preserve">ロッドの閃光で敵の注目を集め、自身を狙わせる
+注目を集めている間、フォースゲージがやや増加する
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UPで敵の注目を奪う効果がより大きい
 ＜モアアトラクト＞に進化&lt;/COL&gt;</original>
@@ -57,6 +58,7 @@
   <message>
     <key>NORMAL_SKILL_INFO_05_79</key>
     <original xml:space="preserve">ロッドの閃光で敵の注目をより集め、自身を狙わせる
+注目を集めている間、フォースゲージがやや増加する
 空中でも発動可能</original>
   </message>
   <message>

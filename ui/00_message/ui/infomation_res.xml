@@ -232,4 +232,12 @@
     <key>info_entry_invitation_list</key>
     <original xml:space="preserve">&lt;NAME TARGET&gt;からエントリーボードへの招待があります</original>
   </message>
+  <message>
+    <key>info_clan_invite_direct</key>
+    <original xml:space="preserve">&lt;NAME TARGET&gt;からクランへの直接招待があります</original>
+  </message>
+  <message>
+    <key>info_clan_invite_list_direct</key>
+    <original xml:space="preserve">クランから直接招待があります</original>
+  </message>
 </resource>

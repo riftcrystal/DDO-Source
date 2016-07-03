@@ -43,4 +43,12 @@
     <key>CUSTOM_SKILL_NAME_01_19</key>
     <original xml:space="preserve">流剣閃</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_17</key>
+    <original xml:space="preserve">ブレイブスレイド</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_01_120</key>
+    <original xml:space="preserve">豪溜斬り</original>
+  </message>
 </resource>

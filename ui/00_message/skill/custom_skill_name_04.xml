@@ -43,4 +43,12 @@
     <key>CUSTOM_SKILL_NAME_04_53</key>
     <original xml:space="preserve">ゾーンオブザゴッド</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_51</key>
+    <original xml:space="preserve">クイックチャージ</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_04_133</key>
+    <original xml:space="preserve">ソラースライザー</original>
+  </message>
 </resource>

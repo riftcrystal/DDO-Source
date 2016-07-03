@@ -31,8 +31,8 @@ LV.６で攻撃範囲拡張/捕捉敵数増加（１→３）&lt;/COL&gt;</origi
   <message>
     <key>CUSTOM_SKILL_INFO_02_29</key>
     <original xml:space="preserve">空中からシーカーロープを放って地面にひっかけ、
-地上に向かって急降下攻撃を繰り出す
-高所から行うことで威力が上昇。空中でも発動可能
+地上へ急降下攻撃を繰り出す。空中でも発動可能
+高所から行うことで威力が上昇し気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で周囲の敵をのけぞらせることが可能&lt;/COL&gt;</original>
   </message>
@@ -50,7 +50,7 @@ LV.６で敵のガード状態を崩すことが可能&lt;/COL&gt;</original>
 スキを消すことができる（連続では行えない）
 空中でも発動可能
 &lt;COL ffdc78&gt;LV UP毎に再発禁止時間が短縮
-LV.６でのけぞり、吹き飛び中でも発動可能&lt;/COL&gt;</original>
+LV.６で拘束中を除きいつでも発動可能&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_02_26</key>
@@ -69,7 +69,7 @@ LV.６で移動距離が延長／攻撃ヒット数増加&lt;/COL&gt;</original>
   <message>
     <key>CUSTOM_SKILL_INFO_02_31</key>
     <original xml:space="preserve">シーカーロープを放って敵を捕らえ、反動を利用して
-鋭いスライディング攻撃を繰り出す
+気絶を誘うスライディング攻撃を繰り出す
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で移動距離が延長&lt;/COL&gt;</original>
   </message>
@@ -78,7 +78,23 @@ LV.６で移動距離が延長&lt;/COL&gt;</original>
     <original xml:space="preserve">自身の体に炎をまとい触れた敵にダメージを与える
 さらに武器の攻撃属性を炎にする
 ただし、発動中は自身の体力が徐々に減少する
-&lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少軽減
+&lt;COL ffdc78&gt;LV UP毎に炎属性威力の上昇／体力減少速度軽減
 LV.６で最大持続時間が延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_28</key>
+    <original xml:space="preserve">敵の攻撃を受け流し、瞬時に背後に回り込んで
+致命の一撃を与える
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加／当身受付時間が延長／
+攻撃アクション中であればいつでも発動可能&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_02_129</key>
+    <original xml:space="preserve">自身の周囲に火薬を撒き、
+ダガーで弾いて爆発を起こす
+空中でも発動可能
+&lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
+LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
 </resource>

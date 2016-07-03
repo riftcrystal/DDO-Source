@@ -151,4 +151,20 @@
     <key>shop_title_end_contents_sub</key>
     <original xml:space="preserve">エクストリームミッション</original>
   </message>
+  <message>
+    <key>shop_title_appraise_sub</key>
+    <original xml:space="preserve">鑑定交換</original>
+  </message>
+  <message>
+    <key>shop_title_appraise</key>
+    <original xml:space="preserve">Appraise</original>
+  </message>
+  <message>
+    <key>shop_title_depositbox_sub</key>
+    <original xml:space="preserve">格納チェスト</original>
+  </message>
+  <message>
+    <key>shop_title_depositbox</key>
+    <original xml:space="preserve">Storage Chest</original>
+  </message>
 </resource>

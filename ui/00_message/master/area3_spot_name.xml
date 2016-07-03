@@ -49,6 +49,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original xml:space="preserve">行商人の難所</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original xml:space="preserve">異界の狭間</original>
   </message>
   <message>
@@ -61,6 +65,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">古の祭祀場</original>
+    <original xml:space="preserve">異界の狭間　深層部</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original xml:space="preserve">ミスリウ古墳墓</original>
   </message>
 </resource>

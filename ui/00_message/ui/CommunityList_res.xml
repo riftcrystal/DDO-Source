@@ -33,7 +33,7 @@
   </message>
   <message>
     <key>COMLIST_MSG_LOBBY_ID</key>
-    <original xml:space="preserve">ロビー</original>
+    <original xml:space="preserve">ワールド</original>
   </message>
   <message>
     <key>COMLIST_MSG_PARTY_PL_NUM</key>
