@@ -1,6 +1,6 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EventSkip_msg_skip</key>
-    <original xml:space="preserve">スキップ</original>
+    <original>スキップ</original>
   </message>
 </resource>

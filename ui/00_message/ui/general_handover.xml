@@ -1,103 +1,103 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE00</key>
-    <original xml:space="preserve">Receive</original>
+    <original>Receive</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE01</key>
-    <original xml:space="preserve">受け取り</original>
+    <original>受け取り</original>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_ALL</key>
-    <original xml:space="preserve">すべて受け取る</original>
+    <original>すべて受け取る</original>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_NONE</key>
-    <original xml:space="preserve">すべて破棄</original>
+    <original>すべて破棄</original>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE02</key>
-    <original xml:space="preserve">Present</original>
+    <original>Present</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE03</key>
-    <original xml:space="preserve">プレゼント</original>
+    <original>プレゼント</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_CONSUME</key>
-    <original xml:space="preserve">消費</original>
+    <original>消費</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_EQUIP</key>
-    <original xml:space="preserve">装備</original>
+    <original>装備</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_MATERIAL</key>
-    <original xml:space="preserve">素材</original>
+    <original>素材</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TAB_SPECIAL</key>
-    <original xml:space="preserve">特殊</original>
+    <original>特殊</original>
   </message>
   <message>
     <key>HANDOVER_MSG_BTN_FINISH</key>
-    <original xml:space="preserve">完了</original>
+    <original>完了</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE04</key>
-    <original xml:space="preserve">Delivery</original>
+    <original>Delivery</original>
   </message>
   <message>
     <key>HANDOVER_MSG_TITLE_M_TITLE05</key>
-    <original xml:space="preserve">納品</original>
+    <original>納品</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_00</key>
-    <original xml:space="preserve">アイテムを受け取らずに戻りますか？
+    <original>アイテムを受け取らずに戻りますか？
 受け取ったアイテムは戻されます</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_YES</key>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_NO</key>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_00</key>
-    <original xml:space="preserve">送り先がいっぱいのため、受け取ることができません</original>
+    <original>送り先がいっぱいのため、受け取ることができません</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_01</key>
-    <original xml:space="preserve">アイテムを受け取らずすべて捨てます
+    <original>アイテムを受け取らずすべて捨てます
 よろしいですか？</original>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_01</key>
-    <original xml:space="preserve">アイテムを受け取りました</original>
+    <original>アイテムを受け取りました</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_02</key>
-    <original xml:space="preserve">アイテムの納品をキャンセルします
+    <original>アイテムの納品をキャンセルします
 よろしいですか？</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_03</key>
-    <original xml:space="preserve">選択したアイテムを渡します
+    <original>選択したアイテムを渡します
 よろしいですか？</original>
   </message>
   <message>
     <key>HANDOVER_MSG_ANNOUCE_02</key>
-    <original xml:space="preserve">アイテムを渡しました</original>
+    <original>アイテムを渡しました</original>
   </message>
   <message>
     <key>HANDOVER_MSG_DIALOG_04</key>
-    <original xml:space="preserve">アイテムが選択されていません
+    <original>アイテムが選択されていません
 アイテムの納品をキャンセルします
 よろしいですか？</original>
   </message>

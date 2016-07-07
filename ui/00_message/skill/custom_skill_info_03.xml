@@ -1,55 +1,55 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_03_32</key>
-    <original xml:space="preserve">複数の矢を連続で放ち
+    <original>複数の矢を連続で放ち
 敵を大きくのけぞらせる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_37</key>
-    <original xml:space="preserve">貫通力のある矢を放つ
+    <original>貫通力のある矢を放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で貫通時のヒット間隔が短縮し
 連続ヒットしやすくなる&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_33</key>
-    <original xml:space="preserve">複数の矢を同時に扇状に放つ
+    <original>複数の矢を同時に扇状に放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_34</key>
-    <original xml:space="preserve">敵のガードを崩す爆音火薬を巻いた矢を放つ
+    <original>敵のガードを崩す爆音火薬を巻いた矢を放つ
 爆音に巻き込むことで周囲の敵をも怯ませる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_36</key>
-    <original xml:space="preserve">矢筒内のすべての矢を直上に放ち、
+    <original>矢筒内のすべての矢を直上に放ち、
 敵の頭上に降らせる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_38</key>
-    <original xml:space="preserve">着弾時に回転し多段攻撃を加える矢を放つ
+    <original>着弾時に回転し多段攻撃を加える矢を放つ
 特に状態異常矢の使用時に効果的
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_39</key>
-    <original xml:space="preserve">装填中のすべての矢に気絶効果のある火薬を
+    <original>装填中のすべての矢に気絶効果のある火薬を
 巻きつけ強化する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_35</key>
-    <original xml:space="preserve">渾身の力で弓を引き、高威力の矢を放つ
+    <original>渾身の力で弓を引き、高威力の矢を放つ
 溜め満了の瞬間に矢を放つと威力が
 大幅に上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
@@ -57,21 +57,21 @@ LV.６で溜め段階拡張（１→２）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_42</key>
-    <original xml:space="preserve">素早く後方に移動する
+    <original>素早く後方に移動する
 敵との間合いを素早く離す
 &lt;COL ffdc78&gt;LV UP毎にスタミナ消費減少／発動中の耐久力上昇
 LV.６でモーション変化／すり抜け時間延長&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_40</key>
-    <original xml:space="preserve">火薬を巻きつけた複数の矢を、
+    <original>火薬を巻きつけた複数の矢を、
 渾身の力で空に放ち、敵の頭上に降らせる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で矢の発射数増加（３→５）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_41</key>
-    <original xml:space="preserve">ボタンの連打で射撃回数が増加する
+    <original>ボタンの連打で射撃回数が増加する
 また、射撃回数が増えるにつれ
 敵を怯ませやすくなる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
@@ -79,7 +79,7 @@ LV.６で攻撃速度上昇&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_43</key>
-    <original xml:space="preserve">全霊の力で弓を引き、絶大な威力の矢を放つ
+    <original>全霊の力で弓を引き、絶大な威力の矢を放つ
 溜め満了の瞬間に放つと威力が大幅に上昇し、
 残り体力が低い敵ほど効果が高い
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
@@ -87,7 +87,7 @@ LV.６で溜め時間短縮&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_03_131</key>
-    <original xml:space="preserve">連鎖的に爆発する火薬を巻きつけた矢を
+    <original>連鎖的に爆発する火薬を巻きつけた矢を
 上空に放つ
 射撃時にボタン長押しで起爆高度が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇

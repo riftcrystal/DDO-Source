@@ -1,62 +1,62 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>photo_guide_print</key>
-    <original xml:space="preserve">撮影</original>
+    <original>撮影</original>
   </message>
   <message>
     <key>photo_guide_ploff</key>
-    <original xml:space="preserve">プレイヤーを非表示</original>
+    <original>プレイヤーを非表示</original>
   </message>
   <message>
     <key>photo_guide_cam_move</key>
-    <original xml:space="preserve">カメラ移動</original>
+    <original>カメラ移動</original>
   </message>
   <message>
     <key>photo_guide_cam_roll</key>
-    <original xml:space="preserve">カメラ回転</original>
+    <original>カメラ回転</original>
   </message>
   <message>
     <key>photo_guide_zoomin</key>
-    <original xml:space="preserve">ズームイン</original>
+    <original>ズームイン</original>
   </message>
   <message>
     <key>photo_guide_zoomout</key>
-    <original xml:space="preserve">ズームアウト</original>
+    <original>ズームアウト</original>
   </message>
   <message>
     <key>photo_guide_comm_sc</key>
-    <original xml:space="preserve">コミュニケーションショートカット</original>
+    <original>コミュニケーションショートカット</original>
   </message>
   <message>
     <key>photo_guide_album_num</key>
-    <original xml:space="preserve">アルバム保存枚数</original>
+    <original>アルバム保存枚数</original>
   </message>
   <message>
     <key>photo_guide_copy_right</key>
-    <original xml:space="preserve">©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</original>
+    <original>©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.</original>
   </message>
   <message>
     <key>photo_guide_title</key>
-    <original xml:space="preserve">Dragon's Dogma Online*</original>
+    <original>Dragon's Dogma Online*</original>
   </message>
   <message>
     <key>photo_frame_title_jp</key>
-    <original xml:space="preserve">Photo Frame</original>
+    <original>Photo Frame</original>
   </message>
   <message>
     <key>photo_frame_title_en</key>
-    <original xml:space="preserve">フレーム選択</original>
+    <original>フレーム選択</original>
   </message>
   <message>
     <key>photo_savedata_picture_album</key>
-    <original xml:space="preserve">Dragon's Dogma Online</original>
+    <original>Dragon's Dogma Online</original>
   </message>
   <message>
     <key>photo_savedata_picture_name</key>
-    <original xml:space="preserve">Dragon's Dogma Online Screen Shot</original>
+    <original>Dragon's Dogma Online Screen Shot</original>
   </message>
   <message>
     <key>photo_savedata_picture_info</key>
-    <original xml:space="preserve">Dragon's Dogma Online で撮影したスクリーンショットです</original>
+    <original>Dragon's Dogma Online で撮影したスクリーンショットです</original>
   </message>
 </resource>

@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20075006_00_259</key>
-    <original xml:space="preserve">闇夜に佇む魔</original>
+    <original>闇夜に佇む魔</original>
   </message>
   <message>
     <key>q20075006_00_259</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 遭遇した敵を討伐する</original>
   </message>
   <message>
     <key>q20075006_00_259</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+    <original>&lt;NAME AREA&gt;では、夜になると現れる
 危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20075006_00_259</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 ここらの土地はな
 長年に渡るオークどもとの戦争で
 命を落とした戦士達の亡骸が
@@ -25,6 +25,6 @@
   </message>
   <message>
     <key>q20075006_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
 </resource>

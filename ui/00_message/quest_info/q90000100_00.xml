@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000100_00_31</key>
-    <original xml:space="preserve">グリッテン砦攻防戦</original>
+    <original>グリッテン砦攻防戦</original>
   </message>
   <message>
     <key>q90000100_00_31</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>q90000100_00_31</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>q90000100_00_31</key>
-    <original xml:space="preserve">グリッテン砦攻防戦　管理</original>
+    <original>グリッテン砦攻防戦　管理</original>
   </message>
 </resource>

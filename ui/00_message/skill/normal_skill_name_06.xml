@@ -1,30 +1,30 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_06_92</key>
-    <original xml:space="preserve">マジックボール</original>
+    <original>マジックボール</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_93</key>
-    <original xml:space="preserve">マジックトラップ</original>
+    <original>マジックトラップ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_94</key>
-    <original xml:space="preserve">マジックブースト</original>
+    <original>マジックブースト</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_95</key>
-    <original xml:space="preserve">スペリング</original>
+    <original>スペリング</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_96</key>
-    <original xml:space="preserve">バックムーブ</original>
+    <original>バックムーブ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_101</key>
-    <original xml:space="preserve">フローティング</original>
+    <original>フローティング</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_06_102</key>
-    <original xml:space="preserve">マジッククラッカー</original>
+    <original>マジッククラッカー</original>
   </message>
 </resource>

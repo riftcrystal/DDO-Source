@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050009_00_254</key>
-    <original xml:space="preserve">橋は我らが命なり</original>
+    <original>橋は我らが命なり</original>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <original xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
+    <original>切迫した事情を抱えた人物がいると連絡があった
 速やかに&lt;NAME AREA&gt;に向かって欲しい</original>
   </message>
   <message>
     <key>q20050009_00_254</key>
-    <original xml:space="preserve">リンウッドの橋の痛みを修繕するため
+    <original>リンウッドの橋の痛みを修繕するため
 村の様子を見に行ったんだが、なんだか魔物が
 増えてるなあ
 橋の近くにもウジャウジャわいて、あれじゃ
@@ -23,22 +23,22 @@
   </message>
   <message>
     <key>q20050009_00_1015</key>
-    <original xml:space="preserve">橋付近の敵を討伐する</original>
+    <original>橋付近の敵を討伐する</original>
   </message>
   <message>
     <key>q20050009_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20050009_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
   <message>
     <key>q20050009_00_1100</key>
-    <original xml:space="preserve">他の敵を探し討伐する（残り２）</original>
+    <original>他の敵を探し討伐する（残り２）</original>
   </message>
   <message>
     <key>q20050009_00_1101</key>
-    <original xml:space="preserve">他の敵を探し討伐する（残り１）</original>
+    <original>他の敵を探し討伐する（残り１）</original>
   </message>
 </resource>

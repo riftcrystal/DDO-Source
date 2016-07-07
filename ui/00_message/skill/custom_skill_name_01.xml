@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_01_8</key>
-    <original xml:space="preserve">一閃突き</original>
+    <original>一閃突き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_12</key>
-    <original xml:space="preserve">刀牙昇斬</original>
+    <original>刀牙昇斬</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_10</key>
-    <original xml:space="preserve">シールドバッシュ</original>
+    <original>シールドバッシュ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_13</key>
-    <original xml:space="preserve">天蓋斬り</original>
+    <original>天蓋斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_15</key>
-    <original xml:space="preserve">逸らし斬り</original>
+    <original>逸らし斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_9</key>
-    <original xml:space="preserve">直下突き</original>
+    <original>直下突き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_11</key>
-    <original xml:space="preserve">センチュリオンスパイク</original>
+    <original>センチュリオンスパイク</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_14</key>
-    <original xml:space="preserve">円月斬り</original>
+    <original>円月斬り</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_18</key>
-    <original xml:space="preserve">チャリオットムーブ</original>
+    <original>チャリオットムーブ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_16</key>
-    <original xml:space="preserve">弐段突き</original>
+    <original>弐段突き</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_19</key>
-    <original xml:space="preserve">流剣閃</original>
+    <original>流剣閃</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_17</key>
-    <original xml:space="preserve">ブレイブスレイド</original>
+    <original>ブレイブスレイド</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_01_120</key>
-    <original xml:space="preserve">豪溜斬り</original>
+    <original>豪溜斬り</original>
   </message>
 </resource>

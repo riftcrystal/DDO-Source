@@ -1,42 +1,42 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>mai_msg_title_e</key>
-    <original xml:space="preserve">Area List</original>
+    <original>Area List</original>
   </message>
   <message>
     <key>mai_msg_nodeta</key>
-    <original xml:space="preserve">データがありません</original>
+    <original>データがありません</original>
   </message>
   <message>
     <key>mai_msg_title_j</key>
-    <original xml:space="preserve">エリアリスト</original>
+    <original>エリアリスト</original>
   </message>
   <message>
     <key>mai_msg_category_area</key>
-    <original xml:space="preserve">エリア</original>
+    <original>エリア</original>
   </message>
   <message>
     <key>mai_msg_category_rank</key>
-    <original xml:space="preserve">ランク</original>
+    <original>ランク</original>
   </message>
   <message>
     <key>mai_msg_next</key>
-    <original xml:space="preserve">次のランクアップまで</original>
+    <original>次のランクアップまで</original>
   </message>
   <message>
     <key>mai_msg_weekly</key>
-    <original xml:space="preserve">今週の獲得AP</original>
+    <original>今週の獲得AP</original>
   </message>
   <message>
     <key>mai_msg_rank</key>
-    <original xml:space="preserve">Rank</original>
+    <original>Rank</original>
   </message>
   <message>
     <key>mai_msg_clan_point_total</key>
-    <original xml:space="preserve">クラン累計AP</original>
+    <original>クラン累計AP</original>
   </message>
   <message>
     <key>mai_msg_clan_point_max</key>
-    <original xml:space="preserve">クラン最大貢献AP</original>
+    <original>クラン最大貢献AP</original>
   </message>
 </resource>

@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050007_00_252</key>
-    <original xml:space="preserve">古より集うもの</original>
+    <original>古より集うもの</original>
   </message>
   <message>
     <key>q20050007_00_252</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050007_00_252</key>
-    <original xml:space="preserve">協力者を求める者がいるとの報告が
+    <original>協力者を求める者がいるとの報告が
 &lt;NAME AREA&gt;から届いている</original>
   </message>
   <message>
     <key>q20050007_00_252</key>
-    <original xml:space="preserve">陽光あふれるミスリウは、どこか幻想的で
+    <original>陽光あふれるミスリウは、どこか幻想的で
 我ら音楽家にとっても格好のモチーフです
 さらに感性を刺激するのは、誰が名付けたか
 「古の祭祀場」――美しく朽ちたそのたたずまいは
@@ -24,14 +24,14 @@
   </message>
   <message>
     <key>q20050007_00_1009</key>
-    <original xml:space="preserve">＜古の祭祀場＞付近の敵を討伐する</original>
+    <original>＜古の祭祀場＞付近の敵を討伐する</original>
   </message>
   <message>
     <key>q20050007_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20050007_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

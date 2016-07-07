@@ -1,18 +1,18 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000200_00_43</key>
-    <original xml:space="preserve">魔物のるつぼ</original>
+    <original>魔物のるつぼ</original>
   </message>
   <message>
     <key>q90000200_00_43</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>q90000200_00_43</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>q90000200_00_43</key>
-    <original xml:space="preserve">魔物のるつぼ　管理</original>
+    <original>魔物のるつぼ　管理</original>
   </message>
 </resource>

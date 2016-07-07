@@ -1,34 +1,34 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawn_personality_1</key>
-    <original xml:space="preserve">ノーマル</original>
+    <original>ノーマル</original>
   </message>
   <message>
     <key>pawn_personality_2</key>
-    <original xml:space="preserve">シャイ</original>
+    <original>シャイ</original>
   </message>
   <message>
     <key>pawn_personality_3</key>
-    <original xml:space="preserve">アクティブ</original>
+    <original>アクティブ</original>
   </message>
   <message>
     <key>pawn_personality_4</key>
-    <original xml:space="preserve">スマート</original>
+    <original>スマート</original>
   </message>
   <message>
     <key>pawn_personality_5</key>
-    <original xml:space="preserve">クール</original>
+    <original>クール</original>
   </message>
   <message>
     <key>pawn_personality_6</key>
-    <original xml:space="preserve">ピュア</original>
+    <original>ピュア</original>
   </message>
   <message>
     <key>pawn_personality_7</key>
-    <original xml:space="preserve">ワイルド</original>
+    <original>ワイルド</original>
   </message>
   <message>
     <key>pawn_personality_8</key>
-    <original xml:space="preserve">セクシー</original>
+    <original>セクシー</original>
   </message>
 </resource>

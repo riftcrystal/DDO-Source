@@ -1,249 +1,249 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <original xml:space="preserve">レバーがある</original>
+    <original>レバーがある</original>
   </message>
   <message>
-    <original xml:space="preserve">引きますか</original>
+    <original>引きますか</original>
   </message>
   <message>
-    <original xml:space="preserve">引く</original>
+    <original>引く</original>
   </message>
   <message>
-    <original xml:space="preserve">引かない</original>
+    <original>引かない</original>
   </message>
   <message>
-    <original xml:space="preserve">扉には鍵がかかっている――</original>
+    <original>扉には鍵がかかっている――</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵を使いますか</original>
+    <original>鍵を使いますか</original>
   </message>
   <message>
-    <original xml:space="preserve">使う</original>
+    <original>使う</original>
   </message>
   <message>
-    <original xml:space="preserve">使わない</original>
+    <original>使わない</original>
   </message>
   <message>
-    <original xml:space="preserve">エリアマスターにより封鎖されている――</original>
+    <original>エリアマスターにより封鎖されている――</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《&lt;NAME ITEM&gt;》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">こちら側からは開かないようだ</original>
+    <original>こちら側からは開かないようだ</original>
   </message>
   <message>
-    <original xml:space="preserve">不思議な力で封印されている</original>
+    <original>不思議な力で封印されている</original>
   </message>
   <message>
-    <original xml:space="preserve">何かが引っ掛かって開かない</original>
+    <original>何かが引っ掛かって開かない</original>
   </message>
   <message>
-    <original xml:space="preserve">厳重に封印されている――</original>
+    <original>厳重に封印されている――</original>
   </message>
   <message>
-    <original xml:space="preserve">文字はかすれていて読めない</original>
+    <original>文字はかすれていて読めない</original>
   </message>
   <message>
-    <original xml:space="preserve">すでに息絶えている――</original>
+    <original>すでに息絶えている――</original>
   </message>
   <message>
-    <original xml:space="preserve">特に気になるものはない</original>
+    <original>特に気になるものはない</original>
   </message>
   <message>
-    <original xml:space="preserve">何か仕掛けがあるようだ</original>
+    <original>何か仕掛けがあるようだ</original>
   </message>
   <message>
-    <original xml:space="preserve">この先は他の覚者とパーティーを組んだ
+    <original>この先は他の覚者とパーティーを組んだ
 状態では進入できません</original>
   </message>
   <message>
-    <original xml:space="preserve">一人、またはポーンのみを連れて
+    <original>一人、またはポーンのみを連れて
 訪れてください</original>
   </message>
   <message>
-    <original xml:space="preserve">行き先選択</original>
+    <original>行き先選択</original>
   </message>
   <message>
-    <original xml:space="preserve">各ステージ名</original>
+    <original>各ステージ名</original>
   </message>
   <message>
-    <original xml:space="preserve">やめる</original>
+    <original>やめる</original>
   </message>
   <message>
-    <original xml:space="preserve">準備完了！　進行マーカーに触れてください</original>
+    <original>準備完了！　進行マーカーに触れてください</original>
   </message>
   <message>
-    <original xml:space="preserve">準備完了！　待機してください</original>
+    <original>準備完了！　待機してください</original>
   </message>
   <message>
-    <original xml:space="preserve">パーティー全員が集合するまで
+    <original>パーティー全員が集合するまで
 サークル内で待機してください</original>
   </message>
   <message>
-    <original xml:space="preserve">リーダーが進行準備・パーティー招集を行いました</original>
+    <original>リーダーが進行準備・パーティー招集を行いました</original>
   </message>
   <message>
-    <original xml:space="preserve">パーティー全員が集まり、準備完了したら
+    <original>パーティー全員が集まり、準備完了したら
 進行マーカーに触れてください</original>
   </message>
   <message>
-    <original xml:space="preserve">イベントを進行しますか？
+    <original>イベントを進行しますか？
 ※パーティー要請中の場合はキャンセルされます</original>
   </message>
   <message>
-    <original xml:space="preserve">準備開始（パーティー招集）</original>
+    <original>準備開始（パーティー招集）</original>
   </message>
   <message>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行はリーダーのみ可能です</original>
+    <original>イベント進行はリーダーのみ可能です</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行確認</original>
+    <original>イベント進行確認</original>
   </message>
   <message>
-    <original xml:space="preserve">進行する</original>
+    <original>進行する</original>
   </message>
   <message>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行待機に入ります
+    <original>イベント進行待機に入ります
 準備はよろしいですか？</original>
   </message>
   <message>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
-    <original xml:space="preserve">待機を解除しますか？</original>
+    <original>待機を解除しますか？</original>
   </message>
   <message>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
-    <original xml:space="preserve">メンバーが集合するまで
+    <original>メンバーが集合するまで
 サークル内で待機してください</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行確認</original>
+    <original>イベント進行確認</original>
   </message>
   <message>
-    <original xml:space="preserve">進行する</original>
+    <original>進行する</original>
   </message>
   <message>
-    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <original>準備解除（パーティー招集中止）</original>
   </message>
   <message>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行確認</original>
+    <original>イベント進行確認</original>
   </message>
   <message>
-    <original xml:space="preserve">準備完了、待機</original>
+    <original>準備完了、待機</original>
   </message>
   <message>
-    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <original>準備解除（パーティー招集中止）</original>
   </message>
   <message>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
-    <original xml:space="preserve">イベント進行確認
+    <original>イベント進行確認
 （全メンバーの準備完了を待ちます）</original>
   </message>
   <message>
-    <original xml:space="preserve">準備解除（パーティー招集中止）</original>
+    <original>準備解除（パーティー招集中止）</original>
   </message>
   <message>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
-    <original xml:space="preserve">門のような意匠がある
+    <original>門のような意匠がある
 わずかに不思議な気配を感じる――</original>
   </message>
   <message>
-    <original xml:space="preserve">――扉は閉ざされている――
+    <original>――扉は閉ざされている――
 メンバー全員が集まらなければ
 この先へは進めません
 メンバーを招集しますか？</original>
   </message>
   <message>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
-    <original xml:space="preserve">――扉は閉ざされている――
+    <original>――扉は閉ざされている――
 リーダーアクションがなければ
 この先へは進めません</original>
   </message>
   <message>
-    <original xml:space="preserve">扉を開き先へ向かいますか？
+    <original>扉を開き先へ向かいますか？
 （全メンバーが準備完了しました）</original>
   </message>
   <message>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
-    <original xml:space="preserve">いいえ（パーティー招集中止）</original>
+    <original>いいえ（パーティー招集中止）</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵を使用して扉を開きますか？
+    <original>鍵を使用して扉を開きますか？
 （全メンバーが準備完了しました）</original>
   </message>
   <message>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
-    <original xml:space="preserve">扉は固く閉ざされており
+    <original>扉は固く閉ざされており
 開きそうにない</original>
   </message>
   <message>
-    <original xml:space="preserve">特定のコンテンツ中は
+    <original>特定のコンテンツ中は
 この先に移動できません</original>
   </message>
   <message>
-    <original xml:space="preserve">残り時間が追加されました</original>
+    <original>残り時間が追加されました</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《未来の装飾鍵》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《竜力の鍵》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《昌石の鍵》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《財宝の鍵》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 開くには&lt;COL ffdc78&gt;《宝飾の鍵》&lt;/COL&gt;が必要だ</original>
   </message>
   <message>
-    <original xml:space="preserve">エクストリームトーナメントが解放されました</original>
+    <original>エクストリームトーナメントが解放されました</original>
   </message>
   <message>
-    <original xml:space="preserve">鍵がかかっている――
+    <original>鍵がかかっている――
 解放には&lt;COL ffdc78&gt;《宝飾の鍵》&lt;/COL&gt;が必要だ</original>
   </message>
 </resource>

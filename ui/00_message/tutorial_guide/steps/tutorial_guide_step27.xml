@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_45</key>
-    <original xml:space="preserve">まずは基本操作です
+    <original>まずは基本操作です
 
 
 &lt;COL ffdc78&gt;移動：&lt;/COL&gt;&lt;PADM&gt;【左スティック】&lt;KEYM&gt;【&lt;ICON KB_W&gt;&lt;ICON KB_A&gt;&lt;ICON KB_S&gt;&lt;ICON KB_D&gt;】&lt;/KEYM&gt;
@@ -12,7 +12,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_46</key>
-    <original xml:space="preserve">次にカメラ操作です
+    <original>次にカメラ操作です
 
 
 &lt;COL ffdc78&gt;カメラ（視点）操作：&lt;/COL&gt;&lt;PADM&gt;【右スティック】&lt;KEYM&gt;【&lt;ICON MOUSE&gt;】&lt;/KEYM&gt;

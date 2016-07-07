@@ -1,82 +1,82 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>EDIT_MSG_TITLE_JOB_SELECT</key>
-    <original xml:space="preserve">Job Select</original>
+    <original>Job Select</original>
   </message>
   <message>
     <key>EDIT_MSG_JOB_FIGHTER</key>
-    <original xml:space="preserve">ファイター</original>
+    <original>ファイター</original>
   </message>
   <message>
     <key>EDIT_MSG_JOB_HUNTER</key>
-    <original xml:space="preserve">ハンター</original>
+    <original>ハンター</original>
   </message>
   <message>
     <key>EDIT_MSG_JOB_PRIEST</key>
-    <original xml:space="preserve">プリースト</original>
+    <original>プリースト</original>
   </message>
   <message>
     <key>EDIT_MSG_JOB_SEALEDSAGE</key>
-    <original xml:space="preserve">シールドセージ</original>
+    <original>シールドセージ</original>
   </message>
   <message>
     <key>EDIT_MSG_GUIDE_JOB_SELECT</key>
-    <original xml:space="preserve">ジョブの設定をします</original>
+    <original>ジョブの設定をします</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_SELECT</key>
-    <original xml:space="preserve">このジョブでよろしいですか？
+    <original>このジョブでよろしいですか？
 (ジョブはゲーム内の施設からいつでも転職できます)</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_YES</key>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_NO</key>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_JOB_REPLY_OK</key>
-    <original xml:space="preserve">OK</original>
+    <original>OK</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PL</key>
-    <original xml:space="preserve">覚者プロフィールの公開範囲を設定してください
+    <original>覚者プロフィールの公開範囲を設定してください
 (ゲーム設定の通知・公開設定でいつでも変更できます)</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PAWN</key>
-    <original xml:space="preserve">ポーンの貸し出し制限を設定してください
+    <original>ポーンの貸し出し制限を設定してください
 (リムストーンのメニューからいつでも変更できます)</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PAWNSEARCH</key>
-    <original xml:space="preserve">ポーン検索の公開範囲を設定してください</original>
+    <original>ポーン検索の公開範囲を設定してください</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_ALL</key>
-    <original xml:space="preserve">誰でも</original>
+    <original>誰でも</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND_CLAN</key>
-    <original xml:space="preserve">クランとフレンド</original>
+    <original>クランとフレンド</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_FRIEND</key>
-    <original xml:space="preserve">フレンド</original>
+    <original>フレンド</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_CLAN</key>
-    <original xml:space="preserve">クラン</original>
+    <original>クラン</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_CARD_PULL_NOT</key>
-    <original xml:space="preserve">非公開</original>
+    <original>非公開</original>
   </message>
   <message>
     <key>EDIT_MSG_DIALOG_ERROR_NAME_USED2</key>
-    <original xml:space="preserve">&lt;NAME&gt;は
+    <original>&lt;NAME&gt;は
 すでに使用されている名前です
 違う名前に変更してください</original>
   </message>

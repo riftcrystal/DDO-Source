@@ -1,55 +1,55 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000012_00_15</key>
-    <original xml:space="preserve">覚者の甲斐性</original>
+    <original>覚者の甲斐性</original>
   </message>
   <message>
     <key>q60000012_00_15</key>
-    <original xml:space="preserve">覚者ファビオの教示に応えるため
+    <original>覚者ファビオの教示に応えるため
 宿場区にいるアーチボルトに挨拶に行く</original>
   </message>
   <message>
     <key>q60000012_00_1531</key>
-    <original xml:space="preserve">ファビオのもとへ向かう</original>
+    <original>ファビオのもとへ向かう</original>
   </message>
   <message>
     <key>q60000012_00_1204</key>
-    <original xml:space="preserve">宿場区にいるアーチボルトに挨拶する</original>
+    <original>宿場区にいるアーチボルトに挨拶する</original>
   </message>
   <message>
     <key>q60000012_00_1528</key>
-    <original xml:space="preserve">転職／戦技の付替えでカスタムスキルをセットする</original>
+    <original>転職／戦技の付替えでカスタムスキルをセットする</original>
   </message>
   <message>
     <key>q60000012_00_1529</key>
-    <original xml:space="preserve">もう一度アーチボルトに話しかける</original>
+    <original>もう一度アーチボルトに話しかける</original>
   </message>
   <message>
     <key>q60000012_00_1203</key>
-    <original xml:space="preserve">ファビオに報告をする</original>
+    <original>ファビオに報告をする</original>
   </message>
   <message>
     <key>q60000012_00_1113</key>
-    <original xml:space="preserve">クエストボードの依頼を1つ受注する</original>
+    <original>クエストボードの依頼を1つ受注する</original>
   </message>
   <message>
     <key>q60000012_00_1530</key>
-    <original xml:space="preserve">受注したボードクエストを１つクリアする</original>
+    <original>受注したボードクエストを１つクリアする</original>
   </message>
   <message>
     <key>q60000012_00_1292</key>
-    <original xml:space="preserve">ファビオに依頼クリアの報告をする</original>
+    <original>ファビオに依頼クリアの報告をする</original>
   </message>
   <message>
     <key>q60000012_00_1279</key>
-    <original xml:space="preserve">保管ボックスの《報酬受け取り》を確認する</original>
+    <original>保管ボックスの《報酬受け取り》を確認する</original>
   </message>
   <message>
     <key>q60000012_00_1114</key>
-    <original xml:space="preserve">ファビオに経緯を報告する</original>
+    <original>ファビオに経緯を報告する</original>
   </message>
   <message>
     <key>q60000012_00_1538</key>
-    <original xml:space="preserve">謁見の間に行きレオと会う</original>
+    <original>謁見の間に行きレオと会う</original>
   </message>
 </resource>

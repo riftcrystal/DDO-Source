@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_RANK_REWARD_82</key>
-    <original xml:space="preserve">支援品の配給</original>
+    <original>支援品の配給</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_83</key>
-    <original xml:space="preserve">《森小人の集落》に新たな強敵が出現</original>
+    <original>《森小人の集落》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_84</key>
-    <original xml:space="preserve">交通路《西ミスリウ橋》復旧</original>
+    <original>交通路《西ミスリウ橋》復旧</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_85</key>
-    <original xml:space="preserve">《古の祭祀場》に新たな強敵が出現</original>
+    <original>《古の祭祀場》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_86</key>
-    <original xml:space="preserve">《ソーサラー》のジョブマスターに紹介</original>
+    <original>《ソーサラー》のジョブマスターに紹介</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_87</key>
-    <original xml:space="preserve">封鎖エリア《リンウッド地下水路》開放</original>
+    <original>封鎖エリア《リンウッド地下水路》開放</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_88</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
+    <original>支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_89</key>
-    <original xml:space="preserve">《肉裂き館》他二か所の廃屋に新たな強敵が出現</original>
+    <original>《肉裂き館》他二か所の廃屋に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_90</key>
-    <original xml:space="preserve">封鎖エリア《ミスリウ鍾乳洞》開放</original>
+    <original>封鎖エリア《ミスリウ鍾乳洞》開放</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_91</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
+    <original>支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_191</key>
-    <original xml:space="preserve">《ミスリウ森林》各地にある未解放のリム転移 解放</original>
+    <original>《ミスリウ森林》各地にある未解放のリム転移 解放</original>
   </message>
 </resource>

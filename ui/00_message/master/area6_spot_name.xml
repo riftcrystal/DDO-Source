@@ -1,62 +1,62 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ミスリウ森林深部</original>
+    <original>ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">標の祠　ミスリウ森林深部</original>
+    <original>標の祠　ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">イヴァンの山小屋</original>
+    <original>イヴァンの山小屋</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ディナン山道</original>
+    <original>ディナン山道</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">密猟者のキャンプ</original>
+    <original>密猟者のキャンプ</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">イニアス湿地帯</original>
+    <original>イニアス湿地帯</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">蒼葉のテラス</original>
+    <original>蒼葉のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">聖獣の間</original>
+    <original>聖獣の間</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">名もなき廃村</original>
+    <original>名もなき廃村</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">巨人の寝床</original>
+    <original>巨人の寝床</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">霧たなびく深森</original>
+    <original>霧たなびく深森</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">森の廃墟地下</original>
+    <original>森の廃墟地下</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">深緑のテラス</original>
+    <original>深緑のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">霊泉のテラス</original>
+    <original>霊泉のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">霧幻のテラス</original>
+    <original>霧幻のテラス</original>
   </message>
 </resource>

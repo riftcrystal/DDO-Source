@@ -1,43 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>DELIVER_MSG_TITLE01</key>
-    <original xml:space="preserve">Quest List</original>
+    <original>Quest List</original>
   </message>
   <message>
     <key>DELIVER_MSG_TITLE02</key>
-    <original xml:space="preserve">クエストリスト</original>
+    <original>クエストリスト</original>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_EN</key>
-    <original xml:space="preserve">Delivery Item</original>
+    <original>Delivery Item</original>
   </message>
   <message>
     <key>DELIVER_MSG_CAPTION_JP</key>
-    <original xml:space="preserve">納品アイテム</original>
+    <original>納品アイテム</original>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_NOQUEST</key>
-    <original xml:space="preserve">納品が必要なボードクエストを受注していません</original>
+    <original>納品が必要なボードクエストを受注していません</original>
   </message>
   <message>
     <key>DELIVER_MSG_LB_GOAL</key>
-    <original xml:space="preserve">目標納品数</original>
+    <original>目標納品数</original>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_DELIVER</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt; × &lt;VAL&gt; を納品しました</original>
+    <original>&lt;NAME ITEM&gt; × &lt;VAL&gt; を納品しました</original>
   </message>
   <message>
     <key>DELIVER_MSG_NOTION_FINISH</key>
-    <original xml:space="preserve">「&lt;NAME QUEST&gt;」
+    <original>「&lt;NAME QUEST&gt;」
 納品目標を全て達成しました</original>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_FINISH</key>
-    <original xml:space="preserve">完了</original>
+    <original>完了</original>
   </message>
   <message>
     <key>DELIVER_MSG_BUTTON_END</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
 </resource>

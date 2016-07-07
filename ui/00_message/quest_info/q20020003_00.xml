@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20020003_00_36</key>
-    <original xml:space="preserve">ざわめきの地下室</original>
+    <original>ざわめきの地下室</original>
   </message>
   <message>
     <key>q20020003_00_36</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 地下室の内部を調査する</original>
   </message>
   <message>
     <key>q20020003_00_36</key>
-    <original xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
+    <original>切迫した事情を抱えた人物がいると連絡があった
 速やかに&lt;NAME AREA&gt;に向かって欲しい</original>
   </message>
   <message>
     <key>q20020003_00_36</key>
-    <original xml:space="preserve">平原の街道あたりに、ちょっと及び腰の
+    <original>平原の街道あたりに、ちょっと及び腰の
 覚者がいたんだ
 ああいう、率先して危険に飛び込むのを嫌がって
 人まかせにするヤツは、どうにかならんのか？
@@ -24,14 +24,14 @@
   </message>
   <message>
     <key>q20020003_00_830</key>
-    <original xml:space="preserve">＜廃墟の地下室＞を調査する</original>
+    <original>＜廃墟の地下室＞を調査する</original>
   </message>
   <message>
     <key>q20020003_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20020003_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

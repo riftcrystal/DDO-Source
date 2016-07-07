@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050003_00_46</key>
-    <original xml:space="preserve">リンウッド防衛戦</original>
+    <original>リンウッド防衛戦</original>
   </message>
   <message>
     <key>q20050003_00_46</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050003_00_46</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;の何処かに
+    <original>&lt;NAME AREA&gt;の何処かに
 覚者の探索能力を見込み、相談したい者がいるという</original>
   </message>
   <message>
     <key>q20050003_00_46</key>
-    <original xml:space="preserve">ふう、やっと着いた――
+    <original>ふう、やっと着いた――
 いえね、いまリンウッドのあたりで白衛騎士団が
 展開してて、ものものしい状況なんですよ
 私ら商売人も、安全のため離れるように言われたもん
@@ -24,18 +24,18 @@
   </message>
   <message>
     <key>q20050003_00_1004</key>
-    <original xml:space="preserve">森林２ヶ所の敵集団を討伐する</original>
+    <original>森林２ヶ所の敵集団を討伐する</original>
   </message>
   <message>
     <key>q20050003_00_1099</key>
-    <original xml:space="preserve">もう一方の敵を討伐する</original>
+    <original>もう一方の敵を討伐する</original>
   </message>
   <message>
     <key>q20050003_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
   <message>
     <key>q20050003_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
 </resource>

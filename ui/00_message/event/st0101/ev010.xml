@@ -1,33 +1,33 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <original xml:space="preserve">新人覚者だな？</original>
+    <original>新人覚者だな？</original>
   </message>
   <message>
-    <original xml:space="preserve">待っていろ</original>
+    <original>待っていろ</original>
   </message>
   <message>
-    <original xml:space="preserve">――よし</original>
+    <original>――よし</original>
   </message>
   <message>
-    <original xml:space="preserve">この臭いを忘れるな
+    <original>この臭いを忘れるな
 オークの接近は臭いでわかる</original>
   </message>
   <message>
-    <original xml:space="preserve">いつか鼻がバカになるだろうが――</original>
+    <original>いつか鼻がバカになるだろうが――</original>
   </message>
   <message>
-    <original xml:space="preserve">その頃まで生きのびていれば
+    <original>その頃まで生きのびていれば
 オークごときにやられることはない</original>
   </message>
   <message>
-    <original xml:space="preserve">あれが――</original>
+    <original>あれが――</original>
   </message>
   <message>
-    <original xml:space="preserve">グリッテン砦だ
+    <original>グリッテン砦だ
 走るぞ</original>
   </message>
   <message>
-    <original xml:space="preserve">急いで――
+    <original>急いで――
 ほら、オークちゃんが逃げちゃうよ！</original>
   </message>
 </resource>

@@ -1,129 +1,129 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>char_sel_index_en</key>
-    <original xml:space="preserve">Character Select</original>
+    <original>Character Select</original>
   </message>
   <message>
     <key>char_sel_index_jp</key>
-    <original xml:space="preserve">キャラクター選択</original>
+    <original>キャラクター選択</original>
   </message>
   <message>
     <key>char_sel_status</key>
-    <original xml:space="preserve">Status</original>
+    <original>Status</original>
   </message>
   <message>
     <key>char_sel_profile</key>
-    <original xml:space="preserve">Profile</original>
+    <original>Profile</original>
   </message>
   <message>
     <key>char_sel_delete</key>
-    <original xml:space="preserve">キャラクターの削除</original>
+    <original>キャラクターの削除</original>
   </message>
   <message>
     <key>char_sel_del_chara_select</key>
-    <original xml:space="preserve">削除するキャラクターを選択してください
+    <original>削除するキャラクターを選択してください
 削除したキャラクターは二度と復活できません</original>
   </message>
   <message>
     <key>char_sel_del_info</key>
-    <original xml:space="preserve">
+    <original>
 &lt;COL ffdc78&gt;未使用の黄金石や&lt;OPCS&gt;等もすべて失われます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>char_sel_code_text</key>
-    <original xml:space="preserve">確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
+    <original>確認コード &lt;COL AA1414&gt;&lt;VAL&gt;&lt;/COL&gt; を入力してください</original>
   </message>
   <message>
     <key>char_sel_code</key>
-    <original xml:space="preserve">確認コード：</original>
+    <original>確認コード：</original>
   </message>
   <message>
     <key>char_sel_decide</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>char_sel_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>char_sel_del</key>
-    <original xml:space="preserve">削除</original>
+    <original>削除</original>
   </message>
   <message>
     <key>char_sel_plz_wait</key>
-    <original xml:space="preserve">しばらくお待ちください</original>
+    <original>しばらくお待ちください</original>
   </message>
   <message>
     <key>char_sel_del_alert</key>
-    <original xml:space="preserve">を削除します</original>
+    <original>を削除します</original>
   </message>
   <message>
     <key>char_sel_del_finish</key>
-    <original xml:space="preserve">キャラクターの削除が完了しました</original>
+    <original>キャラクターの削除が完了しました</original>
   </message>
   <message>
     <key>char_sel_del_error</key>
-    <original xml:space="preserve">確認コードが間違っています</original>
+    <original>確認コードが間違っています</original>
   </message>
   <message>
     <key>char_sel_bonus</key>
-    <original xml:space="preserve">Course</original>
+    <original>Course</original>
   </message>
   <message>
     <key>char_sel_no_bonus</key>
-    <original xml:space="preserve">発動中の&lt;OPCS&gt;はありません</original>
+    <original>発動中の&lt;OPCS&gt;はありません</original>
   </message>
   <message>
     <key>char_sel_fourwords</key>
-    <original xml:space="preserve">（半角英数4文字）</original>
+    <original>（半角英数4文字）</original>
   </message>
   <message>
     <key>char_sel_announce_charover</key>
-    <original xml:space="preserve">キャラクター作成上限です</original>
+    <original>キャラクター作成上限です</original>
   </message>
   <message>
     <key>char_sel_add_newchar</key>
-    <original xml:space="preserve">新規作成</original>
+    <original>新規作成</original>
   </message>
   <message>
     <key>char_sel_button_zoom</key>
-    <original xml:space="preserve">モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
+    <original>モデル回転&lt;PADM&gt; / ズーム&lt;/PADM&gt;</original>
   </message>
   <message>
     <key>char_sel_button_rota</key>
-    <original xml:space="preserve">カメラ操作</original>
+    <original>カメラ操作</original>
   </message>
   <message>
     <key>char_sel_button_clan_notice</key>
-    <original xml:space="preserve">クランへの通知設定</original>
+    <original>クランへの通知設定</original>
   </message>
   <message>
     <key>char_sel_affiliation_clan</key>
-    <original xml:space="preserve">所属クラン</original>
+    <original>所属クラン</original>
   </message>
   <message>
     <key>char_sel_clan_notice_info</key>
-    <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
+    <original>クランメンバーへ自分のステータスを通知する</original>
   </message>
   <message>
     <key>char_sel_on</key>
-    <original xml:space="preserve">ON</original>
+    <original>ON</original>
   </message>
   <message>
     <key>char_sel_off</key>
-    <original xml:space="preserve">OFF</original>
+    <original>OFF</original>
   </message>
   <message>
     <key>char_sel_clan_notice_conf</key>
-    <original xml:space="preserve">クランメンバーへ自分のステータスを通知しますか？
+    <original>クランメンバーへ自分のステータスを通知しますか？
 ※この項目はゲーム設定からいつでも変更できます</original>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_yes</key>
-    <original xml:space="preserve">通知を行う</original>
+    <original>通知を行う</original>
   </message>
   <message>
     <key>char_sel_clan_notice_conf_no</key>
-    <original xml:space="preserve">通知を行わない</original>
+    <original>通知を行わない</original>
   </message>
 </resource>

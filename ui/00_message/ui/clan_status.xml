@@ -1,102 +1,102 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CLAN_STATUS_MSG_MASTER</key>
-    <original xml:space="preserve">クランマスター</original>
+    <original>クランマスター</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_MEMBER</key>
-    <original xml:space="preserve">メンバー</original>
+    <original>メンバー</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_ATIME</key>
-    <original xml:space="preserve">活動時間帯</original>
+    <original>活動時間帯</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_STYLE</key>
-    <original xml:space="preserve">クランの特徴</original>
+    <original>クランの特徴</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_STATUS</key>
-    <original xml:space="preserve">ステータス</original>
+    <original>ステータス</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_NAME</key>
-    <original xml:space="preserve">名前</original>
+    <original>名前</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_JOB</key>
-    <original xml:space="preserve">ジョブレベル</original>
+    <original>ジョブレベル</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_LOBBY</key>
-    <original xml:space="preserve">ワールド</original>
+    <original>ワールド</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_DATE</key>
-    <original xml:space="preserve">クラン加入日</original>
+    <original>クラン加入日</original>
   </message>
   <message>
     <key>CLAN_STATUS_DATE</key>
-    <original xml:space="preserve">&lt;DATE&gt;</original>
+    <original>&lt;DATE&gt;</original>
   </message>
   <message>
     <key>CLAN_STATUS_PR</key>
-    <original xml:space="preserve">紹介メッセージ</original>
+    <original>紹介メッセージ</original>
   </message>
   <message>
     <key>CLAN_STATUS_BBS</key>
-    <original xml:space="preserve">伝言メモ</original>
+    <original>伝言メモ</original>
   </message>
   <message>
     <key>CLAN_STATUS_MOTTO</key>
-    <original xml:space="preserve">モットー</original>
+    <original>モットー</original>
   </message>
   <message>
     <key>CLAN_STATUS_SHORT_NAME</key>
-    <original xml:space="preserve">&lt;NAME CLAN_S&gt;</original>
+    <original>&lt;NAME CLAN_S&gt;</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_PARTY</key>
-    <original xml:space="preserve">パーティ</original>
+    <original>パーティ</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_SWITCH</key>
-    <original xml:space="preserve">表示切り替え</original>
+    <original>表示切り替え</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_COMMENT</key>
-    <original xml:space="preserve">コメント</original>
+    <original>コメント</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_DATE_FOUND</key>
-    <original xml:space="preserve">設立日</original>
+    <original>設立日</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_TOP_JP</key>
-    <original xml:space="preserve">クランステータス</original>
+    <original>クランステータス</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_TOP_EN</key>
-    <original xml:space="preserve">Clan Status</original>
+    <original>Clan Status</original>
   </message>
   <message>
     <key>CLAN_STATUS_MEMBER_NUM</key>
-    <original xml:space="preserve">&lt;VAL&gt;名</original>
+    <original>&lt;VAL&gt;名</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_EDIT</key>
-    <original xml:space="preserve">クランステータスの編集</original>
+    <original>クランステータスの編集</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_DATE_LAST_LOGIN</key>
-    <original xml:space="preserve">最終ログイン日</original>
+    <original>最終ログイン日</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_GUIDE_CHECK_CLANAP</key>
-    <original xml:space="preserve">累計ポイントの確認</original>
+    <original>累計ポイントの確認</original>
   </message>
   <message>
     <key>CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN</key>
-    <original xml:space="preserve">クランに加入していません</original>
+    <original>クランに加入していません</original>
   </message>
 </resource>

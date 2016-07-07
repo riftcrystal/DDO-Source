@@ -1,74 +1,74 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ダウ渓谷</original>
+    <original>ダウ渓谷</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ジンゲン</original>
+    <original>ジンゲン</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">渓谷の一軒家</original>
+    <original>渓谷の一軒家</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ドリード監視塔</original>
+    <original>ドリード監視塔</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">白砂河原</original>
+    <original>白砂河原</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">風鳴り洞窟</original>
+    <original>風鳴り洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">カタコンベ</original>
+    <original>カタコンベ</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">歌姫の崖座</original>
+    <original>歌姫の崖座</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">廃墟の食糧庫</original>
+    <original>廃墟の食糧庫</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">掘削中の井戸</original>
+    <original>掘削中の井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">崩れかけたワイン庫</original>
+    <original>崩れかけたワイン庫</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">閉ざされた古井戸</original>
+    <original>閉ざされた古井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">旧騎士団詰め所</original>
+    <original>旧騎士団詰め所</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">断崖の坑道</original>
+    <original>断崖の坑道</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">渓谷の小堂</original>
+    <original>渓谷の小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ドリード城</original>
+    <original>ドリード城</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ドリード水路跡</original>
+    <original>ドリード水路跡</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">棄てられた地下道</original>
+    <original>棄てられた地下道</original>
   </message>
 </resource>

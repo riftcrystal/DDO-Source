@@ -1,58 +1,58 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ザンドラ東部</original>
+    <original>ザンドラ東部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ゾマ</original>
+    <original>ゾマ</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">奇岩谷</original>
+    <original>奇岩谷</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">東ザンドラ廃墟群</original>
+    <original>東ザンドラ廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ザンドラ灯台</original>
+    <original>ザンドラ灯台</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">呪詛の庭</original>
+    <original>呪詛の庭</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">死王の迷宮</original>
+    <original>死王の迷宮</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">禊の神殿　離殿</original>
+    <original>禊の神殿　離殿</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">啼き井戸</original>
+    <original>啼き井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">東ザンドラ廃墟群</original>
+    <original>東ザンドラ廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">灯台の地下倉庫</original>
+    <original>灯台の地下倉庫</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">怨嗟の祠</original>
+    <original>怨嗟の祠</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">虚ろの小堂</original>
+    <original>虚ろの小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">湖底連絡路</original>
+    <original>湖底連絡路</original>
   </message>
 </resource>

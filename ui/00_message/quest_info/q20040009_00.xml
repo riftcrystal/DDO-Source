@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040009_00_250</key>
-    <original xml:space="preserve">傷ついた名誉</original>
+    <original>傷ついた名誉</original>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <original xml:space="preserve">ゲルトの願いを聞き入れ
+    <original>ゲルトの願いを聞き入れ
 捕らえられた騎士団員を救出する</original>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <original xml:space="preserve">何者かからの、迅速な救援を求める声が
+    <original>何者かからの、迅速な救援を求める声が
 &lt;NAME AREA&gt;から届いているようだ</original>
   </message>
   <message>
     <key>q20040009_00_250</key>
-    <original xml:space="preserve">さっき鉱山から帰ってきたんだけど
+    <original>さっき鉱山から帰ってきたんだけど
 いまゲルト騎士団長はキノザに逗留しているんだね
 何か任務があったのかな？
 険しい顔はいつも通りだから、仕事か湯治かは
@@ -23,18 +23,18 @@
   </message>
   <message>
     <key>q20040009_00_995</key>
-    <original xml:space="preserve">＜盗賊の隠れ家＞に捕まった騎士を捜す</original>
+    <original>＜盗賊の隠れ家＞に捕まった騎士を捜す</original>
   </message>
   <message>
     <key>q20040009_00_996</key>
-    <original xml:space="preserve">指定された強敵を討伐する</original>
+    <original>指定された強敵を討伐する</original>
   </message>
   <message>
     <key>q20040009_00_997</key>
-    <original xml:space="preserve">騎士に話しかける</original>
+    <original>騎士に話しかける</original>
   </message>
   <message>
     <key>q20040009_00_920</key>
-    <original xml:space="preserve">ゲルトに報告する</original>
+    <original>ゲルトに報告する</original>
   </message>
 </resource>

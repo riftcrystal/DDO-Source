@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PAWNREACTION_MSG_IF_PARTY</key>
-    <original xml:space="preserve">パーティメンバーと出会った時</original>
+    <original>パーティメンバーと出会った時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_QCLEAR</key>
-    <original xml:space="preserve">クエスト成功時</original>
+    <original>クエスト成功時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_LVUP</key>
-    <original xml:space="preserve">レベルアップ時</original>
+    <original>レベルアップ時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ADEATH</key>
-    <original xml:space="preserve">プレイヤー死亡時</original>
+    <original>プレイヤー死亡時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LOBBY</key>
-    <original xml:space="preserve">ロビー待機時</original>
+    <original>ロビー待機時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_FIELD</key>
-    <original xml:space="preserve">冒険待機時</original>
+    <original>冒険待機時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_WAIT_LAB</key>
-    <original xml:space="preserve">クラフトルーム待機時</original>
+    <original>クラフトルーム待機時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_IF_ENDBATTLE</key>
-    <original xml:space="preserve">戦闘終了時</original>
+    <original>戦闘終了時</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_TITLE</key>
-    <original xml:space="preserve">ポーンリアクションを設定して下さい</original>
+    <original>ポーンリアクションを設定して下さい</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_CAPTION_CHARACTAR</key>
-    <original xml:space="preserve">口調：</original>
+    <original>口調：</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_DECIDE</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_BUTTON_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>PAWNREACTION_MSG_NONE</key>
-    <original xml:space="preserve">なし</original>
+    <original>なし</original>
   </message>
 </resource>

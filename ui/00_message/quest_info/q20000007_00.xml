@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000007_00_216</key>
-    <original xml:space="preserve">倉庫荒らしを懲らしめろ</original>
+    <original>倉庫荒らしを懲らしめろ</original>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <original xml:space="preserve">夜間、&lt;NAME AREA&gt;で発生する問題に対し
+    <original>夜間、&lt;NAME AREA&gt;で発生する問題に対し
 助力を求める人物がいるようだ</original>
   </message>
   <message>
     <key>q20000007_00_216</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 ハイデルの人たちはみな働き者で、尊敬すべき
 職業意識の持ち主ばかりです
 とはいえオーク戦争で治安が悪くなってこの方
@@ -25,22 +25,22 @@
   </message>
   <message>
     <key>q20000007_00_885</key>
-    <original xml:space="preserve">倉庫荒らしの行方を探し出す</original>
+    <original>倉庫荒らしの行方を探し出す</original>
   </message>
   <message>
     <key>q20000007_00_1128</key>
-    <original xml:space="preserve">発見した見張りを倒す</original>
+    <original>発見した見張りを倒す</original>
   </message>
   <message>
     <key>q20000007_00_1127</key>
-    <original xml:space="preserve">倉庫荒らしの本隊を探す</original>
+    <original>倉庫荒らしの本隊を探す</original>
   </message>
   <message>
     <key>q20000007_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20000007_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

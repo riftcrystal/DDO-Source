@@ -1,10 +1,10 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>PopPartyMember_res_Title</key>
-    <original xml:space="preserve">パーティー詳細</original>
+    <original>パーティー詳細</original>
   </message>
   <message>
     <key>PopPartyMember_res_ButtonText</key>
-    <original xml:space="preserve">閉じる</original>
+    <original>閉じる</original>
   </message>
 </resource>

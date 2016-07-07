@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010007_00_293</key>
-    <original xml:space="preserve">南の浜から迫る影</original>
+    <original>南の浜から迫る影</original>
   </message>
   <message>
     <key>q20010007_00_293</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20010007_00_293</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;で
+    <original>&lt;NAME AREA&gt;で
 魔物のものと思われる徘徊痕跡が見つかった</original>
   </message>
   <message>
     <key>q20010007_00_293</key>
-    <original xml:space="preserve">南の浜辺ってさ、凶暴な魔物がわんさかいるんだろ？
+    <original>南の浜辺ってさ、凶暴な魔物がわんさかいるんだろ？
 騎士の連中も手を出してくれないアイツらが――
 いや、なんでもない
 北の方にアイツらが来るわけがないよな
@@ -23,22 +23,22 @@
   </message>
   <message>
     <key>q20010007_00_1132</key>
-    <original xml:space="preserve">南海岸に向かい魔物の群れを討伐する</original>
+    <original>南海岸に向かい魔物の群れを討伐する</original>
   </message>
   <message>
     <key>q20010007_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20010007_00_1133</key>
-    <original xml:space="preserve">魔物の群れの本隊を探す</original>
+    <original>魔物の群れの本隊を探す</original>
   </message>
   <message>
     <key>q20010007_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20010007_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

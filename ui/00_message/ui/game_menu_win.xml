@@ -1,217 +1,217 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>menu_item</key>
-    <original xml:space="preserve">アイテムバッグ</original>
+    <original>アイテムバッグ</original>
   </message>
   <message>
     <key>menu_key_item</key>
-    <original xml:space="preserve">キーアイテム</original>
+    <original>キーアイテム</original>
   </message>
   <message>
     <key>menu_equip_status</key>
-    <original xml:space="preserve">ステータス・装備</original>
+    <original>ステータス・装備</original>
   </message>
   <message>
     <key>menu_newspaper</key>
-    <original xml:space="preserve">レスタニアニュース</original>
+    <original>レスタニアニュース</original>
   </message>
   <message>
     <key>menu_quest</key>
-    <original xml:space="preserve">クエストログ</original>
+    <original>クエストログ</original>
   </message>
   <message>
     <key>menu_master</key>
-    <original xml:space="preserve">ジョブ修練ログ</original>
+    <original>ジョブ修練ログ</original>
   </message>
   <message>
     <key>menu_tutorial</key>
-    <original xml:space="preserve">チュートリアルガイド</original>
+    <original>チュートリアルガイド</original>
   </message>
   <message>
     <key>menu_map</key>
-    <original xml:space="preserve">マップ</original>
+    <original>マップ</original>
   </message>
   <message>
     <key>menu_lobby</key>
-    <original xml:space="preserve">ロビー情報</original>
+    <original>ロビー情報</original>
   </message>
   <message>
     <key>menu_rim_transport</key>
-    <original xml:space="preserve">リム転移</original>
+    <original>リム転移</original>
   </message>
   <message>
     <key>menu_party</key>
-    <original xml:space="preserve">パーティー管理</original>
+    <original>パーティー管理</original>
   </message>
   <message>
     <key>menu_clan</key>
-    <original xml:space="preserve">クランステータス</original>
+    <original>クランステータス</original>
   </message>
   <message>
     <key>menu_community</key>
-    <original xml:space="preserve">コミュニティリスト</original>
+    <original>コミュニティリスト</original>
   </message>
   <message>
     <key>menu_photo</key>
-    <original xml:space="preserve">フォトモード</original>
+    <original>フォトモード</original>
   </message>
   <message>
     <key>menu_gp_charge</key>
-    <original xml:space="preserve">黄金石の確認</original>
+    <original>黄金石の確認</original>
   </message>
   <message>
     <key>menu_option_sys</key>
-    <original xml:space="preserve">デバイス設定</original>
+    <original>デバイス設定</original>
   </message>
   <message>
     <key>menu_manual</key>
-    <original xml:space="preserve">プレイマニュアル</original>
+    <original>プレイマニュアル</original>
   </message>
   <message>
     <key>menu_support</key>
-    <original xml:space="preserve">サポート・報告</original>
+    <original>サポート・報告</original>
   </message>
   <message>
     <key>menu_license</key>
-    <original xml:space="preserve">ライセンス</original>
+    <original>ライセンス</original>
   </message>
   <message>
     <key>menu_shut_down</key>
-    <original xml:space="preserve">ゲーム中断</original>
+    <original>ゲーム中断</original>
   </message>
   <message>
     <key>menu_gp_status</key>
-    <original xml:space="preserve">オンラインステーション</original>
+    <original>オンラインステーション</original>
   </message>
   <message>
     <key>menu_gp_shop</key>
-    <original xml:space="preserve">オンラインショップ</original>
+    <original>オンラインショップ</original>
   </message>
   <message>
     <key>menu_matching_profile</key>
-    <original xml:space="preserve">プロフィール編集</original>
+    <original>プロフィール編集</original>
   </message>
   <message>
     <key>menu_ls</key>
-    <original xml:space="preserve">グループチャット</original>
+    <original>グループチャット</original>
   </message>
   <message>
     <key>menu_arisen_card</key>
-    <original xml:space="preserve">覚者プロフィール</original>
+    <original>覚者プロフィール</original>
   </message>
   <message>
     <key>menu_my_fixed_pattern</key>
-    <original xml:space="preserve">マイ定型文</original>
+    <original>マイ定型文</original>
   </message>
   <message>
     <key>menu_fixed_pattern</key>
-    <original xml:space="preserve">定型文</original>
+    <original>定型文</original>
   </message>
   <message>
     <key>menu_emote</key>
-    <original xml:space="preserve">エモート</original>
+    <original>エモート</original>
   </message>
   <message>
     <key>menu_mail</key>
-    <original xml:space="preserve">メール</original>
+    <original>メール</original>
   </message>
   <message>
     <key>menu_pawn</key>
-    <original xml:space="preserve">ポーン</original>
+    <original>ポーン</original>
   </message>
   <message>
     <key>menu_pawn_command</key>
-    <original xml:space="preserve">ポーン命令</original>
+    <original>ポーン命令</original>
   </message>
   <message>
     <key>menu_achievement</key>
-    <original xml:space="preserve">アチーブメント</original>
+    <original>アチーブメント</original>
   </message>
   <message>
     <key>menu_server_change</key>
-    <original xml:space="preserve">ワールド変更</original>
+    <original>ワールド変更</original>
   </message>
   <message>
     <key>menu_exit_contents</key>
-    <original xml:space="preserve">コンテンツ中断</original>
+    <original>コンテンツ中断</original>
   </message>
   <message>
     <key>menu_option_chr</key>
-    <original xml:space="preserve">ゲーム設定</original>
+    <original>ゲーム設定</original>
   </message>
   <message>
     <key>menu_area_infomation</key>
-    <original xml:space="preserve">エリアリスト</original>
+    <original>エリアリスト</original>
   </message>
   <message>
     <key>menu_deli_box</key>
-    <original xml:space="preserve">アイテムポスト</original>
+    <original>アイテムポスト</original>
   </message>
   <message>
     <key>menu_photo_album</key>
-    <original xml:space="preserve">フォトアルバム</original>
+    <original>フォトアルバム</original>
   </message>
   <message>
     <key>menu_code</key>
-    <original xml:space="preserve">イベントコード入力</original>
+    <original>イベントコード入力</original>
   </message>
   <message>
     <key>menu_login_bonus</key>
-    <original xml:space="preserve">スタンプボーナス確認</original>
+    <original>スタンプボーナス確認</original>
   </message>
   <message>
     <key>menu_confirm_go_title</key>
-    <original xml:space="preserve">ゲームを中断してタイトル画面に戻ります
+    <original>ゲームを中断してタイトル画面に戻ります
 よろしいですか？</original>
   </message>
   <message>
     <key>menu_confirm_go_launcher</key>
-    <original xml:space="preserve">ログアウトしてランチャー画面に戻ります
+    <original>ログアウトしてランチャー画面に戻ります
 よろしいですか？</original>
   </message>
   <message>
     <key>menu_confirm_shutdown</key>
-    <original xml:space="preserve">ログアウトしてゲームを終了します
+    <original>ログアウトしてゲームを終了します
 よろしいですか？</original>
   </message>
   <message>
     <key>menu_quit_select_shutdown</key>
-    <original xml:space="preserve">ログアウトしてゲームを終了する</original>
+    <original>ログアウトしてゲームを終了する</original>
   </message>
   <message>
     <key>menu_quit_select_go_title</key>
-    <original xml:space="preserve">タイトルに戻る</original>
+    <original>タイトルに戻る</original>
   </message>
   <message>
     <key>menu_quit_select_go_launcher</key>
-    <original xml:space="preserve">ログアウトしてランチャーに戻る</original>
+    <original>ログアウトしてランチャーに戻る</original>
   </message>
   <message>
     <key>menu_gacha</key>
-    <original xml:space="preserve">トレジャーズロット</original>
+    <original>トレジャーズロット</original>
   </message>
   <message>
     <key>menu_serch_player</key>
-    <original xml:space="preserve">プレイヤー検索</original>
+    <original>プレイヤー検索</original>
   </message>
   <message>
     <key>menu_entryboard</key>
-    <original xml:space="preserve">エントリーボード</original>
+    <original>エントリーボード</original>
   </message>
   <message>
     <key>menu_quick_party</key>
-    <original xml:space="preserve">クイックパーティー</original>
+    <original>クイックパーティー</original>
   </message>
   <message>
     <key>menu_caplink</key>
-    <original xml:space="preserve">カプリンク</original>
+    <original>カプリンク</original>
   </message>
   <message>
     <key>menu_ps_items</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>menu_clan_management</key>
-    <original xml:space="preserve">クラン管理</original>
+    <original>クラン管理</original>
   </message>
 </resource>

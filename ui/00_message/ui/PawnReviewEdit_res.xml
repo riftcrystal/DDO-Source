@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pawnreviewedit_msg_looks_edit</key>
-    <original xml:space="preserve">外見評価編集</original>
+    <original>外見評価編集</original>
   </message>
   <message>
     <key>pawnreviewedit_msg_battle_edit</key>
-    <original xml:space="preserve">冒険評価編集</original>
+    <original>冒険評価編集</original>
   </message>
   <message>
     <key>pawnreviewedit_msg_craft_edit</key>
-    <original xml:space="preserve">クラフト評価編集</original>
+    <original>クラフト評価編集</original>
   </message>
   <message>
     <key>pawnreviewedit_msg_decide</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>pawnreviewedit_msg_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
 </resource>

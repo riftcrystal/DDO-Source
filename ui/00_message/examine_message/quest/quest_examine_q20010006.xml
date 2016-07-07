@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
-    <original xml:space="preserve">「ボロボロの漂流物」を発見した</original>
+    <original>「ボロボロの漂流物」を発見した</original>
   </message>
   <message>
-    <original xml:space="preserve">「高価そうな漂流物」を発見した</original>
+    <original>「高価そうな漂流物」を発見した</original>
   </message>
   <message>
-    <original xml:space="preserve">「見た事も無い漂流物」を発見した</original>
+    <original>「見た事も無い漂流物」を発見した</original>
   </message>
 </resource>

@@ -1,122 +1,122 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ORB_GAIN_PARAM_1</key>
-    <original xml:space="preserve">体力の覚醒</original>
+    <original>体力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_2</key>
-    <original xml:space="preserve">スタミナの覚醒</original>
+    <original>スタミナの覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_3</key>
-    <original xml:space="preserve">筋力の覚醒</original>
+    <original>筋力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_4</key>
-    <original xml:space="preserve">物理防御力の覚醒</original>
+    <original>物理防御力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_5</key>
-    <original xml:space="preserve">魔力の覚醒</original>
+    <original>魔力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_6</key>
-    <original xml:space="preserve">魔法防御力の覚醒</original>
+    <original>魔法防御力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_7</key>
-    <original xml:space="preserve">リムポイントの加護</original>
+    <original>リムポイントの加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_8</key>
-    <original xml:space="preserve">ゴールドの加護</original>
+    <original>ゴールドの加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_9</key>
-    <original xml:space="preserve">戦技の加護</original>
+    <original>戦技の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_10</key>
-    <original xml:space="preserve">増装の加護</original>
+    <original>増装の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_11</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_12</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_13</key>
-    <original xml:space="preserve">異界戻りの加護</original>
+    <original>異界戻りの加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_14</key>
-    <original xml:space="preserve">覚者の器</original>
+    <original>覚者の器</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_15</key>
-    <original xml:space="preserve">統率の器</original>
+    <original>統率の器</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_16</key>
-    <original xml:space="preserve">消費所持の加護</original>
+    <original>消費所持の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_17</key>
-    <original xml:space="preserve">素材所持の加護</original>
+    <original>素材所持の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_18</key>
-    <original xml:space="preserve">装備所持の加護</original>
+    <original>装備所持の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_19</key>
-    <original xml:space="preserve">シークレットアビリティ</original>
+    <original>シークレットアビリティ</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_20</key>
-    <original xml:space="preserve">体力の覚醒</original>
+    <original>体力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_21</key>
-    <original xml:space="preserve">スタミナの覚醒</original>
+    <original>スタミナの覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_22</key>
-    <original xml:space="preserve">筋力の覚醒</original>
+    <original>筋力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_23</key>
-    <original xml:space="preserve">物理防御力の覚醒</original>
+    <original>物理防御力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_24</key>
-    <original xml:space="preserve">魔力の覚醒</original>
+    <original>魔力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_25</key>
-    <original xml:space="preserve">魔法防御力の覚醒</original>
+    <original>魔法防御力の覚醒</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_26</key>
-    <original xml:space="preserve">アビリティ</original>
+    <original>アビリティ</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_27</key>
-    <original xml:space="preserve">カスタムスキル</original>
+    <original>カスタムスキル</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_28</key>
-    <original xml:space="preserve">戦技の加護</original>
+    <original>戦技の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_29</key>
-    <original xml:space="preserve">白竜の加護</original>
+    <original>白竜の加護</original>
   </message>
   <message>
     <key>ORB_GAIN_PARAM_30</key>
-    <original xml:space="preserve">ジョブ専用アイテムバッグ枠拡張</original>
+    <original>ジョブ専用アイテムバッグ枠拡張</original>
   </message>
 </resource>

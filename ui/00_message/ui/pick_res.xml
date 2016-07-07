@@ -1,38 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>pick_recieve_en</key>
-    <original xml:space="preserve">Receive</original>
+    <original>Receive</original>
   </message>
   <message>
     <key>pick_recive_jp</key>
-    <original xml:space="preserve">受け取り</original>
+    <original>受け取り</original>
   </message>
   <message>
     <key>pick_item_select</key>
-    <original xml:space="preserve">使用するアイテムを選択</original>
+    <original>使用するアイテムを選択</original>
   </message>
   <message>
     <key>pick_item_noselect</key>
-    <original xml:space="preserve">使用しない</original>
+    <original>使用しない</original>
   </message>
   <message>
     <key>pick_item_allget</key>
-    <original xml:space="preserve">すべて受け取る</original>
+    <original>すべて受け取る</original>
   </message>
   <message>
     <key>pick_item_get</key>
-    <original xml:space="preserve">受け取る</original>
+    <original>受け取る</original>
   </message>
   <message>
     <key>pick_item_limit</key>
-    <original xml:space="preserve">所持数が上限に達しました</original>
+    <original>所持数が上限に達しました</original>
   </message>
   <message>
     <key>pick_item_not_get</key>
-    <original xml:space="preserve">アイテムバッグがいっぱいのため、すべてを受け取ることができません</original>
+    <original>アイテムバッグがいっぱいのため、すべてを受け取ることができません</original>
   </message>
   <message>
     <key>pick_item_limit_max</key>
-    <original xml:space="preserve">アイテムバッグがいっぱいのため、受け取ることができません</original>
+    <original>アイテムバッグがいっぱいのため、受け取ることができません</original>
   </message>
 </resource>

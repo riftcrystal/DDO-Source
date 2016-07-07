@@ -1,182 +1,182 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>REWARD_MSG_LB_CONTENTS</key>
-    <original xml:space="preserve">Contents</original>
+    <original>Contents</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_REWARD_NUMBER</key>
-    <original xml:space="preserve">報酬件数：</original>
+    <original>報酬件数：</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_G</key>
-    <original xml:space="preserve">所持金</original>
+    <original>所持金</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_R</key>
-    <original xml:space="preserve">所持リム</original>
+    <original>所持リム</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_POCKET_BO</key>
-    <original xml:space="preserve">所持ブラッドオーブ</original>
+    <original>所持ブラッドオーブ</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_SOUKO</key>
-    <original xml:space="preserve">保管ボックス</original>
+    <original>保管ボックス</original>
   </message>
   <message>
     <key>REWARD_MSG_TAB_COMSUME</key>
-    <original xml:space="preserve">消費アイテム</original>
+    <original>消費アイテム</original>
   </message>
   <message>
     <key>REWARD_MSG_TAB_MATERIAL</key>
-    <original xml:space="preserve">素材</original>
+    <original>素材</original>
   </message>
   <message>
     <key>REWARD_MSG_TAB_EQUIPMENT</key>
-    <original xml:space="preserve">武具</original>
+    <original>武具</original>
   </message>
   <message>
     <key>REWARD_MSG_TAB_JOB</key>
-    <original xml:space="preserve">特殊アイテム</original>
+    <original>特殊アイテム</original>
   </message>
   <message>
     <key>REWARD_MSG_LB_STUFF</key>
-    <original xml:space="preserve">&lt;VAL&gt;/100</original>
+    <original>&lt;VAL&gt;/100</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_ITEMOVER</key>
-    <original xml:space="preserve">保管ボックスがあふれてしまうため受け取りできません</original>
+    <original>保管ボックスがあふれてしまうため受け取りできません</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_PICK</key>
-    <original xml:space="preserve">選択報酬を選んでください</original>
+    <original>選択報酬を選んでください</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_PLZ_ONE</key>
-    <original xml:space="preserve">１つ選んでください</original>
+    <original>１つ選んでください</original>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_COMMON</key>
-    <original xml:space="preserve">基本報酬</original>
+    <original>基本報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_PREMIAM</key>
-    <original xml:space="preserve">&lt;OPCS&gt;報酬</original>
+    <original>&lt;OPCS&gt;報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_ALLGET</key>
-    <original xml:space="preserve">全て受け取る</original>
+    <original>全て受け取る</original>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_END</key>
-    <original xml:space="preserve">一部受け取る</original>
+    <original>一部受け取る</original>
   </message>
   <message>
     <key>REWARD_MSG_BUTTON_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_ALLGET</key>
-    <original xml:space="preserve">全ての報酬を受け取りますか？</original>
+    <original>全ての報酬を受け取りますか？</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_BUY</key>
-    <original xml:space="preserve">チェックを付けていない報酬は売却されます
+    <original>チェックを付けていない報酬は売却されます
 (未選択の選択報酬は破棄されます)
 よろしいですか？
 売却合計額：&lt;VAL G&gt;</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_CANCEL</key>
-    <original xml:space="preserve">報酬受け取りをやめます</original>
+    <original>報酬受け取りをやめます</original>
   </message>
   <message>
     <key>REWARD_MSG_YES</key>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
     <key>REWARD_MSG_NO</key>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FAILURE</key>
-    <original xml:space="preserve">報酬受け取りに失敗しました</original>
+    <original>報酬受け取りに失敗しました</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FINISH</key>
-    <original xml:space="preserve">報酬を保管ボックスに受け取りました</original>
+    <original>報酬を保管ボックスに受け取りました</original>
   </message>
   <message>
     <key>REWARD_MSG_ANNOUNCE_QCLEAR</key>
-    <original xml:space="preserve">クエスト報酬が報酬ボックスに入りました</original>
+    <original>クエスト報酬が報酬ボックスに入りました</original>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_BONUS</key>
-    <original xml:space="preserve">ボーナス報酬</original>
+    <original>ボーナス報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_STOP_PLZ_PICK</key>
-    <original xml:space="preserve">選択報酬が選ばれていないため
+    <original>選択報酬が選ばれていないため
 「全て受け取り」ができません</original>
   </message>
   <message>
     <key>REWARD_MSG_STOP_ITEMOVER</key>
-    <original xml:space="preserve">保管ボックスが入りきらないため
+    <original>保管ボックスが入りきらないため
 「全て受け取り」ができません</original>
   </message>
   <message>
     <key>REWARD_MSG_KIND_RANKING</key>
-    <original xml:space="preserve">ランキング報酬</original>
+    <original>ランキング報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_KIND_BORDER</key>
-    <original xml:space="preserve">累計スコア報酬</original>
+    <original>累計スコア報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_KIND_QUEST</key>
-    <original xml:space="preserve">クエスト報酬</original>
+    <original>クエスト報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_NOTICE_SELL</key>
-    <original xml:space="preserve">チェックを付けていない報酬は売却されます
+    <original>チェックを付けていない報酬は売却されます
 (未選択の選択報酬は破棄されます)
 よろしいですか？
 売却合計額：&lt;VAL GOLD&gt;</original>
   </message>
   <message>
     <key>REWARD_MSG_TITLE</key>
-    <original xml:space="preserve">Reward</original>
+    <original>Reward</original>
   </message>
   <message>
     <key>REWARD_MSG_TITLE_SUB</key>
-    <original xml:space="preserve">報酬受け取り</original>
+    <original>報酬受け取り</original>
   </message>
   <message>
     <key>REWARD_MSG_KIND_SUPPORT</key>
-    <original xml:space="preserve">アシスト報酬</original>
+    <original>アシスト報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_NO_REWOARD</key>
-    <original xml:space="preserve">報酬はありません</original>
+    <original>報酬はありません</original>
   </message>
   <message>
     <key>REWARD_MSG_ALL_DELETE</key>
-    <original xml:space="preserve">報酬を売却しました</original>
+    <original>報酬を売却しました</original>
   </message>
   <message>
     <key>REWARD_MSG_REWARD_PARTS</key>
-    <original xml:space="preserve">部位破壊報酬</original>
+    <original>部位破壊報酬</original>
   </message>
   <message>
     <key>REWARD_MSG_GM_TITLE_SUB</key>
-    <original xml:space="preserve">グランドミッション最終報酬受け取り</original>
+    <original>グランドミッション最終報酬受け取り</original>
   </message>
   <message>
     <key>REWARD_MSG_RECEIVE_LIMIT</key>
-    <original xml:space="preserve">受け取り期限まで</original>
+    <original>受け取り期限まで</original>
   </message>
   <message>
     <key>REWARD_MSG_OTHER_REWARD_NOTICE</key>
-    <original xml:space="preserve">特別報酬あり</original>
+    <original>特別報酬あり</original>
   </message>
 </resource>

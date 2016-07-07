@@ -1,43 +1,43 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000004_00_21</key>
-    <original xml:space="preserve">浄化の証　プリースト戦術試練</original>
+    <original>浄化の証　プリースト戦術試練</original>
   </message>
   <message>
     <key>q60000004_00_21</key>
-    <original xml:space="preserve">プリーストの基本戦術を学ぶため
+    <original>プリーストの基本戦術を学ぶため
 修練の祠にて試練に挑む</original>
   </message>
   <message>
     <key>q60000004_00_1192</key>
-    <original xml:space="preserve">修練の祠前の崖下にいる白衛騎士団員と話す</original>
+    <original>修練の祠前の崖下にいる白衛騎士団員と話す</original>
   </message>
   <message>
     <key>q60000004_00_1086</key>
-    <original xml:space="preserve">修練の祠内のウィルソンと話す</original>
+    <original>修練の祠内のウィルソンと話す</original>
   </message>
   <message>
     <key>q60000004_00_1087</key>
-    <original xml:space="preserve">ブラストビットで敵を3回攻撃せよ</original>
+    <original>ブラストビットで敵を3回攻撃せよ</original>
   </message>
   <message>
     <key>q60000004_00_1139</key>
-    <original xml:space="preserve">ヒールオーラで仲間を回復せよ</original>
+    <original>ヒールオーラで仲間を回復せよ</original>
   </message>
   <message>
     <key>q60000004_00_1247</key>
-    <original xml:space="preserve">セイントオーラで敵を攻撃せよ</original>
+    <original>セイントオーラで敵を攻撃せよ</original>
   </message>
   <message>
     <key>q60000004_00_1143</key>
-    <original xml:space="preserve">最深部のゴブリンを全滅せよ</original>
+    <original>最深部のゴブリンを全滅せよ</original>
   </message>
   <message>
     <key>q60000004_00_1144</key>
-    <original xml:space="preserve">最奥にある＜浄化の証＞を入手する</original>
+    <original>最奥にある＜浄化の証＞を入手する</original>
   </message>
   <message>
     <key>q60000004_00_1088</key>
-    <original xml:space="preserve">白竜神殿のレンテンに経緯を報告する</original>
+    <original>白竜神殿のレンテンに経緯を報告する</original>
   </message>
 </resource>

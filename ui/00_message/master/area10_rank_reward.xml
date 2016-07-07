@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_RANK_REWARD_142</key>
-    <original xml:space="preserve">支援品の配給</original>
+    <original>支援品の配給</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_143</key>
-    <original xml:space="preserve">《双輪の谷》に新たな強敵が出現</original>
+    <original>《双輪の谷》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_144</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
+    <original>支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_145</key>
-    <original xml:space="preserve">《バンデッドホーント》に新たな強敵が出現</original>
+    <original>《バンデッドホーント》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_146</key>
-    <original xml:space="preserve">《南メルゴダ遺跡群》に新たな強敵が出現</original>
+    <original>《南メルゴダ遺跡群》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_147</key>
-    <original xml:space="preserve">封鎖エリア《メルゴダ大水網》開放</original>
+    <original>封鎖エリア《メルゴダ大水網》開放</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_148</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
+    <original>支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_149</key>
-    <original xml:space="preserve">《オーク残党宿営地》に新たな強敵が出現</original>
+    <original>《オーク残党宿営地》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_150</key>
-    <original xml:space="preserve">《黒淵谷》に新たな強敵が出現</original>
+    <original>《黒淵谷》に新たな強敵が出現</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_151</key>
-    <original xml:space="preserve">支援品ランクアップ</original>
+    <original>支援品ランクアップ</original>
   </message>
   <message>
     <key>AREA_RANK_REWARD_226</key>
-    <original xml:space="preserve">《ザンドラ禁域》各地にある未解放のリム転移 解放</original>
+    <original>《ザンドラ禁域》各地にある未解放のリム転移 解放</original>
   </message>
 </resource>

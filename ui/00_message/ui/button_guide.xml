@@ -1,138 +1,138 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>button_guide_touch_catch</key>
-    <original xml:space="preserve">つかむ</original>
+    <original>つかむ</original>
   </message>
   <message>
     <key>button_guide_touch_check</key>
-    <original xml:space="preserve">調べる</original>
+    <original>調べる</original>
   </message>
   <message>
     <key>button_guide_touch_talk</key>
-    <original xml:space="preserve">話す</original>
+    <original>話す</original>
   </message>
   <message>
     <key>button_guide_touch_rescue</key>
-    <original xml:space="preserve">救済する</original>
+    <original>救済する</original>
   </message>
   <message>
     <key>button_guide_touch_restore</key>
-    <original xml:space="preserve">復活させる</original>
+    <original>復活させる</original>
   </message>
   <message>
     <key>button_guide_touch_sitdown</key>
-    <original xml:space="preserve">座る</original>
+    <original>座る</original>
   </message>
   <message>
     <key>button_guide_touch_standup</key>
-    <original xml:space="preserve">立ち上がる</original>
+    <original>立ち上がる</original>
   </message>
   <message>
     <key>button_guide_touch_bathin</key>
-    <original xml:space="preserve">浸かる</original>
+    <original>浸かる</original>
   </message>
   <message>
     <key>button_guide_touch_bathout</key>
-    <original xml:space="preserve">湯船から出る</original>
+    <original>湯船から出る</original>
   </message>
   <message>
     <key>button_guide_lr_endure</key>
-    <original xml:space="preserve">耐える</original>
+    <original>耐える</original>
   </message>
   <message>
     <key>button_guide_circle_dismount</key>
-    <original xml:space="preserve">下りる</original>
+    <original>下りる</original>
   </message>
   <message>
     <key>button_guide_circle_putback</key>
-    <original xml:space="preserve">戻す</original>
+    <original>戻す</original>
   </message>
   <message>
     <key>button_guide_cross_jump</key>
-    <original xml:space="preserve">ジャンプ</original>
+    <original>ジャンプ</original>
   </message>
   <message>
     <key>button_guide_cross_qjump</key>
-    <original xml:space="preserve">一足跳び</original>
+    <original>一足跳び</original>
   </message>
   <message>
     <key>button_guide_cross_detach</key>
-    <original xml:space="preserve">離す</original>
+    <original>離す</original>
   </message>
   <message>
     <key>button_guide_triangle_shake</key>
-    <original xml:space="preserve">揺さぶる</original>
+    <original>揺さぶる</original>
   </message>
   <message>
     <key>button_guide_triangle_throw</key>
-    <original xml:space="preserve">投げる</original>
+    <original>投げる</original>
   </message>
   <message>
     <key>button_guide_square_kick</key>
-    <original xml:space="preserve">蹴る</original>
+    <original>蹴る</original>
   </message>
   <message>
     <key>button_guide_l1_skill</key>
-    <original xml:space="preserve">スキル</original>
+    <original>スキル</original>
   </message>
   <message>
     <key>button_guide_r1_skill</key>
-    <original xml:space="preserve">スキル</original>
+    <original>スキル</original>
   </message>
   <message>
     <key>button_guide_lr_shift</key>
-    <original xml:space="preserve">シフト</original>
+    <original>シフト</original>
   </message>
   <message>
     <key>button_guide_l2_commu</key>
-    <original xml:space="preserve">コミュニケーションパレット</original>
+    <original>コミュニケーションパレット</original>
   </message>
   <message>
     <key>button_guide_r2_multi</key>
-    <original xml:space="preserve">マルチショートカットパレット</original>
+    <original>マルチショートカットパレット</original>
   </message>
   <message>
     <key>button_guide_circle_breakaway</key>
-    <original xml:space="preserve">離脱</original>
+    <original>離脱</original>
   </message>
   <message>
     <key>button_guide_fire_hunter</key>
-    <original xml:space="preserve">射る</original>
+    <original>射る</original>
   </message>
   <message>
     <key>button_guide_fire_elementsarcher</key>
-    <original xml:space="preserve">放つ</original>
+    <original>放つ</original>
   </message>
   <message>
     <key>button_guide_decide</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>button_guide_cancel</key>
-    <original xml:space="preserve">中断</original>
+    <original>中断</original>
   </message>
   <message>
     <key>button_guide_move</key>
-    <original xml:space="preserve">発動</original>
+    <original>発動</original>
   </message>
   <message>
     <key>button_guide_change_stance</key>
-    <original xml:space="preserve">構えの変更</original>
+    <original>構えの変更</original>
   </message>
   <message>
     <key>button_guide_stance_bow</key>
-    <original xml:space="preserve">構える</original>
+    <original>構える</original>
   </message>
   <message>
     <key>button_guide_cancel_magic</key>
-    <original xml:space="preserve">解除</original>
+    <original>解除</original>
   </message>
   <message>
     <key>button_guide_put</key>
-    <original xml:space="preserve">置く</original>
+    <original>置く</original>
   </message>
   <message>
     <key>button_guide_palet_change</key>
-    <original xml:space="preserve">(長押し)スキル切替</original>
+    <original>(長押し)スキル切替</original>
   </message>
 </resource>

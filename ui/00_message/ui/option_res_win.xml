@@ -1,1360 +1,1360 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>OPTION_MSG_CATEGORY_DISPLAY</key>
-    <original xml:space="preserve">ディスプレイ設定</original>
+    <original>ディスプレイ設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_GAMMA</key>
-    <original xml:space="preserve">ガンマ補正</original>
+    <original>ガンマ補正</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_SOUND</key>
-    <original xml:space="preserve">サウンド設定</original>
+    <original>サウンド設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_SE_SYSTEM</key>
-    <original xml:space="preserve">システム音</original>
+    <original>システム音</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_GAMEPAD</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;設定</original>
+    <original>&lt;PFWD 0&gt;設定</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHERS</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_VOICE</key>
-    <original xml:space="preserve">ボイス</original>
+    <original>ボイス</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_BGM</key>
-    <original xml:space="preserve">BGM</original>
+    <original>BGM</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_SE</key>
-    <original xml:space="preserve">効果音</original>
+    <original>効果音</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_GENERAL_GAMEPAD</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;の全般設定</original>
+    <original>&lt;PFWD 0&gt;の全般設定</original>
   </message>
   <message>
     <key>OPTION_MSG_SE_TELL</key>
-    <original xml:space="preserve">チャットログ受信音</original>
+    <original>チャットログ受信音</original>
   </message>
   <message>
     <key>OPTION_MSG_SE_OTHERSYSTEMS</key>
-    <original xml:space="preserve">その他のシステム音</original>
+    <original>その他のシステム音</original>
   </message>
   <message>
     <key>OPTION_MSG_VOICE_NPC</key>
-    <original xml:space="preserve">その他のセリフ</original>
+    <original>その他のセリフ</original>
   </message>
   <message>
     <key>OPTION_MSG_VOICE_PAWN</key>
-    <original xml:space="preserve">ポーンのセリフ</original>
+    <original>ポーンのセリフ</original>
   </message>
   <message>
     <key>OPTION_MSG_AVOICE_PLAYER</key>
-    <original xml:space="preserve">プレイヤーのアクションボイス</original>
+    <original>プレイヤーのアクションボイス</original>
   </message>
   <message>
     <key>OPTION_MSG_AVOICE_PARTY</key>
-    <original xml:space="preserve">その他のアクションボイス</original>
+    <original>その他のアクションボイス</original>
   </message>
   <message>
     <key>OPTION_MSG_AVOICE_ENEMY</key>
-    <original xml:space="preserve">敵のアクションボイス</original>
+    <original>敵のアクションボイス</original>
   </message>
   <message>
     <key>OPTION_MSG_VOICE_COMMUNICATION</key>
-    <original xml:space="preserve">簡易コミュニケーションボイス</original>
+    <original>簡易コミュニケーションボイス</original>
   </message>
   <message>
     <key>OPTION_MSG_BGM_BATTLE</key>
-    <original xml:space="preserve">戦闘BGM</original>
+    <original>戦闘BGM</original>
   </message>
   <message>
     <key>OPTION_MSG_NOISE_SURROUND</key>
-    <original xml:space="preserve">環境音</original>
+    <original>環境音</original>
   </message>
   <message>
     <key>OPTION_MSG_NOISE_ENEMY</key>
-    <original xml:space="preserve">敵</original>
+    <original>敵</original>
   </message>
   <message>
     <key>OPTION_MSG_NOISE_PLAYER</key>
-    <original xml:space="preserve">プレイヤー</original>
+    <original>プレイヤー</original>
   </message>
   <message>
     <key>OPTION_MSG_NOISE_PARTY</key>
-    <original xml:space="preserve">パーティーメンバー等</original>
+    <original>パーティーメンバー等</original>
   </message>
   <message>
     <key>OPTION_MSG_VIBRATION_GAMEPAD</key>
-    <original xml:space="preserve">振動機能を有効にする</original>
+    <original>振動機能を有効にする</original>
   </message>
   <message>
     <key>OPTION_MSG_TUTORIAL_POP</key>
-    <original xml:space="preserve">チュートリアル発生時にポップアップを表示する</original>
+    <original>チュートリアル発生時にポップアップを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ENPRIORITYQUEST</key>
-    <original xml:space="preserve">クエストの自動優先設定</original>
+    <original>クエストの自動優先設定</original>
   </message>
   <message>
     <key>OPTION_MSG_DFORMAT_JPEG</key>
-    <original xml:space="preserve">JPEG</original>
+    <original>JPEG</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_GENERAL</key>
-    <original xml:space="preserve">全般</original>
+    <original>全般</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_HUD</key>
-    <original xml:space="preserve">HUD</original>
+    <original>HUD</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_OVERHEAD</key>
-    <original xml:space="preserve">頭上表示</original>
+    <original>頭上表示</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_CHAT</key>
-    <original xml:space="preserve">チャット</original>
+    <original>チャット</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_NOTICE</key>
-    <original xml:space="preserve">通知・公開設定</original>
+    <original>通知・公開設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_CHARACAR</key>
-    <original xml:space="preserve">キャラクター</original>
+    <original>キャラクター</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_ANYONE</key>
-    <original xml:space="preserve">他人</original>
+    <original>他人</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_NPC</key>
-    <original xml:space="preserve">NPC</original>
+    <original>NPC</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_NOTICE</key>
-    <original xml:space="preserve">通知</original>
+    <original>通知</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_PRIVACY</key>
-    <original xml:space="preserve">公開設定</original>
+    <original>公開設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE00</key>
-    <original xml:space="preserve">Device Config</original>
+    <original>Device Config</original>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE01</key>
-    <original xml:space="preserve">デバイス設定</original>
+    <original>デバイス設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE02</key>
-    <original xml:space="preserve">Game Config</original>
+    <original>Game Config</original>
   </message>
   <message>
     <key>OPTION_MSG_TITLE_M_TITLE03</key>
-    <original xml:space="preserve">ゲーム設定</original>
+    <original>ゲーム設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_ONLINESTATES</key>
-    <original xml:space="preserve">ネットワークステータス</original>
+    <original>ネットワークステータス</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PCAMERA</key>
-    <original xml:space="preserve">カメラ操作：&lt;PFWD 0&gt;</original>
+    <original>カメラ操作：&lt;PFWD 0&gt;</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_KCAMERA</key>
-    <original xml:space="preserve">カメラ操作：キーボード</original>
+    <original>カメラ操作：キーボード</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_COFFSET</key>
-    <original xml:space="preserve">アクション時のカメラ補正</original>
+    <original>アクション時のカメラ補正</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CCONTROLL</key>
-    <original xml:space="preserve">カメラ操作</original>
+    <original>カメラ操作</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_WHINDOWS</key>
-    <original xml:space="preserve">各種ウィンドウ</original>
+    <original>各種ウィンドウ</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_DCHAT</key>
-    <original xml:space="preserve">ダイレクトチャット</original>
+    <original>ダイレクトチャット</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_DEMO</key>
-    <original xml:space="preserve">デモ</original>
+    <original>デモ</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CSOUND</key>
-    <original xml:space="preserve">エクストラサウンド</original>
+    <original>エクストラサウンド</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CSET</key>
-    <original xml:space="preserve">キャラクター設定</original>
+    <original>キャラクター設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_SHOP_SET</key>
-    <original xml:space="preserve">ショップ設定</original>
+    <original>ショップ設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_MAP_SET</key>
-    <original xml:space="preserve">マップ設定</original>
+    <original>マップ設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CINFO</key>
-    <original xml:space="preserve">キャラクター情報</original>
+    <original>キャラクター情報</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PHOTO</key>
-    <original xml:space="preserve">フォト</original>
+    <original>フォト</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_DISPSET</key>
-    <original xml:space="preserve">表示設定</original>
+    <original>表示設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PARTY_DISP</key>
-    <original xml:space="preserve">パーティーメンバー</original>
+    <original>パーティーメンバー</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_OTHERS_DISP</key>
-    <original xml:space="preserve">他人</original>
+    <original>他人</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_NPC_DISP</key>
-    <original xml:space="preserve">NPC</original>
+    <original>NPC</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_OBJ_DISP</key>
-    <original xml:space="preserve">オブジェクト</original>
+    <original>オブジェクト</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CHATLOG</key>
-    <original xml:space="preserve">チャットログ設定</original>
+    <original>チャットログ設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_LOGCOLLER</key>
-    <original xml:space="preserve">ログカラー設定</original>
+    <original>ログカラー設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CHATSE</key>
-    <original xml:space="preserve">チャット着信時のSE</original>
+    <original>チャット着信時のSE</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_NOTION_AREA</key>
-    <original xml:space="preserve">通知領域</original>
+    <original>通知領域</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_ACHIEVE</key>
-    <original xml:space="preserve">アチーブメント</original>
+    <original>アチーブメント</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_NOTICE</key>
-    <original xml:space="preserve">通知</original>
+    <original>通知</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_ARISENCARD</key>
-    <original xml:space="preserve">覚者プロフィール</original>
+    <original>覚者プロフィール</original>
   </message>
   <message>
     <key>OPTION_MSG_ONLINESTATES</key>
-    <original xml:space="preserve">自分のネットワークステータス</original>
+    <original>自分のネットワークステータス</original>
   </message>
   <message>
     <key>OPTION_MSG_VERTICAL_INV</key>
-    <original xml:space="preserve">カメラを垂直反転させる</original>
+    <original>カメラを垂直反転させる</original>
   </message>
   <message>
     <key>OPTION_MSG_FLAT_INV</key>
-    <original xml:space="preserve">カメラを水平反転させる</original>
+    <original>カメラを水平反転させる</original>
   </message>
   <message>
     <key>OPTION_MSG_CAMERA_OFFSET</key>
-    <original xml:space="preserve">カメラ補正を入れる</original>
+    <original>カメラ補正を入れる</original>
   </message>
   <message>
     <key>OPTION_MSG_CAMERA_POSITION</key>
-    <original xml:space="preserve">初期カメラ位置</original>
+    <original>初期カメラ位置</original>
   </message>
   <message>
     <key>OPTION_MSG_CSPEED_PAD</key>
-    <original xml:space="preserve">右スティックのカメラ回転速度</original>
+    <original>右スティックのカメラ回転速度</original>
   </message>
   <message>
     <key>OPTION_MSG_CSPEED_KAYBOARD</key>
-    <original xml:space="preserve">キーボードのカメラ回転速度</original>
+    <original>キーボードのカメラ回転速度</original>
   </message>
   <message>
     <key>OPTION_MSG_ISCHATDISPLAY</key>
-    <original xml:space="preserve">アクション時にウィンドウを自動透過する</original>
+    <original>アクション時にウィンドウを自動透過する</original>
   </message>
   <message>
     <key>OPTION_MSG_MATCHING_POP</key>
-    <original xml:space="preserve">マッチング通知時にポップアップを表示する</original>
+    <original>マッチング通知時にポップアップを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISENLARGE</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_ISDCHAT</key>
-    <original xml:space="preserve">Enterキーを押さずにチャット入力可能にする</original>
+    <original>Enterキーを押さずにチャット入力可能にする</original>
   </message>
   <message>
     <key>OPTION_MSG_ISDISCRIPTION</key>
-    <original xml:space="preserve">カットシーン時に字幕を表示する</original>
+    <original>カットシーン時に字幕を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISCSOUND</key>
-    <original xml:space="preserve">他人のサウンドを受け入れる</original>
+    <original>他人のサウンドを受け入れる</original>
   </message>
   <message>
     <key>OPTION_MSG_ISAHEAD</key>
-    <original xml:space="preserve">自分の頭装備を表示する</original>
+    <original>自分の頭装備を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISPHEAD</key>
-    <original xml:space="preserve">ポーンの頭装備を表示する</original>
+    <original>ポーンの頭装備を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISATORCH</key>
-    <original xml:space="preserve">自分のランタンを表示する</original>
+    <original>自分のランタンを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISPTORCH</key>
-    <original xml:space="preserve">ポーンのランタンを表示する</original>
+    <original>ポーンのランタンを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_CTGR</key>
-    <original xml:space="preserve">待機状態時のエモート</original>
+    <original>待機状態時のエモート</original>
   </message>
   <message>
     <key>OPTION_MSG_WAITTIMER</key>
-    <original xml:space="preserve">待機状態に移行するまでの時間</original>
+    <original>待機状態に移行するまでの時間</original>
   </message>
   <message>
     <key>OPTION_MSG_ISSELLDIALOG</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_ISSELLNOTION</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_AC_DISCLOSETYPE</key>
-    <original xml:space="preserve">覚者プロフィールの公開設定</original>
+    <original>覚者プロフィールの公開設定</original>
   </message>
   <message>
     <key>OPTION_MSG_ISMAPROUND</key>
-    <original xml:space="preserve">ミニマップを回転させる</original>
+    <original>ミニマップを回転させる</original>
   </message>
   <message>
     <key>OPTION_MSG_MAPTRANCERATE</key>
-    <original xml:space="preserve">マップの不透明度</original>
+    <original>マップの不透明度</original>
   </message>
   <message>
     <key>OPTION_MSG_ISMAPVERTINVERCE</key>
-    <original xml:space="preserve">右スティックでの上下操作反転</original>
+    <original>右スティックでの上下操作反転</original>
   </message>
   <message>
     <key>OPTION_MSG_ISMAPFLATINVERCE</key>
-    <original xml:space="preserve">右スティックでの左右操作反転</original>
+    <original>右スティックでの左右操作反転</original>
   </message>
   <message>
     <key>OPTION_MSG_ISMAPTEXT</key>
-    <original xml:space="preserve">マップ上にテキスト表示する</original>
+    <original>マップ上にテキスト表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_HUDTRANCERATE</key>
-    <original xml:space="preserve">HUD情報の不透明度</original>
+    <original>HUD情報の不透明度</original>
   </message>
   <message>
     <key>OPTION_MSG_QUESTGUID</key>
-    <original xml:space="preserve">クエストガイドを表示する</original>
+    <original>クエストガイドを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISAUTOQUESTGUID</key>
-    <original xml:space="preserve">自動クエストガイドを有効にする</original>
+    <original>自動クエストガイドを有効にする</original>
   </message>
   <message>
     <key>OPTION_MSG_GUIDPRIORITY</key>
-    <original xml:space="preserve">自動クエストガイドされるクエストのカテゴリ</original>
+    <original>自動クエストガイドされるクエストのカテゴリ</original>
   </message>
   <message>
     <key>OPTION_MSG_ISDYINGEFFECT</key>
-    <original xml:space="preserve">プレイヤー瀕死時に画面演出を入れる</original>
+    <original>プレイヤー瀕死時に画面演出を入れる</original>
   </message>
   <message>
     <key>OPTION_MSG_ISPHOTOHUD</key>
-    <original xml:space="preserve">撮影時のHUD表示</original>
+    <original>撮影時のHUD表示</original>
   </message>
   <message>
     <key>OPTION_MSG_DISPTARGET</key>
-    <original xml:space="preserve">頭上表示の表示範囲</original>
+    <original>頭上表示の表示範囲</original>
   </message>
   <message>
     <key>OPTION_MSG_NAMETIPE1</key>
-    <original xml:space="preserve">名前の表示タイプ</original>
+    <original>名前の表示タイプ</original>
   </message>
   <message>
     <key>OPTION_MSG_ISCLANNAME</key>
-    <original xml:space="preserve">クラン名を表示する</original>
+    <original>クラン名を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISNPCNAME</key>
-    <original xml:space="preserve">名前を表示する</original>
+    <original>名前を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISHAT</key>
-    <original xml:space="preserve">肩書を表示する</original>
+    <original>肩書を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISCHATCLANNAME</key>
-    <original xml:space="preserve">発言者のクラン名を表示する</original>
+    <original>発言者のクラン名を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISTIMESTAMP</key>
-    <original xml:space="preserve">タイムスタンプを表示する</original>
+    <original>タイムスタンプを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_CHATTRANCERATE</key>
-    <original xml:space="preserve">非アクティブ時のチャット操作UIの不透明度</original>
+    <original>非アクティブ時のチャット操作UIの不透明度</original>
   </message>
   <message>
     <key>OPTION_MSG_LOGCOLLER</key>
-    <original xml:space="preserve">ログカラー設定</original>
+    <original>ログカラー設定</original>
   </message>
   <message>
     <key>OPTION_MSG_RECIEVESE</key>
-    <original xml:space="preserve">チャット着信音の変更</original>
+    <original>チャット着信音の変更</original>
   </message>
   <message>
     <key>OPTION_MSG_RATENCY</key>
-    <original xml:space="preserve">通信速度を表示する</original>
+    <original>通信速度を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_TIME</key>
-    <original xml:space="preserve">時間を表示する</original>
+    <original>時間を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_TIMETYPE</key>
-    <original xml:space="preserve">表示時間の設定</original>
+    <original>表示時間の設定</original>
   </message>
   <message>
     <key>OPTION_MSG_SERVERCHANNEL</key>
-    <original xml:space="preserve">ワールド情報を表示する</original>
+    <original>ワールド情報を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_BATTLETIME</key>
-    <original xml:space="preserve">交戦中の表示をする</original>
+    <original>交戦中の表示をする</original>
   </message>
   <message>
     <key>OPTION_MSG_ACHIEVEGET</key>
-    <original xml:space="preserve">獲得通知の設定</original>
+    <original>獲得通知の設定</original>
   </message>
   <message>
     <key>OPTION_MSG_REWARDNOTION</key>
-    <original xml:space="preserve">報酬があふれそうな時に警告表示する</original>
+    <original>報酬があふれそうな時に警告表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_NEAR</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_MIDDLE</key>
-    <original xml:space="preserve">近い</original>
+    <original>近い</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FAR</key>
-    <original xml:space="preserve">遠い</original>
+    <original>遠い</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_MQUEST</key>
-    <original xml:space="preserve">メインクエスト</original>
+    <original>メインクエスト</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_SQUEST</key>
-    <original xml:space="preserve">ワールドクエスト</original>
+    <original>ワールドクエスト</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_LQUEST</key>
-    <original xml:space="preserve">パーソナルクエスト</original>
+    <original>パーソナルクエスト</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_ALL1</key>
-    <original xml:space="preserve">誰でも表示する</original>
+    <original>誰でも表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_NONE1</key>
-    <original xml:space="preserve">表示しない</original>
+    <original>表示しない</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FRIEND1</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CLAN1</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_NOBADY1</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FAMILY_FIRST1</key>
-    <original xml:space="preserve">すべて</original>
+    <original>すべて</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FAMILY_F1</key>
-    <original xml:space="preserve">ファミリーネームを頭文字のみ</original>
+    <original>ファミリーネームを頭文字のみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_F_FIRST1</key>
-    <original xml:space="preserve">ファーストネームを頭文字のみ</original>
+    <original>ファーストネームを頭文字のみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FAMILY1</key>
-    <original xml:space="preserve">ファミリーネームのみ</original>
+    <original>ファミリーネームのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FIRST1</key>
-    <original xml:space="preserve">ファーストネームのみ</original>
+    <original>ファーストネームのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER1</key>
-    <original xml:space="preserve">■ カラー１</original>
+    <original>■ カラー１</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER2</key>
-    <original xml:space="preserve">■ カラー２</original>
+    <original>■ カラー２</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER3</key>
-    <original xml:space="preserve">■ カラー３</original>
+    <original>■ カラー３</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER4</key>
-    <original xml:space="preserve">■ カラー４</original>
+    <original>■ カラー４</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER5</key>
-    <original xml:space="preserve">■ カラー５</original>
+    <original>■ カラー５</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER6</key>
-    <original xml:space="preserve">■ カラー６</original>
+    <original>■ カラー６</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER7</key>
-    <original xml:space="preserve">■ カラー７</original>
+    <original>■ カラー７</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER8</key>
-    <original xml:space="preserve">■ カラー８</original>
+    <original>■ カラー８</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER9</key>
-    <original xml:space="preserve">■ カラー９</original>
+    <original>■ カラー９</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER10</key>
-    <original xml:space="preserve">■ カラー１０</original>
+    <original>■ カラー１０</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER11</key>
-    <original xml:space="preserve">■ カラー１１</original>
+    <original>■ カラー１１</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_COLLER12</key>
-    <original xml:space="preserve">■ カラー１２</original>
+    <original>■ カラー１２</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE1</key>
-    <original xml:space="preserve">着信音１</original>
+    <original>着信音１</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE2</key>
-    <original xml:space="preserve">着信音２</original>
+    <original>着信音２</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE3</key>
-    <original xml:space="preserve">着信音３</original>
+    <original>着信音３</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE4</key>
-    <original xml:space="preserve">着信音４</original>
+    <original>着信音４</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE5</key>
-    <original xml:space="preserve">着信音５</original>
+    <original>着信音５</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE6</key>
-    <original xml:space="preserve">着信音６</original>
+    <original>着信音６</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE7</key>
-    <original xml:space="preserve">着信音７</original>
+    <original>着信音７</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSE8</key>
-    <original xml:space="preserve">着信音８</original>
+    <original>着信音８</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_RESTANIA</key>
-    <original xml:space="preserve">レスタニア(GT)</original>
+    <original>レスタニア(GT)</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_SERVER</key>
-    <original xml:space="preserve">サーバー(ST)</original>
+    <original>サーバー(ST)</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_LOCAL</key>
-    <original xml:space="preserve">ローカル(LT)</original>
+    <original>ローカル(LT)</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_ALL2</key>
-    <original xml:space="preserve">誰にでも</original>
+    <original>誰にでも</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CLAN_FRIEND2</key>
-    <original xml:space="preserve">フレンドとクランのみ</original>
+    <original>フレンドとクランのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_FRIEND2</key>
-    <original xml:space="preserve">フレンドのみ</original>
+    <original>フレンドのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CLAN2</key>
-    <original xml:space="preserve">クランのみ</original>
+    <original>クランのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_NOBADY2</key>
-    <original xml:space="preserve">非公開</original>
+    <original>非公開</original>
   </message>
   <message>
     <key>OPTION_MSG_EXIT_NOTION</key>
-    <original xml:space="preserve">変更を適用していない項目があります
+    <original>変更を適用していない項目があります
 このまま終了しますか？</original>
   </message>
   <message>
     <key>OPTION_MSG_EXIT_APLLY</key>
-    <original xml:space="preserve">適用して終了</original>
+    <original>適用して終了</original>
   </message>
   <message>
     <key>OPTION_MSG_EXIT_NOAPPRY</key>
-    <original xml:space="preserve">適用せず終了</original>
+    <original>適用せず終了</original>
   </message>
   <message>
     <key>OPTION_MSG_EXIT_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>OPTION_MSG_BGM_OTHER</key>
-    <original xml:space="preserve">その他のBGM</original>
+    <original>その他のBGM</original>
   </message>
   <message>
     <key>OPTION_MSG_NOISE_OTHER</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
   <message>
     <key>OPTION_MSG_VERTICAL_INV2</key>
-    <original xml:space="preserve">カメラを垂直反転させる</original>
+    <original>カメラを垂直反転させる</original>
   </message>
   <message>
     <key>OPTION_MSG_FLAT_INV2</key>
-    <original xml:space="preserve">カメラを水平反転させる</original>
+    <original>カメラを水平反転させる</original>
   </message>
   <message>
     <key>OPTION_MSG_ISACTIONDISP</key>
-    <original xml:space="preserve">アクションパレットを表示する</original>
+    <original>アクションパレットを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_HUDEHELP</key>
-    <original xml:space="preserve">ヘルプ情報</original>
+    <original>ヘルプ情報</original>
   </message>
   <message>
     <key>OPTION_MSG_NAMETIPE2</key>
-    <original xml:space="preserve">名前の表示タイプ</original>
+    <original>名前の表示タイプ</original>
   </message>
   <message>
     <key>OPTION_MSG_NAMETIPE3</key>
-    <original xml:space="preserve">名前の表示タイプ</original>
+    <original>名前の表示タイプ</original>
   </message>
   <message>
     <key>OPTION_MSG_ISCLANNAME2</key>
-    <original xml:space="preserve">クラン名を表示する</original>
+    <original>クラン名を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_ISNPCNAME2</key>
-    <original xml:space="preserve">名前を表示する</original>
+    <original>名前を表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_APPLY_NOTION</key>
-    <original xml:space="preserve">設定を適用しました</original>
+    <original>設定を適用しました</original>
   </message>
   <message>
     <key>OPTION_MSG_INIT_NOTION</key>
-    <original xml:space="preserve">このカテゴリの設定を初期状態に戻します
+    <original>このカテゴリの設定を初期状態に戻します
 よろしいですか？</original>
   </message>
   <message>
     <key>OPTION_MSG_INIT_YES</key>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
     <key>OPTION_MSG_INIT_NO</key>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
     <key>OPTION_MSG_BUTTON_APPLY</key>
-    <original xml:space="preserve">適用</original>
+    <original>適用</original>
   </message>
   <message>
     <key>OPTION_MSG_BUTTON_INIT</key>
-    <original xml:space="preserve">初期化</original>
+    <original>初期化</original>
   </message>
   <message>
     <key>OPTION_MSG_GAMMA_TIPS</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CHATFILTER_COL</key>
-    <original xml:space="preserve">色を設定するフィルター</original>
+    <original>色を設定するフィルター</original>
   </message>
   <message>
     <key>OPTION_MSG_COLOR_CF</key>
-    <original xml:space="preserve">色</original>
+    <original>色</original>
   </message>
   <message>
     <key>OPTION_MSG_CHATFILTER_SE</key>
-    <original xml:space="preserve">着信音を設定するフィルター</original>
+    <original>着信音を設定するフィルター</original>
   </message>
   <message>
     <key>OPTION_MSG_SE_CF</key>
-    <original xml:space="preserve">着信音</original>
+    <original>着信音</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT</key>
-    <original xml:space="preserve"> </original>
+    <original> </original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_TIME04</key>
-    <original xml:space="preserve">120秒</original>
+    <original>120秒</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_TIME03</key>
-    <original xml:space="preserve">60秒</original>
+    <original>60秒</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_TIME02</key>
-    <original xml:space="preserve">30秒</original>
+    <original>30秒</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_TIME01</key>
-    <original xml:space="preserve">15秒</original>
+    <original>15秒</original>
   </message>
   <message>
     <key>OPTION_MSG_IDLEEMOT_TIME00</key>
-    <original xml:space="preserve">移行させない</original>
+    <original>移行させない</original>
   </message>
   <message>
     <key>OPTION_MSG_PC_DISCLOSETYPE</key>
-    <original xml:space="preserve">ポーンプロフィールの公開設定</original>
+    <original>ポーンプロフィールの公開設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PAWNCARD</key>
-    <original xml:space="preserve">ポーンプロフィール</original>
+    <original>ポーンプロフィール</original>
   </message>
   <message>
     <key>OPTION_MSG_WHINDOW_SIZE_60</key>
-    <original xml:space="preserve">60%</original>
+    <original>60%</original>
   </message>
   <message>
     <key>OPTION_MSG_WHINDOW_SIZE_80</key>
-    <original xml:space="preserve">80%</original>
+    <original>80%</original>
   </message>
   <message>
     <key>OPTION_MSG_WHINDOW_SIZE_100</key>
-    <original xml:space="preserve">100%</original>
+    <original>100%</original>
   </message>
   <message>
     <key>OPTION_MSG_WHINDOW_SIZE_120</key>
-    <original xml:space="preserve">120%</original>
+    <original>120%</original>
   </message>
   <message>
     <key>OPTION_MSG_WHINDOW_SIZE_140</key>
-    <original xml:space="preserve">140％</original>
+    <original>140％</original>
   </message>
   <message>
     <key>OPTION_MSG_CHOICE_CHATSENONE</key>
-    <original xml:space="preserve">着信音なし</original>
+    <original>着信音なし</original>
   </message>
   <message>
     <key>OPTION_MSG_CTGR</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_ACTPLTTYPE</key>
-    <original xml:space="preserve">操作デバイス</original>
+    <original>操作デバイス</original>
   </message>
   <message>
     <key>OPTION_MSG_ACTPLTTYPE_PAD</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;</original>
+    <original>&lt;PFWD 0&gt;</original>
   </message>
   <message>
     <key>OPTION_MSG_ACTPLTTYPE_KB</key>
-    <original xml:space="preserve">マウス・キーボード</original>
+    <original>マウス・キーボード</original>
   </message>
   <message>
     <key>OPTION_MSG_COURSE_DISP</key>
-    <original xml:space="preserve">発動中の&lt;OPCS&gt;のプレートを表示する</original>
+    <original>発動中の&lt;OPCS&gt;のプレートを表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_VIDEOQUARITY</key>
-    <original xml:space="preserve">画質設定</original>
+    <original>画質設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_INPUT</key>
-    <original xml:space="preserve">入力機器設定</original>
+    <original>入力機器設定</original>
   </message>
   <message>
     <key>OPTION_MSG_SCREEN_MODE</key>
-    <original xml:space="preserve">スクリーンモード設定</original>
+    <original>スクリーンモード設定</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION</key>
-    <original xml:space="preserve">解像度設定</original>
+    <original>解像度設定</original>
   </message>
   <message>
     <key>OPTION_MSG_FPS</key>
-    <original xml:space="preserve">描画設定(FPS)</original>
+    <original>描画設定(FPS)</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_MOUSE</key>
-    <original xml:space="preserve">マウス・キーボード操作設定</original>
+    <original>マウス・キーボード操作設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_PAD</key>
-    <original xml:space="preserve">&lt;PFWD 0&gt;設定</original>
+    <original>&lt;PFWD 0&gt;設定</original>
   </message>
   <message>
     <key>OPTION_MSG_CAMERA_SPEED</key>
-    <original xml:space="preserve">マウスのカメラ回転速度</original>
+    <original>マウスのカメラ回転速度</original>
   </message>
   <message>
     <key>OPTION_MSG_POINTER_SPEED</key>
-    <original xml:space="preserve">カーソル速度</original>
+    <original>カーソル速度</original>
   </message>
   <message>
     <key>OPTION_MSG_BUTTONCALIBRATION</key>
-    <original xml:space="preserve">ボタンの配置</original>
+    <original>ボタンの配置</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CHARGE</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_DISPLAY</key>
-    <original xml:space="preserve">ディスプレイ</original>
+    <original>ディスプレイ</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION2</key>
-    <original xml:space="preserve">解像度</original>
+    <original>解像度</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1280_720</key>
-    <original xml:space="preserve">1280×720</original>
+    <original>1280×720</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1280_1024</key>
-    <original xml:space="preserve">1280×1024</original>
+    <original>1280×1024</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1440_900</key>
-    <original xml:space="preserve">1440×900</original>
+    <original>1440×900</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1600_1050</key>
-    <original xml:space="preserve">1600×1050</original>
+    <original>1600×1050</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1920_1080</key>
-    <original xml:space="preserve">1920×1080</original>
+    <original>1920×1080</original>
   </message>
   <message>
     <key>OPTION_MSG_RESOLUTION_1920_1200</key>
-    <original xml:space="preserve">1920×1200</original>
+    <original>1920×1200</original>
   </message>
   <message>
     <key>OPTION_MSG_FRAMERATE</key>
-    <original xml:space="preserve">フレームレート</original>
+    <original>フレームレート</original>
   </message>
   <message>
     <key>OPTION_MSG_FRAMERATE_30</key>
-    <original xml:space="preserve">30fps</original>
+    <original>30fps</original>
   </message>
   <message>
     <key>OPTION_MSG_FRAMERATE_60</key>
-    <original xml:space="preserve">60fps</original>
+    <original>60fps</original>
   </message>
   <message>
     <key>OPTION_MSG_CATEGORY_IMAGEQUARITY</key>
-    <original xml:space="preserve">画質設定</original>
+    <original>画質設定</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_TEXTURE</key>
-    <original xml:space="preserve">テクスチャ</original>
+    <original>テクスチャ</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_TEXTURE</key>
-    <original xml:space="preserve">テクスチャ全般</original>
+    <original>テクスチャ全般</original>
   </message>
   <message>
     <key>OPTION_MSG_TEXTURE_RESOLUTION</key>
-    <original xml:space="preserve">テクスチャ解像度</original>
+    <original>テクスチャ解像度</original>
   </message>
   <message>
     <key>OPTION_MSG_TEXTURE_HIGH</key>
-    <original xml:space="preserve">高</original>
+    <original>高</original>
   </message>
   <message>
     <key>OPTION_MSG_TEXTURE_HIGHEST</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_ANTI_ALIASE</key>
-    <original xml:space="preserve">アンチエイリアス(なめらかに表示する処理)</original>
+    <original>アンチエイリアス(なめらかに表示する処理)</original>
   </message>
   <message>
     <key>OPTION_MSG_AA_DISABLE</key>
-    <original xml:space="preserve">無効</original>
+    <original>無効</original>
   </message>
   <message>
     <key>OPTION_MSG_AA_REGULAR</key>
-    <original xml:space="preserve">通常(FXAA)</original>
+    <original>通常(FXAA)</original>
   </message>
   <message>
     <key>OPTION_MSG_AA_HIGH</key>
-    <original xml:space="preserve">高品質(FXAA3HQ)</original>
+    <original>高品質(FXAA3HQ)</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_SHADE</key>
-    <original xml:space="preserve">影</original>
+    <original>影</original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_PRESET</key>
-    <original xml:space="preserve">影の品質</original>
+    <original>影の品質</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_LOWEST</key>
-    <original xml:space="preserve">最低</original>
+    <original>最低</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_LOW</key>
-    <original xml:space="preserve">低</original>
+    <original>低</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_HIGH</key>
-    <original xml:space="preserve">高</original>
+    <original>高</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_HIGEST</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_S_P_CUSTOM</key>
-    <original xml:space="preserve">カスタム</original>
+    <original>カスタム</original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_RESOLUTION</key>
-    <original xml:space="preserve">影の解像度</original>
+    <original>影の解像度</original>
   </message>
   <message>
     <key>OPTION_MSG_S_R_LOWEST</key>
-    <original xml:space="preserve">最低</original>
+    <original>最低</original>
   </message>
   <message>
     <key>OPTION_MSG_S_R_LOW</key>
-    <original xml:space="preserve">低</original>
+    <original>低</original>
   </message>
   <message>
     <key>OPTION_MSG_S_R_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_S_R_HIGH</key>
-    <original xml:space="preserve">高</original>
+    <original>高</original>
   </message>
   <message>
     <key>OPTION_MSG_S_R_HIGHEST</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_EFFECTIVERENGTH</key>
-    <original xml:space="preserve">カメラ演出を許可する</original>
+    <original>カメラ演出を許可する</original>
   </message>
   <message>
     <key>OPTION_MSG_S_E_CLOSE</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_E_REGULAR</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_E_FAR</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_SET1</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S1_CLOSE</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S1_FAR</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_SHDE_EDGEPOLISH</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_EDGE_2W</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_EDGE_3W</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_ATLOBBY</key>
-    <original xml:space="preserve">ロビー内でのランタンによる影</original>
+    <original>ロビー内でのランタンによる影</original>
   </message>
   <message>
     <key>OPTION_MSG_S_A_ON</key>
-    <original xml:space="preserve">有り</original>
+    <original>有り</original>
   </message>
   <message>
     <key>OPTION_MSG_S_A_OFF</key>
-    <original xml:space="preserve">無し</original>
+    <original>無し</original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_SET2</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S2_ON</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S2_OFF</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_SHADE_SET3</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S3_ON</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_S_S3_OFF</key>
-    <original xml:space="preserve"></original>
+    <original></original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_GRASS</key>
-    <original xml:space="preserve">草</original>
+    <original>草</original>
   </message>
   <message>
     <key>OPTION_MSG_GRASS_AMOUNT</key>
-    <original xml:space="preserve">表示量</original>
+    <original>表示量</original>
   </message>
   <message>
     <key>OPTION_MSG_GRASS_QUARITY</key>
-    <original xml:space="preserve">品質</original>
+    <original>品質</original>
   </message>
   <message>
     <key>OPTION_MSG_G_Q_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_G_Q_HIGH</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_GRASS_EFFECTIVERENGTH</key>
-    <original xml:space="preserve">表示距離</original>
+    <original>表示距離</original>
   </message>
   <message>
     <key>OPTION_MSG_G_E_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_G_E_X2</key>
-    <original xml:space="preserve">×2</original>
+    <original>×2</original>
   </message>
   <message>
     <key>OPTION_MSG_G_E_X5</key>
-    <original xml:space="preserve">×5</original>
+    <original>×5</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_OBJECT</key>
-    <original xml:space="preserve">オブジェクト</original>
+    <original>オブジェクト</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_OBJECT</key>
-    <original xml:space="preserve">オブジェクト全般</original>
+    <original>オブジェクト全般</original>
   </message>
   <message>
     <key>OPTION_MSG_OBJECT_PRESET</key>
-    <original xml:space="preserve">オブジェクト品質のプリセット</original>
+    <original>オブジェクト品質のプリセット</original>
   </message>
   <message>
     <key>OPTION_MSG_O_B_LOW</key>
-    <original xml:space="preserve">低</original>
+    <original>低</original>
   </message>
   <message>
     <key>OPTION_MSG_O_B_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_O_B_HIGH</key>
-    <original xml:space="preserve">高</original>
+    <original>高</original>
   </message>
   <message>
     <key>OPTION_MSG_O_B_HIGHEST</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_O_B_CUSTOM</key>
-    <original xml:space="preserve">カスタム</original>
+    <original>カスタム</original>
   </message>
   <message>
     <key>OPTION_MSG_OBJECT_EFFECTIVERENGTH</key>
-    <original xml:space="preserve">生存距離</original>
+    <original>生存距離</original>
   </message>
   <message>
     <key>OPTION_MSG_O_E_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_O_E_X2</key>
-    <original xml:space="preserve">×2</original>
+    <original>×2</original>
   </message>
   <message>
     <key>OPTION_MSG_O_E_X5</key>
-    <original xml:space="preserve">×5</original>
+    <original>×5</original>
   </message>
   <message>
     <key>OPTION_MSG_LOD</key>
-    <original xml:space="preserve">LOD比率(近づくと詳細表示になる処理)</original>
+    <original>LOD比率(近づくと詳細表示になる処理)</original>
   </message>
   <message>
     <key>OPTION_MSG_LOD_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_LOD_X2</key>
-    <original xml:space="preserve">×2</original>
+    <original>×2</original>
   </message>
   <message>
     <key>OPTION_MSG_LOD_X5</key>
-    <original xml:space="preserve">×5</original>
+    <original>×5</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CHARACTOR</key>
-    <original xml:space="preserve">キャラクター</original>
+    <original>キャラクター</original>
   </message>
   <message>
     <key>OPTION_MSG_HEADCOUNT_LIMIT</key>
-    <original xml:space="preserve">表示人数</original>
+    <original>表示人数</original>
   </message>
   <message>
     <key>OPTION_MSG_H_L_10</key>
-    <original xml:space="preserve">10人</original>
+    <original>10人</original>
   </message>
   <message>
     <key>OPTION_MSG_H_L_20</key>
-    <original xml:space="preserve">20人</original>
+    <original>20人</original>
   </message>
   <message>
     <key>OPTION_MSG_H_L_40</key>
-    <original xml:space="preserve">40人</original>
+    <original>40人</original>
   </message>
   <message>
     <key>OPTION_MSG_H_L_80</key>
-    <original xml:space="preserve">80人</original>
+    <original>80人</original>
   </message>
   <message>
     <key>OPTION_MSG_HEADCOUNT_EFFECTIVERENGTH</key>
-    <original xml:space="preserve">表示距離</original>
+    <original>表示距離</original>
   </message>
   <message>
     <key>OPTION_MSG_H_E_30M</key>
-    <original xml:space="preserve">30m</original>
+    <original>30m</original>
   </message>
   <message>
     <key>OPTION_MSG_H_E_60M</key>
-    <original xml:space="preserve">60m</original>
+    <original>60m</original>
   </message>
   <message>
     <key>OPTION_MSG_H_E_100</key>
-    <original xml:space="preserve">100m</original>
+    <original>100m</original>
   </message>
   <message>
     <key>OPTION_MSG_TAB_EFFECT</key>
-    <original xml:space="preserve">効果</original>
+    <original>効果</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_EFFECT</key>
-    <original xml:space="preserve">エフェクト全般</original>
+    <original>エフェクト全般</original>
   </message>
   <message>
     <key>OPTION_MSG_ENVIRONMENT_EFFECTQUARITY</key>
-    <original xml:space="preserve">エフェクト品質</original>
+    <original>エフェクト品質</original>
   </message>
   <message>
     <key>OPTION_MSG_E_E_REGULAR</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_E_E_HIGH</key>
-    <original xml:space="preserve">高</original>
+    <original>高</original>
   </message>
   <message>
     <key>OPTION_MSG_E_E_HIGHEST</key>
-    <original xml:space="preserve">最高</original>
+    <original>最高</original>
   </message>
   <message>
     <key>OPTION_MSG_BATTLE_EFFECTTARGET</key>
-    <original xml:space="preserve">プレイヤー・バトルエフェクトを表示する対象</original>
+    <original>プレイヤー・バトルエフェクトを表示する対象</original>
   </message>
   <message>
     <key>OPTION_MSG_B_E_MYSELF</key>
-    <original xml:space="preserve">自キャラのみ</original>
+    <original>自キャラのみ</original>
   </message>
   <message>
     <key>OPTION_MSG_B_E_ALL</key>
-    <original xml:space="preserve">全てのキャラ</original>
+    <original>全てのキャラ</original>
   </message>
   <message>
     <key>OPTION_MSG_EFFECT_LOAD</key>
-    <original xml:space="preserve">同時表示するエフェクトの量</original>
+    <original>同時表示するエフェクトの量</original>
   </message>
   <message>
     <key>OPTION_MSG_LOW</key>
-    <original xml:space="preserve">少ない</original>
+    <original>少ない</original>
   </message>
   <message>
     <key>OPTION_MSG_MIDDLE</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_HIGH</key>
-    <original xml:space="preserve">多い</original>
+    <original>多い</original>
   </message>
   <message>
     <key>OPTION_MSG_MAILNOTION</key>
-    <original xml:space="preserve">メールがあふれそうな時に警告表示する</original>
+    <original>メールがあふれそうな時に警告表示する</original>
   </message>
   <message>
     <key>OPTION_MSG_VERYICALSYNC</key>
-    <original xml:space="preserve">垂直同期</original>
+    <original>垂直同期</original>
   </message>
   <message>
     <key>OPTION_MSG_VERYICALSYNC_ON</key>
-    <original xml:space="preserve">ON</original>
+    <original>ON</original>
   </message>
   <message>
     <key>OPTION_MSG_VERYICALSYNC_OFF</key>
-    <original xml:space="preserve">OFF</original>
+    <original>OFF</original>
   </message>
   <message>
     <key>OPTION_MSG_WINDOW_WINDOW</key>
-    <original xml:space="preserve">ウィンドウモード</original>
+    <original>ウィンドウモード</original>
   </message>
   <message>
     <key>OPTION_MSG_WINDOW_VIRTUALFULL</key>
-    <original xml:space="preserve">仮想フルスクリーンモード</original>
+    <original>仮想フルスクリーンモード</original>
   </message>
   <message>
     <key>OPTION_MSG_WINDOW_FULL</key>
-    <original xml:space="preserve">フルスクリーンモード</original>
+    <original>フルスクリーンモード</original>
   </message>
   <message>
     <key>OPTION_MSG_BUTTON_EDIT</key>
-    <original xml:space="preserve">編集</original>
+    <original>編集</original>
   </message>
   <message>
     <key>OPTION_MSG_UI_BIGSIZE</key>
-    <original xml:space="preserve">UIを拡大表示する (解像度1920×1080 以上で有効)</original>
+    <original>UIを拡大表示する (解像度1920×1080 以上で有効)</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_CLAN</key>
-    <original xml:space="preserve">クラン</original>
+    <original>クラン</original>
   </message>
   <message>
     <key>OPTION_MSG_CLAN_PRIVACY_NOTICE</key>
-    <original xml:space="preserve">クランメンバーへ自分のステータスを通知する</original>
+    <original>クランメンバーへ自分のステータスを通知する</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY</key>
-    <original xml:space="preserve">他プレイヤーのエフェクト透明度</original>
+    <original>他プレイヤーのエフェクト透明度</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NORMAL</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_THIN</key>
-    <original xml:space="preserve">薄い</original>
+    <original>薄い</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NONE</key>
-    <original xml:space="preserve">無し</original>
+    <original>無し</original>
   </message>
   <message>
     <key>OPTION_MSG_LIGHT_SOURCE_NUM</key>
-    <original xml:space="preserve">光源の個数</original>
+    <original>光源の個数</original>
   </message>
   <message>
     <key>OPTION_MSG_LIGHT_SOURCE_NUM_MANY</key>
-    <original xml:space="preserve">多い</original>
+    <original>多い</original>
   </message>
   <message>
     <key>OPTION_MSG_LIGHT_SOURCE_NUM_NORMAL</key>
-    <original xml:space="preserve">通常</original>
+    <original>通常</original>
   </message>
   <message>
     <key>OPTION_MSG_LIGHT_SOURCE_NUM_FEW</key>
-    <original xml:space="preserve">少ない</original>
+    <original>少ない</original>
   </message>
   <message>
     <key>OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_MORETHIN</key>
-    <original xml:space="preserve">かなり薄い</original>
+    <original>かなり薄い</original>
   </message>
   <message>
     <key>OPTION_MSG_CAPTION_LIGHT</key>
-    <original xml:space="preserve">ライティング全般</original>
+    <original>ライティング全般</original>
   </message>
 </resource>

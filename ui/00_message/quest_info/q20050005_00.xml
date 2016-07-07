@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050005_00_57</key>
-    <original xml:space="preserve">鍾乳洞に響く足音</original>
+    <original>鍾乳洞に響く足音</original>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;から
+    <original>&lt;NAME AREA&gt;から
 何者かが助けを請うているらしいと報告があった</original>
   </message>
   <message>
     <key>q20050005_00_57</key>
-    <original xml:space="preserve">あのミスリウにある洞窟はきれいよね
+    <original>あのミスリウにある洞窟はきれいよね
 凶悪な魔物の存在を一瞬忘れて
 見とれてしまいそうになるわ
 でもここ数日、その魔物の数がやけに増えて
@@ -24,14 +24,14 @@
   </message>
   <message>
     <key>q20050005_00_1007</key>
-    <original xml:space="preserve">＜燐光虫の洞窟＞の敵を討伐する</original>
+    <original>＜燐光虫の洞窟＞の敵を討伐する</original>
   </message>
   <message>
     <key>q20050005_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20050005_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

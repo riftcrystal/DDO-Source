@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000010_00_219</key>
-    <original xml:space="preserve">旅人の露払い</original>
+    <original>旅人の露払い</original>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;には
+    <original>&lt;NAME AREA&gt;には
 誰かの救援を待っている者がいるようだ</original>
   </message>
   <message>
     <key>q20000010_00_219</key>
-    <original xml:space="preserve">人を助けるというのは難しい
+    <original>人を助けるというのは難しい
 親切心を仇で返されるかも知れないし
 力及ばず落胆させるかも知れない
 だから道端で困り顔をしていた女性を、やむなく
@@ -23,14 +23,14 @@
   </message>
   <message>
     <key>q20000010_00_892</key>
-    <original xml:space="preserve">指定された場所の敵を全て倒す</original>
+    <original>指定された場所の敵を全て倒す</original>
   </message>
   <message>
     <key>q20000010_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20000010_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

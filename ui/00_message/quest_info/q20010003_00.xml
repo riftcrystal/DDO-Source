@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010003_00_230</key>
-    <original xml:space="preserve">海の見張り手</original>
+    <original>海の見張り手</original>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 物品を指定の場所に届ける</original>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;から
+    <original>&lt;NAME AREA&gt;から
 何者かが助けを請うているらしいと報告があった</original>
   </message>
   <message>
     <key>q20010003_00_230</key>
-    <original xml:space="preserve">波の音を聞くと心が休まります
+    <original>波の音を聞くと心が休まります
 こういう場所はひとりで独占したいものです
 頼みごとを抱えた人？
 いやいや、そんな人と関わるのはごめんですよ
@@ -23,10 +23,10 @@
   </message>
   <message>
     <key>q20010003_00_897</key>
-    <original xml:space="preserve">灯台守を訪ねる</original>
+    <original>灯台守を訪ねる</original>
   </message>
   <message>
     <key>q20010003_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

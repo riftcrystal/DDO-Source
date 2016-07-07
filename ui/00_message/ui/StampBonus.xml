@@ -1,38 +1,38 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>sb_tub_sbonus_cumulative_total</key>
-    <original xml:space="preserve">累計スタンプボーナス</original>
+    <original>累計スタンプボーナス</original>
   </message>
   <message>
     <key>sb_tub_sbonus_continuity</key>
-    <original xml:space="preserve">連続スタンプボーナス</original>
+    <original>連続スタンプボーナス</original>
   </message>
   <message>
     <key>sb_title_sbonus_en</key>
-    <original xml:space="preserve">Stamp Bonus</original>
+    <original>Stamp Bonus</original>
   </message>
   <message>
     <key>sb_title_sbonus_jp</key>
-    <original xml:space="preserve">スタンプ手帳</original>
+    <original>スタンプ手帳</original>
   </message>
   <message>
     <key>sb_ana_sbonus_continuity</key>
-    <original xml:space="preserve">《連続スタンプボーナス&lt;VAL&gt;日目》</original>
+    <original>《連続スタンプボーナス&lt;VAL&gt;日目》</original>
   </message>
   <message>
     <key>sb_ana_sbonus_cumulative_total</key>
-    <original xml:space="preserve">《累計スタンプボーナス&lt;VAL&gt;日目》</original>
+    <original>《累計スタンプボーナス&lt;VAL&gt;日目》</original>
   </message>
   <message>
     <key>sb_ana_get_item</key>
-    <original xml:space="preserve">を獲得しました</original>
+    <original>を獲得しました</original>
   </message>
   <message>
     <key>sb_ana_get_rim</key>
-    <original xml:space="preserve">枚</original>
+    <original>枚</original>
   </message>
   <message>
     <key>sb_ana_day_count</key>
-    <original xml:space="preserve">日目</original>
+    <original>日目</original>
   </message>
 </resource>

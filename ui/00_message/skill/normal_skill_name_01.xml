@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_01_4</key>
-    <original xml:space="preserve">連撃</original>
+    <original>連撃</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_5</key>
-    <original xml:space="preserve">強連撃</original>
+    <original>強連撃</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_13</key>
-    <original xml:space="preserve">斬り崩し</original>
+    <original>斬り崩し</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_14</key>
-    <original xml:space="preserve">強斬り崩し</original>
+    <original>強斬り崩し</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_18</key>
-    <original xml:space="preserve">跳び斬り</original>
+    <original>跳び斬り</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_19</key>
-    <original xml:space="preserve">兜割り</original>
+    <original>兜割り</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_15</key>
-    <original xml:space="preserve">ガード</original>
+    <original>ガード</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_16</key>
-    <original xml:space="preserve">盾弾き</original>
+    <original>盾弾き</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_17</key>
-    <original xml:space="preserve">連係投げ</original>
+    <original>連係投げ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_22</key>
-    <original xml:space="preserve">受け身</original>
+    <original>受け身</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_01_23</key>
-    <original xml:space="preserve">えぐり突き</original>
+    <original>えぐり突き</original>
   </message>
 </resource>

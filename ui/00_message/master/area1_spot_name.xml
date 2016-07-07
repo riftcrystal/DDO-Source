@@ -1,86 +1,86 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ハイデル平原</original>
+    <original>ハイデル平原</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">白竜神殿レーゼ</original>
+    <original>白竜神殿レーゼ</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">テル</original>
+    <original>テル</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">南ハイデル大橋</original>
+    <original>南ハイデル大橋</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">鬼鳴き橋</original>
+    <original>鬼鳴き橋</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ハイデル地下霊廟</original>
+    <original>ハイデル地下霊廟</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">開かずの路</original>
+    <original>開かずの路</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">血すすぎ河原</original>
+    <original>血すすぎ河原</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">黒狼団のアジト</original>
+    <original>黒狼団のアジト</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ハイデル地下霊廟　深部</original>
+    <original>ハイデル地下霊廟　深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ハイデル地下霊廟　最深部</original>
+    <original>ハイデル地下霊廟　最深部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">刃擦れの細道</original>
+    <original>刃擦れの細道</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">修練の祠</original>
+    <original>修練の祠</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">廃屋の地下室</original>
+    <original>廃屋の地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">狩人の抜け穴</original>
+    <original>狩人の抜け穴</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">テルの枯れ井戸</original>
+    <original>テルの枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ハイデル街道の枯れ井戸</original>
+    <original>ハイデル街道の枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">死者の小窟</original>
+    <original>死者の小窟</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">平原の廃墟地下室</original>
+    <original>平原の廃墟地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">アーク</original>
+    <original>アーク</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">アーク　裏層</original>
+    <original>アーク　裏層</original>
   </message>
 </resource>

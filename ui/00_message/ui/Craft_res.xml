@@ -1,416 +1,416 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CRAFT_MSG_TITLE01</key>
-    <original xml:space="preserve">Craft</original>
+    <original>Craft</original>
   </message>
   <message>
     <key>CRAFT_MSG_TITLE02</key>
-    <original xml:space="preserve">クラフト</original>
+    <original>クラフト</original>
   </message>
   <message>
     <key>MENU_OPT_POINT_ASSIGN</key>
-    <original xml:space="preserve">クラフトステータス</original>
+    <original>クラフトステータス</original>
   </message>
   <message>
     <key>MENU_OPT_PRODUCT</key>
-    <original xml:space="preserve">アイテム生産</original>
+    <original>アイテム生産</original>
   </message>
   <message>
     <key>MENU_OPT_UPGRADE</key>
-    <original xml:space="preserve">装備の強化</original>
+    <original>装備の強化</original>
   </message>
   <message>
     <key>MENU_OPT_CREST</key>
-    <original xml:space="preserve">クレスト装備</original>
+    <original>クレスト装備</original>
   </message>
   <message>
     <key>MENU_OPT_CHANGE_COLOR</key>
-    <original xml:space="preserve">カラー変更</original>
+    <original>カラー変更</original>
   </message>
   <message>
     <key>MENU_OPT_CRAFT_STATUS</key>
-    <original xml:space="preserve">アイテム作成状況</original>
+    <original>アイテム作成状況</original>
   </message>
   <message>
     <key>TITLE_PAWN_STATUS</key>
-    <original xml:space="preserve">Pawn</original>
+    <original>Pawn</original>
   </message>
   <message>
     <key>ROW_PAWN_NAME</key>
-    <original xml:space="preserve">名前</original>
+    <original>名前</original>
   </message>
   <message>
     <key>ROW_PAWN_STATUS</key>
-    <original xml:space="preserve">状態</original>
+    <original>状態</original>
   </message>
   <message>
     <key>PAWN_STATUS_STAND_BY</key>
-    <original xml:space="preserve">待機</original>
+    <original>待機</original>
   </message>
   <message>
     <key>PAWN_STATUS_WORKING</key>
-    <original xml:space="preserve">クラフト中</original>
+    <original>クラフト中</original>
   </message>
   <message>
     <key>PAWN_STATUS_COMPLETE</key>
-    <original xml:space="preserve">クラフト中（完成）</original>
+    <original>クラフト中（完成）</original>
   </message>
   <message>
     <key>PAWN_STATUS_PARTY</key>
-    <original xml:space="preserve">パーティー</original>
+    <original>パーティー</original>
   </message>
   <message>
     <key>PAWN_STATUS_LOST</key>
-    <original xml:space="preserve">ロスト</original>
+    <original>ロスト</original>
   </message>
   <message>
     <key>BUTTON_CANCEL</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>TITLE_ITEM_LIST</key>
-    <original xml:space="preserve">Item List</original>
+    <original>Item List</original>
   </message>
   <message>
     <key>TITLE_MAKE_ITEM</key>
-    <original xml:space="preserve">アイテム作成</original>
+    <original>アイテム作成</original>
   </message>
   <message>
     <key>HEADING_MAKE_ITEM</key>
-    <original xml:space="preserve">作成アイテム</original>
+    <original>作成アイテム</original>
   </message>
   <message>
     <key>HEADING_CRAFT_MEMBER</key>
-    <original xml:space="preserve">クラフトメンバー</original>
+    <original>クラフトメンバー</original>
   </message>
   <message>
     <key>HEADING_LEADER</key>
-    <original xml:space="preserve">リーダー</original>
+    <original>リーダー</original>
   </message>
   <message>
     <key>HEADING_ASSISTANT</key>
-    <original xml:space="preserve">アシスタント</original>
+    <original>アシスタント</original>
   </message>
   <message>
     <key>HEADING_ADDITION</key>
-    <original xml:space="preserve">精錬材</original>
+    <original>精錬材</original>
   </message>
   <message>
     <key>BUTTON_START</key>
-    <original xml:space="preserve">作成開始</original>
+    <original>作成開始</original>
   </message>
   <message>
     <key>TITLE_PAWN_LIST</key>
-    <original xml:space="preserve">Pawn List</original>
+    <original>Pawn List</original>
   </message>
   <message>
     <key>TAB_MAIN</key>
-    <original xml:space="preserve">メイン</original>
+    <original>メイン</original>
   </message>
   <message>
     <key>TAB_SURPPORT</key>
-    <original xml:space="preserve">サポート</original>
+    <original>サポート</original>
   </message>
   <message>
     <key>ROW_NAME</key>
-    <original xml:space="preserve">Name</original>
+    <original>Name</original>
   </message>
   <message>
     <key>ROW_CRAFT_LV</key>
-    <original xml:space="preserve">Craft LV.</original>
+    <original>Craft LV.</original>
   </message>
   <message>
     <key>ROW_STATUS</key>
-    <original xml:space="preserve">Status</original>
+    <original>Status</original>
   </message>
   <message>
     <key>ROW_LIMIT</key>
-    <original xml:space="preserve">Limit</original>
+    <original>Limit</original>
   </message>
   <message>
     <key>TITLE_TOTAL</key>
-    <original xml:space="preserve">Total</original>
+    <original>Total</original>
   </message>
   <message>
     <key>HEADING_SPEED</key>
-    <original xml:space="preserve">生産作業スピード</original>
+    <original>生産作業スピード</original>
   </message>
   <message>
     <key>HEADING_TECHNOLOGY</key>
-    <original xml:space="preserve">装備の強化技術</original>
+    <original>装備の強化技術</original>
   </message>
   <message>
     <key>HEADING_FLASH</key>
-    <original xml:space="preserve">高品質装備の作成力</original>
+    <original>高品質装備の作成力</original>
   </message>
   <message>
     <key>HEADING_CAPACITY</key>
-    <original xml:space="preserve">消耗品の生産数アップ</original>
+    <original>消耗品の生産数アップ</original>
   </message>
   <message>
     <key>HEADING_COST_PERFORMANCE</key>
-    <original xml:space="preserve">コストパフォーマンス</original>
+    <original>コストパフォーマンス</original>
   </message>
   <message>
     <key>TITLE_STATUS</key>
-    <original xml:space="preserve">Status</original>
+    <original>Status</original>
   </message>
   <message>
     <key>CRAFT_TIME_INFINITY</key>
-    <original xml:space="preserve">∞</original>
+    <original>∞</original>
   </message>
   <message>
     <key>ROW_REQUIRED</key>
-    <original xml:space="preserve">必要数</original>
+    <original>必要数</original>
   </message>
   <message>
     <key>HEADING_COST</key>
-    <original xml:space="preserve">作業費用</original>
+    <original>作業費用</original>
   </message>
   <message>
     <key>HEADING_TIME</key>
-    <original xml:space="preserve">作業時間</original>
+    <original>作業時間</original>
   </message>
   <message>
     <key>HEADING_XP</key>
-    <original xml:space="preserve">取得経験値</original>
+    <original>取得経験値</original>
   </message>
   <message>
     <key>HEADING_NUMBER</key>
-    <original xml:space="preserve">生産個数</original>
+    <original>生産個数</original>
   </message>
   <message>
     <key>ROW_MATERIAL</key>
-    <original xml:space="preserve">素材名</original>
+    <original>素材名</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_START</key>
-    <original xml:space="preserve">このアイテムを通常作成します
+    <original>このアイテムを通常作成します
 よろしいですか？</original>
   </message>
   <message>
     <key>DIALOG_START</key>
-    <original xml:space="preserve">アイテムの作成を開始しました</original>
+    <original>アイテムの作成を開始しました</original>
   </message>
   <message>
     <key>TAB_WEAPON</key>
-    <original xml:space="preserve">武器</original>
+    <original>武器</original>
   </message>
   <message>
     <key>TAB_PROTECTOR</key>
-    <original xml:space="preserve">防具</original>
+    <original>防具</original>
   </message>
   <message>
     <key>BALLOON_LITTLE_LONGER</key>
-    <original xml:space="preserve">もう少しです</original>
+    <original>もう少しです</original>
   </message>
   <message>
     <key>GUIDE_PRODUCT</key>
-    <original xml:space="preserve">作成するアイテムを選択してください</original>
+    <original>作成するアイテムを選択してください</original>
   </message>
   <message>
     <key>GUIDE_UPGRADE</key>
-    <original xml:space="preserve">強化する装備を選択してください</original>
+    <original>強化する装備を選択してください</original>
   </message>
   <message>
     <key>GUIDE_CREST</key>
-    <original xml:space="preserve">クレスト装着する装備を選択してください</original>
+    <original>クレスト装着する装備を選択してください</original>
   </message>
   <message>
     <key>GUIDE_CHANGE_COLOR</key>
-    <original xml:space="preserve">カラー変更する装備を選択してください</original>
+    <original>カラー変更する装備を選択してください</original>
   </message>
   <message>
     <key>TITLE_PROGRESS_LIST</key>
-    <original xml:space="preserve">Progress List</original>
+    <original>Progress List</original>
   </message>
   <message>
     <key>TITLE_DETAIL</key>
-    <original xml:space="preserve">Details</original>
+    <original>Details</original>
   </message>
   <message>
     <key>BALLOON_FINISH</key>
-    <original xml:space="preserve">できました！</original>
+    <original>できました！</original>
   </message>
   <message>
     <key>CATEGORY_ALL</key>
-    <original xml:space="preserve">すべて</original>
+    <original>すべて</original>
   </message>
   <message>
     <key>BUTTON_GET_ITEM_FOR_STORAGE</key>
-    <original xml:space="preserve">保管ボックスに受け取る</original>
+    <original>保管ボックスに受け取る</original>
   </message>
   <message>
     <key>SUCCESS</key>
-    <original xml:space="preserve">Success!</original>
+    <original>Success!</original>
   </message>
   <message>
     <key>TITLE_RECEIPT</key>
-    <original xml:space="preserve">アイテムを作成しました</original>
+    <original>アイテムを作成しました</original>
   </message>
   <message>
     <key>BUTTON_GET_ITEM</key>
-    <original xml:space="preserve">受け取る</original>
+    <original>受け取る</original>
   </message>
   <message>
     <key>DIALOG_RECEIPT_SUCCESS</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;　&lt;VAL&gt;個を受け取りました</original>
+    <original>&lt;NAME ITEM&gt;　&lt;VAL&gt;個を受け取りました</original>
   </message>
   <message>
     <key>DIALOG_GET_XP</key>
-    <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
+    <original>クラフトを指揮していた&lt;NAME PAWN&gt;が
 クラフト経験値を&lt;VAL XP&gt;入手しました</original>
   </message>
   <message>
     <key>HEADING_REMAIN</key>
-    <original xml:space="preserve">残りポイント</original>
+    <original>残りポイント</original>
   </message>
   <message>
     <key>TITLE_POINT_ASSIGN</key>
-    <original xml:space="preserve">クラフトステータス</original>
+    <original>クラフトステータス</original>
   </message>
   <message>
     <key>DIALOG_BREAKUP</key>
-    <original xml:space="preserve">クラフトラインを解散しました</original>
+    <original>クラフトラインを解散しました</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_STOP</key>
-    <original xml:space="preserve">クラフトを中止しますか？
+    <original>クラフトを中止しますか？
 &lt;COL aa1414&gt;※素材・費用・クラフト回数は消費されます&lt;/COL&gt;</original>
   </message>
   <message>
     <key>DIALOG_STOP</key>
-    <original xml:space="preserve">クラフトを中止しました</original>
+    <original>クラフトを中止しました</original>
   </message>
   <message>
     <key>ANNOUNCE_LV_UP</key>
-    <original xml:space="preserve">&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL&gt;になりました
+    <original>&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL&gt;になりました
 クラフトスキルポイントを&lt;VAL&gt;取得しました</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_POINT_ASSIGN</key>
-    <original xml:space="preserve">ポイントの割り振りを行いますか？</original>
+    <original>ポイントの割り振りを行いますか？</original>
   </message>
   <message>
     <key>DIALOG_POINT_ASSIGN</key>
-    <original xml:space="preserve">ポイントの割り振りを行いました</original>
+    <original>ポイントの割り振りを行いました</original>
   </message>
   <message>
     <key>HEADING_REINFORCE_TARGET</key>
-    <original xml:space="preserve">強化アイテム</original>
+    <original>強化アイテム</original>
   </message>
   <message>
     <key>HEADING_REINFORCE_POINT</key>
-    <original xml:space="preserve">強化ポイント</original>
+    <original>強化ポイント</original>
   </message>
   <message>
     <key>BUTTON_REINFOECE</key>
-    <original xml:space="preserve">強化</original>
+    <original>強化</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_REINFORCE</key>
-    <original xml:space="preserve">このアイテムを強化しますか？</original>
+    <original>このアイテムを強化しますか？</original>
   </message>
   <message>
     <key>TITLE_REINFORCE</key>
-    <original xml:space="preserve">アイテムを強化しました</original>
+    <original>アイテムを強化しました</original>
   </message>
   <message>
     <key>POPUP_GRADE_UP</key>
-    <original xml:space="preserve">Grade UP!</original>
+    <original>Grade UP!</original>
   </message>
   <message>
     <key>HEADING_CREST_BREAK</key>
-    <original xml:space="preserve">Crest Break</original>
+    <original>Crest Break</original>
   </message>
   <message>
     <key>HEADING_CREST</key>
-    <original xml:space="preserve">Crest</original>
+    <original>Crest</original>
   </message>
   <message>
     <key>HEADING_CREST_EQUIP</key>
-    <original xml:space="preserve">Crest Equip</original>
+    <original>Crest Equip</original>
   </message>
   <message>
     <key>BUTTON_EQUIP_CREST</key>
-    <original xml:space="preserve">クレスト装備</original>
+    <original>クレスト装備</original>
   </message>
   <message>
     <key>HEADING_SLOT1</key>
-    <original xml:space="preserve">スロット１</original>
+    <original>スロット１</original>
   </message>
   <message>
     <key>HEADING_SLOT2</key>
-    <original xml:space="preserve">スロット２</original>
+    <original>スロット２</original>
   </message>
   <message>
     <key>HEADING_SLOT3</key>
-    <original xml:space="preserve">スロット３</original>
+    <original>スロット３</original>
   </message>
   <message>
     <key>HEADING_SLOT4</key>
-    <original xml:space="preserve">スロット４</original>
+    <original>スロット４</original>
   </message>
   <message>
     <key>GUIDE_SERECT_CREST</key>
-    <original xml:space="preserve">クレスト選択</original>
+    <original>クレスト選択</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_SET_CREST</key>
-    <original xml:space="preserve">クレスト装備を行いますか？</original>
+    <original>クレスト装備を行いますか？</original>
   </message>
   <message>
     <key>CREST_SET</key>
-    <original xml:space="preserve">Crest Set！</original>
+    <original>Crest Set！</original>
   </message>
   <message>
     <key>TITLE_CREST_SET</key>
-    <original xml:space="preserve">クレストを装備しました</original>
+    <original>クレストを装備しました</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CREST_BREAK</key>
-    <original xml:space="preserve">選択したスロットのクレストを破壊します
+    <original>選択したスロットのクレストを破壊します
 よろしいですか？</original>
   </message>
   <message>
     <key>CREST_BREAK</key>
-    <original xml:space="preserve">Crest Break!</original>
+    <original>Crest Break!</original>
   </message>
   <message>
     <key>TITLE_CREST_BREAK</key>
-    <original xml:space="preserve">クレストを破壊しました</original>
+    <original>クレストを破壊しました</original>
   </message>
   <message>
     <key>HEADING_CURRENT_COLOR</key>
-    <original xml:space="preserve">現在のカラー</original>
+    <original>現在のカラー</original>
   </message>
   <message>
     <key>HEADING_DYES</key>
-    <original xml:space="preserve">染料</original>
+    <original>染料</original>
   </message>
   <message>
     <key>HEADING_CHANGE_COLOR</key>
-    <original xml:space="preserve">変更するカラー</original>
+    <original>変更するカラー</original>
   </message>
   <message>
     <key>BUTTON_CHANGE_COLOR</key>
-    <original xml:space="preserve">カラー変更</original>
+    <original>カラー変更</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHANGE_COLOR</key>
-    <original xml:space="preserve">カラー変更を行いますか？</original>
+    <original>カラー変更を行いますか？</original>
   </message>
   <message>
     <key>CHANGE_COLOR</key>
-    <original xml:space="preserve">Color Change!</original>
+    <original>Color Change!</original>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR</key>
-    <original xml:space="preserve">カラーを変更しました</original>
+    <original>カラーを変更しました</original>
   </message>
   <message>
     <key>TITLE_REMOVES_PARTY</key>
-    <original xml:space="preserve">選択したポーンはクラフト作業を行うため
+    <original>選択したポーンはクラフト作業を行うため
 パーティーを離脱しますがよろしいですか？
 
 &lt;COL aa1414&gt;※パーティーからメインポーンがいなくなると
@@ -418,501 +418,501 @@
   </message>
   <message>
     <key>TITLE_REMOVES_PARTY_FAILURE</key>
-    <original xml:space="preserve">パーティーからの離脱に失敗しました</original>
+    <original>パーティーからの離脱に失敗しました</original>
   </message>
   <message>
     <key>TITLE_RECEIPT_FAILURE</key>
-    <original xml:space="preserve">アイテム作成に失敗しました</original>
+    <original>アイテム作成に失敗しました</original>
   </message>
   <message>
     <key>TITLE_EMPTY_ITEM_PLACE</key>
-    <original xml:space="preserve">装備強化する場合は、アイテムバッグの素材枠に空き枠を作ってください</original>
+    <original>装備強化する場合は、アイテムバッグの素材枠に空き枠を作ってください</original>
   </message>
   <message>
     <key>TITLE_REINFORCE_FAILURE</key>
-    <original xml:space="preserve">装備の強化に失敗しました</original>
+    <original>装備の強化に失敗しました</original>
   </message>
   <message>
     <key>DIALOG_GET_ARMS_POINT</key>
-    <original xml:space="preserve">装備強化ポイントが&lt;VAL 0&gt;アップしました
+    <original>装備強化ポイントが&lt;VAL 0&gt;アップしました
 現在の装備強化ポイントは&lt;VAL 1&gt;です</original>
   </message>
   <message>
     <key>TITLE_REQUEST_FAILURE</key>
-    <original xml:space="preserve">リクエストに失敗しました</original>
+    <original>リクエストに失敗しました</original>
   </message>
   <message>
     <key>DIALOG_GET_GRADE_UP</key>
-    <original xml:space="preserve">グレードアップしました</original>
+    <original>グレードアップしました</original>
   </message>
   <message>
     <key>DIALOG_CRAFT_LV_UP</key>
-    <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL 0&gt;になった</original>
+    <original>クラフトを指揮していた&lt;NAME PAWN&gt;のクラフトレベルが&lt;VAL 0&gt;になった</original>
   </message>
   <message>
     <key>TAB_UNOPENED</key>
-    <original xml:space="preserve">未解放</original>
+    <original>未解放</original>
   </message>
   <message>
     <key>TITLE_MONEY_INSUFFICIENT</key>
-    <original xml:space="preserve">所持金が足りません</original>
+    <original>所持金が足りません</original>
   </message>
   <message>
     <key>TITLE_EQUIP_CREST_FAILURE</key>
-    <original xml:space="preserve">クレスト装着に失敗しました</original>
+    <original>クレスト装着に失敗しました</original>
   </message>
   <message>
     <key>TITLE_BREAK_CREST_FAILURE</key>
-    <original xml:space="preserve">クレスト破棄に失敗しました</original>
+    <original>クレスト破棄に失敗しました</original>
   </message>
   <message>
     <key>TITLE_EQUIP_CREST_SUCCESS</key>
-    <original xml:space="preserve">クレスト装着に成功しました</original>
+    <original>クレスト装着に成功しました</original>
   </message>
   <message>
     <key>TITLE_BREAK_CREST_SUCCESS</key>
-    <original xml:space="preserve">クレスト破棄に成功しました</original>
+    <original>クレスト破棄に成功しました</original>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR_FAILURE</key>
-    <original xml:space="preserve">カラー変更に失敗しました</original>
+    <original>カラー変更に失敗しました</original>
   </message>
   <message>
     <key>TITLE_CHANGE_COLOR_SUCCESS</key>
-    <original xml:space="preserve">カラー変更に成功しました</original>
+    <original>カラー変更に成功しました</original>
   </message>
   <message>
     <key>TITLE_PAWN_INFO_FAILURE</key>
-    <original xml:space="preserve">詳細情報取得に失敗しました</original>
+    <original>詳細情報取得に失敗しました</original>
   </message>
   <message>
     <key>DIALOG_POINT_ASSIGN_FAILURE</key>
-    <original xml:space="preserve">クラフトポイントの割り振りに失敗しました</original>
+    <original>クラフトポイントの割り振りに失敗しました</original>
   </message>
   <message>
     <key>TITLE_CRAFT_INFO_FAILURE</key>
-    <original xml:space="preserve">クラフト状況取得に失敗しました</original>
+    <original>クラフト状況取得に失敗しました</original>
   </message>
   <message>
     <key>TITLE_RECEIPT_SUCCESS</key>
-    <original xml:space="preserve">&lt;VAL 0&gt; x &lt;VAL 1&gt;個 が完成しました</original>
+    <original>&lt;VAL 0&gt; x &lt;VAL 1&gt;個 が完成しました</original>
   </message>
   <message>
     <key>TITLE_ITEM_INFO_FAILURE</key>
-    <original xml:space="preserve">クラフト完成品情報取得に失敗しました</original>
+    <original>クラフト完成品情報取得に失敗しました</original>
   </message>
   <message>
     <key>TITLE_CRAFT_STOP_FAILURE</key>
-    <original xml:space="preserve">クラフト中止に失敗しました</original>
+    <original>クラフト中止に失敗しました</original>
   </message>
   <message>
     <key>DIALOG_RECEIPT_FAILURE</key>
-    <original xml:space="preserve">アイテム受け取りに失敗しました</original>
+    <original>アイテム受け取りに失敗しました</original>
   </message>
   <message>
     <key>TITLE_ARRANGEMENT_ITEM</key>
-    <original xml:space="preserve">アイテムバッグ、保管ボックスがいっぱいのため
+    <original>アイテムバッグ、保管ボックスがいっぱいのため
 受け取ることができません
 
 作成アイテム：&lt;VAL&gt; × &lt;VAL&gt;</original>
   </message>
   <message>
     <key>TITLE_GET_ITEM</key>
-    <original xml:space="preserve">アイテムを受け取りますか？</original>
+    <original>アイテムを受け取りますか？</original>
   </message>
   <message>
     <key>TITLE_GET_NO_ITEM</key>
-    <original xml:space="preserve">受け取れるアイテムはありません</original>
+    <original>受け取れるアイテムはありません</original>
   </message>
   <message>
     <key>MENU_SITUATION</key>
-    <original xml:space="preserve">状況確認</original>
+    <original>状況確認</original>
   </message>
   <message>
     <key>HEADING_NEED_ITEM</key>
-    <original xml:space="preserve">必要素材 &lt;VAL 0&gt; x &lt;VAL 1&gt;</original>
+    <original>必要素材 &lt;VAL 0&gt; x &lt;VAL 1&gt;</original>
   </message>
   <message>
     <key>HEADING_COST_BASE</key>
-    <original xml:space="preserve">基準作成費用&lt;VAL 0&gt;</original>
+    <original>基準作成費用&lt;VAL 0&gt;</original>
   </message>
   <message>
     <key>HEADING_COST_CUT</key>
-    <original xml:space="preserve">補正後作成費用&lt;VAL 0&gt;</original>
+    <original>補正後作成費用&lt;VAL 0&gt;</original>
   </message>
   <message>
     <key>REMAINING_MAKE_TIME_MINUTE</key>
-    <original xml:space="preserve">&lt;VAL&gt;m</original>
+    <original>&lt;VAL&gt;m</original>
   </message>
   <message>
     <key>TAB_MATERIAL_ITEM</key>
-    <original xml:space="preserve">素材</original>
+    <original>素材</original>
   </message>
   <message>
     <key>TAB_USE_ITEM</key>
-    <original xml:space="preserve">消耗品</original>
+    <original>消耗品</original>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_ITEM</key>
-    <original xml:space="preserve">追加する素材を選択してください</original>
+    <original>追加する素材を選択してください</original>
   </message>
   <message>
     <key>ROW_HAVE</key>
-    <original xml:space="preserve">Storage</original>
+    <original>Storage</original>
   </message>
   <message>
     <key>GUIDE_SELECT_COLOR_ITEM</key>
-    <original xml:space="preserve">使用する染料を選択してください</original>
+    <original>使用する染料を選択してください</original>
   </message>
   <message>
     <key>CRAFT_LEVEL_VAL</key>
-    <original xml:space="preserve">&lt;VAL&gt;</original>
+    <original>&lt;VAL&gt;</original>
   </message>
   <message>
     <key>CRAFT_BUTTON_COMPLETE</key>
-    <original xml:space="preserve">完了</original>
+    <original>完了</original>
   </message>
   <message>
     <key>NOTICE_GRADE_MAX</key>
-    <original xml:space="preserve">グレードがアップしました！
+    <original>グレードがアップしました！
 カラー変更ができるようになりました</original>
   </message>
   <message>
     <key>CRAFT_BUTTON_EXAM_BEGIN</key>
-    <original xml:space="preserve">受領</original>
+    <original>受領</original>
   </message>
   <message>
     <key>ROW_POINT</key>
-    <original xml:space="preserve">Point</original>
+    <original>Point</original>
   </message>
   <message>
     <key>ORDER_HEADER_CRAFT_ITEM</key>
-    <original xml:space="preserve">Craft Item</original>
+    <original>Craft Item</original>
   </message>
   <message>
     <key>ORDER_HEADER_CRAFT_MEMBER</key>
-    <original xml:space="preserve">Craft Members</original>
+    <original>Craft Members</original>
   </message>
   <message>
     <key>ORDER_HEADER_ADD_ITEM</key>
-    <original xml:space="preserve">Additional Materials</original>
+    <original>Additional Materials</original>
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_TARGET</key>
-    <original xml:space="preserve">アイテム</original>
+    <original>アイテム</original>
   </message>
   <message>
     <key>HEADING_CUSTOMIZE_PAWN</key>
-    <original xml:space="preserve">クラフトポーン</original>
+    <original>クラフトポーン</original>
   </message>
   <message>
     <key>HEADING_CREST_ITEM</key>
-    <original xml:space="preserve">Equip Crest</original>
+    <original>Equip Crest</original>
   </message>
   <message>
     <key>HEADING_COLOR_ITEM</key>
-    <original xml:space="preserve">Color Item</original>
+    <original>Color Item</original>
   </message>
   <message>
     <key>ROW_PROGRESS</key>
-    <original xml:space="preserve">Progress</original>
+    <original>Progress</original>
   </message>
   <message>
     <key>ROW_MAKE_ITEM</key>
-    <original xml:space="preserve">Item</original>
+    <original>Item</original>
   </message>
   <message>
     <key>CRAFT_VAL_NONE</key>
-    <original xml:space="preserve">なし</original>
+    <original>なし</original>
   </message>
   <message>
     <key>CRAFT_PLUS_VAL</key>
-    <original xml:space="preserve">&lt;VAL PLUS&gt;</original>
+    <original>&lt;VAL PLUS&gt;</original>
   </message>
   <message>
     <key>GUIDE_SELECT_LEADER_PAWN</key>
-    <original xml:space="preserve">リーダーをメインポーンから選択してください</original>
+    <original>リーダーをメインポーンから選択してください</original>
   </message>
   <message>
     <key>GUIDE_SELECT_ASSISTANT_PAWN</key>
-    <original xml:space="preserve">アシスタントを選択してください</original>
+    <original>アシスタントを選択してください</original>
   </message>
   <message>
     <key>GUIDE_SELECT_ADD_POINT_PAWN</key>
-    <original xml:space="preserve">ポイントを割り振るポーンを選択してください</original>
+    <original>ポイントを割り振るポーンを選択してください</original>
   </message>
   <message>
     <key>EXAM_RECEIPE_TITLE</key>
-    <original xml:space="preserve">昇格試験レシピ</original>
+    <original>昇格試験レシピ</original>
   </message>
   <message>
     <key>EXAM_RESULT_PARAM</key>
-    <original xml:space="preserve">昇格結果</original>
+    <original>昇格結果</original>
   </message>
   <message>
     <key>CRAFT_DETAIL_ITEM_RANK</key>
-    <original xml:space="preserve">Item Rank</original>
+    <original>Item Rank</original>
   </message>
   <message>
     <key>CRAFT_DETAIL_XP_VAL</key>
-    <original xml:space="preserve">&lt;VAL&gt;/&lt;VAL&gt;</original>
+    <original>&lt;VAL&gt;/&lt;VAL&gt;</original>
   </message>
   <message>
     <key>CRAFT_DETAIL_BAZAAR</key>
-    <original xml:space="preserve">バザー</original>
+    <original>バザー</original>
   </message>
   <message>
     <key>CRAFT_DETAIL_ENABLE_CREST</key>
-    <original xml:space="preserve">装着可能</original>
+    <original>装着可能</original>
   </message>
   <message>
     <key>ROW_LIST_CATEGORY</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_HP</key>
-    <original xml:space="preserve">体力回復</original>
+    <original>体力回復</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_ST</key>
-    <original xml:space="preserve">スタミナ回復</original>
+    <original>スタミナ回復</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_REPAIR</key>
-    <original xml:space="preserve">状態異常解消</original>
+    <original>状態異常解消</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_ENCHANT</key>
-    <original xml:space="preserve">能力上昇</original>
+    <original>能力上昇</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_THROW</key>
-    <original xml:space="preserve">投擲道具</original>
+    <original>投擲道具</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_KEY</key>
-    <original xml:space="preserve">鍵・採集・探索</original>
+    <original>鍵・採集・探索</original>
   </message>
   <message>
     <key>RECIPE_CATE_USE_ITEM_JOB</key>
-    <original xml:space="preserve">ジョブ専用道具</original>
+    <original>ジョブ専用道具</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_INGOT</key>
-    <original xml:space="preserve">インゴット</original>
+    <original>インゴット</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_CLOTH</key>
-    <original xml:space="preserve">布</original>
+    <original>布</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_THREAD</key>
-    <original xml:space="preserve">糸</original>
+    <original>糸</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_SCROLL</key>
-    <original xml:space="preserve">スクロール</original>
+    <original>スクロール</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_WEP</key>
-    <original xml:space="preserve">精錬材（武器）</original>
+    <original>精錬材（武器）</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_STRENGTH_ARMOR</key>
-    <original xml:space="preserve">精錬材（防具）</original>
+    <original>精錬材（防具）</original>
   </message>
   <message>
     <key>ROW_MAKE</key>
-    <original xml:space="preserve">Made</original>
+    <original>Made</original>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_S</key>
-    <original xml:space="preserve">S級</original>
+    <original>S級</original>
   </message>
   <message>
     <key>CRAFT_NUM_CRAFTLV</key>
-    <original xml:space="preserve">クラフトレベル&lt;VAL&gt;</original>
+    <original>クラフトレベル&lt;VAL&gt;</original>
   </message>
   <message>
     <key>CRAFT_OVERUP_CRAFTLV</key>
-    <original xml:space="preserve">クラフトレベルの上限アップ</original>
+    <original>クラフトレベルの上限アップ</original>
   </message>
   <message>
     <key>CRAFT_SET_ASSISTANT</key>
-    <original xml:space="preserve">アシスタントの設定人数</original>
+    <original>アシスタントの設定人数</original>
   </message>
   <message>
     <key>CRAFT_NUM_TO_NUM</key>
-    <original xml:space="preserve">（&lt;VAL&gt;→&lt;VAL&gt;）</original>
+    <original>（&lt;VAL&gt;→&lt;VAL&gt;）</original>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_D</key>
-    <original xml:space="preserve">D級</original>
+    <original>D級</original>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_A</key>
-    <original xml:space="preserve">A級</original>
+    <original>A級</original>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_B</key>
-    <original xml:space="preserve">B級</original>
+    <original>B級</original>
   </message>
   <message>
     <key>CRAFT_NUM_CLASS_C</key>
-    <original xml:space="preserve">C級</original>
+    <original>C級</original>
   </message>
   <message>
     <key>CRAFT_UPGRADE_EQUIP_NOTHING</key>
-    <original xml:space="preserve">強化できる装備がありません</original>
+    <original>強化できる装備がありません</original>
   </message>
   <message>
     <key>CRAFT_COLOR_EQUIP_NOTHING</key>
-    <original xml:space="preserve">カラー変更できる装備がありません</original>
+    <original>カラー変更できる装備がありません</original>
   </message>
   <message>
     <key>CRAFT_CREST_EQUIP_NOTHING</key>
-    <original xml:space="preserve">クレスト装着できる装備がありません</original>
+    <original>クレスト装着できる装備がありません</original>
   </message>
   <message>
     <key>CRAFT_MATERIAL_NOTHING</key>
-    <original xml:space="preserve">使用できる素材がありません</original>
+    <original>使用できる素材がありません</original>
   </message>
   <message>
     <key>CRAFT_COLOR_ITEM_NOTHING</key>
-    <original xml:space="preserve">使用できる染料がありません</original>
+    <original>使用できる染料がありません</original>
   </message>
   <message>
     <key>CRAFT_PAWN_NO_ONE</key>
-    <original xml:space="preserve">ポーンを雇っていません</original>
+    <original>ポーンを雇っていません</original>
   </message>
   <message>
     <key>CRAFT_MAKE_ITEM_NOTHING</key>
-    <original xml:space="preserve">作成できるアイテムがありません</original>
+    <original>作成できるアイテムがありません</original>
   </message>
   <message>
     <key>CRAFT_MAKING_NOTHING</key>
-    <original xml:space="preserve">作成中のアイテムはありません</original>
+    <original>作成中のアイテムはありません</original>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISPAWN</key>
-    <original xml:space="preserve">ポーンをはずす</original>
+    <original>ポーンをはずす</original>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISMATERIAL</key>
-    <original xml:space="preserve">精錬材をはずす</original>
+    <original>精錬材をはずす</original>
   </message>
   <message>
     <key>CRAFT_BTGUID_DISCREST</key>
-    <original xml:space="preserve">クレストを戻す</original>
+    <original>クレストを戻す</original>
   </message>
   <message>
     <key>CRAFT_MAKING_CONTINUE</key>
-    <original xml:space="preserve">同じ装備アイテムを強化しますか？</original>
+    <original>同じ装備アイテムを強化しますか？</original>
   </message>
   <message>
     <key>CRAFT_FINISHED</key>
-    <original xml:space="preserve">クラフト完了</original>
+    <original>クラフト完了</original>
   </message>
   <message>
     <key>REMAINING_MAKE_TIME_HOUR</key>
-    <original xml:space="preserve">&lt;VAL&gt;h</original>
+    <original>&lt;VAL&gt;h</original>
   </message>
   <message>
     <key>TAB_CLASS_UP_EXAM</key>
-    <original xml:space="preserve">特殊</original>
+    <original>特殊</original>
   </message>
   <message>
     <key>CATEGORY_CLASS_UP_EXAM</key>
-    <original xml:space="preserve">昇格試験</original>
+    <original>昇格試験</original>
   </message>
   <message>
     <key>MSG_NO_CLASS_UP_EXAM</key>
-    <original xml:space="preserve">昇格試験がありません</original>
+    <original>昇格試験がありません</original>
   </message>
   <message>
     <key>GUIDE_MSG_CHARACTER_CHANGE</key>
-    <original xml:space="preserve">試着切り替え</original>
+    <original>試着切り替え</original>
   </message>
   <message>
     <key>TITLE_MSG_CHARACTER_CHANGE</key>
-    <original xml:space="preserve">キャラクターを選択してください</original>
+    <original>キャラクターを選択してください</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_OTHER</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
   <message>
     <key>DIALOG_GET_XP_EX</key>
-    <original xml:space="preserve">クラフトを指揮していた&lt;NAME PAWN&gt;が
+    <original>クラフトを指揮していた&lt;NAME PAWN&gt;が
 クラフト経験値を&lt;VAL&gt; (+&lt;VAL&gt;) &lt;UNIT XP&gt;入手しました</original>
   </message>
   <message>
     <key>EX_CHARGE_UNIT</key>
-    <original xml:space="preserve"> (+&lt;VAL&gt;)</original>
+    <original> (+&lt;VAL&gt;)</original>
   </message>
   <message>
     <key>COLOR_CHANGE_DISABLE</key>
-    <original xml:space="preserve">このアイテムはカラー変更できません</original>
+    <original>このアイテムはカラー変更できません</original>
   </message>
   <message>
     <key>CATEGORY_FURNITURE</key>
-    <original xml:space="preserve">家具</original>
+    <original>家具</original>
   </message>
   <message>
     <key>CRAFT_FURNITURE_NOTHING</key>
-    <original xml:space="preserve">家具レシピがありません</original>
+    <original>家具レシピがありません</original>
   </message>
   <message>
     <key>ERROR_CANT_MAKE_FURNITURE</key>
-    <original xml:space="preserve">作成済み、または作成中の家具は選択できません</original>
+    <original>作成済み、または作成中の家具は選択できません</original>
   </message>
   <message>
     <key>DIALOG_USE_FUNITURE_GUIDE</key>
-    <original xml:space="preserve">受け取った家具アイテムは
+    <original>受け取った家具アイテムは
 覚者の自室で配置することができます</original>
   </message>
   <message>
     <key>RECIPE_CATE_MATERIAL_AREA</key>
-    <original xml:space="preserve">地域素材</original>
+    <original>地域素材</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_CREATION_TYPE</key>
-    <original xml:space="preserve">作成方法を選んでください</original>
+    <original>作成方法を選んでください</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_START</key>
-    <original xml:space="preserve">通常作成</original>
+    <original>通常作成</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_EX_CREATE</key>
-    <original xml:space="preserve">黄金石を使用して作成</original>
+    <original>黄金石を使用して作成</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE</key>
-    <original xml:space="preserve">アイテムの作成がその場で完了します
+    <original>アイテムの作成がその場で完了します
 &lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;を消費して作成しますか？
 (所持数：&lt;VAL&gt;)</original>
   </message>
   <message>
     <key>DIALOG_EX_CREATE</key>
-    <original xml:space="preserve">アイテムの作成が完了しました</original>
+    <original>アイテムの作成が完了しました</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_EX_CREATE_ERROR</key>
-    <original xml:space="preserve">黄金石が不足しています
+    <original>黄金石が不足しています
 その場で作成完了するには&lt;COL ffdc78&gt;黄金石&lt;VAL&gt;個&lt;/COL&gt;が必要です
 (所持数：&lt;VAL&gt;)</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP</key>
-    <original xml:space="preserve">オンラインショップを開く</original>
+    <original>オンラインショップを開く</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_CHOICE_STOP_TYPE</key>
-    <original xml:space="preserve">まだアイテム作成が完了していません</original>
+    <original>まだアイテム作成が完了していません</original>
   </message>
   <message>
     <key>DIALOG_CONFIRM_TYPE_STOP</key>
-    <original xml:space="preserve">アイテム生産を中止</original>
+    <original>アイテム生産を中止</original>
   </message>
 </resource>

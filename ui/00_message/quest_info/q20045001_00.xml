@@ -1,20 +1,20 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20045001_00_113</key>
-    <original xml:space="preserve">黄泉からの使者</original>
+    <original>黄泉からの使者</original>
   </message>
   <message>
     <key>q20045001_00_113</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
   <message>
     <key>q20045001_00_113</key>
-    <original xml:space="preserve">いま&lt;NAME AREA&gt;では
+    <original>いま&lt;NAME AREA&gt;では
 不安をあおる物音が断続的に響いているらしい</original>
   </message>
   <message>
     <key>q20045001_00_113</key>
-    <original xml:space="preserve">もっと安全な街道を開拓しようと
+    <original>もっと安全な街道を開拓しようと
 普段は通らない土地を横断しようとしたけど
 やっぱりそう上手くはいかないものだね
 あちこちから魔物の気配がするよ
@@ -22,6 +22,6 @@
   </message>
   <message>
     <key>q20045001_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
 </resource>

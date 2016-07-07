@@ -1,46 +1,46 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>MenuCmdPawn_res_3854</key>
-    <original xml:space="preserve">Pawn Order</original>
+    <original>Pawn Order</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3855</key>
-    <original xml:space="preserve">ポーン命令</original>
+    <original>ポーン命令</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3856</key>
-    <original xml:space="preserve">Category</original>
+    <original>Category</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3857</key>
-    <original xml:space="preserve">命令</original>
+    <original>命令</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3858</key>
-    <original xml:space="preserve">マクロ</original>
+    <original>マクロ</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3859</key>
-    <original xml:space="preserve">実行</original>
+    <original>実行</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3860</key>
-    <original xml:space="preserve">サブメニュー</original>
+    <original>サブメニュー</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3861</key>
-    <original xml:space="preserve">ショートカット登録</original>
+    <original>ショートカット登録</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3862</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3863</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>MenuCmdPawn_res_3864</key>
-    <original xml:space="preserve">（なし）</original>
+    <original>（なし）</original>
   </message>
 </resource>

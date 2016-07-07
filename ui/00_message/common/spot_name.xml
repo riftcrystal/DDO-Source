@@ -1,1226 +1,1226 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_450</key>
-    <original xml:space="preserve">白竜神殿レーゼ</original>
+    <original>白竜神殿レーゼ</original>
   </message>
   <message>
     <key>SPOT_NAME_451</key>
-    <original xml:space="preserve">テル</original>
+    <original>テル</original>
   </message>
   <message>
     <key>SPOT_NAME_452</key>
-    <original xml:space="preserve">ローテス</original>
+    <original>ローテス</original>
   </message>
   <message>
     <key>SPOT_NAME_453</key>
-    <original xml:space="preserve">リンウッド</original>
+    <original>リンウッド</original>
   </message>
   <message>
     <key>SPOT_NAME_454</key>
-    <original xml:space="preserve">ジンゲン</original>
+    <original>ジンゲン</original>
   </message>
   <message>
     <key>SPOT_NAME_455</key>
-    <original xml:space="preserve">キノザ</original>
+    <original>キノザ</original>
   </message>
   <message>
     <key>SPOT_NAME_456</key>
-    <original xml:space="preserve">ホボリック洞穴</original>
+    <original>ホボリック洞穴</original>
   </message>
   <message>
     <key>SPOT_NAME_457</key>
-    <original xml:space="preserve">ドラワン</original>
+    <original>ドラワン</original>
   </message>
   <message>
     <key>SPOT_NAME_458</key>
-    <original xml:space="preserve">ゾマ</original>
+    <original>ゾマ</original>
   </message>
   <message>
     <key>SPOT_NAME_459</key>
-    <original xml:space="preserve">メルゴダ居住区</original>
+    <original>メルゴダ居住区</original>
   </message>
   <message>
     <key>SPOT_NAME_460</key>
-    <original xml:space="preserve">ハイデル平原</original>
+    <original>ハイデル平原</original>
   </message>
   <message>
     <key>SPOT_NAME_461</key>
-    <original xml:space="preserve">ブリア海岸</original>
+    <original>ブリア海岸</original>
   </message>
   <message>
     <key>SPOT_NAME_462</key>
-    <original xml:space="preserve">バートランド平原</original>
+    <original>バートランド平原</original>
   </message>
   <message>
     <key>SPOT_NAME_463</key>
-    <original xml:space="preserve">ダウ渓谷</original>
+    <original>ダウ渓谷</original>
   </message>
   <message>
     <key>SPOT_NAME_464</key>
-    <original xml:space="preserve">ボルド鉱山</original>
+    <original>ボルド鉱山</original>
   </message>
   <message>
     <key>SPOT_NAME_465</key>
-    <original xml:space="preserve">ミスリウ森林</original>
+    <original>ミスリウ森林</original>
   </message>
   <message>
     <key>SPOT_NAME_466</key>
-    <original xml:space="preserve">ミスリウ森林深部</original>
+    <original>ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_467</key>
-    <original xml:space="preserve">バートランド平原北部</original>
+    <original>バートランド平原北部</original>
   </message>
   <message>
     <key>SPOT_NAME_468</key>
-    <original xml:space="preserve">ザンドラ東部</original>
+    <original>ザンドラ東部</original>
   </message>
   <message>
     <key>SPOT_NAME_469</key>
-    <original xml:space="preserve">ザンドラ禁域</original>
+    <original>ザンドラ禁域</original>
   </message>
   <message>
     <key>SPOT_NAME_470</key>
-    <original xml:space="preserve">ディナン深層林</original>
+    <original>ディナン深層林</original>
   </message>
   <message>
     <key>SPOT_NAME_471</key>
-    <original xml:space="preserve">グリッテン砦</original>
+    <original>グリッテン砦</original>
   </message>
   <message>
     <key>SPOT_NAME_472</key>
-    <original xml:space="preserve">燐光虫の洞窟</original>
+    <original>燐光虫の洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_473</key>
-    <original xml:space="preserve">ガルドノック砦</original>
+    <original>ガルドノック砦</original>
   </message>
   <message>
     <key>SPOT_NAME_474</key>
-    <original xml:space="preserve">ドリード城</original>
+    <original>ドリード城</original>
   </message>
   <message>
     <key>SPOT_NAME_475</key>
-    <original xml:space="preserve">エルテ・ディナン</original>
+    <original>エルテ・ディナン</original>
   </message>
   <message>
     <key>SPOT_NAME_476</key>
-    <original xml:space="preserve">ボルド大坑道</original>
+    <original>ボルド大坑道</original>
   </message>
   <message>
     <key>SPOT_NAME_477</key>
-    <original xml:space="preserve">竜の巣</original>
+    <original>竜の巣</original>
   </message>
   <message>
     <key>SPOT_NAME_478</key>
-    <original xml:space="preserve">禊の神殿</original>
+    <original>禊の神殿</original>
   </message>
   <message>
     <key>SPOT_NAME_479</key>
-    <original xml:space="preserve">黄金宮</original>
+    <original>黄金宮</original>
   </message>
   <message>
     <key>SPOT_NAME_480</key>
-    <original xml:space="preserve">亡都メルゴダ</original>
+    <original>亡都メルゴダ</original>
   </message>
   <message>
     <key>SPOT_NAME_481</key>
-    <original xml:space="preserve">メルゴダ護政区</original>
+    <original>メルゴダ護政区</original>
   </message>
   <message>
     <key>SPOT_NAME_482</key>
-    <original xml:space="preserve">ポーン郷</original>
+    <original>ポーン郷</original>
   </message>
   <message>
     <key>SPOT_NAME_483</key>
-    <original xml:space="preserve">キノザ鉱泉</original>
+    <original>キノザ鉱泉</original>
   </message>
   <message>
     <key>SPOT_NAME_484</key>
-    <original xml:space="preserve">禊の神殿　離殿</original>
+    <original>禊の神殿　離殿</original>
   </message>
   <message>
     <key>SPOT_NAME_485</key>
-    <original xml:space="preserve">古の祭祀場</original>
+    <original>古の祭祀場</original>
   </message>
   <message>
     <key>SPOT_NAME_486</key>
-    <original xml:space="preserve">ハイデル地下霊廟</original>
+    <original>ハイデル地下霊廟</original>
   </message>
   <message>
     <key>SPOT_NAME_487</key>
-    <original xml:space="preserve">ハイデル地下霊廟　深部</original>
+    <original>ハイデル地下霊廟　深部</original>
   </message>
   <message>
     <key>SPOT_NAME_488</key>
-    <original xml:space="preserve">ハイデル地下霊廟　最深部</original>
+    <original>ハイデル地下霊廟　最深部</original>
   </message>
   <message>
     <key>SPOT_NAME_489</key>
-    <original xml:space="preserve">リンウッド地下水路</original>
+    <original>リンウッド地下水路</original>
   </message>
   <message>
     <key>SPOT_NAME_490</key>
-    <original xml:space="preserve">採掘師の隠れ道</original>
+    <original>採掘師の隠れ道</original>
   </message>
   <message>
     <key>SPOT_NAME_491</key>
-    <original xml:space="preserve">南壁のひび</original>
+    <original>南壁のひび</original>
   </message>
   <message>
     <key>SPOT_NAME_492</key>
-    <original xml:space="preserve">カタコンベ</original>
+    <original>カタコンベ</original>
   </message>
   <message>
     <key>SPOT_NAME_493</key>
-    <original xml:space="preserve">蒼葉のテラス</original>
+    <original>蒼葉のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_494</key>
-    <original xml:space="preserve">神花のテラス</original>
+    <original>神花のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_495</key>
-    <original xml:space="preserve">レ・カルバス・アーマ</original>
+    <original>レ・カルバス・アーマ</original>
   </message>
   <message>
     <key>SPOT_NAME_496</key>
-    <original xml:space="preserve">戦鬼の影穴</original>
+    <original>戦鬼の影穴</original>
   </message>
   <message>
     <key>SPOT_NAME_497</key>
-    <original xml:space="preserve">バートランド地下道</original>
+    <original>バートランド地下道</original>
   </message>
   <message>
     <key>SPOT_NAME_498</key>
-    <original xml:space="preserve">地下納骨堂</original>
+    <original>地下納骨堂</original>
   </message>
   <message>
     <key>SPOT_NAME_499</key>
-    <original xml:space="preserve">メルゴダ大水網</original>
+    <original>メルゴダ大水網</original>
   </message>
   <message>
     <key>SPOT_NAME_500</key>
-    <original xml:space="preserve">死王の迷宮</original>
+    <original>死王の迷宮</original>
   </message>
   <message>
     <key>SPOT_NAME_501</key>
-    <original xml:space="preserve">さる錬金術師の家</original>
+    <original>さる錬金術師の家</original>
   </message>
   <message>
     <key>SPOT_NAME_502</key>
-    <original xml:space="preserve">エリクシル精製室</original>
+    <original>エリクシル精製室</original>
   </message>
   <message>
     <key>SPOT_NAME_503</key>
-    <original xml:space="preserve">南ハイデル大橋</original>
+    <original>南ハイデル大橋</original>
   </message>
   <message>
     <key>SPOT_NAME_504</key>
-    <original xml:space="preserve">南壁谷の道</original>
+    <original>南壁谷の道</original>
   </message>
   <message>
     <key>SPOT_NAME_505</key>
-    <original xml:space="preserve">バートランド東関所</original>
+    <original>バートランド東関所</original>
   </message>
   <message>
     <key>SPOT_NAME_506</key>
-    <original xml:space="preserve">ディナン山道</original>
+    <original>ディナン山道</original>
   </message>
   <message>
     <key>SPOT_NAME_507</key>
-    <original xml:space="preserve">バートランド山道</original>
+    <original>バートランド山道</original>
   </message>
   <message>
     <key>SPOT_NAME_508</key>
-    <original xml:space="preserve">フロックヴァルト大橋</original>
+    <original>フロックヴァルト大橋</original>
   </message>
   <message>
     <key>SPOT_NAME_509</key>
-    <original xml:space="preserve">カタコンベ（カスタム）01</original>
+    <original>カタコンベ（カスタム）01</original>
   </message>
   <message>
     <key>SPOT_NAME_510</key>
-    <original xml:space="preserve">自然洞窟＋坑道（カスタム）00</original>
+    <original>自然洞窟＋坑道（カスタム）00</original>
   </message>
   <message>
     <key>SPOT_NAME_511</key>
-    <original xml:space="preserve">エルフ遺跡（カスタム）00</original>
+    <original>エルフ遺跡（カスタム）00</original>
   </message>
   <message>
     <key>SPOT_NAME_512</key>
-    <original xml:space="preserve">地下通路＋水路（カスタム）00</original>
+    <original>地下通路＋水路（カスタム）00</original>
   </message>
   <message>
     <key>SPOT_NAME_513</key>
-    <original xml:space="preserve">枯れ井戸の中（カスタム）00</original>
+    <original>枯れ井戸の中（カスタム）00</original>
   </message>
   <message>
     <key>SPOT_NAME_514</key>
-    <original xml:space="preserve">祠の中（カスタム）00</original>
+    <original>祠の中（カスタム）00</original>
   </message>
   <message>
     <key>SPOT_NAME_515</key>
-    <original xml:space="preserve">地下室（ワイン倉庫）00</original>
+    <original>地下室（ワイン倉庫）00</original>
   </message>
   <message>
     <key>SPOT_NAME_516</key>
-    <original xml:space="preserve">異界の狭間</original>
+    <original>異界の狭間</original>
   </message>
   <message>
     <key>SPOT_NAME_517</key>
-    <original xml:space="preserve">アーク</original>
+    <original>アーク</original>
   </message>
   <message>
     <key>SPOT_NAME_518</key>
-    <original xml:space="preserve">グリッテン砦　通行許可</original>
+    <original>グリッテン砦　通行許可</original>
   </message>
   <message>
     <key>SPOT_NAME_519</key>
-    <original xml:space="preserve">ハイデル教会</original>
+    <original>ハイデル教会</original>
   </message>
   <message>
     <key>SPOT_NAME_520</key>
-    <original xml:space="preserve">モルトバ灯台</original>
+    <original>モルトバ灯台</original>
   </message>
   <message>
     <key>SPOT_NAME_521</key>
-    <original xml:space="preserve">旧騎士団監視塔</original>
+    <original>旧騎士団監視塔</original>
   </message>
   <message>
     <key>SPOT_NAME_522</key>
-    <original xml:space="preserve">灯台下の古井戸</original>
+    <original>灯台下の古井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_523</key>
-    <original xml:space="preserve">レ・カルパス・サルトー</original>
+    <original>レ・カルパス・サルトー</original>
   </message>
   <message>
     <key>SPOT_NAME_524</key>
-    <original xml:space="preserve">外に出る</original>
+    <original>外に出る</original>
   </message>
   <message>
     <key>SPOT_NAME_525</key>
-    <original xml:space="preserve">ドラワン教会</original>
+    <original>ドラワン教会</original>
   </message>
   <message>
     <key>SPOT_NAME_526</key>
-    <original xml:space="preserve">東ザンドラ廃墟群</original>
+    <original>東ザンドラ廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_527</key>
-    <original xml:space="preserve">ザンドラ灯台</original>
+    <original>ザンドラ灯台</original>
   </message>
   <message>
     <key>SPOT_NAME_528</key>
-    <original xml:space="preserve">謎の礎</original>
+    <original>謎の礎</original>
   </message>
   <message>
     <key>SPOT_NAME_529</key>
-    <original xml:space="preserve">テゴル川</original>
+    <original>テゴル川</original>
   </message>
   <message>
     <key>SPOT_NAME_530</key>
-    <original xml:space="preserve">セラー湖</original>
+    <original>セラー湖</original>
   </message>
   <message>
     <key>SPOT_NAME_531</key>
-    <original xml:space="preserve">ボルド大鉱山</original>
+    <original>ボルド大鉱山</original>
   </message>
   <message>
     <key>SPOT_NAME_532</key>
-    <original xml:space="preserve">イニアス湖</original>
+    <original>イニアス湖</original>
   </message>
   <message>
     <key>SPOT_NAME_533</key>
-    <original xml:space="preserve">大地の傷跡</original>
+    <original>大地の傷跡</original>
   </message>
   <message>
     <key>SPOT_NAME_534</key>
-    <original xml:space="preserve">中央広場</original>
+    <original>中央広場</original>
   </message>
   <message>
     <key>SPOT_NAME_535</key>
-    <original xml:space="preserve">商店区</original>
+    <original>商店区</original>
   </message>
   <message>
     <key>SPOT_NAME_536</key>
-    <original xml:space="preserve">宿場区</original>
+    <original>宿場区</original>
   </message>
   <message>
     <key>SPOT_NAME_537</key>
-    <original xml:space="preserve">クラフトルーム</original>
+    <original>クラフトルーム</original>
   </message>
   <message>
     <key>SPOT_NAME_538</key>
-    <original xml:space="preserve">港洞</original>
+    <original>港洞</original>
   </message>
   <message>
     <key>SPOT_NAME_539</key>
-    <original xml:space="preserve">大門前</original>
+    <original>大門前</original>
   </message>
   <message>
     <key>SPOT_NAME_540</key>
-    <original xml:space="preserve">ザンドラ礼拝堂</original>
+    <original>ザンドラ礼拝堂</original>
   </message>
   <message>
     <key>SPOT_NAME_541</key>
-    <original xml:space="preserve">死者の小窟</original>
+    <original>死者の小窟</original>
   </message>
   <message>
     <key>SPOT_NAME_542</key>
-    <original xml:space="preserve">棄てられた地下道</original>
+    <original>棄てられた地下道</original>
   </message>
   <message>
     <key>SPOT_NAME_543</key>
-    <original xml:space="preserve">怨嗟の祠</original>
+    <original>怨嗟の祠</original>
   </message>
   <message>
     <key>SPOT_NAME_544</key>
-    <original xml:space="preserve">虚ろの小堂</original>
+    <original>虚ろの小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_545</key>
-    <original xml:space="preserve">採掘師の隠れ道</original>
+    <original>採掘師の隠れ道</original>
   </message>
   <message>
     <key>SPOT_NAME_546</key>
-    <original xml:space="preserve">森民の地下道</original>
+    <original>森民の地下道</original>
   </message>
   <message>
     <key>SPOT_NAME_547</key>
-    <original xml:space="preserve">潮騒洞窟</original>
+    <original>潮騒洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_548</key>
-    <original xml:space="preserve">風鳴り洞窟</original>
+    <original>風鳴り洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_549</key>
-    <original xml:space="preserve">断崖の坑道</original>
+    <original>断崖の坑道</original>
   </message>
   <message>
     <key>SPOT_NAME_550</key>
-    <original xml:space="preserve">ボルド小坑道</original>
+    <original>ボルド小坑道</original>
   </message>
   <message>
     <key>SPOT_NAME_551</key>
-    <original xml:space="preserve">盗賊の隠れ家</original>
+    <original>盗賊の隠れ家</original>
   </message>
   <message>
     <key>SPOT_NAME_552</key>
-    <original xml:space="preserve">悪鬼の岩窟</original>
+    <original>悪鬼の岩窟</original>
   </message>
   <message>
     <key>SPOT_NAME_553</key>
-    <original xml:space="preserve">ミスリウ鍾乳洞</original>
+    <original>ミスリウ鍾乳洞</original>
   </message>
   <message>
     <key>SPOT_NAME_554</key>
-    <original xml:space="preserve">魔獣の巣穴</original>
+    <original>魔獣の巣穴</original>
   </message>
   <message>
     <key>SPOT_NAME_555</key>
-    <original xml:space="preserve">狩人の抜け穴</original>
+    <original>狩人の抜け穴</original>
   </message>
   <message>
     <key>SPOT_NAME_556</key>
-    <original xml:space="preserve">秘弓師の住居</original>
+    <original>秘弓師の住居</original>
   </message>
   <message>
     <key>SPOT_NAME_557</key>
-    <original xml:space="preserve">深緑のテラス</original>
+    <original>深緑のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_558</key>
-    <original xml:space="preserve">霊泉のテラス</original>
+    <original>霊泉のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_559</key>
-    <original xml:space="preserve">斜陽のテラス</original>
+    <original>斜陽のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_560</key>
-    <original xml:space="preserve">月影のテラス</original>
+    <original>月影のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_561</key>
-    <original xml:space="preserve">聖樹のテラス</original>
+    <original>聖樹のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_562</key>
-    <original xml:space="preserve">旧騎士団連絡路</original>
+    <original>旧騎士団連絡路</original>
   </message>
   <message>
     <key>SPOT_NAME_563</key>
-    <original xml:space="preserve">旧騎士団資材庫</original>
+    <original>旧騎士団資材庫</original>
   </message>
   <message>
     <key>SPOT_NAME_564</key>
-    <original xml:space="preserve">湖岸地下室</original>
+    <original>湖岸地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_565</key>
-    <original xml:space="preserve">ドリード水路跡</original>
+    <original>ドリード水路跡</original>
   </message>
   <message>
     <key>SPOT_NAME_566</key>
-    <original xml:space="preserve">キノザ治水路</original>
+    <original>キノザ治水路</original>
   </message>
   <message>
     <key>SPOT_NAME_567</key>
-    <original xml:space="preserve">テゴル治水路</original>
+    <original>テゴル治水路</original>
   </message>
   <message>
     <key>SPOT_NAME_568</key>
-    <original xml:space="preserve">旧地下実験所</original>
+    <original>旧地下実験所</original>
   </message>
   <message>
     <key>SPOT_NAME_569</key>
-    <original xml:space="preserve">修練の祠</original>
+    <original>修練の祠</original>
   </message>
   <message>
     <key>SPOT_NAME_570</key>
-    <original xml:space="preserve">渓谷の小堂</original>
+    <original>渓谷の小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_571</key>
-    <original xml:space="preserve">標の祠　ミスリウ森林深部</original>
+    <original>標の祠　ミスリウ森林深部</original>
   </message>
   <message>
     <key>SPOT_NAME_572</key>
-    <original xml:space="preserve">山頂の小堂</original>
+    <original>山頂の小堂</original>
   </message>
   <message>
     <key>SPOT_NAME_573</key>
-    <original xml:space="preserve">標の祠　ザンドラ禁域</original>
+    <original>標の祠　ザンドラ禁域</original>
   </message>
   <message>
     <key>SPOT_NAME_574</key>
-    <original xml:space="preserve">森の一軒家</original>
+    <original>森の一軒家</original>
   </message>
   <message>
     <key>SPOT_NAME_575</key>
-    <original xml:space="preserve">イヴァンの山小屋</original>
+    <original>イヴァンの山小屋</original>
   </message>
   <message>
     <key>SPOT_NAME_576</key>
-    <original xml:space="preserve">渓谷の一軒家</original>
+    <original>渓谷の一軒家</original>
   </message>
   <message>
     <key>SPOT_NAME_577</key>
-    <original xml:space="preserve">隠者の家</original>
+    <original>隠者の家</original>
   </message>
   <message>
     <key>SPOT_NAME_578</key>
-    <original xml:space="preserve">謁見の間</original>
+    <original>謁見の間</original>
   </message>
   <message>
     <key>SPOT_NAME_579</key>
-    <original xml:space="preserve">開かずの路</original>
+    <original>開かずの路</original>
   </message>
   <message>
     <key>SPOT_NAME_580</key>
-    <original xml:space="preserve">ハイデル街道の枯れ井戸</original>
+    <original>ハイデル街道の枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_581</key>
-    <original xml:space="preserve">平原の廃墟地下室</original>
+    <original>平原の廃墟地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_582</key>
-    <original xml:space="preserve">廃屋の地下室</original>
+    <original>廃屋の地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_583</key>
-    <original xml:space="preserve">テルの枯れ井戸</original>
+    <original>テルの枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_585</key>
-    <original xml:space="preserve">海辺の地下室</original>
+    <original>海辺の地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_586</key>
-    <original xml:space="preserve">浜辺の地下保管庫</original>
+    <original>浜辺の地下保管庫</original>
   </message>
   <message>
     <key>SPOT_NAME_588</key>
-    <original xml:space="preserve">廃墟の食糧庫</original>
+    <original>廃墟の食糧庫</original>
   </message>
   <message>
     <key>SPOT_NAME_589</key>
-    <original xml:space="preserve">崩れかけたワイン庫</original>
+    <original>崩れかけたワイン庫</original>
   </message>
   <message>
     <key>SPOT_NAME_590</key>
-    <original xml:space="preserve">閉ざされた古井戸</original>
+    <original>閉ざされた古井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_591</key>
-    <original xml:space="preserve">旧騎士団詰め所</original>
+    <original>旧騎士団詰め所</original>
   </message>
   <message>
     <key>SPOT_NAME_592</key>
-    <original xml:space="preserve">森の廃墟地下</original>
+    <original>森の廃墟地下</original>
   </message>
   <message>
     <key>SPOT_NAME_593</key>
-    <original xml:space="preserve">妖精の枯れ井戸</original>
+    <original>妖精の枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_594</key>
-    <original xml:space="preserve">水陰の淵辺</original>
+    <original>水陰の淵辺</original>
   </message>
   <message>
     <key>SPOT_NAME_595</key>
-    <original xml:space="preserve">蒼水路</original>
+    <original>蒼水路</original>
   </message>
   <message>
     <key>SPOT_NAME_596</key>
-    <original xml:space="preserve">呻きの枯れ井戸</original>
+    <original>呻きの枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_598</key>
-    <original xml:space="preserve">バートランド墓地</original>
+    <original>バートランド墓地</original>
   </message>
   <message>
     <key>SPOT_NAME_599</key>
-    <original xml:space="preserve">廃墟の地下室</original>
+    <original>廃墟の地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_600</key>
-    <original xml:space="preserve">乾いた地下倉庫</original>
+    <original>乾いた地下倉庫</original>
   </message>
   <message>
     <key>SPOT_NAME_601</key>
-    <original xml:space="preserve">大石塊(アーク)</original>
+    <original>大石塊(アーク)</original>
   </message>
   <message>
     <key>SPOT_NAME_602</key>
-    <original xml:space="preserve">朽ちかけた井戸</original>
+    <original>朽ちかけた井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_604</key>
-    <original xml:space="preserve">術師の地下泉</original>
+    <original>術師の地下泉</original>
   </message>
   <message>
     <key>SPOT_NAME_605</key>
-    <original xml:space="preserve">灯台の地下倉庫</original>
+    <original>灯台の地下倉庫</original>
   </message>
   <message>
     <key>SPOT_NAME_606</key>
-    <original xml:space="preserve">西ミスリウ橋</original>
+    <original>西ミスリウ橋</original>
   </message>
   <message>
     <key>SPOT_NAME_607</key>
-    <original xml:space="preserve">不浄の地下水道</original>
+    <original>不浄の地下水道</original>
   </message>
   <message>
     <key>SPOT_NAME_608</key>
-    <original xml:space="preserve">湖底連絡路</original>
+    <original>湖底連絡路</original>
   </message>
   <message>
     <key>SPOT_NAME_609</key>
-    <original xml:space="preserve">封じの玄室</original>
+    <original>封じの玄室</original>
   </message>
   <message>
     <key>SPOT_NAME_610</key>
-    <original xml:space="preserve">錬金研究室</original>
+    <original>錬金研究室</original>
   </message>
   <message>
     <key>SPOT_NAME_611</key>
-    <original xml:space="preserve">宮殿前広場</original>
+    <original>宮殿前広場</original>
   </message>
   <message>
     <key>SPOT_NAME_612</key>
-    <original xml:space="preserve">メルガン・アルケミデア</original>
+    <original>メルガン・アルケミデア</original>
   </message>
   <message>
     <key>SPOT_NAME_613</key>
-    <original xml:space="preserve">聖獣の間</original>
+    <original>聖獣の間</original>
   </message>
   <message>
     <key>SPOT_NAME_614</key>
-    <original xml:space="preserve">鬼鳴き橋</original>
+    <original>鬼鳴き橋</original>
   </message>
   <message>
     <key>SPOT_NAME_615</key>
-    <original xml:space="preserve">血すすぎ河原</original>
+    <original>血すすぎ河原</original>
   </message>
   <message>
     <key>SPOT_NAME_616</key>
-    <original xml:space="preserve">黒狼団のアジト</original>
+    <original>黒狼団のアジト</original>
   </message>
   <message>
     <key>SPOT_NAME_617</key>
-    <original xml:space="preserve">隠れ浜</original>
+    <original>隠れ浜</original>
   </message>
   <message>
     <key>SPOT_NAME_618</key>
-    <original xml:space="preserve">鳥寄せ岩</original>
+    <original>鳥寄せ岩</original>
   </message>
   <message>
     <key>SPOT_NAME_619</key>
-    <original xml:space="preserve">小鬼の野営地</original>
+    <original>小鬼の野営地</original>
   </message>
   <message>
     <key>SPOT_NAME_620</key>
-    <original xml:space="preserve">廃村ルフロー</original>
+    <original>廃村ルフロー</original>
   </message>
   <message>
     <key>SPOT_NAME_621</key>
-    <original xml:space="preserve">青爪浜</original>
+    <original>青爪浜</original>
   </message>
   <message>
     <key>SPOT_NAME_622</key>
-    <original xml:space="preserve">森小人の集落</original>
+    <original>森小人の集落</original>
   </message>
   <message>
     <key>SPOT_NAME_623</key>
-    <original xml:space="preserve">唸り猿の縄張り</original>
+    <original>唸り猿の縄張り</original>
   </message>
   <message>
     <key>SPOT_NAME_624</key>
-    <original xml:space="preserve">肉裂き館</original>
+    <original>肉裂き館</original>
   </message>
   <message>
     <key>SPOT_NAME_625</key>
-    <original xml:space="preserve">豚喰いのねぐら</original>
+    <original>豚喰いのねぐら</original>
   </message>
   <message>
     <key>SPOT_NAME_626</key>
-    <original xml:space="preserve">山腹の野戦場</original>
+    <original>山腹の野戦場</original>
   </message>
   <message>
     <key>SPOT_NAME_627</key>
-    <original xml:space="preserve">巨鷲の宝物溜め</original>
+    <original>巨鷲の宝物溜め</original>
   </message>
   <message>
     <key>SPOT_NAME_628</key>
-    <original xml:space="preserve">白砂河原</original>
+    <original>白砂河原</original>
   </message>
   <message>
     <key>SPOT_NAME_629</key>
-    <original xml:space="preserve">ドリード監視塔</original>
+    <original>ドリード監視塔</original>
   </message>
   <message>
     <key>SPOT_NAME_630</key>
-    <original xml:space="preserve">歌姫の崖座</original>
+    <original>歌姫の崖座</original>
   </message>
   <message>
     <key>SPOT_NAME_631</key>
-    <original xml:space="preserve">密猟者のキャンプ</original>
+    <original>密猟者のキャンプ</original>
   </message>
   <message>
     <key>SPOT_NAME_632</key>
-    <original xml:space="preserve">イニアス湿地帯</original>
+    <original>イニアス湿地帯</original>
   </message>
   <message>
     <key>SPOT_NAME_633</key>
-    <original xml:space="preserve">名もなき廃村</original>
+    <original>名もなき廃村</original>
   </message>
   <message>
     <key>SPOT_NAME_634</key>
-    <original xml:space="preserve">巨人の寝床</original>
+    <original>巨人の寝床</original>
   </message>
   <message>
     <key>SPOT_NAME_635</key>
-    <original xml:space="preserve">グローン・ノス</original>
+    <original>グローン・ノス</original>
   </message>
   <message>
     <key>SPOT_NAME_636</key>
-    <original xml:space="preserve">エルネア・スプリング</original>
+    <original>エルネア・スプリング</original>
   </message>
   <message>
     <key>SPOT_NAME_637</key>
-    <original xml:space="preserve">サーズ・ディナン</original>
+    <original>サーズ・ディナン</original>
   </message>
   <message>
     <key>SPOT_NAME_638</key>
-    <original xml:space="preserve">湖岸の廃墟</original>
+    <original>湖岸の廃墟</original>
   </message>
   <message>
     <key>SPOT_NAME_639</key>
-    <original xml:space="preserve">バートランド大橋</original>
+    <original>バートランド大橋</original>
   </message>
   <message>
     <key>SPOT_NAME_640</key>
-    <original xml:space="preserve">セラー湖船墓場</original>
+    <original>セラー湖船墓場</original>
   </message>
   <message>
     <key>SPOT_NAME_641</key>
-    <original xml:space="preserve">砦前・千本棘の陣</original>
+    <original>砦前・千本棘の陣</original>
   </message>
   <message>
     <key>SPOT_NAME_642</key>
-    <original xml:space="preserve">魔犬養育所</original>
+    <original>魔犬養育所</original>
   </message>
   <message>
     <key>SPOT_NAME_643</key>
-    <original xml:space="preserve">ガルドノック哨戒地</original>
+    <original>ガルドノック哨戒地</original>
   </message>
   <message>
     <key>SPOT_NAME_644</key>
-    <original xml:space="preserve">双輪の谷</original>
+    <original>双輪の谷</original>
   </message>
   <message>
     <key>SPOT_NAME_645</key>
-    <original xml:space="preserve">南メルゴダ遺跡群</original>
+    <original>南メルゴダ遺跡群</original>
   </message>
   <message>
     <key>SPOT_NAME_646</key>
-    <original xml:space="preserve">バンデッドホーント</original>
+    <original>バンデッドホーント</original>
   </message>
   <message>
     <key>SPOT_NAME_647</key>
-    <original xml:space="preserve">オーク残党宿営地</original>
+    <original>オーク残党宿営地</original>
   </message>
   <message>
     <key>SPOT_NAME_648</key>
-    <original xml:space="preserve">黒淵谷</original>
+    <original>黒淵谷</original>
   </message>
   <message>
     <key>SPOT_NAME_649</key>
-    <original xml:space="preserve">奇岩谷</original>
+    <original>奇岩谷</original>
   </message>
   <message>
     <key>SPOT_NAME_650</key>
-    <original xml:space="preserve">東ザンドラ廃墟群</original>
+    <original>東ザンドラ廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_651</key>
-    <original xml:space="preserve">呪詛の庭</original>
+    <original>呪詛の庭</original>
   </message>
   <message>
     <key>SPOT_NAME_652</key>
-    <original xml:space="preserve">古の祭祀場</original>
+    <original>古の祭祀場</original>
   </message>
   <message>
     <key>SPOT_NAME_653</key>
-    <original xml:space="preserve">キノザ鉱泉</original>
+    <original>キノザ鉱泉</original>
   </message>
   <message>
     <key>SPOT_NAME_654</key>
-    <original xml:space="preserve">メルゴダ下層　礎前</original>
+    <original>メルゴダ下層　礎前</original>
   </message>
   <message>
     <key>SPOT_NAME_655</key>
-    <original xml:space="preserve">メルゴダ王宮層　空庭</original>
+    <original>メルゴダ王宮層　空庭</original>
   </message>
   <message>
     <key>SPOT_NAME_656</key>
-    <original xml:space="preserve">メルゴダ下層　廃墟群</original>
+    <original>メルゴダ下層　廃墟群</original>
   </message>
   <message>
     <key>SPOT_NAME_657</key>
-    <original xml:space="preserve">錬金研究棟</original>
+    <original>錬金研究棟</original>
   </message>
   <message>
     <key>SPOT_NAME_658</key>
-    <original xml:space="preserve">軍事演習棟</original>
+    <original>軍事演習棟</original>
   </message>
   <message>
     <key>SPOT_NAME_659</key>
-    <original xml:space="preserve">王の間</original>
+    <original>王の間</original>
   </message>
   <message>
     <key>SPOT_NAME_660</key>
-    <original xml:space="preserve">癒しの泉</original>
+    <original>癒しの泉</original>
   </message>
   <message>
     <key>SPOT_NAME_661</key>
-    <original xml:space="preserve">活力の泉</original>
+    <original>活力の泉</original>
   </message>
   <message>
     <key>SPOT_NAME_662</key>
-    <original xml:space="preserve">豊穣の泉</original>
+    <original>豊穣の泉</original>
   </message>
   <message>
     <key>SPOT_NAME_663</key>
-    <original xml:space="preserve">掘削中の井戸</original>
+    <original>掘削中の井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_664</key>
-    <original xml:space="preserve">テオドール錬金工房</original>
+    <original>テオドール錬金工房</original>
   </message>
   <message>
     <key>SPOT_NAME_665</key>
-    <original xml:space="preserve">囚われし戦徒の間</original>
+    <original>囚われし戦徒の間</original>
   </message>
   <message>
     <key>SPOT_NAME_666</key>
-    <original xml:space="preserve">リムの淵辺</original>
+    <original>リムの淵辺</original>
   </message>
   <message>
     <key>SPOT_NAME_667</key>
-    <original xml:space="preserve">亡都メルゴダ　下層</original>
+    <original>亡都メルゴダ　下層</original>
   </message>
   <message>
     <key>SPOT_NAME_668</key>
-    <original xml:space="preserve">亡都メルゴダ　王宮層</original>
+    <original>亡都メルゴダ　王宮層</original>
   </message>
   <message>
     <key>SPOT_NAME_669</key>
-    <original xml:space="preserve">啼き井戸</original>
+    <original>啼き井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_670</key>
-    <original xml:space="preserve">第二のアーク</original>
+    <original>第二のアーク</original>
   </message>
   <message>
     <key>SPOT_NAME_671</key>
-    <original xml:space="preserve">第三のアーク</original>
+    <original>第三のアーク</original>
   </message>
   <message>
     <key>SPOT_NAME_672</key>
-    <original xml:space="preserve">白竜神殿レーゼ（大門前）</original>
+    <original>白竜神殿レーゼ（大門前）</original>
   </message>
   <message>
     <key>SPOT_NAME_673</key>
-    <original xml:space="preserve">白竜神殿レーゼ（中央広場）</original>
+    <original>白竜神殿レーゼ（中央広場）</original>
   </message>
   <message>
     <key>SPOT_NAME_674</key>
-    <original xml:space="preserve">潮騒の隠れ部屋</original>
+    <original>潮騒の隠れ部屋</original>
   </message>
   <message>
     <key>SPOT_NAME_675</key>
-    <original xml:space="preserve">騎士団補給所跡</original>
+    <original>騎士団補給所跡</original>
   </message>
   <message>
     <key>SPOT_NAME_676</key>
-    <original xml:space="preserve">ドリード連絡路</original>
+    <original>ドリード連絡路</original>
   </message>
   <message>
     <key>SPOT_NAME_677</key>
-    <original xml:space="preserve">波打ちの門洞</original>
+    <original>波打ちの門洞</original>
   </message>
   <message>
     <key>SPOT_NAME_678</key>
-    <original xml:space="preserve">瀑布の大岩窟</original>
+    <original>瀑布の大岩窟</original>
   </message>
   <message>
     <key>SPOT_NAME_679</key>
-    <original xml:space="preserve">臥竜のうろ</original>
+    <original>臥竜のうろ</original>
   </message>
   <message>
     <key>SPOT_NAME_680</key>
-    <original xml:space="preserve">水流制御室</original>
+    <original>水流制御室</original>
   </message>
   <message>
     <key>SPOT_NAME_681</key>
-    <original xml:space="preserve">聖滝の間</original>
+    <original>聖滝の間</original>
   </message>
   <message>
     <key>SPOT_NAME_682</key>
-    <original xml:space="preserve">中央大水廊</original>
+    <original>中央大水廊</original>
   </message>
   <message>
     <key>SPOT_NAME_683</key>
-    <original xml:space="preserve">魔赤島</original>
+    <original>魔赤島</original>
   </message>
   <message>
     <key>SPOT_NAME_686</key>
-    <original xml:space="preserve">覚者の自室</original>
+    <original>覚者の自室</original>
   </message>
   <message>
     <key>SPOT_NAME_687</key>
-    <original xml:space="preserve">調査隊駐屯地</original>
+    <original>調査隊駐屯地</original>
   </message>
   <message>
     <key>SPOT_NAME_689</key>
-    <original xml:space="preserve">アーク　裏層</original>
+    <original>アーク　裏層</original>
   </message>
   <message>
     <key>SPOT_NAME_690</key>
-    <original xml:space="preserve">モルトバ遺跡</original>
+    <original>モルトバ遺跡</original>
   </message>
   <message>
     <key>SPOT_NAME_691</key>
-    <original xml:space="preserve">ミスリウ古墳墓</original>
+    <original>ミスリウ古墳墓</original>
   </message>
   <message>
     <key>SPOT_NAME_692</key>
-    <original xml:space="preserve">霧幻のテラス</original>
+    <original>霧幻のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_693</key>
-    <original xml:space="preserve">灼熱の封鎖道</original>
+    <original>灼熱の封鎖道</original>
   </message>
   <message>
     <key>SPOT_NAME_694</key>
-    <original xml:space="preserve">罪人の修獄</original>
+    <original>罪人の修獄</original>
   </message>
   <message>
     <key>SPOT_NAME_695</key>
-    <original xml:space="preserve">レオのアジト</original>
+    <original>レオのアジト</original>
   </message>
   <message>
     <key>SPOT_NAME_696</key>
-    <original xml:space="preserve">ドリード連絡路</original>
+    <original>ドリード連絡路</original>
   </message>
   <message>
     <key>SPOT_NAME_697</key>
-    <original xml:space="preserve">飛天のテラス</original>
+    <original>飛天のテラス</original>
   </message>
   <message>
     <key>SPOT_NAME_698</key>
-    <original xml:space="preserve">見捨てられた井戸</original>
+    <original>見捨てられた井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_700</key>
-    <original xml:space="preserve">叫びの竪穴</original>
+    <original>叫びの竪穴</original>
   </message>
   <message>
     <key>SPOT_NAME_701</key>
-    <original xml:space="preserve">幽玄の霊堂</original>
+    <original>幽玄の霊堂</original>
   </message>
   <message>
     <key>SPOT_NAME_702</key>
-    <original xml:space="preserve">秘匿の実験場</original>
+    <original>秘匿の実験場</original>
   </message>
   <message>
     <key>SPOT_NAME_703</key>
-    <original xml:space="preserve">ガルドノック廃水廊</original>
+    <original>ガルドノック廃水廊</original>
   </message>
   <message>
     <key>SPOT_NAME_704</key>
-    <original xml:space="preserve">侵食魔の巣窟</original>
+    <original>侵食魔の巣窟</original>
   </message>
   <message>
     <key>SPOT_NAME_705</key>
-    <original xml:space="preserve">氷気の遺路</original>
+    <original>氷気の遺路</original>
   </message>
   <message>
     <key>SPOT_NAME_706</key>
-    <original xml:space="preserve">不浄の掃き溜め</original>
+    <original>不浄の掃き溜め</original>
   </message>
   <message>
     <key>SPOT_NAME_707</key>
-    <original xml:space="preserve">せせらぎの地下聖堂</original>
+    <original>せせらぎの地下聖堂</original>
   </message>
   <message>
     <key>SPOT_NAME_708</key>
-    <original xml:space="preserve">群像の岩屋</original>
+    <original>群像の岩屋</original>
   </message>
   <message>
     <key>SPOT_NAME_709</key>
-    <original xml:space="preserve">侵食魔の巣窟　奥底</original>
+    <original>侵食魔の巣窟　奥底</original>
   </message>
   <message>
     <key>SPOT_NAME_710</key>
-    <original xml:space="preserve">滝鳴洞穴</original>
+    <original>滝鳴洞穴</original>
   </message>
   <message>
     <key>SPOT_NAME_711</key>
-    <original xml:space="preserve">小塔傍の枯れ井戸</original>
+    <original>小塔傍の枯れ井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_715</key>
-    <original xml:space="preserve">刃擦れの細道</original>
+    <original>刃擦れの細道</original>
   </message>
   <message>
     <key>SPOT_NAME_717</key>
-    <original xml:space="preserve">腐臭の溜まり場</original>
+    <original>腐臭の溜まり場</original>
   </message>
   <message>
     <key>SPOT_NAME_719</key>
-    <original xml:space="preserve">行商人の難所</original>
+    <original>行商人の難所</original>
   </message>
   <message>
     <key>SPOT_NAME_721</key>
-    <original xml:space="preserve">鉱山の大踊り場</original>
+    <original>鉱山の大踊り場</original>
   </message>
   <message>
     <key>SPOT_NAME_723</key>
-    <original xml:space="preserve">異邦の岬</original>
+    <original>異邦の岬</original>
   </message>
   <message>
     <key>SPOT_NAME_724</key>
-    <original xml:space="preserve">霧たなびく深森</original>
+    <original>霧たなびく深森</original>
   </message>
   <message>
     <key>SPOT_NAME_726</key>
-    <original xml:space="preserve">薄煙の荒れ地</original>
+    <original>薄煙の荒れ地</original>
   </message>
   <message>
     <key>SPOT_NAME_728</key>
-    <original xml:space="preserve">大樹の広場</original>
+    <original>大樹の広場</original>
   </message>
   <message>
     <key>SPOT_NAME_730</key>
-    <original xml:space="preserve">戦鬼の陣屋</original>
+    <original>戦鬼の陣屋</original>
   </message>
   <message>
     <key>SPOT_NAME_732</key>
-    <original xml:space="preserve">狂信者の潜伏地</original>
+    <original>狂信者の潜伏地</original>
   </message>
   <message>
     <key>SPOT_NAME_734</key>
-    <original xml:space="preserve">屍のすすり泣く地</original>
+    <original>屍のすすり泣く地</original>
   </message>
   <message>
     <key>SPOT_NAME_735</key>
-    <original xml:space="preserve">滝を臨む蝕地</original>
+    <original>滝を臨む蝕地</original>
   </message>
   <message>
     <key>SPOT_NAME_736</key>
-    <original xml:space="preserve">捕食者たちの低地</original>
+    <original>捕食者たちの低地</original>
   </message>
   <message>
     <key>SPOT_NAME_803</key>
-    <original xml:space="preserve">聖遺の塔</original>
+    <original>聖遺の塔</original>
   </message>
   <message>
     <key>SPOT_NAME_804</key>
-    <original xml:space="preserve">ハイデル平原 北側</original>
+    <original>ハイデル平原 北側</original>
   </message>
   <message>
     <key>SPOT_NAME_805</key>
-    <original xml:space="preserve">ブリア海岸 南側</original>
+    <original>ブリア海岸 南側</original>
   </message>
   <message>
     <key>SPOT_NAME_806</key>
-    <original xml:space="preserve">ミスリウ森林 東側</original>
+    <original>ミスリウ森林 東側</original>
   </message>
   <message>
     <key>SPOT_NAME_807</key>
-    <original xml:space="preserve">ボルド鉱山 北側</original>
+    <original>ボルド鉱山 北側</original>
   </message>
   <message>
     <key>SPOT_NAME_808</key>
-    <original xml:space="preserve">ダウ渓谷 西側</original>
+    <original>ダウ渓谷 西側</original>
   </message>
   <message>
     <key>SPOT_NAME_809</key>
-    <original xml:space="preserve">禊の神殿 湖畔</original>
+    <original>禊の神殿 湖畔</original>
   </message>
   <message>
     <key>SPOT_NAME_810</key>
-    <original xml:space="preserve">ザンドラ禁域 西側</original>
+    <original>ザンドラ禁域 西側</original>
   </message>
   <message>
     <key>SPOT_NAME_813</key>
-    <original xml:space="preserve">石像立つ木陰</original>
+    <original>石像立つ木陰</original>
   </message>
   <message>
     <key>SPOT_NAME_814</key>
-    <original xml:space="preserve">翼風高原</original>
+    <original>翼風高原</original>
   </message>
   <message>
     <key>SPOT_NAME_815</key>
-    <original xml:space="preserve">再帰の浜辺</original>
+    <original>再帰の浜辺</original>
   </message>
   <message>
     <key>SPOT_NAME_817</key>
-    <original xml:space="preserve">アーク前</original>
+    <original>アーク前</original>
   </message>
   <message>
     <key>SPOT_NAME_818</key>
-    <original xml:space="preserve">酒場</original>
+    <original>酒場</original>
   </message>
   <message>
     <key>SPOT_NAME_819</key>
-    <original xml:space="preserve">美容院前</original>
+    <original>美容院前</original>
   </message>
   <message>
     <key>SPOT_NAME_820</key>
-    <original xml:space="preserve">霧幻のテラス　浅層</original>
+    <original>霧幻のテラス　浅層</original>
   </message>
   <message>
     <key>SPOT_NAME_821</key>
-    <original xml:space="preserve">霧幻のテラス　中層</original>
+    <original>霧幻のテラス　中層</original>
   </message>
   <message>
     <key>SPOT_NAME_822</key>
-    <original xml:space="preserve">霧幻のテラス　深層</original>
+    <original>霧幻のテラス　深層</original>
   </message>
   <message>
     <key>SPOT_NAME_824</key>
-    <original xml:space="preserve">侵食魔の巣窟　脇道</original>
+    <original>侵食魔の巣窟　脇道</original>
   </message>
   <message>
     <key>SPOT_NAME_826</key>
-    <original xml:space="preserve">騎士団補給所跡</original>
+    <original>騎士団補給所跡</original>
   </message>
   <message>
     <key>SPOT_NAME_828</key>
-    <original xml:space="preserve">アーク　裏層　貯蔵所</original>
+    <original>アーク　裏層　貯蔵所</original>
   </message>
   <message>
     <key>SPOT_NAME_829</key>
-    <original xml:space="preserve">アーク　裏層　宝物庫</original>
+    <original>アーク　裏層　宝物庫</original>
   </message>
   <message>
     <key>SPOT_NAME_830</key>
-    <original xml:space="preserve">侵食魔の巣窟　脇道</original>
+    <original>侵食魔の巣窟　脇道</original>
   </message>
   <message>
     <key>SPOT_NAME_831</key>
-    <original xml:space="preserve">灼熱の封鎖道　脇道</original>
+    <original>灼熱の封鎖道　脇道</original>
   </message>
   <message>
     <key>SPOT_NAME_832</key>
-    <original xml:space="preserve">氷気の遺路　深部</original>
+    <original>氷気の遺路　深部</original>
   </message>
   <message>
     <key>SPOT_NAME_833</key>
-    <original xml:space="preserve">モルトバ遺跡　左路</original>
+    <original>モルトバ遺跡　左路</original>
   </message>
   <message>
     <key>SPOT_NAME_834</key>
-    <original xml:space="preserve">モルトバ遺跡　右路</original>
+    <original>モルトバ遺跡　右路</original>
   </message>
   <message>
     <key>SPOT_NAME_835</key>
-    <original xml:space="preserve">霧幻のテラス　浅層</original>
+    <original>霧幻のテラス　浅層</original>
   </message>
   <message>
     <key>SPOT_NAME_836</key>
-    <original xml:space="preserve">霧幻のテラス　中層</original>
+    <original>霧幻のテラス　中層</original>
   </message>
   <message>
     <key>SPOT_NAME_837</key>
-    <original xml:space="preserve">霧幻のテラス　深層</original>
+    <original>霧幻のテラス　深層</original>
   </message>
   <message>
     <key>SPOT_NAME_838</key>
-    <original xml:space="preserve">侵食魔の巣窟　奥底　深層</original>
+    <original>侵食魔の巣窟　奥底　深層</original>
   </message>
   <message>
     <key>SPOT_NAME_860</key>
-    <original xml:space="preserve">アーク　裏層　危険区域</original>
+    <original>アーク　裏層　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_861</key>
-    <original xml:space="preserve">侵食魔の巣窟　奥底　危険区域</original>
+    <original>侵食魔の巣窟　奥底　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_863</key>
-    <original xml:space="preserve">灼熱の封鎖道　危険区域</original>
+    <original>灼熱の封鎖道　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_864</key>
-    <original xml:space="preserve">氷気の遺路　　危険区域</original>
+    <original>氷気の遺路　　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_865</key>
-    <original xml:space="preserve">モルトバ遺跡　危険区域</original>
+    <original>モルトバ遺跡　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_868</key>
-    <original xml:space="preserve">見捨てられた井戸　危険区域</original>
+    <original>見捨てられた井戸　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_870</key>
-    <original xml:space="preserve">霧幻のテラス　危険区域</original>
+    <original>霧幻のテラス　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_872</key>
-    <original xml:space="preserve">罪人の修堂　危険区域</original>
+    <original>罪人の修堂　危険区域</original>
   </message>
   <message>
     <key>SPOT_NAME_875</key>
-    <original xml:space="preserve">メルゴダ民の住居</original>
+    <original>メルゴダ民の住居</original>
   </message>
 </resource>

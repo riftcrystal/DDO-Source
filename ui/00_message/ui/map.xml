@@ -1,66 +1,66 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>map_menumap_titlee</key>
-    <original xml:space="preserve">MAP</original>
+    <original>MAP</original>
   </message>
   <message>
     <key>map_menumap_titlej</key>
-    <original xml:space="preserve">マップ</original>
+    <original>マップ</original>
   </message>
   <message>
     <key>map_menumap_maptypes</key>
-    <original xml:space="preserve">詳細マップ</original>
+    <original>詳細マップ</original>
   </message>
   <message>
     <key>map_menumap_maptypem</key>
-    <original xml:space="preserve">フィールドマップ</original>
+    <original>フィールドマップ</original>
   </message>
   <message>
     <key>map_menumap_maptypel</key>
-    <original xml:space="preserve">広域マップ</original>
+    <original>広域マップ</original>
   </message>
   <message>
     <key>map_menumap_guide_zoom</key>
-    <original xml:space="preserve">ズームイン/アウト</original>
+    <original>ズームイン/アウト</original>
   </message>
   <message>
     <key>map_menumap_guide_filter</key>
-    <original xml:space="preserve">マーカーフィルター変更</original>
+    <original>マーカーフィルター変更</original>
   </message>
   <message>
     <key>map_menumap_guide_movecursor</key>
-    <original xml:space="preserve">カーソル移動</original>
+    <original>カーソル移動</original>
   </message>
   <message>
     <key>map_menumap_guide_moveplayer</key>
-    <original xml:space="preserve">プレイヤー移動</original>
+    <original>プレイヤー移動</original>
   </message>
   <message>
     <key>map_menumap_guide_backgm</key>
-    <original xml:space="preserve">ゲームメニューに戻る</original>
+    <original>ゲームメニューに戻る</original>
   </message>
   <message>
     <key>map_menumap_guide_chat</key>
-    <original xml:space="preserve">チャット</original>
+    <original>チャット</original>
   </message>
   <message>
     <key>map_menumap_guide_freemarker</key>
-    <original xml:space="preserve">フリーマーカー (長押しで消去)</original>
+    <original>フリーマーカー (長押しで消去)</original>
   </message>
   <message>
     <key>map_menumap_guide_close</key>
-    <original xml:space="preserve">閉じる</original>
+    <original>閉じる</original>
   </message>
   <message>
     <key>map_menumap_guide_transparent</key>
-    <original xml:space="preserve">透明度の変更</original>
+    <original>透明度の変更</original>
   </message>
   <message>
     <key>map_menumap_guide_change_freemarker</key>
-    <original xml:space="preserve">フリーマーカーの切り替え</original>
+    <original>フリーマーカーの切り替え</original>
   </message>
   <message>
     <key>map_menumap_guide_change_land</key>
-    <original xml:space="preserve">大陸の切り替え</original>
+    <original>大陸の切り替え</original>
   </message>
 </resource>

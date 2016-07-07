@@ -1,90 +1,90 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>JMMH_MSG_ALLTASK_CLEAR_STR</key>
-    <original xml:space="preserve">課題を達成し、ジョブマスターに報告しました</original>
+    <original>課題を達成し、ジョブマスターに報告しました</original>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR</key>
-    <original xml:space="preserve">LV.</original>
+    <original>LV.</original>
   </message>
   <message>
     <key>JMMH_MSG_TASK_STR</key>
-    <original xml:space="preserve">&lt;VAL&gt;で課題を達成し、ジョブマスターに報告せよ</original>
+    <original>&lt;VAL&gt;で課題を達成し、ジョブマスターに報告せよ</original>
   </message>
   <message>
     <key>JMMH_MSG_SLASH_STR</key>
-    <original xml:space="preserve">/</original>
+    <original>/</original>
   </message>
   <message>
     <key>JMMH_MSG_BEAT_STR</key>
-    <original xml:space="preserve">&lt;VAL LV&gt;以上の&lt;NAME ENEMY&gt;を倒せ！</original>
+    <original>&lt;VAL LV&gt;以上の&lt;NAME ENEMY&gt;を倒せ！</original>
   </message>
   <message>
     <key>JMMH_MSG_EQUIP_STR</key>
-    <original xml:space="preserve">を装備しろ！</original>
+    <original>を装備しろ！</original>
   </message>
   <message>
     <key>JMMH_MSG_MAX_STR</key>
-    <original xml:space="preserve">MAX</original>
+    <original>MAX</original>
   </message>
   <message>
     <key>JMMH_MSG_JOB_MASTER_STR</key>
-    <original xml:space="preserve">Job Master</original>
+    <original>Job Master</original>
   </message>
   <message>
     <key>JMMH_MSG_JOB_MASTER_STR_JP</key>
-    <original xml:space="preserve">ジョブマスター</original>
+    <original>ジョブマスター</original>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR_JP</key>
-    <original xml:space="preserve">ジョブ修練ログ</original>
+    <original>ジョブ修練ログ</original>
   </message>
   <message>
     <key>JMMH_MSG_LV_STR_2</key>
-    <original xml:space="preserve">Level</original>
+    <original>Level</original>
   </message>
   <message>
     <key>JMMH_MSG_CUSTOM_SKILL_STR</key>
-    <original xml:space="preserve">カスタムスキル</original>
+    <original>カスタムスキル</original>
   </message>
   <message>
     <key>JMMH_MSG_ABILITY_STR</key>
-    <original xml:space="preserve">アビリティ</original>
+    <original>アビリティ</original>
   </message>
   <message>
     <key>JMMH_MSG_NEXT_STR</key>
-    <original xml:space="preserve">Next</original>
+    <original>Next</original>
   </message>
   <message>
     <key>JOBEXAM_MSG_DECIDE_STR</key>
-    <original xml:space="preserve">OK</original>
+    <original>OK</original>
   </message>
   <message>
     <key>JOBEXAM_MSG_SKILLGET_STR</key>
-    <original xml:space="preserve">&lt;NAME SKILL&gt;の習得を認められた</original>
+    <original>&lt;NAME SKILL&gt;の習得を認められた</original>
   </message>
   <message>
     <key>JOBEXAM_MSG_ABILITYGET_STR</key>
-    <original xml:space="preserve">&lt;NAME ABILITY&gt;の習得を認められた</original>
+    <original>&lt;NAME ABILITY&gt;の習得を認められた</original>
   </message>
   <message>
     <key>JMMH_MSG_ENEMY_LEVEL_STR</key>
-    <original xml:space="preserve">以上のオーブエネミーを倒せ！</original>
+    <original>以上のオーブエネミーを倒せ！</original>
   </message>
   <message>
     <key>JMMH_MSG_MASTER_HB_STR</key>
-    <original xml:space="preserve">Training Note</original>
+    <original>Training Note</original>
   </message>
   <message>
     <key>JMMH_MSG_TASK_EXAM_STR</key>
-    <original xml:space="preserve">課題を達成し、ジョブマスターに報告せよ</original>
+    <original>課題を達成し、ジョブマスターに報告せよ</original>
   </message>
   <message>
     <key>JMMH_MSG_JOB_STR</key>
-    <original xml:space="preserve">ジョブ</original>
+    <original>ジョブ</original>
   </message>
   <message>
     <key>JMMH_MSG_NO_ORDER_STR</key>
-    <original xml:space="preserve">課題はありません</original>
+    <original>課題はありません</original>
   </message>
 </resource>

@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20015002_00_75</key>
-    <original xml:space="preserve">月下の亡霊</original>
+    <original>月下の亡霊</original>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 遭遇した敵を討伐する</original>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;では、夜になると現れる
+    <original>&lt;NAME AREA&gt;では、夜になると現れる
 危険な存在により住民が脅かされているらしい</original>
   </message>
   <message>
     <key>q20015002_00_75</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 夜の浜辺を歩いていたら、ぼおっと光って
 形のあやふやな、幽霊みたいなのが見えたんです
 もう怖くって怖くって！
@@ -23,6 +23,6 @@
   </message>
   <message>
     <key>q20015002_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
 </resource>

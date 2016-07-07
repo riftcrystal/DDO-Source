@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20080005_00_261</key>
-    <original xml:space="preserve">闇色の翼</original>
+    <original>闇色の翼</original>
   </message>
   <message>
     <key>q20080005_00_261</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 サラミスの願いを聞き入れ
 噂の調査を行う</original>
   </message>
   <message>
     <key>q20080005_00_261</key>
-    <original xml:space="preserve">夜間、&lt;NAME AREA&gt;で発生する問題に対し
+    <original>夜間、&lt;NAME AREA&gt;で発生する問題に対し
 助力を求める人物がいるようだ</original>
   </message>
   <message>
     <key>q20080005_00_261</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;【 敵出現：夜 】&lt;/COL&gt;
 ねぇ、ここらで噂になっている
 闇夜に潜む翼の話――
 今日も酒癖の悪いサラミスが
@@ -25,14 +25,14 @@
   </message>
   <message>
     <key>q20080005_00_1043</key>
-    <original xml:space="preserve">噂の正体を探し出し討伐する</original>
+    <original>噂の正体を探し出し討伐する</original>
   </message>
   <message>
     <key>q20080005_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20080005_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

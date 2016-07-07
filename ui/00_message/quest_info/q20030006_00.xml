@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20030006_00_243</key>
-    <original xml:space="preserve">運べぬ運び屋</original>
+    <original>運べぬ運び屋</original>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 指定の物品を集める</original>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <original xml:space="preserve">何者かからの、迅速な救援を求める声が
+    <original>何者かからの、迅速な救援を求める声が
 &lt;NAME AREA&gt;から届いているようだ</original>
   </message>
   <message>
     <key>q20030006_00_243</key>
-    <original xml:space="preserve">いや、確かにトラブルを抱えてそうな人はいたよ
+    <original>いや、確かにトラブルを抱えてそうな人はいたよ
 ちょっと感情的になってたし、ヘタに関わると
 もっと怒らせるかも、なんて考えちゃって――
 な、なんだよ！？
@@ -23,18 +23,18 @@
   </message>
   <message>
     <key>q20030006_00_1124</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、依頼者に渡す（残り:&lt;SQDI DNUM&gt;）</original>
   </message>
   <message>
     <key>q20030006_00_923</key>
-    <original xml:space="preserve">＜白竜神殿＞のキトリッジに話しかける</original>
+    <original>＜白竜神殿＞のキトリッジに話しかける</original>
   </message>
   <message>
     <key>q20030006_00_924</key>
-    <original xml:space="preserve">関所のジョシュに話しかける</original>
+    <original>関所のジョシュに話しかける</original>
   </message>
   <message>
     <key>q20030006_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

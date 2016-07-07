@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000017_00_226</key>
-    <original xml:space="preserve">ファビオの収集品</original>
+    <original>ファビオの収集品</original>
   </message>
   <message>
     <key>q20000017_00_226</key>
-    <original xml:space="preserve">ファビオの願いを聞き入れ
+    <original>ファビオの願いを聞き入れ
 該当の物品を集める</original>
   </message>
   <message>
     <key>q20000017_00_226</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;から
+    <original>&lt;NAME AREA&gt;から
 何者かが助けを請うているらしいと報告があった</original>
   </message>
   <message>
     <key>q20000017_00_226</key>
-    <original xml:space="preserve">あのファビオという覚者、いまだによく解らぬ
+    <original>あのファビオという覚者、いまだによく解らぬ
 謁見の間にもめったに顔を出さず
 モノ集めに興じているというではないか
 やつらの強さはたしかに認めるが、あの気紛れだけは
@@ -23,14 +23,14 @@
   </message>
   <message>
     <key>q20000017_00_962</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
   </message>
   <message>
     <key>q20000017_00_962</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
   </message>
   <message>
     <key>q20000017_00_962</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、ファビオに渡す（残り:&lt;SQDI DNUM&gt;）</original>
   </message>
 </resource>

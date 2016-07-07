@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_INFO_01_8</key>
-    <original xml:space="preserve">前方に猛ダッシュしつつ鋭い突き攻撃を放つ
+    <original>前方に猛ダッシュしつつ鋭い突き攻撃を放つ
 突進距離に応じて威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で最大移動距離が延長／
@@ -9,14 +9,14 @@ LV.６で最大移動距離が延長／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_12</key>
-    <original xml:space="preserve">足元から直上へ鋭く斬り上げ、
+    <original>足元から直上へ鋭く斬り上げ、
 軽量の敵を上空へ打ち上げる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で速度上昇／攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_10</key>
-    <original xml:space="preserve">盾による打撃特化の連続攻撃を繰り出す。敵を怯ませ
+    <original>盾による打撃特化の連続攻撃を繰り出す。敵を怯ませ
 やすく、ボタンの連打で攻撃回数が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でモーション変化／
@@ -24,7 +24,7 @@ LV.６でモーション変化／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_13</key>
-    <original xml:space="preserve">頭上に連続斬りを繰り出す
+    <original>頭上に連続斬りを繰り出す
 ボタンの連打で攻撃回数が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で速度上昇／
@@ -32,7 +32,7 @@ LV.６で速度上昇／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_15</key>
-    <original xml:space="preserve">後方に身を逸らし、すぐさま間合いを詰めて斬り払う
+    <original>後方に身を逸らし、すぐさま間合いを詰めて斬り払う
 敵の攻撃を回避しつつ繰り出せば威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で受付時間延長／
@@ -40,40 +40,40 @@ LV.６で受付時間延長／
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_9</key>
-    <original xml:space="preserve">跳躍し、鋭い一撃を放って下方に突き立てる
+    <original>跳躍し、鋭い一撃を放って下方に突き立てる
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_11</key>
-    <original xml:space="preserve">盾で前方ガードを固めつつ、連続突きを繰り出す
+    <original>盾で前方ガードを固めつつ、連続突きを繰り出す
 ボタンの連打で攻撃回数が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で速度上昇／最大攻撃回数増加（５→８）&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_14</key>
-    <original xml:space="preserve">円弧状に剣先を一回転させ、周囲の敵をなぎ払う
+    <original>円弧状に剣先を一回転させ、周囲の敵をなぎ払う
 のけぞり中にも発動可能
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_18</key>
-    <original xml:space="preserve">盾を構えながら素早く踏み込む
+    <original>盾を構えながら素早く踏み込む
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により特定方向に移動できる
 &lt;COL ffdc78&gt;LV UP毎に防御性能の上昇／スタミナ消費減少
 LV.６で移動速度上昇／移動方向に左右追加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_16</key>
-    <original xml:space="preserve">素早く剣を突き、直後に引き抜く二段攻撃を放つ
+    <original>素早く剣を突き、直後に引き抜く二段攻撃を放つ
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_19</key>
-    <original xml:space="preserve">敵の攻撃を受け流しつつ剣を振り払って斬り抜ける
+    <original>敵の攻撃を受け流しつつ剣を振り払って斬り抜ける
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により後方への斬り抜けも可能
 攻撃を受ける瞬間に発動すると威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
@@ -81,14 +81,14 @@ LV.６で攻撃範囲拡大／敵の攻撃受付時間延長&lt;/COL&gt;</origin
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_17</key>
-    <original xml:space="preserve">高威力の剣舞を広範囲に繰り出す
+    <original>高威力の剣舞を広範囲に繰り出す
 初段を敵に接触させれば連撃に移行する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_120</key>
-    <original xml:space="preserve">しがみついた状態から、力を溜めこみ豪快に切り払う
+    <original>しがみついた状態から、力を溜めこみ豪快に切り払う
 溜め中は敵の揺さぶりにも耐え、
 ボタンの連打で威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇

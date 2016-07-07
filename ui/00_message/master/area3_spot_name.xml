@@ -1,74 +1,74 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ミスリウ森林</original>
+    <original>ミスリウ森林</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ポーン郷</original>
+    <original>ポーン郷</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">リンウッド</original>
+    <original>リンウッド</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">森の一軒家</original>
+    <original>森の一軒家</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">西ミスリウ橋</original>
+    <original>西ミスリウ橋</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">森小人の集落</original>
+    <original>森小人の集落</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">古の祭祀場</original>
+    <original>古の祭祀場</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">リンウッド地下水路</original>
+    <original>リンウッド地下水路</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">唸り猿の縄張り</original>
+    <original>唸り猿の縄張り</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">肉裂き館</original>
+    <original>肉裂き館</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">豚喰いのねぐら</original>
+    <original>豚喰いのねぐら</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ミスリウ鍾乳洞</original>
+    <original>ミスリウ鍾乳洞</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">行商人の難所</original>
+    <original>行商人の難所</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">異界の狭間</original>
+    <original>異界の狭間</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">燐光虫の洞窟</original>
+    <original>燐光虫の洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">魔獣の巣穴</original>
+    <original>魔獣の巣穴</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">異界の狭間　深層部</original>
+    <original>異界の狭間　深層部</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ミスリウ古墳墓</original>
+    <original>ミスリウ古墳墓</original>
   </message>
 </resource>

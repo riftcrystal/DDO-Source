@@ -1,166 +1,166 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>emote_text_pawn_7506</key>
-    <original xml:space="preserve">あいさつ・１</original>
+    <original>あいさつ・１</original>
   </message>
   <message>
     <key>emote_text_pawn_7507</key>
-    <original xml:space="preserve">おじぎ</original>
+    <original>おじぎ</original>
   </message>
   <message>
     <key>emote_text_pawn_7508</key>
-    <original xml:space="preserve">敬礼</original>
+    <original>敬礼</original>
   </message>
   <message>
     <key>emote_text_pawn_7509</key>
-    <original xml:space="preserve">歓迎</original>
+    <original>歓迎</original>
   </message>
   <message>
     <key>emote_text_pawn_7510</key>
-    <original xml:space="preserve">うなずく</original>
+    <original>うなずく</original>
   </message>
   <message>
     <key>emote_text_pawn_7511</key>
-    <original xml:space="preserve">首振り</original>
+    <original>首振り</original>
   </message>
   <message>
     <key>emote_text_pawn_7512</key>
-    <original xml:space="preserve">喜ぶ</original>
+    <original>喜ぶ</original>
   </message>
   <message>
     <key>emote_text_pawn_7513</key>
-    <original xml:space="preserve">怒る</original>
+    <original>怒る</original>
   </message>
   <message>
     <key>emote_text_pawn_7514</key>
-    <original xml:space="preserve">泣く</original>
+    <original>泣く</original>
   </message>
   <message>
     <key>emote_text_pawn_7515</key>
-    <original xml:space="preserve">笑う</original>
+    <original>笑う</original>
   </message>
   <message>
     <key>emote_text_pawn_7516</key>
-    <original xml:space="preserve">落ち込む</original>
+    <original>落ち込む</original>
   </message>
   <message>
     <key>emote_text_pawn_7517</key>
-    <original xml:space="preserve">照れる</original>
+    <original>照れる</original>
   </message>
   <message>
     <key>emote_text_pawn_7518</key>
-    <original xml:space="preserve">驚く</original>
+    <original>驚く</original>
   </message>
   <message>
     <key>emote_text_pawn_7519</key>
-    <original xml:space="preserve">あきれる</original>
+    <original>あきれる</original>
   </message>
   <message>
     <key>emote_text_pawn_7520</key>
-    <original xml:space="preserve">考える</original>
+    <original>考える</original>
   </message>
   <message>
     <key>emote_text_pawn_7521</key>
-    <original xml:space="preserve">悔しがる</original>
+    <original>悔しがる</original>
   </message>
   <message>
     <key>emote_text_pawn_7522</key>
-    <original xml:space="preserve">すねる</original>
+    <original>すねる</original>
   </message>
   <message>
     <key>emote_text_pawn_7523</key>
-    <original xml:space="preserve">手を振る</original>
+    <original>手を振る</original>
   </message>
   <message>
     <key>emote_text_pawn_7524</key>
-    <original xml:space="preserve">手招き</original>
+    <original>手招き</original>
   </message>
   <message>
     <key>emote_text_pawn_7525</key>
-    <original xml:space="preserve">ほめる</original>
+    <original>ほめる</original>
   </message>
   <message>
     <key>emote_text_pawn_7526</key>
-    <original xml:space="preserve">拍手</original>
+    <original>拍手</original>
   </message>
   <message>
     <key>emote_text_pawn_7527</key>
-    <original xml:space="preserve">応援</original>
+    <original>応援</original>
   </message>
   <message>
     <key>emote_text_pawn_7528</key>
-    <original xml:space="preserve">おどす</original>
+    <original>おどす</original>
   </message>
   <message>
     <key>emote_text_pawn_7529</key>
-    <original xml:space="preserve">投げキス</original>
+    <original>投げキス</original>
   </message>
   <message>
     <key>emote_text_pawn_7530</key>
-    <original xml:space="preserve">見渡す</original>
+    <original>見渡す</original>
   </message>
   <message>
     <key>emote_text_pawn_7531</key>
-    <original xml:space="preserve">指差し</original>
+    <original>指差し</original>
   </message>
   <message>
     <key>emote_text_pawn_7532</key>
-    <original xml:space="preserve">気合</original>
+    <original>気合</original>
   </message>
   <message>
     <key>emote_text_pawn_7533</key>
-    <original xml:space="preserve">雄叫び</original>
+    <original>雄叫び</original>
   </message>
   <message>
     <key>emote_text_pawn_7534</key>
-    <original xml:space="preserve">拳突き上げ</original>
+    <original>拳突き上げ</original>
   </message>
   <message>
     <key>emote_text_pawn_7535</key>
-    <original xml:space="preserve">祈る</original>
+    <original>祈る</original>
   </message>
   <message>
     <key>emote_text_pawn_7536</key>
-    <original xml:space="preserve">ひざまずく</original>
+    <original>ひざまずく</original>
   </message>
   <message>
     <key>emote_text_pawn_7537</key>
-    <original xml:space="preserve">転ぶ</original>
+    <original>転ぶ</original>
   </message>
   <message>
     <key>emote_text_pawn_7538</key>
-    <original xml:space="preserve">伸びをする</original>
+    <original>伸びをする</original>
   </message>
   <message>
     <key>emote_text_pawn_7539</key>
-    <original xml:space="preserve">くつろぐ</original>
+    <original>くつろぐ</original>
   </message>
   <message>
     <key>emote_text_pawn_7540</key>
-    <original xml:space="preserve">寝る</original>
+    <original>寝る</original>
   </message>
   <message>
     <key>emote_text_pawn_7541</key>
-    <original xml:space="preserve">座る</original>
+    <original>座る</original>
   </message>
   <message>
     <key>emote_text_pawn_7542</key>
-    <original xml:space="preserve">踊る</original>
+    <original>踊る</original>
   </message>
   <message>
     <key>emote_text_pawn_7543</key>
-    <original xml:space="preserve">トレーニング</original>
+    <original>トレーニング</original>
   </message>
   <message>
     <key>emote_text_pawn_9715</key>
-    <original xml:space="preserve">あいさつ・２</original>
+    <original>あいさつ・２</original>
   </message>
   <message>
     <key>emote_text_pawn_9716</key>
-    <original xml:space="preserve">歓喜</original>
+    <original>歓喜</original>
   </message>
   <message>
     <key>emote_text_pawn_9717</key>
-    <original xml:space="preserve">居眠り</original>
+    <original>居眠り</original>
   </message>
 </resource>

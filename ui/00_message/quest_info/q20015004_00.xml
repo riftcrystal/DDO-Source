@@ -1,20 +1,20 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20015004_00_285</key>
-    <original xml:space="preserve">海辺の怪奇</original>
+    <original>海辺の怪奇</original>
   </message>
   <message>
     <key>q20015004_00_285</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
   <message>
     <key>q20015004_00_285</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;は
+    <original>&lt;NAME AREA&gt;は
 ここ数日異様な気配に満ちているらしい</original>
   </message>
   <message>
     <key>q20015004_00_285</key>
-    <original xml:space="preserve">新しい武器を手に入れたので、威力を確かめたいと
+    <original>新しい武器を手に入れたので、威力を確かめたいと
 手頃なエモノを探しているのだが――
 こういう時に限って現れないものだな
 魔物が頻出するという話を聞いて来てみたが
@@ -22,6 +22,6 @@
   </message>
   <message>
     <key>q20015004_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
 </resource>

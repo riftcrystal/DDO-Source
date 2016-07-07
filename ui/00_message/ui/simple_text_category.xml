@@ -1,26 +1,26 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>simple_text_category_191</key>
-    <original xml:space="preserve">あいさつ</original>
+    <original>あいさつ</original>
   </message>
   <message>
     <key>simple_text_category_192</key>
-    <original xml:space="preserve">質問</original>
+    <original>質問</original>
   </message>
   <message>
     <key>simple_text_category_193</key>
-    <original xml:space="preserve">返答</original>
+    <original>返答</original>
   </message>
   <message>
     <key>simple_text_category_194</key>
-    <original xml:space="preserve">説明</original>
+    <original>説明</original>
   </message>
   <message>
     <key>simple_text_category_195</key>
-    <original xml:space="preserve">編成</original>
+    <original>編成</original>
   </message>
   <message>
     <key>simple_text_category_196</key>
-    <original xml:space="preserve">戦術</original>
+    <original>戦術</original>
   </message>
 </resource>

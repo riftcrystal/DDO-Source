@@ -1,15 +1,15 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000055_00_42</key>
-    <original xml:space="preserve">求道の師を訪ねて　ソーサラー</original>
+    <original>求道の師を訪ねて　ソーサラー</original>
   </message>
   <message>
     <key>q60000055_00_42</key>
-    <original xml:space="preserve">ジョブマスター・エメラダに
+    <original>ジョブマスター・エメラダに
 ソーサラー求道試練の許可をもらいに行く</original>
   </message>
   <message>
     <key>q60000055_00_1214</key>
-    <original xml:space="preserve">ミスリウ森林のエメラダを訪ねる</original>
+    <original>ミスリウ森林のエメラダを訪ねる</original>
   </message>
 </resource>

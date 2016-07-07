@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_05_56</key>
-    <original xml:space="preserve">フォースシールド</original>
+    <original>フォースシールド</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_58</key>
-    <original xml:space="preserve">スローライト</original>
+    <original>スローライト</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_59</key>
-    <original xml:space="preserve">ヒュプノスライト</original>
+    <original>ヒュプノスライト</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_60</key>
-    <original xml:space="preserve">ランパートレイド</original>
+    <original>ランパートレイド</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_62</key>
-    <original xml:space="preserve">エレメントグロウ</original>
+    <original>エレメントグロウ</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_61</key>
-    <original xml:space="preserve">アースシェイク</original>
+    <original>アースシェイク</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_63</key>
-    <original xml:space="preserve">バインドアンカー</original>
+    <original>バインドアンカー</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_57</key>
-    <original xml:space="preserve">セントウォール</original>
+    <original>セントウォール</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_65</key>
-    <original xml:space="preserve">エレメントライト</original>
+    <original>エレメントライト</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_66</key>
-    <original xml:space="preserve">スタンバースト</original>
+    <original>スタンバースト</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_64</key>
-    <original xml:space="preserve">ハンズオブゴッド</original>
+    <original>ハンズオブゴッド</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_67</key>
-    <original xml:space="preserve">フォースアンカー</original>
+    <original>フォースアンカー</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_05_136</key>
-    <original xml:space="preserve">ストーンライト</original>
+    <original>ストーンライト</original>
   </message>
 </resource>

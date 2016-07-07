@@ -1,11 +1,11 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q90000205_00_48</key>
-    <original xml:space="preserve">魔物のるつぼ　：熱波</original>
+    <original>魔物のるつぼ　：熱波</original>
   </message>
   <message>
     <key>q90000205_00_48</key>
-    <original xml:space="preserve">洋撃船の仕上がりは万端！
+    <original>洋撃船の仕上がりは万端！
 《魔物のるつぼ》への侵攻作戦は意気揚々と展開中だ！
 爆炎の大竜、エルダードラゴンを仕留められるかは
 おまえたちの腕と運しだい！
@@ -13,19 +13,19 @@
   </message>
   <message>
     <key>q90000205_00_1542</key>
-    <original xml:space="preserve">竜族を討伐し、4000pt以上獲得を目指せ</original>
+    <original>竜族を討伐し、4000pt以上獲得を目指せ</original>
   </message>
   <message>
     <key>q90000205_00_1543</key>
-    <original xml:space="preserve">《時番》を探し出し、討伐でタイムボーナス</original>
+    <original>《時番》を探し出し、討伐でタイムボーナス</original>
   </message>
   <message>
     <key>q90000205_00_48</key>
-    <original xml:space="preserve">魔物のるつぼ ：熱波《リザルト報酬》</original>
+    <original>魔物のるつぼ ：熱波《リザルト報酬》</original>
   </message>
   <message>
     <key>q90000205_00_48</key>
-    <original xml:space="preserve">命知らずども！白竜神殿港洞に集まれ！
+    <original>命知らずども！白竜神殿港洞に集まれ！
 爆炎の大竜、エルダードラゴンを仕留めるため
 ≪魔物のるつぼ≫へ飛び込め！</original>
   </message>

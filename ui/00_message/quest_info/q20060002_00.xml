@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20060002_00_49</key>
-    <original xml:space="preserve">嘆きの下っぱ冒険者</original>
+    <original>嘆きの下っぱ冒険者</original>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 指定の物品を集める</original>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;から
+    <original>&lt;NAME AREA&gt;から
 何者かが助けを請うているらしいと報告があった</original>
   </message>
   <message>
     <key>q20060002_00_49</key>
-    <original xml:space="preserve">さっき森でよ
+    <original>さっき森でよ
 見るからに頼りなさそうなあんちゃんが
 声を掛けてきたんだが――
 ま、関わらないほうが良さそうだ
@@ -24,18 +24,18 @@
   </message>
   <message>
     <key>q20060002_00_1021</key>
-    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り３）</original>
+    <original>＜蒼葉のテラス＞で冒険者の落し物を捜す（残り３）</original>
   </message>
   <message>
     <key>q20060002_00_1022</key>
-    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り２）</original>
+    <original>＜蒼葉のテラス＞で冒険者の落し物を捜す（残り２）</original>
   </message>
   <message>
     <key>q20060002_00_1109</key>
-    <original xml:space="preserve">＜蒼葉のテラス＞で冒険者の落し物を捜す（残り１）</original>
+    <original>＜蒼葉のテラス＞で冒険者の落し物を捜す（残り１）</original>
   </message>
   <message>
     <key>q20060002_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

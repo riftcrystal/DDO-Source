@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>ACHIEVEMENT_CATEGORY_1</key>
-    <original xml:space="preserve">冒険</original>
+    <original>冒険</original>
   </message>
   <message>
     <key>ACHIEVEMENT_CATEGORY_2</key>
-    <original xml:space="preserve">戦闘</original>
+    <original>戦闘</original>
   </message>
   <message>
     <key>ACHIEVEMENT_CATEGORY_3</key>
-    <original xml:space="preserve">成長</original>
+    <original>成長</original>
   </message>
   <message>
     <key>ACHIEVEMENT_CATEGORY_4</key>
-    <original xml:space="preserve">収集</original>
+    <original>収集</original>
   </message>
   <message>
     <key>ACHIEVEMENT_CATEGORY_5</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
 </resource>

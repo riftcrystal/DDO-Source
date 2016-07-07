@@ -1,15 +1,15 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q60000051_00_38</key>
-    <original xml:space="preserve">求道の師を訪ねて　プリースト</original>
+    <original>求道の師を訪ねて　プリースト</original>
   </message>
   <message>
     <key>q60000051_00_38</key>
-    <original xml:space="preserve">ジョブマスター・カミュに
+    <original>ジョブマスター・カミュに
 プリースト求道試練の許可をもらいに行く</original>
   </message>
   <message>
     <key>q60000051_00_1218</key>
-    <original xml:space="preserve">ポーン郷のカミュを訪ねる</original>
+    <original>ポーン郷のカミュを訪ねる</original>
   </message>
 </resource>

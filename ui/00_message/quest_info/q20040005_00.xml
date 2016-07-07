@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040005_00_55</key>
-    <original xml:space="preserve">誘う光</original>
+    <original>誘う光</original>
   </message>
   <message>
     <key>q20040005_00_55</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 洞窟内部を調査し物品を収集する</original>
   </message>
   <message>
     <key>q20040005_00_55</key>
-    <original xml:space="preserve">報告によると&lt;NAME AREA&gt;で
+    <original>報告によると&lt;NAME AREA&gt;で
 トラブルに遭った者が協力者を求めているようだ</original>
   </message>
   <message>
     <key>q20040005_00_55</key>
-    <original xml:space="preserve">キノザ組合を知ってるかい？
+    <original>キノザ組合を知ってるかい？
 ボルド鉱山のキノザ鉱泉と周辺施設なんかを
 管理している組織なんだ
 温泉は娯楽施設だけれど、山間の険しい場所でも
@@ -24,18 +24,18 @@
   </message>
   <message>
     <key>q20040005_00_987</key>
-    <original xml:space="preserve">＜南壁のひび＞で光るモノを探す（残り３）</original>
+    <original>＜南壁のひび＞で光るモノを探す（残り３）</original>
   </message>
   <message>
     <key>q20040005_00_988</key>
-    <original xml:space="preserve">＜南壁のひび＞で光るモノを探す（残り２）</original>
+    <original>＜南壁のひび＞で光るモノを探す（残り２）</original>
   </message>
   <message>
     <key>q20040005_00_1110</key>
-    <original xml:space="preserve">＜南壁のひび＞で光るモノを探す（残り１）</original>
+    <original>＜南壁のひび＞で光るモノを探す（残り１）</original>
   </message>
   <message>
     <key>q20040005_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

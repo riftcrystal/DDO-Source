@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NORMAL_SKILL_NAME_05_70</key>
-    <original xml:space="preserve">シールドブロウ</original>
+    <original>シールドブロウ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_83</key>
-    <original xml:space="preserve">シールドストライク</original>
+    <original>シールドストライク</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_72</key>
-    <original xml:space="preserve">エレメントチェンジ</original>
+    <original>エレメントチェンジ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_73</key>
-    <original xml:space="preserve">ペンタエレメントチェンジ</original>
+    <original>ペンタエレメントチェンジ</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_74</key>
-    <original xml:space="preserve">フォースガード</original>
+    <original>フォースガード</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_75</key>
-    <original xml:space="preserve">シールドロック</original>
+    <original>シールドロック</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_76</key>
-    <original xml:space="preserve">フォースゲイン</original>
+    <original>フォースゲイン</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_77</key>
-    <original xml:space="preserve">フォースバースト</original>
+    <original>フォースバースト</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_78</key>
-    <original xml:space="preserve">アトラクト</original>
+    <original>アトラクト</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_79</key>
-    <original xml:space="preserve">モアアトラクト</original>
+    <original>モアアトラクト</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_80</key>
-    <original xml:space="preserve">フォースエンチャント</original>
+    <original>フォースエンチャント</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_81</key>
-    <original xml:space="preserve">シールドシーケンス</original>
+    <original>シールドシーケンス</original>
   </message>
   <message>
     <key>NORMAL_SKILL_NAME_05_91</key>
-    <original xml:space="preserve">ウィークライト</original>
+    <original>ウィークライト</original>
   </message>
 </resource>

@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20040007_00_248</key>
-    <original xml:space="preserve">採掘師の生命線</original>
+    <original>採掘師の生命線</original>
   </message>
   <message>
     <key>q20040007_00_248</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20040007_00_248</key>
-    <original xml:space="preserve">協力者を求める者がいるとの報告が
+    <original>協力者を求める者がいるとの報告が
 &lt;NAME AREA&gt;から届いている</original>
   </message>
   <message>
     <key>q20040007_00_248</key>
-    <original xml:space="preserve">我ら騎士団は、レスタニア全土から
+    <original>我ら騎士団は、レスタニア全土から
 さまざまな情報を集め、問題に対処している
 だが、あまりのへき地や、山間の険しい場所には
 人員を割きにくい
@@ -24,14 +24,14 @@
   </message>
   <message>
     <key>q20040007_00_990</key>
-    <original xml:space="preserve">＜採掘師の隠れ道＞の敵を討伐する</original>
+    <original>＜採掘師の隠れ道＞の敵を討伐する</original>
   </message>
   <message>
     <key>q20040007_00_828</key>
-    <original xml:space="preserve">発見した敵を討伐する</original>
+    <original>発見した敵を討伐する</original>
   </message>
   <message>
     <key>q20040007_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

@@ -1,20 +1,20 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20035007_00_107</key>
-    <original xml:space="preserve">貪り喰らうもの</original>
+    <original>貪り喰らうもの</original>
   </message>
   <message>
     <key>q20035007_00_107</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
   <message>
     <key>q20035007_00_107</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;から緊急報告
+    <original>&lt;NAME AREA&gt;から緊急報告
 至急、魔物らしき脅威を排除されたし、とのこと</original>
   </message>
   <message>
     <key>q20035007_00_107</key>
-    <original xml:space="preserve">沢の近くで洗いものをしていたら足を滑らせ
+    <original>沢の近くで洗いものをしていたら足を滑らせ
 そのまま川でおぼれて――気付いたら洞窟の中でした
 その奥から何か唸り声がして、逃げ出した私を
 いつまでも追いかけてくるんです
@@ -23,6 +23,6 @@
   </message>
   <message>
     <key>q20035007_00_806</key>
-    <original xml:space="preserve">遭遇した敵を討伐する</original>
+    <original>遭遇した敵を討伐する</original>
   </message>
 </resource>

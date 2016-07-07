@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20000014_00_223</key>
-    <original xml:space="preserve">ときめきをもう一度</original>
+    <original>ときめきをもう一度</original>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <original xml:space="preserve">メイリーフの願いを聞き入れ
+    <original>メイリーフの願いを聞き入れ
 該当の物品を集める</original>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+    <original>&lt;NAME AREA&gt;には今
 覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20000014_00_223</key>
-    <original xml:space="preserve">あのメイリーフって子、覚者の仕事に
+    <original>あのメイリーフって子、覚者の仕事に
 相当興味があるみたいね
 レオ様の後をずっとついて行ってた時もあったし
 今日なんかは、別の覚者の後ろ姿をじっと
@@ -23,6 +23,6 @@
   </message>
   <message>
     <key>q20000014_00_958</key>
-    <original xml:space="preserve">＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、メイリーフに渡す（残り:&lt;SQDI DNUM&gt;）</original>
+    <original>＜&lt;SQDI NAME&gt;＞を＜&lt;SQDI NUM&gt;＞個、メイリーフに渡す（残り:&lt;SQDI DNUM&gt;）</original>
   </message>
 </resource>

@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>AREA_NAME_1</key>
-    <original xml:space="preserve">ハイデル平原</original>
+    <original>ハイデル平原</original>
   </message>
   <message>
     <key>AREA_NAME_2</key>
-    <original xml:space="preserve">ブリア海岸</original>
+    <original>ブリア海岸</original>
   </message>
   <message>
     <key>AREA_NAME_3</key>
-    <original xml:space="preserve">ミスリウ森林</original>
+    <original>ミスリウ森林</original>
   </message>
   <message>
     <key>AREA_NAME_4</key>
-    <original xml:space="preserve">ボルド鉱山</original>
+    <original>ボルド鉱山</original>
   </message>
   <message>
     <key>AREA_NAME_5</key>
-    <original xml:space="preserve">ダウ渓谷</original>
+    <original>ダウ渓谷</original>
   </message>
   <message>
     <key>AREA_NAME_6</key>
-    <original xml:space="preserve">ミスリウ森林深部</original>
+    <original>ミスリウ森林深部</original>
   </message>
   <message>
     <key>AREA_NAME_7</key>
-    <original xml:space="preserve">ディナン深層林</original>
+    <original>ディナン深層林</original>
   </message>
   <message>
     <key>AREA_NAME_8</key>
-    <original xml:space="preserve">バートランド平原</original>
+    <original>バートランド平原</original>
   </message>
   <message>
     <key>AREA_NAME_9</key>
-    <original xml:space="preserve">バートランド平原北部</original>
+    <original>バートランド平原北部</original>
   </message>
   <message>
     <key>AREA_NAME_11</key>
-    <original xml:space="preserve">ザンドラ東部</original>
+    <original>ザンドラ東部</original>
   </message>
   <message>
     <key>AREA_NAME_10</key>
-    <original xml:space="preserve">ザンドラ禁域</original>
+    <original>ザンドラ禁域</original>
   </message>
   <message>
     <key>AREA_NAME_12</key>
-    <original xml:space="preserve">亡都メルゴダ</original>
+    <original>亡都メルゴダ</original>
   </message>
   <message>
     <key>AREA_NAME_13</key>
-    <original xml:space="preserve">魔赤島</original>
+    <original>魔赤島</original>
   </message>
 </resource>

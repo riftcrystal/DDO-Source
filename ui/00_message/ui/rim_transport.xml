@@ -1,115 +1,115 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>title_lost_city_foundation</key>
-    <original xml:space="preserve">亡都の礎</original>
+    <original>亡都の礎</original>
   </message>
   <message>
     <key>title_sub_dragon_foundation</key>
-    <original xml:space="preserve">竜の礎</original>
+    <original>竜の礎</original>
   </message>
   <message>
     <key>title_sub_rim_transport</key>
-    <original xml:space="preserve">リム転移</original>
+    <original>リム転移</original>
   </message>
   <message>
     <key>title_sub_transport_foundation</key>
-    <original xml:space="preserve">拠点の礎</original>
+    <original>拠点の礎</original>
   </message>
   <message>
     <key>heading_current_place</key>
-    <original xml:space="preserve">現在地</original>
+    <original>現在地</original>
   </message>
   <message>
     <key>option_transport_other</key>
-    <original xml:space="preserve">各地の礎へ転移</original>
+    <original>各地の礎へ転移</original>
   </message>
   <message>
     <key>option_registration</key>
-    <original xml:space="preserve">マイ拠点に登録</original>
+    <original>マイ拠点に登録</original>
   </message>
   <message>
     <key>title_choice</key>
-    <original xml:space="preserve">転移先の礎を選択</original>
+    <original>転移先の礎を選択</original>
   </message>
   <message>
     <key>heading_pay_rim</key>
-    <original xml:space="preserve">消費リム</original>
+    <original>消費リム</original>
   </message>
   <message>
     <key>dialog_transport_check</key>
-    <original xml:space="preserve">選択した礎にリム転移します
+    <original>選択した礎にリム転移します
 よろしいですか？</original>
   </message>
   <message>
     <key>dialog_registration_check</key>
-    <original xml:space="preserve">この礎をマイ拠点に登録します
+    <original>この礎をマイ拠点に登録します
 よろしいですか？</original>
   </message>
   <message>
     <key>dialog_overwrite_check</key>
-    <original xml:space="preserve">この礎をマイ拠点として上書き登録します
+    <original>この礎をマイ拠点として上書き登録します
 よろしいですか？</original>
   </message>
   <message>
     <key>option_not_registration</key>
-    <original xml:space="preserve">未登録</original>
+    <original>未登録</original>
   </message>
   <message>
     <key>heading_registered</key>
-    <original xml:space="preserve">登録済の礎</original>
+    <original>登録済の礎</original>
   </message>
   <message>
     <key>option_transport_rim</key>
-    <original xml:space="preserve">神殿内へ転移</original>
+    <original>神殿内へ転移</original>
   </message>
   <message>
     <key>diarog_transport_rim_check</key>
-    <original xml:space="preserve">選択したリムストーンへ転移します
+    <original>選択したリムストーンへ転移します
 よろしいですか？</original>
   </message>
   <message>
     <key>announce_registration_myposition</key>
-    <original xml:space="preserve">&lt;NAME SPOT&gt;をマイ拠点に登録しました</original>
+    <original>&lt;NAME SPOT&gt;をマイ拠点に登録しました</original>
   </message>
   <message>
     <key>announce_cannot_use</key>
-    <original xml:space="preserve">転移可能な礎がありません</original>
+    <original>転移可能な礎がありません</original>
   </message>
   <message>
     <key>notice_pt_warp_over</key>
-    <original xml:space="preserve">パーティー同行リム転移の期限が切れました</original>
+    <original>パーティー同行リム転移の期限が切れました</original>
   </message>
   <message>
     <key>list_name_pt_warp</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;パーティー同行リム転移&lt;/COL&gt;</original>
+    <original>&lt;COL ffdc78&gt;パーティー同行リム転移&lt;/COL&gt;</original>
   </message>
   <message>
     <key>dialog_pt_warp_check</key>
-    <original xml:space="preserve">パーティーリーダーのいるところへ転移します
+    <original>パーティーリーダーのいるところへ転移します
 よろしいですか？</original>
   </message>
   <message>
     <key>notice_pt_warp_limit</key>
-    <original xml:space="preserve">パーティー同行リム転移残り時間 &lt;VAL&gt;秒です</original>
+    <original>パーティー同行リム転移残り時間 &lt;VAL&gt;秒です</original>
   </message>
   <message>
     <key>error_warp_fail</key>
-    <original xml:space="preserve">転移に失敗しました</original>
+    <original>転移に失敗しました</original>
   </message>
   <message>
     <key>error_regist_fail</key>
-    <original xml:space="preserve">マイ拠点の登録に失敗しました</original>
+    <original>マイ拠点の登録に失敗しました</original>
   </message>
   <message>
     <key>error_get_list_fail</key>
-    <original xml:space="preserve">拠点リストの取得に失敗しました</original>
+    <original>拠点リストの取得に失敗しました</original>
   </message>
   <message>
     <key>title_rim_transport</key>
-    <original xml:space="preserve">Warp</original>
+    <original>Warp</original>
   </message>
   <message>
     <key>error_already_favorite</key>
-    <original xml:space="preserve">すでにマイ拠点登録済みの礎です</original>
+    <original>すでにマイ拠点登録済みの礎です</original>
   </message>
 </resource>

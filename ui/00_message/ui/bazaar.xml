@@ -1,195 +1,195 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>bazaar_msg_itemsearch_en</key>
-    <original xml:space="preserve">Item Search</original>
+    <original>Item Search</original>
   </message>
   <message>
     <key>bazaar_msg_itemsearch_jp</key>
-    <original xml:space="preserve">商品検索</original>
+    <original>商品検索</original>
   </message>
   <message>
     <key>bazaar_msg_categorysearch_en</key>
-    <original xml:space="preserve">Category Search</original>
+    <original>Category Search</original>
   </message>
   <message>
     <key>bazaar_msg_categorysearch_jp</key>
-    <original xml:space="preserve">カテゴリ</original>
+    <original>カテゴリ</original>
   </message>
   <message>
     <key>bazaar_msg_cs_categorysort</key>
-    <original xml:space="preserve">＞</original>
+    <original>＞</original>
   </message>
   <message>
     <key>bazaar_msg_cs_rank</key>
-    <original xml:space="preserve">ランク</original>
+    <original>ランク</original>
   </message>
   <message>
     <key>bazaar_msg_cs_morethan</key>
-    <original xml:space="preserve">以上</original>
+    <original>以上</original>
   </message>
   <message>
     <key>bazaar_msg_bt_search</key>
-    <original xml:space="preserve">検索</original>
+    <original>検索</original>
   </message>
   <message>
     <key>bazaar_msg_freewordsearch_en</key>
-    <original xml:space="preserve">Free Word Search</original>
+    <original>Free Word Search</original>
   </message>
   <message>
     <key>bazaar_msg_freewordsearch_jp</key>
-    <original xml:space="preserve">フリーワード検索</original>
+    <original>フリーワード検索</original>
   </message>
   <message>
     <key>bazaar_msg_disp_itemname</key>
-    <original xml:space="preserve">アイテム名</original>
+    <original>アイテム名</original>
   </message>
   <message>
     <key>bazaar_msg_disp_number</key>
-    <original xml:space="preserve">件数</original>
+    <original>件数</original>
   </message>
   <message>
     <key>bazaar_msg_searchresult_num</key>
-    <original xml:space="preserve">件</original>
+    <original>件</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_mineral</key>
-    <original xml:space="preserve">無機物</original>
+    <original>無機物</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_plant</key>
-    <original xml:space="preserve">植物</original>
+    <original>植物</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_animal</key>
-    <original xml:space="preserve">動物</original>
+    <original>動物</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_sewing</key>
-    <original xml:space="preserve">裁縫</original>
+    <original>裁縫</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_artifact</key>
-    <original xml:space="preserve">特殊</original>
+    <original>特殊</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_all</key>
-    <original xml:space="preserve">すべて</original>
+    <original>すべて</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_ore</key>
-    <original xml:space="preserve">鉱石</original>
+    <original>鉱石</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_metal</key>
-    <original xml:space="preserve">金属</original>
+    <original>金属</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_sand</key>
-    <original xml:space="preserve">砂材</original>
+    <original>砂材</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_jewel</key>
-    <original xml:space="preserve">宝石</original>
+    <original>宝石</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_liquid</key>
-    <original xml:space="preserve">液体</original>
+    <original>液体</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_grass</key>
-    <original xml:space="preserve">草</original>
+    <original>草</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_mushroom</key>
-    <original xml:space="preserve">キノコ</original>
+    <original>キノコ</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_wood</key>
-    <original xml:space="preserve">木材</original>
+    <original>木材</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_skin</key>
-    <original xml:space="preserve">皮</original>
+    <original>皮</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_bone</key>
-    <original xml:space="preserve">骨</original>
+    <original>骨</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_tusk</key>
-    <original xml:space="preserve">牙</original>
+    <original>牙</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_horn</key>
-    <original xml:space="preserve">角</original>
+    <original>角</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_feather</key>
-    <original xml:space="preserve">羽</original>
+    <original>羽</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_meat</key>
-    <original xml:space="preserve">肉</original>
+    <original>肉</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_cloth</key>
-    <original xml:space="preserve">布</original>
+    <original>布</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_string</key>
-    <original xml:space="preserve">糸</original>
+    <original>糸</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_fur</key>
-    <original xml:space="preserve">毛</original>
+    <original>毛</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_scroll</key>
-    <original xml:space="preserve">巻物</original>
+    <original>巻物</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_other</key>
-    <original xml:space="preserve">その他</original>
+    <original>その他</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_crest</key>
-    <original xml:space="preserve">クレスト</original>
+    <original>クレスト</original>
   </message>
   <message>
     <key>bazaar_msg_category_l_strength</key>
-    <original xml:space="preserve">精錬材</original>
+    <original>精錬材</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_dye</key>
-    <original xml:space="preserve">染料</original>
+    <original>染料</original>
   </message>
   <message>
     <key>bazaar_msg_itemlist_disp_unitprice</key>
-    <original xml:space="preserve">単価</original>
+    <original>単価</original>
   </message>
   <message>
     <key>bazaar_msg_itemlist_disp_price</key>
-    <original xml:space="preserve">価格</original>
+    <original>価格</original>
   </message>
   <message>
     <key>bazaar_msg_itemlist_disp_number_num</key>
-    <original xml:space="preserve">個</original>
+    <original>個</original>
   </message>
   <message>
     <key>bazaar_msg_buy_distribution</key>
-    <original xml:space="preserve">購入する個数を振分けてください</original>
+    <original>購入する個数を振分けてください</original>
   </message>
   <message>
     <key>bazaar_msg_bt_buy</key>
-    <original xml:space="preserve">購入</original>
+    <original>購入</original>
   </message>
   <message>
     <key>bazaar_msg_bt_cancel</key>
-    <original xml:space="preserve">キャンセル</original>
+    <original>キャンセル</original>
   </message>
   <message>
     <key>bazaar_msg_buy_confirmation</key>
-    <original xml:space="preserve">以下の内容で購入します。よろしいですか？
+    <original>以下の内容で購入します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　合計個数：&lt;VAL&gt;個
@@ -197,51 +197,51 @@
   </message>
   <message>
     <key>bazaar_msg_bt_yes</key>
-    <original xml:space="preserve">はい</original>
+    <original>はい</original>
   </message>
   <message>
     <key>bazaar_msg_bt_no</key>
-    <original xml:space="preserve">いいえ</original>
+    <original>いいえ</original>
   </message>
   <message>
     <key>bazaar_msg_info_switch</key>
-    <original xml:space="preserve">情報切替</original>
+    <original>情報切替</original>
   </message>
   <message>
     <key>bazaar_msg_info_trade</key>
-    <original xml:space="preserve">取引成立相場</original>
+    <original>取引成立相場</original>
   </message>
   <message>
     <key>bazaar_msg_info_exhibit</key>
-    <original xml:space="preserve">出品中相場</original>
+    <original>出品中相場</original>
   </message>
   <message>
     <key>bazaar_msg_info_disp_tradingday</key>
-    <original xml:space="preserve">日付</original>
+    <original>日付</original>
   </message>
   <message>
     <key>bazaar_msg_info_disp_number</key>
-    <original xml:space="preserve">個数</original>
+    <original>個数</original>
   </message>
   <message>
     <key>bazaar_msg_exhibit_set_unitprice</key>
-    <original xml:space="preserve">単価設定</original>
+    <original>単価設定</original>
   </message>
   <message>
     <key>bazaar_msg_exhibit_set_unitprice_limit</key>
-    <original xml:space="preserve">※&lt;VAL GOLD&gt; ～ &lt;VAL GOLD&gt;まで</original>
+    <original>※&lt;VAL GOLD&gt; ～ &lt;VAL GOLD&gt;まで</original>
   </message>
   <message>
     <key>bazaar_msg_exhibit_set_number</key>
-    <original xml:space="preserve">個数設定</original>
+    <original>個数設定</original>
   </message>
   <message>
     <key>bazaar_msg_bt_decision</key>
-    <original xml:space="preserve">決定</original>
+    <original>決定</original>
   </message>
   <message>
     <key>bazaar_msg_exhibit_confirmation</key>
-    <original xml:space="preserve">以下の内容で出品します。よろしいですか？
+    <original>以下の内容で出品します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　出品個数：&lt;VAL&gt;個
@@ -250,63 +250,63 @@
   </message>
   <message>
     <key>bazaar_msg_announce_exhibited</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;を出品しました</original>
+    <original>&lt;NAME ITEM&gt;を出品しました</original>
   </message>
   <message>
     <key>bazaar_msg_situation_en</key>
-    <original xml:space="preserve">Sell List</original>
+    <original>Sell List</original>
   </message>
   <message>
     <key>bazaar_msg_situation_jp</key>
-    <original xml:space="preserve">出品状況</original>
+    <original>出品状況</original>
   </message>
   <message>
     <key>bazaar_msg_situation_disp_exhibiting</key>
-    <original xml:space="preserve">出品中：</original>
+    <original>出品中：</original>
   </message>
   <message>
     <key>bazaar_msg_situation_disp_totalsales</key>
-    <original xml:space="preserve">売上合計：</original>
+    <original>売上合計：</original>
   </message>
   <message>
     <key>bazaar_msg_bt_salesreceipt</key>
-    <original xml:space="preserve">売上の受け取り</original>
+    <original>売上の受け取り</original>
   </message>
   <message>
     <key>bazaar_msg_situation_exhibition_poss</key>
-    <original xml:space="preserve">出品可能</original>
+    <original>出品可能</original>
   </message>
   <message>
     <key>bazaar_msg_situation_exhibition_imposs</key>
-    <original xml:space="preserve">あと&lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;で利用できます</original>
+    <original>あと&lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;で利用できます</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_weapon</key>
-    <original xml:space="preserve">武器用</original>
+    <original>武器用</original>
   </message>
   <message>
     <key>bazaar_msg_category_s_armor</key>
-    <original xml:space="preserve">防具用</original>
+    <original>防具用</original>
   </message>
   <message>
     <key>bazaar_msg_situation_congrats</key>
-    <original xml:space="preserve">おめでとうございます！ 取引成立しました！</original>
+    <original>おめでとうございます！ 取引成立しました！</original>
   </message>
   <message>
     <key>bazaar_msg_announce_get_money</key>
-    <original xml:space="preserve">バザー売上 &lt;VAL GOLD&gt;を受け取りました</original>
+    <original>バザー売上 &lt;VAL GOLD&gt;を受け取りました</original>
   </message>
   <message>
     <key>bazaar_msg_bt_stop</key>
-    <original xml:space="preserve">取り消し</original>
+    <original>取り消し</original>
   </message>
   <message>
     <key>bazaar_msg_bt_re_exhibit</key>
-    <original xml:space="preserve">再出品</original>
+    <original>再出品</original>
   </message>
   <message>
     <key>bazaar_msg_stop_confirmation</key>
-    <original xml:space="preserve">以下の出品を取り消します。よろしいですか？
+    <original>以下の出品を取り消します。よろしいですか？
 (取り消したアイテムは保管ボックスに送ります)
 
 　アイテム：&lt;NAME ITEM&gt;
@@ -315,15 +315,15 @@
   </message>
   <message>
     <key>bazaar_msg_announce_stop</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;を保管ボックスに移動しました</original>
+    <original>&lt;NAME ITEM&gt;を保管ボックスに移動しました</original>
   </message>
   <message>
     <key>bazaar_msg_re_exhibit_set_unitprice</key>
-    <original xml:space="preserve">単価の再設定</original>
+    <original>単価の再設定</original>
   </message>
   <message>
     <key>bazaar_msg_re_exhibit_confirmation</key>
-    <original xml:space="preserve">以下の内容で再出品します。よろしいですか？
+    <original>以下の内容で再出品します。よろしいですか？
 
 　アイテム：&lt;NAME ITEM&gt;
 　出品個数：&lt;VAL&gt;個
@@ -332,59 +332,59 @@
   </message>
   <message>
     <key>bazaar_msg_announce_re_exhibited</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;を再出品しました</original>
+    <original>&lt;NAME ITEM&gt;を再出品しました</original>
   </message>
   <message>
     <key>bazaar_msg_announce_buy</key>
-    <original xml:space="preserve">&lt;NAME ITEM&gt;を購入しました</original>
+    <original>&lt;NAME ITEM&gt;を購入しました</original>
   </message>
   <message>
     <key>bazaar_msg_disp_search_info</key>
-    <original xml:space="preserve">左のメニューから検索してください</original>
+    <original>左のメニューから検索してください</original>
   </message>
   <message>
     <key>bazaar_msg_disp_search_notfound</key>
-    <original xml:space="preserve">一致する情報は見つかりませんでした</original>
+    <original>一致する情報は見つかりませんでした</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_buy</key>
-    <original xml:space="preserve">購入に失敗しました</original>
+    <original>購入に失敗しました</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_exhibit</key>
-    <original xml:space="preserve">出品に失敗しました</original>
+    <original>出品に失敗しました</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_stop</key>
-    <original xml:space="preserve">取り消しに失敗しました</original>
+    <original>取り消しに失敗しました</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_info</key>
-    <original xml:space="preserve">情報の取得に失敗しました</original>
+    <original>情報の取得に失敗しました</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_exhibit_over</key>
-    <original xml:space="preserve">出品可能数が０のため、新たに出品できません</original>
+    <original>出品可能数が０のため、新たに出品できません</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_possession_full </key>
-    <original xml:space="preserve">アイテムバッグと保管ボックスに空き枠が無いため購入できません</original>
+    <original>アイテムバッグと保管ボックスに空き枠が無いため購入できません</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_stop_storage_full</key>
-    <original xml:space="preserve">保管ボックスに空き枠が無いため取り消しできません</original>
+    <original>保管ボックスに空き枠が無いため取り消しできません</original>
   </message>
   <message>
     <key>bazaar_msg_shortcut_exhibit</key>
-    <original xml:space="preserve">出品へのショートカット</original>
+    <original>出品へのショートカット</original>
   </message>
   <message>
     <key>bazaar_msg_announce_error_bazaaritem0</key>
-    <original xml:space="preserve">バザーに出品できるアイテムを持っていません</original>
+    <original>バザーに出品できるアイテムを持っていません</original>
   </message>
   <message>
     <key>bazaar_msg_disp_snatching_notfound</key>
-    <original xml:space="preserve">購入できるアイテムは見つかりませんでした
+    <original>購入できるアイテムは見つかりませんでした
 前の画面に戻ってください
 
 （他のプレイヤーに購入された、もしくは
@@ -392,15 +392,15 @@
   </message>
   <message>
     <key>bazaar_msg_announce_many_search</key>
-    <original xml:space="preserve">一致する情報が多いため、すべてを取得できませんでした</original>
+    <original>一致する情報が多いため、すべてを取得できませんでした</original>
   </message>
   <message>
     <key>bazaar_msg_exhibit_set_number_limit</key>
-    <original xml:space="preserve">※&lt;VAL&gt; 個まで</original>
+    <original>※&lt;VAL&gt; 個まで</original>
   </message>
   <message>
     <key>bazaar_msg_disp_access_frequency_error</key>
-    <original xml:space="preserve">サーバーへのアクセス頻度が高いため
+    <original>サーバーへのアクセス頻度が高いため
 一定時間、商品検索のご利用を制限いたします
 時間を置いてもう一度お試しいただくか
 アクセス頻度を下げてご利用いただきますよう

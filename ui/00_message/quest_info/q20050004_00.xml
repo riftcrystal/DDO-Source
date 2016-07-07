@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20050004_00_56</key>
-    <original xml:space="preserve">光浴びる花</original>
+    <original>光浴びる花</original>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 指定の物品を集める</original>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <original xml:space="preserve">切迫した事情を抱えた人物がいると連絡があった
+    <original>切迫した事情を抱えた人物がいると連絡があった
 速やかに&lt;NAME AREA&gt;に向かって欲しい</original>
   </message>
   <message>
     <key>q20050004_00_56</key>
-    <original xml:space="preserve">――聞いてくれます？
+    <original>――聞いてくれます？
 僕ね、燐光虫の洞窟に、エキセントリックで
 エキゾチック、そのうえエキサイティングな女性が
 居るっていうから、期待値最高で行ってみたんです
@@ -24,18 +24,18 @@
   </message>
   <message>
     <key>q20050004_00_1005</key>
-    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り３）</original>
+    <original>＜燐光虫の洞窟＞で幻の花を探す（残り３）</original>
   </message>
   <message>
     <key>q20050004_00_1090</key>
-    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り２）</original>
+    <original>＜燐光虫の洞窟＞で幻の花を探す（残り２）</original>
   </message>
   <message>
     <key>q20050004_00_1091</key>
-    <original xml:space="preserve">＜燐光虫の洞窟＞で幻の花を探す（残り１）</original>
+    <original>＜燐光虫の洞窟＞で幻の花を探す（残り１）</original>
   </message>
   <message>
     <key>q20050004_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

@@ -1,54 +1,54 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>CUSTOM_SKILL_NAME_08_95</key>
-    <original xml:space="preserve">連魔弾</original>
+    <original>連魔弾</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_92</key>
-    <original xml:space="preserve">癒し魔矢</original>
+    <original>癒し魔矢</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_93</key>
-    <original xml:space="preserve">治し魔矢</original>
+    <original>治し魔矢</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_94</key>
-    <original xml:space="preserve">炎魔弓</original>
+    <original>炎魔弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_97</key>
-    <original xml:space="preserve">閃魔光</original>
+    <original>閃魔光</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_98</key>
-    <original xml:space="preserve">減剛魔弓</original>
+    <original>減剛魔弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_99</key>
-    <original xml:space="preserve">減防魔弓</original>
+    <original>減防魔弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_96</key>
-    <original xml:space="preserve">跳弾魔従</original>
+    <original>跳弾魔従</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_100</key>
-    <original xml:space="preserve">奮わせ魔矢</original>
+    <original>奮わせ魔矢</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_101</key>
-    <original xml:space="preserve">減耐魔弓</original>
+    <original>減耐魔弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_102</key>
-    <original xml:space="preserve">弱体魔弓</original>
+    <original>弱体魔弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_103</key>
-    <original xml:space="preserve">全霊弓</original>
+    <original>全霊弓</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_NAME_08_141</key>
-    <original xml:space="preserve">癒し閃光</original>
+    <original>癒し閃光</original>
   </message>
 </resource>

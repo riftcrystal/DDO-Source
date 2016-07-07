@@ -1,26 +1,26 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>emote_text_category_356</key>
-    <original xml:space="preserve">あいさつ・返事</original>
+    <original>あいさつ・返事</original>
   </message>
   <message>
     <key>emote_text_category_357</key>
-    <original xml:space="preserve">感情表現</original>
+    <original>感情表現</original>
   </message>
   <message>
     <key>emote_text_category_358</key>
-    <original xml:space="preserve">アクション・１</original>
+    <original>アクション・１</original>
   </message>
   <message>
     <key>emote_text_category_359</key>
-    <original xml:space="preserve">アクション・２</original>
+    <original>アクション・２</original>
   </message>
   <message>
     <key>emote_text_category_360</key>
-    <original xml:space="preserve">ポージング</original>
+    <original>ポージング</original>
   </message>
   <message>
     <key>emote_text_category_361</key>
-    <original xml:space="preserve">スペシャル</original>
+    <original>スペシャル</original>
   </message>
 </resource>

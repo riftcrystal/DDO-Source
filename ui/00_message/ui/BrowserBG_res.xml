@@ -1,22 +1,22 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>NFB_MSG_TITLE_E</key>
-    <original xml:space="preserve">Web Browser</original>
+    <original>Web Browser</original>
   </message>
   <message>
     <key>NFB_MSG_BACK</key>
-    <original xml:space="preserve">操作を戻す</original>
+    <original>操作を戻す</original>
   </message>
   <message>
     <key>NFB_MSG_RETURN</key>
-    <original xml:space="preserve">戻る</original>
+    <original>戻る</original>
   </message>
   <message>
     <key>NFB_MSG_ADVANCE</key>
-    <original xml:space="preserve">進む</original>
+    <original>進む</original>
   </message>
   <message>
     <key>NFB_MSG_RELOAD</key>
-    <original xml:space="preserve">更新</original>
+    <original>更新</original>
   </message>
 </resource>

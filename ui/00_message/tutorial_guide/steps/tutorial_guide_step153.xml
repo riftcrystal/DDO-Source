@@ -1,7 +1,7 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>TUTORIAL_STEP_27</key>
-    <original xml:space="preserve">&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
+    <original>&lt;COL ffdc78&gt;レスタニアに生まれし新たなる覚者へ&lt;/COL&gt;
 
 覚者としてあなたが成すべき目的はマップ上に
 &lt;COL ffdc78&gt;赤の《メインクエストマーカー》で示されます&lt;/COL&gt;
@@ -11,7 +11,7 @@
   </message>
   <message>
     <key>TUTORIAL_STEP_194</key>
-    <original xml:space="preserve">冒険時は、左上に表示される
+    <original>冒険時は、左上に表示される
 &lt;COL ffdc78&gt;体力（ＨＰ）&lt;/COL&gt;と&lt;COL ffdc78&gt;スタミナ（ＳＴ）&lt;/COL&gt;が重要です
 
 ＨＰは敵の攻撃を受けると減少し

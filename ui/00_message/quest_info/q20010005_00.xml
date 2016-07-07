@@ -1,21 +1,21 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>q20010005_00_232</key>
-    <original xml:space="preserve">廃墟荒らしの怪</original>
+    <original>廃墟荒らしの怪</original>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <original xml:space="preserve">依頼者の願いを聞き入れ
+    <original>依頼者の願いを聞き入れ
 対象の敵を討伐する</original>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <original xml:space="preserve">&lt;NAME AREA&gt;には今
+    <original>&lt;NAME AREA&gt;には今
 覚者の助けを欲する者がいるらしい</original>
   </message>
   <message>
     <key>q20010005_00_232</key>
-    <original xml:space="preserve">自分は、先日より覚者として
+    <original>自分は、先日より覚者として
 白竜に仕える身となった者です
 これより日課である情報収集報告をいたします
 昨日、ブリア海岸にて魔物の気配を察知！
@@ -23,14 +23,14 @@
   </message>
   <message>
     <key>q20010005_00_902</key>
-    <original xml:space="preserve">地下保管庫を目指す</original>
+    <original>地下保管庫を目指す</original>
   </message>
   <message>
     <key>q20010005_00_903</key>
-    <original xml:space="preserve">忍び込んだ敵を討伐する</original>
+    <original>忍び込んだ敵を討伐する</original>
   </message>
   <message>
     <key>q20010005_00_804</key>
-    <original xml:space="preserve">依頼者に報告する</original>
+    <original>依頼者に報告する</original>
   </message>
 </resource>

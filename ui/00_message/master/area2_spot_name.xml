@@ -1,58 +1,58 @@
 ﻿<resource endian="Little" locale="0" unknown="0" tag="TextWeb">
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ブリア海岸</original>
+    <original>ブリア海岸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">ローテス</original>
+    <original>ローテス</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">モルトバ灯台</original>
+    <original>モルトバ灯台</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">隠れ浜</original>
+    <original>隠れ浜</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">鳥寄せ岩</original>
+    <original>鳥寄せ岩</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">海辺の地下室</original>
+    <original>海辺の地下室</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">小鬼の野営地</original>
+    <original>小鬼の野営地</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">廃村ルフロー</original>
+    <original>廃村ルフロー</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">青爪浜</original>
+    <original>青爪浜</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">潮騒洞窟</original>
+    <original>潮騒洞窟</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">腐臭の溜まり場</original>
+    <original>腐臭の溜まり場</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">灯台下の古井戸</original>
+    <original>灯台下の古井戸</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">浜辺の地下保管庫</original>
+    <original>浜辺の地下保管庫</original>
   </message>
   <message>
     <key>SPOT_NAME_</key>
-    <original xml:space="preserve">モルトバ遺跡</original>
+    <original>モルトバ遺跡</original>
   </message>
 </resource>
