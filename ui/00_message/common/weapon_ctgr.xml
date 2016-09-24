@@ -47,4 +47,8 @@
     <key>WEAPON_CTGR_12</key>
     <original>大杖</original>
   </message>
+  <message>
+    <key>WEAPON_CTGR_13</key>
+    <original>精霊槍</original>
+  </message>
 </resource>

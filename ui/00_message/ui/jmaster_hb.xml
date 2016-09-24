@@ -87,4 +87,8 @@
     <key>JMMH_MSG_NO_ORDER_STR</key>
     <original>課題はありません</original>
   </message>
+  <message>
+    <key>JMMH_MSG_JOB_CHANGE_ENABLE</key>
+    <original>転職できるようになりました</original>
+  </message>
 </resource>

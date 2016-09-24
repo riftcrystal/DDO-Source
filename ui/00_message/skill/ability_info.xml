@@ -508,8 +508,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_86</key>
-    <original>ガード不能攻撃を防御した際の
-ダメージが軽減される
+    <original>ノーマルスキルによる防御状態で
+ガード不能攻撃を受けた際のダメージが軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1000,7 +1000,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_113</key>
-    <original>回避行動時の移動距離が延長される
+    <original>ノーマルスキルでの回避行動時に
+移動距離が延長される
 &lt;COL ffdc78&gt;LV UP毎に移動距離がより延長&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1203,8 +1204,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_107</key>
-    <original>しがみつき時に与えるダメージ量が
-大きく増加する
+    <original>しがみつき時に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1357,7 +1357,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_320</key>
     <original>ヒールオーラ/ヒールオーラエクス/
-ヒールオーラライドの回復量が増加する
+ライドヒールオーラの回復量が増加する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加
 LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
   </message>
@@ -1476,7 +1476,7 @@ LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_323</key>
     <original>セイントオーラ/セイントオーラエクス
-セイントオーラライドのダメージ量が増加する
+ライドセイントオーラのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
@@ -1547,8 +1547,8 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_346</key>
     <original>ダッシュ中、ダッシュジャンプ中の
-物理防御力と魔法防御力増加するとともに
-攻撃を受けても体制を崩されにくくなる
+物理防御力と魔法防御力が増加するとともに
+攻撃を受けても体勢を崩されにくくなる
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加
 より体勢を崩されにくくなる&lt;/COL&gt;</original>
   </message>
@@ -1566,7 +1566,7 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_382</key>
     <original>溜め攻撃をジャスト発動した際、スタミナが回復する
-カスタムスキルの場合は消費量を軽減。
+カスタムスキルの場合はスタミナ消費量が軽減される
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1586,14 +1586,115 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_312</key>
+    <original>しじま射ちのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_324</key>
+    <original>フィールドシフト解除時の衝撃波のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_335</key>
+    <original>シールドシーケンスのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_347</key>
+    <original>回し蹴りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_360</key>
+    <original>マジッククラッカーのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_372</key>
+    <original>奮わせ直魔矢の回復量が増加する
+&lt;COL ffdc78&gt;LV UP毎に回復量がより増加
+LV5～6で魔法陣継続時間が延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_383</key>
+    <original>広角斬のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_395</key>
+    <original>アルケム・ラディウスのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_256</key>
     <original>石化の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_300</key>
+    <original>強連撃のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_313</key>
+    <original>パーティーメンバーを助け起こすと
+自身が受ける物理攻撃ダメージが一定時間軽減される
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_325</key>
+    <original>敵にとどめを刺したとき、体力が回復する
+&lt;COL ffdc78&gt;LV UP毎に回復力がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_337</key>
+    <original>攻撃時に、より敵の注目を集めるようになる
+&lt;COL ffdc78&gt;LV UP毎に敵からの注目度がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_349</key>
+    <original>チャンス攻力が上昇し、怒り状態の強敵を
+ダウンさせやすくなる
+&lt;COL ffdc78&gt;LV UP毎にチャンス攻力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_361</key>
+    <original>吹き飛ばし力が上昇し、敵の体勢を崩しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_373</key>
+    <original>魔法防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に魔法防御力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_385</key>
+    <original>物理防御力が増加する
+&lt;COL ffdc78&gt;LV UP毎に物理防御力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_397</key>
+    <original>耐久力が上昇し、体勢を崩されにくくなる
+&lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_257</key>
     <original>黄金化の状態異常にかかりにくくなる
 &lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_301</key>
+    <original>盾の防御性能が向上しより強い攻撃を防ぎやすくなる
+&lt;COL ffdc78&gt;LV UP毎に盾ガード値がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_258</key>
@@ -1761,32 +1862,38 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_441</key>
-    <original>PT内のポーンの最大体力が増加
+    <original>自分がパーティーに入れた
+ポーンの最大体力が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_442</key>
-    <original>PT内のポーンの最大スタミナが増加
+    <original>自分がパーティーに入れた
+ポーンの最大スタミナが増加する
 &lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_443</key>
-    <original>PT内のポーンの筋力が増加
+    <original>自分がパーティーに入れた
+ポーンの筋力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_444</key>
-    <original>PT内のポーンの魔力が増加
+    <original>自分がパーティーに入れた
+ポーンの魔力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_445</key>
-    <original>PT内のポーンの物理防御力が増加
+    <original>自分がパーティーに入れた
+ポーンの物理防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に物理防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_446</key>
-    <original>PT内のポーンの魔法防御力が増加
+    <original>自分がパーティーに入れた
+ポーンの魔法防御力が増加する
 &lt;COL ffdc78&gt;LV UP毎に魔法防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1796,7 +1903,8 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_448</key>
-    <original>敵を倒した際、PT内のポーンの治癒上限値が回復する
+    <original>敵を倒した際、自分がパーティーに入れた
+ポーンの治癒上限値が回復する
 &lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
   </message>
   <message>

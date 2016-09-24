@@ -720,6 +720,10 @@
     <original>ボルトグリムワーグ</original>
   </message>
   <message>
+    <key>ENEMY_NAME_189</key>
+    <original>スケルトンブルート</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_190</key>
     <original>スケルトン・フレイム</original>
   </message>
@@ -768,6 +772,38 @@
     <original>エリミネーター</original>
   </message>
   <message>
+    <key>ENEMY_NAME_203</key>
+    <original>コープスパニッシャー・フレイム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_204</key>
+    <original>コープスパニッシャー・ボルト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_205</key>
+    <original>コープスパニッシャー・ルクス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_206</key>
+    <original>コープスパニッシャー・ダーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_207</key>
+    <original>コープストーチャー・フレイム</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_208</key>
+    <original>コープストーチャー・ボルト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_209</key>
+    <original>コープストーチャー・ルクス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_210</key>
+    <original>コープストーチャー・ダーク</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_211</key>
     <original>ガーゴイル</original>
   </message>
@@ -808,12 +844,20 @@
     <original>侵食ゴアサイクロプス</original>
   </message>
   <message>
+    <key>ENEMY_NAME_242</key>
+    <original>マンティコア</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_246</key>
     <original>侵食グリフィン</original>
   </message>
   <message>
     <key>ENEMY_NAME_249</key>
     <original>マンイーター</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_251</key>
+    <original>メドゥーサ</original>
   </message>
   <message>
     <key>ENEMY_NAME_252</key>
@@ -828,8 +872,16 @@
     <original>侵食ベヘモット</original>
   </message>
   <message>
+    <key>ENEMY_NAME_257</key>
+    <original>侵食オークソルジャー</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_259</key>
     <original>フロスト・マキナ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_271</key>
+    <original>アルタード・ズール</original>
   </message>
   <message>
     <key>ENEMY_NAME_272</key>
@@ -838,6 +890,10 @@
   <message>
     <key>ENEMY_NAME_274</key>
     <original>黒騎士</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_275</key>
+    <original>淀みし大竜力</original>
   </message>
   <message>
     <key>ENEMY_NAME_277</key>
@@ -850,6 +906,14 @@
   <message>
     <key>ENEMY_NAME_279</key>
     <original>侵食スリングホブゴブリン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_284</key>
+    <original>侵食オークエイマー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_285</key>
+    <original>侵食オークバンガー</original>
   </message>
   <message>
     <key>ENEMY_NAME_298</key>

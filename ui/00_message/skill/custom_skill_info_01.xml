@@ -77,7 +77,7 @@ LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
 &lt;PADM&gt;左スティック&lt;KEYM&gt;移動キー&lt;/KEYM&gt;により後方への斬り抜けも可能
 攻撃を受ける瞬間に発動すると威力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
-LV.６で攻撃範囲拡大／敵の攻撃受付時間延長&lt;/COL&gt;</original>
+LV.６で攻撃範囲拡大／受付時間延長&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_01_17</key>

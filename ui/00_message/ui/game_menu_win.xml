@@ -214,4 +214,8 @@
     <key>menu_clan_management</key>
     <original>クラン管理</original>
   </message>
+  <message>
+    <key>menu_boxgacha</key>
+    <original>ボックストレジャーズロット</original>
+  </message>
 </resource>

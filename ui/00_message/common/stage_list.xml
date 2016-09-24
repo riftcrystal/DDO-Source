@@ -1024,12 +1024,24 @@
     <original>不浄の掃き溜め</original>
   </message>
   <message>
+    <key>STAGE_NAME_319</key>
+    <original>滝鳴洞穴</original>
+  </message>
+  <message>
     <key>STAGE_NAME_320</key>
     <original>群像の岩屋</original>
   </message>
   <message>
     <key>STAGE_NAME_321</key>
     <original>侵食魔の巣窟　奥底</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_322</key>
+    <original>菌糸の襲窟</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_329</key>
+    <original>騎士団補給所跡</original>
   </message>
   <message>
     <key>STAGE_NAME_330</key>
@@ -1040,12 +1052,32 @@
     <original>せせらぎの地下聖堂</original>
   </message>
   <message>
+    <key>STAGE_NAME_332</key>
+    <original>ドリード連絡路</original>
+  </message>
+  <message>
     <key>STAGE_NAME_333</key>
     <original>モルトバ遺跡</original>
   </message>
   <message>
+    <key>STAGE_NAME_334</key>
+    <original>ガルドノック廃水廊</original>
+  </message>
+  <message>
     <key>STAGE_NAME_335</key>
     <original>魔赤島</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_336</key>
+    <original>魔赤島・絶崖</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_337</key>
+    <original>魔赤島・山頂</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_342</key>
+    <original>レオのアジト</original>
   </message>
   <message>
     <key>STAGE_NAME_348</key>
@@ -1100,24 +1132,76 @@
     <original>st0089 細長柱</original>
   </message>
   <message>
+    <key>STAGE_NAME_361</key>
+    <original>淀みの渦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_362</key>
+    <original>淀みの渦</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_363</key>
+    <original>叫びの竪穴</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_364</key>
+    <original>見捨てられた井戸</original>
+  </message>
+  <message>
     <key>STAGE_NAME_365</key>
     <original>小塔傍の枯れ井戸</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_405</key>
+    <original>異界の狭間　深層部</original>
   </message>
   <message>
     <key>STAGE_NAME_406</key>
     <original>アーク　裏層</original>
   </message>
   <message>
+    <key>STAGE_NAME_408</key>
+    <original>橋向かいの坑道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_409</key>
+    <original>陽射す地下洞</original>
+  </message>
+  <message>
     <key>STAGE_NAME_410</key>
     <original>灼熱の封鎖道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_423</key>
+    <original>古き地下水網</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_424</key>
+    <original>秘匿の実験場</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_426</key>
+    <original>流水の小路</original>
   </message>
   <message>
     <key>STAGE_NAME_427</key>
     <original>霧幻のテラス</original>
   </message>
   <message>
+    <key>STAGE_NAME_428</key>
+    <original>飛天のテラス</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_430</key>
+    <original>ミスリウ古墳墓</original>
+  </message>
+  <message>
     <key>STAGE_NAME_431</key>
     <original>罪人の修獄</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_432</key>
+    <original>幽玄の霊堂</original>
   </message>
   <message>
     <key>STAGE_NAME_433</key>
@@ -1134,6 +1218,14 @@
   <message>
     <key>STAGE_NAME_442</key>
     <original>ボルド大坑道</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_443</key>
+    <original>水声の瞑堂</original>
+  </message>
+  <message>
+    <key>STAGE_NAME_444</key>
+    <original>魔赤島・山頂</original>
   </message>
   <message>
     <key>STAGE_NAME_452</key>

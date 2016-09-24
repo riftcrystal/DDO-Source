@@ -104,7 +104,8 @@
   </message>
   <message>
     <key>REWARD_MSG_NOTION_FINISH</key>
-    <original>報酬を保管ボックスに受け取りました</original>
+    <original>報酬を受け取りました
+（アイテムは保管ボックスに送られます）</original>
   </message>
   <message>
     <key>REWARD_MSG_ANNOUNCE_QCLEAR</key>

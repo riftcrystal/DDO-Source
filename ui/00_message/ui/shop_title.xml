@@ -167,4 +167,12 @@
     <key>shop_title_depositbox</key>
     <original>Storage Chest</original>
   </message>
+  <message>
+    <key>shop_title_boxgacha</key>
+    <original>Box Treasure Lot</original>
+  </message>
+  <message>
+    <key>shop_title_boxgacha_sub</key>
+    <original>ボックストレジャーズロット</original>
+  </message>
 </resource>

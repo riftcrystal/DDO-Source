@@ -29,6 +29,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>屍のすすり泣く地</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>禊の神殿　離殿</original>
   </message>
   <message>
@@ -54,5 +58,9 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>湖底連絡路</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>幽玄の霊堂</original>
   </message>
 </resource>

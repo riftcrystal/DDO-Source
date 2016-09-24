@@ -5,6 +5,14 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>魔赤島・絶崖</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>魔赤島・山頂</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>調査隊駐屯地</original>
   </message>
   <message>
@@ -37,6 +45,10 @@
   </message>
   <message>
     <key>SPOT_NAME_</key>
+    <original>陽射す地下洞</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
     <original>せせらぎの地下聖堂</original>
   </message>
   <message>
@@ -46,5 +58,21 @@
   <message>
     <key>SPOT_NAME_</key>
     <original>侵食魔の巣窟　奥底</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>橋向かいの坑道</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>滝鳴洞穴</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>菌糸の襲窟</original>
+  </message>
+  <message>
+    <key>SPOT_NAME_</key>
+    <original>水声の瞑堂</original>
   </message>
 </resource>
