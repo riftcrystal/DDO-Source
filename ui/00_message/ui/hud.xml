@@ -251,4 +251,12 @@
     <key>hud_commontext_cs_button_triangle</key>
     <original>&lt;PADM&gt;&lt;ICON PAD_RU&gt;ボタン&lt;/PADM&gt;&lt;KEYM&gt;&lt;ICON MOUSE_CL_R&gt;クリック&lt;/KEYM&gt;</original>
   </message>
+  <message>
+    <key>hud_get_announce_pp</key>
+    <original>&lt;VAL&gt; &lt;UNIT PP&gt;</original>
+  </message>
+  <message>
+    <key>hud_get_announce_pp_ex</key>
+    <original>&lt;VAL&gt; &lt;VAL&gt; &lt;UNIT PP&gt;</original>
+  </message>
 </resource>
