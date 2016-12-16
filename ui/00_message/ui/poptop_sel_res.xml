@@ -213,7 +213,7 @@
   </message>
   <message>
     <key>poptop_clan_management</key>
-    <original>クラン管理</original>
+    <original>クランステータス</original>
   </message>
   <message>
     <key>poptop_clan_entry_now</key>
@@ -281,7 +281,7 @@
   </message>
   <message>
     <key>poptop_clan_member_num</key>
-    <original>&lt;VAL&gt;名</original>
+    <original>メンバー&lt;VAL&gt;名</original>
   </message>
   <message>
     <key>poptop_rim_stone_lost_pawn</key>
@@ -325,7 +325,7 @@
   </message>
   <message>
     <key>poptop_depositbox_menu_01</key>
-    <original>通常枠</original>
+    <original>引き出す / 預ける</original>
   </message>
   <message>
     <key>poptop_clan_invite_direct</key>
@@ -350,5 +350,21 @@
   <message>
     <key>poptop_deli_box</key>
     <original>アイテムポスト</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_4</key>
+    <original>ポーン遠征隊の状況確認</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_1</key>
+    <original>拠点拡張</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_2</key>
+    <original>ポーン遠征隊支援</original>
+  </message>
+  <message>
+    <key>poptop_clan_kyoten_3</key>
+    <original>クラン執務官の変更</original>
   </message>
 </resource>

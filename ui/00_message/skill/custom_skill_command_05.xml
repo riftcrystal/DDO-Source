@@ -5,14 +5,14 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_58</key>
-    <original>セットボタンを押して詠唱、詠唱完了で発動
-&lt;PADM&gt;&lt;ICON STG_JUMP&gt;で終了&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;で終了&lt;/KEYM&gt;
+    <original>セットボタンを押す
+&lt;KC JUMP&gt;で終了
 &lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;で照射角度を調整</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_59</key>
-    <original>セットボタンを押して詠唱、詠唱完了で発動
-&lt;PADM&gt;&lt;ICON STG_JUMP&gt;で終了&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;で終了&lt;/KEYM&gt;
+    <original>セットボタンを押す
+&lt;KC JUMP&gt;で終了
 &lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;で照射角度を調整</original>
   </message>
   <message>
@@ -37,8 +37,8 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_65</key>
-    <original>セットボタンを押して詠唱、詠唱完了で発動
-&lt;PADM&gt;&lt;ICON STG_JUMP&gt;で終了&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;で終了&lt;/KEYM&gt;
+    <original>セットボタンを押す
+&lt;KC JUMP&gt;で終了
 &lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;で照射角度を調整</original>
   </message>
   <message>
@@ -55,8 +55,12 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_05_136</key>
-    <original>セットボタンを押して詠唱、詠唱完了で発動
-&lt;PADM&gt;&lt;ICON STG_JUMP&gt;で終了&lt;KEYM&gt;&lt;ICON KB_SPACE&gt;で終了&lt;/KEYM&gt;
+    <original>セットボタンを押す
+&lt;KC JUMP&gt;で終了
 &lt;PADM&gt;右スティック&lt;KEYM&gt;マウス移動&lt;/KEYM&gt;で照射角度を調整</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_05_135</key>
+    <original>セットボタンを押す</original>
   </message>
 </resource>

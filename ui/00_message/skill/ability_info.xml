@@ -51,6 +51,11 @@
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_405</key>
+    <original>通常状態でのスピリットゲージの減少速度が低下する
+&lt;COL ffdc78&gt;LV UP毎により減少速度がさらに低下&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_4</key>
     <original>盾弾きの発動時に敵を気絶させやすくなる
 &lt;COL ffdc78&gt;LV UP毎に気絶攻力がより増加&lt;/COL&gt;</original>
@@ -104,6 +109,12 @@
     <original>鉱泉に浸かったときの
 効能持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_415</key>
+    <original>アイテムを採取した際に体力が回復する
+（敵からのドロップアイテムと宝箱は除く）
+&lt;COL ffdc78&gt;LV UP毎に回復量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_15</key>
@@ -162,6 +173,13 @@
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_418</key>
+    <original>タッチアクションで
+状態異常を回復したパーティメンバーの
+スタミナを一定時間上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_5</key>
     <original>盾弾きの攻撃範囲が拡張される
 &lt;COL ffdc78&gt;LV UP毎に攻撃範囲がより拡張&lt;/COL&gt;</original>
@@ -217,6 +235,11 @@
 表示範囲が拡大する</original>
   </message>
   <message>
+    <key>ABILITY_INFO_406</key>
+    <original>スカー・ムーヴの旋回速度が上昇する
+&lt;COL ffdc78&gt;LV UP毎に速度がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_1</key>
     <original>斬り崩しの予備動作が短縮され
 より素早く剣を振り下ろすことができる
@@ -247,7 +270,7 @@
   <message>
     <key>ABILITY_INFO_130</key>
     <original>火属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_168</key>
@@ -271,6 +294,11 @@
     <original>各種回復アイテムを使ったときに
 より高い効果が得られる
 &lt;COL ffdc78&gt;LV UP毎に効果がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_404</key>
+    <original>瀕死状態中、攻撃時のスピリットゲージの蓄積量が増加
+&lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_9</key>
@@ -301,7 +329,7 @@
   <message>
     <key>ABILITY_INFO_131</key>
     <original>氷属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_160</key>
@@ -325,6 +353,13 @@
     <original>一定時間、特殊効果が付与されるアイテムの
 効果持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_411</key>
+    <original>アイテムを採取した際に
+スピリットゲージの蓄積量が上昇する
+（敵からのドロップアイテムと宝箱は除く）
+&lt;COL ffdc78&gt;LV UP毎にゲージ蓄積量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_16</key>
@@ -359,7 +394,7 @@
   <message>
     <key>ABILITY_INFO_132</key>
     <original>雷属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_161</key>
@@ -385,6 +420,13 @@
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_417</key>
+    <original>タッチアクションで
+状態異常を回復したパーティメンバーの
+物理防御力と魔法防御力を一定時間上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_6</key>
     <original>盾弾きの発動時にスタミナが一定量回復する
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
@@ -392,7 +434,7 @@
   <message>
     <key>ABILITY_INFO_50</key>
     <original>鬼人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_64</key>
@@ -413,7 +455,7 @@
   <message>
     <key>ABILITY_INFO_146</key>
     <original>魔族系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_169</key>
@@ -438,14 +480,20 @@
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_413</key>
+    <original>ブーストを発動すると
+物理防御力と魔法防御力を一定時間上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_25</key>
     <original>軟体系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_48</key>
     <original>有翼系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_69</key>
@@ -462,12 +510,12 @@
   <message>
     <key>ABILITY_INFO_125</key>
     <original>巨人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_148</key>
     <original>呪詛系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_173</key>
@@ -492,19 +540,24 @@
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_408</key>
+    <original>ブーストを発動すると、スタミナが回復する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_23</key>
     <original>亜人系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_49</key>
     <original>鬼人系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_75</key>
     <original>骸骨系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_86</key>
@@ -544,19 +597,26 @@
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_416</key>
+    <original>タッチアクションで
+状態異常を回復したパーティメンバーの
+物理攻撃力と魔法攻撃力を一定時間上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間がより上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_24</key>
     <original>軟体系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_47</key>
     <original>有翼系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_73</key>
     <original>腐死系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_88</key>
@@ -599,9 +659,15 @@
 &lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_409</key>
+    <original>敵の攻撃をスカー・ムーヴで回避すると
+スタミナが回復する
+&lt;COL ffdc78&gt;LV UP毎にスタミナ回復量がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_22</key>
     <original>亜人系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_31</key>
@@ -611,7 +677,7 @@
   <message>
     <key>ABILITY_INFO_74</key>
     <original>骸骨系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_77</key>
@@ -652,6 +718,12 @@
 &lt;COL ffdc78&gt;LV UP毎に移動速度をさらに維持&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_414</key>
+    <original>敵の攻撃をスカー・ムーヴで回避した場合の
+スピリットゲージの上昇量が増加する
+&lt;COL ffdc78&gt;LV UP毎にスピリットゲージがより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_10</key>
     <original>スタミナが一定量以上のとき
 筋力が増加する
@@ -665,7 +737,7 @@
   <message>
     <key>ABILITY_INFO_72</key>
     <original>腐死系の敵から受けるダメージ量が減少する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_80</key>
@@ -705,6 +777,11 @@
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_410</key>
+    <original>エイド／エイド・モールの展開時間が延長される
+&lt;COL ffdc78&gt;LV UP毎に展開時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_2</key>
     <original>えぐり突き時の攻撃速度が上昇する
 &lt;COL ffdc78&gt;LV UP毎に攻撃速度がより上昇&lt;/COL&gt;</original>
@@ -723,7 +800,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_95</key>
-    <original>魔防低下の状態異常にかかりにくくなる
+    <original>魔防低下の状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -735,7 +812,7 @@
   <message>
     <key>ABILITY_INFO_134</key>
     <original>闇属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_156</key>
@@ -759,6 +836,12 @@
 &lt;COL ffdc78&gt;LV UP毎に筋力/魔力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_433</key>
+    <original>パーティーメンバーを助け起こすと
+自身の物理攻撃力が一定時間増加する
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_12</key>
     <original>盾での攻撃時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
@@ -776,7 +859,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_96</key>
-    <original>物防低下の状態異常にかかりにくくなる
+    <original>物防低下の状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -812,6 +895,13 @@
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_422</key>
+    <original>エンチャントを受けた際に
+エンチャントと同属性の攻撃による
+ダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎によりダメージさらに軽減&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_17</key>
     <original>敵に拘束された状態で受けるダメージ量が軽減される
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
@@ -829,7 +919,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_97</key>
-    <original>呪いの状態異常にかかりにくくなる
+    <original>呪いの状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -864,6 +954,11 @@
   <message>
     <key>ABILITY_INFO_226</key>
     <original>マップ上の宝箱ポイント表示範囲が拡大する</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_423</key>
+    <original>助け起こし中、耐久力が上昇する
+&lt;COL ffdc78&gt;LV UP毎に耐久力がより上昇&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_19</key>
@@ -923,6 +1018,12 @@
 &lt;COL ffdc78&gt;LV UP毎に発動体力条件がより緩和&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_424</key>
+    <original>助け起こしたパーティーメンバーの
+最大スタミナが一定時間増加する
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_8</key>
     <original>体力が一定量以上のとき筋力が増加する
 &lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
@@ -951,7 +1052,7 @@
   <message>
     <key>ABILITY_INFO_133</key>
     <original>聖属性攻撃によって与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_153</key>
@@ -973,6 +1074,11 @@
     <key>ABILITY_INFO_238</key>
     <original>夜間に最大体力が増加する
 &lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_427</key>
+    <original>侵食系の敵から受けるダメージ量が減少する
+&lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_18</key>
@@ -1031,6 +1137,11 @@
 &lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_412</key>
+    <original>触芽の封印時間が延長する
+&lt;COL ffdc78&gt;LV UP毎により封印時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_3</key>
     <original>盾弾きの発動時に敵の体勢を崩しやすくなる
 &lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
@@ -1086,6 +1197,11 @@
 &lt;COL ffdc78&gt;LV UP毎に安全落差がより延長&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_425</key>
+    <original>侵食状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_13</key>
     <original>盾での攻撃時に
 敵を気絶させやすくなる
@@ -1116,7 +1232,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_144</key>
-    <original>魔攻低下の状態異常にかかりにくくなる
+    <original>魔攻低下の状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1135,8 +1251,13 @@
 &lt;COL ffdc78&gt;LV UP毎にスタミナ回復速度がより上昇&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_426</key>
+    <original>侵食核に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_21</key>
-    <original>物攻低下の状態異常にかかりにくくなる
+    <original>物攻低下の状態異常への耐性が増加する
 &lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1183,6 +1304,11 @@
 &lt;COL ffdc78&gt;LV UP毎にダメージさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_407</key>
+    <original>ブースト中のスピリットゲージ減少速度が低下する
+&lt;COL ffdc78&gt;LV UP毎により減少速度がさらに低下&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_11</key>
     <original>盾での攻撃時に与えるダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
@@ -1205,7 +1331,7 @@
   <message>
     <key>ABILITY_INFO_107</key>
     <original>しがみつき時に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_135</key>
@@ -1230,8 +1356,15 @@
   </message>
   <message>
     <key>ABILITY_INFO_248</key>
-    <original>毒の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>毒の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_420</key>
+    <original>エンチャントを受けた際に
+同属性の状態異常にかかっている敵に対して
+ダメージ量が上昇する
+&lt;COL ffdc78&gt;LV UP毎にダメージ量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_7</key>
@@ -1284,8 +1417,14 @@
   </message>
   <message>
     <key>ABILITY_INFO_249</key>
-    <original>遅延の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>遅延の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_421</key>
+    <original>エンチャントを受けた際に
+付与される状態異常値が増加する
+&lt;COL ffdc78&gt;LV UP毎に状態異常値がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_14</key>
@@ -1316,7 +1455,7 @@
   <message>
     <key>ABILITY_INFO_150</key>
     <original>人間系の敵に与えるダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメ―ジがより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_158</key>
@@ -1335,8 +1474,13 @@
   </message>
   <message>
     <key>ABILITY_INFO_250</key>
-    <original>睡眠の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>睡眠の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_428</key>
+    <original>侵食系の敵に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_20</key>
@@ -1345,8 +1489,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_251</key>
-    <original>気絶の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>気絶の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_308</key>
@@ -1398,9 +1542,15 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_429</key>
+    <original>スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_252</key>
-    <original>水濡れの状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>水濡れの状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_296</key>
@@ -1457,9 +1607,15 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_430</key>
+    <original>エア・スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_253</key>
-    <original>油濡れの状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>油濡れの状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_297</key>
@@ -1508,7 +1664,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
     <key>ABILITY_INFO_384</key>
     <original>魔人斬り/真・魔人斬りのダメージ量が増加する
 &lt;COL ffdc78&gt;LV UP毎にダメージがより増加
-LV5～6で気絶力が増加&lt;/COL&gt;</original>
+LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_396</key>
@@ -1517,9 +1673,15 @@ LV5～6で気絶力が増加&lt;/COL&gt;</original>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_432</key>
+    <original>フォル・スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_254</key>
-    <original>封印の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>封印の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_299</key>
@@ -1571,14 +1733,19 @@ LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_394</key>
-    <original>敵のヘイトを取っている間、
+    <original>タンクとして敵の注目を集めている間、
 物理防御力と魔法防御力が上昇する
 &lt;COL ffdc78&gt;LV UP毎に物理/魔法防御力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_434</key>
+    <original>最大体力が増加する
+&lt;COL ffdc78&gt;LV UP毎に最大体力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_255</key>
-    <original>軟体の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>軟体の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_298</key>
@@ -1634,9 +1801,15 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_431</key>
+    <original>スラスト・モールのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_256</key>
-    <original>石化の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>石化の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_300</key>
@@ -1687,39 +1860,281 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に耐久力がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_439</key>
+    <original>炎/氷/雷/聖/闇の属性の攻撃を受けた時
+ダメージ量を軽減
+&lt;COL ffdc78&gt;LV UP毎によりダメージ量をさらに軽減&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_257</key>
-    <original>黄金化の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>黄金化の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_301</key>
-    <original>盾の防御性能が向上しより強い攻撃を防ぎやすくなる
+    <original>盾の防御性能が向上し
+より強い攻撃を防ぎやすくなる
 &lt;COL ffdc78&gt;LV UP毎に盾ガード値がより増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>ABILITY_INFO_314</key>
+    <original>弓射ちのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_326</key>
+    <original>ヒールオーラ/ヒールオーラエクス/
+ライドヒールオーラの回復量が増加する
+&lt;COL ffdc78&gt;LV UP毎に回復量がより増加
+LV5～6で展開中の耐久力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_338</key>
+    <original>シールドブロウのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_350</key>
+    <original>連斬のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_359</key>
+    <original>マジックボールのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_374</key>
+    <original>闘波の矢のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でジャストタイミングで放った際のダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_386</key>
+    <original>破斬のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_398</key>
+    <original>アルケムのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_435</key>
+    <original>スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>ABILITY_INFO_258</key>
-    <original>炎防低下の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>炎防低下の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_302</key>
+    <original>連撃のダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_315</key>
+    <original>仕込み爆矢射ちのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_327</key>
+    <original>ブラストビットのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_339</key>
+    <original>ウィークライトのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_351</key>
+    <original>百裂斬り/阿修羅斬りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_362</key>
+    <original>マジックトラップのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で設置時間が延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_375</key>
+    <original>助真の矢の回復量が増加する
+&lt;COL ffdc78&gt;LV UP毎に回復量がより増加
+LV5～6でジャストタイミングで放った際の回復量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_387</key>
+    <original>魔倒斬りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_399</key>
+    <original>アルケム・フーガのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_436</key>
+    <original>エア・スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_259</key>
-    <original>氷防低下の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>氷防低下の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_303</key>
+    <original>斬り崩し/強斬り崩しのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_317</key>
+    <original>矢じり斬りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_329</key>
+    <original>セイントオーラ/セイントオーラエクス
+ライドセイントオーラのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で状態異常蓄積値が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_342</key>
+    <original>フォースバーストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_354</key>
+    <original>乱斬り/大乱斬りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_366</key>
+    <original>マジッククラッカーのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6で詠唱速度が上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_377</key>
+    <original>前蹴りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_390</key>
+    <original>魔人斬り/真・魔人斬りのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_402</key>
+    <original>エリクシルのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_438</key>
+    <original>フォル・スラストのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_260</key>
-    <original>雷防低下の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>雷防低下の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_305</key>
+    <original>えぐり突きのダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_316</key>
+    <original>最大スタミナが増加する
+&lt;COL ffdc78&gt;LV UP毎に最大スタミナがより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_328</key>
+    <original>魔力が増加する
+&lt;COL ffdc78&gt;LV UP毎に魔力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_340</key>
+    <original>盾での攻撃時に敵の体勢を崩しやすくなる
+&lt;COL ffdc78&gt;LV UP毎に吹き飛ばし力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_352</key>
+    <original>筋力が増加する
+&lt;COL ffdc78&gt;LV UP毎に筋力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_364</key>
+    <original>延焼/凍結/感電/聖吸/闇霧の
+状態異常にかかりにくくなる
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_376</key>
+    <original>パーティーメンバーを助け起こすと
+自身の魔法攻撃力が一定時間増加する
+&lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_388</key>
+    <original>しがみつき時に与えるダメージ量が増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_400</key>
+    <original>空中攻撃の威力が増加する
+&lt;COL ffdc78&gt;LV UP毎に威力がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_419</key>
+    <original>エンチャントを受けた際に
+敵に与えるダメージ量がより増加する
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_261</key>
-    <original>聖防低下の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>聖防低下の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>ABILITY_INFO_304</key>
+    <original>溜め動作中に受けるダメージ量が軽減される
+&lt;COL ffdc78&gt;LV UP毎にダメージがさらに軽減&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_262</key>
-    <original>闇防低下の状態異常にかかりにくくなる
-&lt;COL ffdc78&gt;LV UP毎に状態異常値さらに軽減&lt;/COL&gt;</original>
+    <original>闇防低下の状態異常への耐性が増加する
+&lt;COL ffdc78&gt;LV UP毎に耐性がより増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_263</key>
@@ -1917,16 +2332,19 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_451</key>
-    <original>鉱泉に浸かったときの効能持続時間が延長される
+    <original>鉱泉に浸かったときの
+効能持続時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に効果持続時間がより延長</original>
   </message>
   <message>
     <key>ABILITY_INFO_452</key>
-    <original>マップ上のアイテム採取ポイント表示範囲が拡大する</original>
+    <original>マップ上のアイテム採取ポイント
+表示範囲が拡大する</original>
   </message>
   <message>
     <key>ABILITY_INFO_453</key>
-    <original>各種回復アイテムを使ったときにより高い効果が得られる
+    <original>各種回復アイテムを使ったときに
+より高い効果が得られる
 &lt;COL ffdc78&gt;LV UP毎に効果がより上昇&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1937,13 +2355,15 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_455</key>
-    <original>採掘や伐採に使用するアイテムが壊れにくくなる
-&lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇</original>
+    <original>採掘や伐採に使用するアイテムが
+壊れにくくなる
+&lt;COL ffdc78&gt;LV UP毎に壊れにくさがより上昇&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_456</key>
-    <original>水辺や毒沼などの侵入時に移動速度が低下しにくくなる
-&lt;COL ffdc78&gt;LV UP毎に移動速度をより維持する&lt;/COL&gt;</original>
+    <original>水辺や毒沼などの侵入時に
+移動速度が低下しにくくなる
+&lt;COL ffdc78&gt;LV UP毎に移動速度をさらに維持&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_457</key>

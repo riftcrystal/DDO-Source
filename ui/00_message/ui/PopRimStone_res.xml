@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_LV</key>
-    <original>レベル</original>
+    <original>ジョブレベル指定</original>
   </message>
   <message>
     <key>RIM_POP_MSG_CHARACTER_M_SKILL</key>
@@ -85,11 +85,11 @@
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_MALE</key>
-    <original>男</original>
+    <original>男性</original>
   </message>
   <message>
     <key>RIM_POP_MSG_M_GENDER_FEMALE</key>
-    <original>女</original>
+    <original>女性</original>
   </message>
   <message>
     <key>RIM_POP_MSG_SEARCH_JOB</key>
@@ -98,5 +98,9 @@
   <message>
     <key>RIM_POP_MSG_SEARCH_CRAFTSKILL</key>
     <original>クラフトスキルで探す</original>
+  </message>
+  <message>
+    <key>RIM_POP_MSG_CHARACTER_M_IR</key>
+    <original>アイテムランク指定</original>
   </message>
 </resource>

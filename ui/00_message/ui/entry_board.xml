@@ -415,4 +415,12 @@
     <key>entry_board_search_designate_ir</key>
     <original>IRを指定する</original>
   </message>
+  <message>
+    <key>entry_board_mission_info_bt_multi</key>
+    <original>マルチプレイ</original>
+  </message>
+  <message>
+    <key>entry_board_mission_info_bt_solo</key>
+    <original>ソロプレイ</original>
+  </message>
 </resource>

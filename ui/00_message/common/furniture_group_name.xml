@@ -9,7 +9,7 @@
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_3</key>
-    <original>ベッド/窓辺</original>
+    <original>ベッド</original>
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_4</key>
@@ -21,6 +21,18 @@
   </message>
   <message>
     <key>FURNITURE_GROUP_NAME_8</key>
-    <original>室内</original>
+    <original>室内の装飾</original>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_9</key>
+    <original>家具</original>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_10</key>
+    <original>部屋着</original>
+  </message>
+  <message>
+    <key>FURNITURE_GROUP_NAME_11</key>
+    <original>庭具</original>
   </message>
 </resource>

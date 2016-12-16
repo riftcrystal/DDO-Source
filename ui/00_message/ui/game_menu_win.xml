@@ -218,4 +218,8 @@
     <key>menu_boxgacha</key>
     <original>ボックストレジャーズロット</original>
   </message>
+  <message>
+    <key>menu_time_event</key>
+    <original>期間イベント</original>
+  </message>
 </resource>

@@ -15,4 +15,8 @@
     <key>PAWN_STATUS_RES_CRAFT</key>
     <original>クラフト中</original>
   </message>
+  <message>
+    <key>PAWN_STATUS_RES_EXPEDITION</key>
+    <original>遠征中</original>
+  </message>
 </resource>

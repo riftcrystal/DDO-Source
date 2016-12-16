@@ -49,6 +49,14 @@
   </message>
   <message>
     <key>ORDER_CONDITION_1005</key>
-    <original>イリスからより強い装備の入手法について学ぶ</original>
+    <original>イリスから十分な装備の準備方法について学ぶ</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1007</key>
+    <original>無し</original>
+  </message>
+  <message>
+    <key>ORDER_CONDITION_1008</key>
+    <original>パーティー内にパートナーポーンがいる</original>
   </message>
 </resource>
