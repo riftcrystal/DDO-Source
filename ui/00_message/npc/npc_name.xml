@@ -2759,4 +2759,24 @@
     <key>NPC_NAME_1056</key>
     <original>ミーア</original>
   </message>
+  <message>
+    <key>NPC_NAME_1057</key>
+    <original>ガルドリン</original>
+  </message>
+  <message>
+    <key>NPC_NAME_1058</key>
+    <original>エリオット</original>
+  </message>
+  <message>
+    <key>NPC_NAME_1059</key>
+    <original>クラウス</original>
+  </message>
+  <message>
+    <key>NPC_NAME_1060</key>
+    <original>メイリーフ</original>
+  </message>
+  <message>
+    <key>NPC_NAME_1061</key>
+    <original>リズ</original>
+  </message>
 </resource>
