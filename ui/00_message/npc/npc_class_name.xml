@@ -342,7 +342,7 @@
     <original>エクストリームミッション</original>
   </message>
   <message>
-    <original>宿屋・よろず屋</original>
+    <original>宿・よろず屋</original>
   </message>
   <message>
     <original>クラン執務官</original>
@@ -351,7 +351,10 @@
     <original>クラン執務官</original>
   </message>
   <message>
-    <original>宿屋</original>
+    <original>クランダンジョン</original>
+  </message>
+  <message>
+    <original>宿・転職・戦技補佐</original>
   </message>
   <message>
     <original>宿・戦技補佐</original>
@@ -420,6 +423,18 @@
     <original>よろず屋</original>
   </message>
   <message>
+    <original>宿・戦技補佐</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>道具屋</original>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+  </message>
+  <message>
     <original>エリアマスター・戦技補佐</original>
   </message>
   <message>
@@ -432,7 +447,7 @@
     <original>ポーン遠征隊</original>
   </message>
   <message>
-    <original>グランドミッション</original>
+    <original>グランドミッション：呼び覚まされし竜</original>
   </message>
   <message>
     <original>グランドミッション：古代神殿の死闘</original>

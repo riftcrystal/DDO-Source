@@ -943,8 +943,8 @@
     <original>クラフトマスターポーン利用券 x &lt;VAL&gt; を受け取れませんでした</original>
   </message>
   <message>
-    <key>ana_grandmission_get_secretability</key>
-    <original>&lt;NAME ABILITY&gt;を習得しました</original>
+    <key>ana_get_ability</key>
+    <original>アビリティ「&lt;NAME ABILITY&gt;」を習得しました</original>
   </message>
   <message>
     <key>ana_grandmission_get_reward</key>

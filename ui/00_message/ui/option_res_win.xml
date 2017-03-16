@@ -1453,4 +1453,16 @@
     <key>OPTION_MSG_LINK_JOB_KEY_BT_BACK_SAVE_STATE</key>
     <original>変更前に戻す</original>
   </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPECHANGE</key>
+    <original>自動拡大の操作で、&lt;KCTP DASH&gt;の優先行動</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE1</key>
+    <original>ダッシュ</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2</key>
+    <original>オートラン</original>
+  </message>
 </resource>

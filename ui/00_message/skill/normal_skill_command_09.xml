@@ -47,4 +47,8 @@
     <key>NORMAL_SKILL_COMMAND_09_148</key>
     <original>しがみつき中に&lt;KC ATTACK1&gt;を連続して押す</original>
   </message>
+  <message>
+    <key>NORMAL_SKILL_COMMAND_09_164</key>
+    <original>敵の攻撃を引きつけて自身のスキルを放つ</original>
+  </message>
 </resource>
