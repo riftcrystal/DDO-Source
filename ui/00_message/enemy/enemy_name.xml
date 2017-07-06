@@ -1167,4 +1167,8 @@
     <key>ENEMY_NAME_313</key>
     <original>黒騎士・幻影</original>
   </message>
+  <message>
+    <key>ENEMY_NAME_370</key>
+    <original>サイクロプス</original>
+  </message>
 </resource>

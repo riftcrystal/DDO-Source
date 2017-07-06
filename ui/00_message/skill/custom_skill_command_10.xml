@@ -43,4 +43,9 @@ LV.６で再度セットボタンを押すと派生斬り
 発現後、再度セットボタンを押すと攻撃
 アタックブーストで強化可能</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_10_153</key>
+    <original>セットボタンを押す
+アタックブーストで強化可能</original>
+  </message>
 </resource>

@@ -75,4 +75,12 @@ LV.６でヒット数増加／爆発に周囲の敵を巻き込む&lt;/COL&gt;</
 &lt;COL ffdc78&gt;LV UP毎に罠の攻撃回数上昇
 LV.６で空中でも発動可能&lt;/COL&gt;</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_09_114</key>
+    <original>放射状に錬成物質の粒を発射する
+敵との距離によってヒット数が変化する
+複数ヒットさせることで敵を弾き飛ばす
+&lt;COL ffdc78&gt;LV UP毎に攻撃性能上昇
+LV.６で攻撃範囲拡大／ヒット数増加（３→５）&lt;/COL&gt;</original>
+  </message>
 </resource>
