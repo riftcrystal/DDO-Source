@@ -39,4 +39,8 @@
     <key>TUTORIAL_CATEGORY_21</key>
     <original>シナリオ進行</original>
   </message>
+  <message>
+    <key>TUTORIAL_CATEGORY_22</key>
+    <original>サブストーリー</original>
+  </message>
 </resource>

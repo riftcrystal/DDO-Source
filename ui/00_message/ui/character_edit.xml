@@ -598,4 +598,8 @@
     <key>EDIT_MSG_EX</key>
     <original>EX</original>
   </message>
+  <message>
+    <key>EDIT_MSG_TITLE_PAWNREEDIT</key>
+    <original>Pawn Reincarnation</original>
+  </message>
 </resource>

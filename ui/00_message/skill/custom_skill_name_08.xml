@@ -55,4 +55,12 @@
     <key>CUSTOM_SKILL_NAME_08_142</key>
     <original>触裂魔矢</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_184</key>
+    <original>炎魔弓 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_185</key>
+    <original>炎魔弓 技</original>
+  </message>
 </resource>

@@ -59,4 +59,12 @@
     <original>セットボタンを押して詠唱、詠唱完了で魔法杭発現
 発現後、再度セットボタンを押すと放電開始</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_176</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_06_177</key>
+    <original>セットボタンを押して詠唱、詠唱完了で発動</original>
+  </message>
 </resource>

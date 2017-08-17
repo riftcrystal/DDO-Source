@@ -203,4 +203,8 @@
     <key>CONDITION_NAME_62</key>
     <original>アイテム封印</original>
   </message>
+  <message>
+    <key>CONDITION_NAME_63</key>
+    <original>敵視上昇</original>
+  </message>
 </resource>

@@ -57,4 +57,12 @@
 発動中にセットボタン再入力で追い打ち
 &lt;KC JUMP&gt;で急停止</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_160</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_02_161</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

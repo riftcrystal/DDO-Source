@@ -1,627 +1,627 @@
 ﻿<resource>
   <message>
     <key>simple_text_2388</key>
-    <original>初めまして</original>
+    <original>/d additem 14256 1 1</original>
   </message>
   <message>
     <key>simple_text_2389</key>
-    <original>よろしくお願いします</original>
+    <original>/d additem 14248 1 1</original>
   </message>
   <message>
     <key>simple_text_2390</key>
-    <original>おはよう</original>
+    <original>/d additem 16112 1 1</original>
   </message>
   <message>
     <key>simple_text_2391</key>
-    <original>こんにちは</original>
+    <original>/d additem 16747 1 1</original>
   </message>
   <message>
     <key>simple_text_2392</key>
-    <original>こんばんは</original>
+    <original>/d additem 16748 1 1</original>
   </message>
   <message>
     <key>simple_text_2393</key>
-    <original>おやすみなさい</original>
+    <original>/d additem 16167 1 1</original>
   </message>
   <message>
     <key>simple_text_2394</key>
-    <original>さようなら</original>
+    <original>/d additem 16168 1 1</original>
   </message>
   <message>
     <key>simple_text_2395</key>
-    <original>今日は楽しかったです</original>
+    <original>/d additem 16169 1 1</original>
   </message>
   <message>
     <key>simple_text_2396</key>
-    <original>お疲れさまでした！</original>
+    <original>/d additem 11760 1 1</original>
   </message>
   <message>
     <key>simple_text_2397</key>
-    <original>また遊びましょう</original>
+    <original>/d additem 16174 1 1</original>
   </message>
   <message>
     <key>simple_text_2398</key>
-    <original>ただいま</original>
+    <original>/d additem 17069 1 1</original>
   </message>
   <message>
     <key>simple_text_2399</key>
-    <original>おかえり</original>
+    <original>/d additem 17070 1 1</original>
   </message>
   <message>
     <key>simple_text_2400</key>
-    <original>おめでとう！</original>
+    <original>/d additem 17071 1 1</original>
   </message>
   <message>
     <key>simple_text_2401</key>
-    <original>よくやった！</original>
+    <original>/d additem 17072 1 1</original>
   </message>
   <message>
     <key>simple_text_2402</key>
-    <original>がんばって！</original>
+    <original>/d additem 17073 1 1</original>
   </message>
   <message>
     <key>simple_text_2403</key>
-    <original>やったー！！！</original>
+    <original>/d additem 17074 1 1</original>
   </message>
   <message>
     <key>simple_text_2404</key>
-    <original>ありがとう</original>
+    <original>/d additem 13226 1 1</original>
   </message>
   <message>
     <key>simple_text_2405</key>
-    <original>どういたしまして</original>
+    <original>/d additem 16134 1 1</original>
   </message>
   <message>
     <key>simple_text_2406</key>
-    <original>気を付けてください</original>
+    <original>/d additem 13227 1 1</original>
   </message>
   <message>
     <key>simple_text_2407</key>
-    <original>ごめんなさい</original>
+    <original>/d additem 14252 1 1</original>
   </message>
   <message>
     <key>simple_text_2408</key>
-    <original>許してください</original>
+    <original>/d additem 16170 1 1</original>
   </message>
   <message>
     <key>simple_text_2409</key>
-    <original>残念です</original>
+    <original>/d additem 16171 1 1</original>
   </message>
   <message>
     <key>simple_text_2411</key>
-    <original>ちょっといいですか？</original>
+    <original>/d additem 16172 1 1</original>
   </message>
   <message>
     <key>simple_text_2412</key>
-    <original>誰ですか？</original>
+    <original>/d additem 16173 1 1</original>
   </message>
   <message>
     <key>simple_text_2413</key>
-    <original>どちらですか？</original>
+    <original>/d additem 16745 1 1</original>
   </message>
   <message>
     <key>simple_text_2414</key>
-    <original>どうすればいいですか？</original>
+    <original>/d additem 16746 1 1</original>
   </message>
   <message>
     <key>simple_text_2415</key>
-    <original>何ですか？</original>
+    <original>/d additem 17115 1 1</original>
   </message>
   <message>
     <key>simple_text_2416</key>
-    <original>いつですか？</original>
+    <original>/d additem 17116 1 1</original>
   </message>
   <message>
     <key>simple_text_2417</key>
-    <original>いくつですか？</original>
+    <original>/d additem 17117 1 1</original>
   </message>
   <message>
     <key>simple_text_2419</key>
-    <original>どこにですか？</original>
+    <original>/d additem 17118 1 1</original>
   </message>
   <message>
     <key>simple_text_2420</key>
-    <original>どこに行きますか？</original>
+    <original>/d additem 17119 1 1</original>
   </message>
   <message>
     <key>simple_text_2421</key>
-    <original>持っていますか？</original>
+    <original>/d additem 13225 1 1</original>
   </message>
   <message>
     <key>simple_text_2422</key>
-    <original>今どんな武器を持っていますか？</original>
+    <original>/d additem 13228 1 1</original>
   </message>
   <message>
     <key>simple_text_2424</key>
-    <original>できますか？</original>
+    <original>/d additem 13229 1 1</original>
   </message>
   <message>
     <key>simple_text_2425</key>
-    <original>フレンドになってくれませんか？</original>
+    <original>/d additem 17134 1 1</original>
   </message>
   <message>
     <key>simple_text_2426</key>
-    <original>休憩しませんか？</original>
+    <original>/d additem 17135 1 1</original>
   </message>
   <message>
     <key>simple_text_2427</key>
-    <original>助けはいりますか？</original>
+    <original>/d additem 17136 1 1</original>
   </message>
   <message>
     <key>simple_text_2428</key>
-    <original>なぜですか？</original>
+    <original>/d additem 17137 1 1</original>
   </message>
   <message>
     <key>simple_text_2429</key>
-    <original>どうしてですか？</original>
+    <original>/d additem 17138 1 1</original>
   </message>
   <message>
     <key>simple_text_2430</key>
-    <original>クランに入りませんか？</original>
+    <original>/d additem 17139 1 1</original>
   </message>
   <message>
     <key>simple_text_2433</key>
-    <original>クランに入れてくれませんか？</original>
+    <original>/d additem 17140 1 1</original>
   </message>
   <message>
     <key>simple_text_2434</key>
-    <original>グループチャットに入りませんか？</original>
+    <original>/d additem 17141 1 1</original>
   </message>
   <message>
     <key>simple_text_2435</key>
-    <original>グループチャットに入れてくれませんか？</original>
+    <original>/d additem 17142 1 1</original>
   </message>
   <message>
     <key>simple_text_2436</key>
-    <original>どのジョブを持っていますか？</original>
+    <original>/d additem 17143 1 1</original>
   </message>
   <message>
     <key>simple_text_2437</key>
-    <original>他にどのジョブができますか？</original>
+    <original>/d additem 17144 1 1</original>
   </message>
   <message>
     <key>simple_text_2438</key>
-    <original>準備はできていますか？</original>
+    <original>/d additem 17133 1 1</original>
   </message>
   <message>
     <key>simple_text_2439</key>
-    <original>わかりません</original>
+    <original>/d additem 13230 1 1</original>
   </message>
   <message>
     <key>simple_text_2441</key>
-    <original>いりません</original>
+    <original>/d additem 16175 1 1</original>
   </message>
   <message>
     <key>simple_text_2442</key>
-    <original>はい、お願いします</original>
+    <original>/d additem 16176 1 1</original>
   </message>
   <message>
     <key>simple_text_2443</key>
-    <original>お願いします</original>
+    <original>/d additem 16749 1 1</original>
   </message>
   <message>
     <key>simple_text_2444</key>
-    <original>わかりました</original>
+    <original>/d additem 16750 1 1</original>
   </message>
   <message>
     <key>simple_text_2445</key>
-    <original>後でまたお話ししてください</original>
+    <original>/d additem 16857 1 1</original>
   </message>
   <message>
     <key>simple_text_2447</key>
-    <original>今は個人行動を優先中です</original>
+    <original>/d additem 17059 1 1</original>
   </message>
   <message>
     <key>simple_text_2448</key>
-    <original>答えたいですが、表現がわかりません</original>
+    <original>/d additem 17060 1 1</original>
   </message>
   <message>
     <key>simple_text_2449</key>
-    <original>なるほど</original>
+    <original>/d additem 17061 1 1</original>
   </message>
   <message>
     <key>simple_text_2450</key>
-    <original>せっかくですが遠慮します</original>
+    <original>/d additem 17062 1 1</original>
   </message>
   <message>
     <key>simple_text_2451</key>
-    <original>へぇー</original>
+    <original>/d additem 16177 1 1</original>
   </message>
   <message>
     <key>simple_text_2454</key>
-    <original>えーっと――</original>
+    <original>/d additem 13232 1 1</original>
   </message>
   <message>
     <key>simple_text_2455</key>
-    <original>えっ！？</original>
+    <original>/d additem 13233 1 1</original>
   </message>
   <message>
     <key>simple_text_2456</key>
-    <original>本当に？</original>
+    <original>/d additem  1 1</original>
   </message>
   <message>
     <key>simple_text_2457</key>
-    <original>ＯＫ！</original>
+    <original>/d additem 13234 1 1</original>
   </message>
   <message>
     <key>simple_text_2463</key>
-    <original>むむむ</original>
+    <original>/d additem  1 1</original>
   </message>
   <message>
     <key>simple_text_2464</key>
-    <original>もうすぐ別の予定があります</original>
+    <original>/d additem 13231 1 1</original>
   </message>
   <message>
     <key>simple_text_2466</key>
-    <original>はい</original>
+    <original>/d additem 13235 1 1</original>
   </message>
   <message>
     <key>simple_text_2467</key>
-    <original>いいえ</original>
+    <original>/d additem 13236 1 1</original>
   </message>
   <message>
     <key>simple_text_2470</key>
-    <original>説明します</original>
+    <original>/d additem 13237 1 1</original>
   </message>
   <message>
     <key>simple_text_2471</key>
-    <original>問題ないです</original>
+    <original>/d additem 13238 1 1</original>
   </message>
   <message>
     <key>simple_text_2472</key>
-    <original>できません</original>
+    <original>/d additem 16178 1 1</original>
   </message>
   <message>
     <key>simple_text_2473</key>
-    <original>しないでください</original>
+    <original>/d additem 16179 1 1</original>
   </message>
   <message>
     <key>simple_text_2477</key>
-    <original>お任せします</original>
+    <original>/d additem 16180 1 1</original>
   </message>
   <message>
     <key>simple_text_2478</key>
-    <original>仕事の時間です</original>
+    <original>/d additem 13239 1 1</original>
   </message>
   <message>
     <key>simple_text_2479</key>
-    <original>約束があります</original>
+    <original>/d additem 14251 1 1</original>
   </message>
   <message>
     <key>simple_text_2482</key>
-    <original>眠くなりました</original>
+    <original>/d additem 16181 1 1</original>
   </message>
   <message>
     <key>simple_text_2483</key>
-    <original>疲れました</original>
+    <original>/d additem 16751 1 1</original>
   </message>
   <message>
     <key>simple_text_2484</key>
-    <original>用事があります</original>
+    <original>/d additem 16752 1 1</original>
   </message>
   <message>
     <key>simple_text_2486</key>
-    <original>体調が悪いです</original>
+    <original>/d additem 13241 1 1</original>
   </message>
   <message>
     <key>simple_text_2488</key>
-    <original>気が向きません</original>
+    <original>/d additem 13242 1 1</original>
   </message>
   <message>
     <key>simple_text_2489</key>
-    <original>興味があります</original>
+    <original>/d additem 13243 1 1</original>
   </message>
   <message>
     <key>simple_text_2490</key>
-    <original>戦闘中です</original>
+    <original>/d additem 16186 1 1</original>
   </message>
   <message>
     <key>simple_text_2491</key>
-    <original>お金を稼ぎたいです</original>
+    <original>/d additem 14249 1 1</original>
   </message>
   <message>
     <key>simple_text_2492</key>
-    <original>覚えていません</original>
+    <original>/d additem 14254 1 1</original>
   </message>
   <message>
     <key>simple_text_2493</key>
-    <original>知りません</original>
+    <original>/d additem 16753 1 1</original>
   </message>
   <message>
     <key>simple_text_2495</key>
-    <original>使ったばかりです</original>
+    <original>/d additem 16754 1 1</original>
   </message>
   <message>
     <key>simple_text_2496</key>
-    <original>経験値が欲しいです</original>
+    <original>/d additem 13244 1 1</original>
   </message>
   <message>
     <key>simple_text_2497</key>
-    <original>間違えました</original>
+    <original>/d additem 16187 1 1</original>
   </message>
   <message>
     <key>simple_text_2498</key>
-    <original>すでに誘われています</original>
+    <original>/d additem 16188 1 1</original>
   </message>
   <message>
     <key>simple_text_2499</key>
-    <original>すでに持っています</original>
+    <original>/d additem 17063 1 1</original>
   </message>
   <message>
     <key>simple_text_2501</key>
-    <original>募集が終わりました</original>
+    <original>/d additem 17064 1 1</original>
   </message>
   <message>
     <key>simple_text_2502</key>
-    <original>募集中です</original>
+    <original>/d additem 17065 1 1</original>
   </message>
   <message>
     <key>simple_text_2504</key>
-    <original>集まってください</original>
+    <original>/d additem 17066 1 1</original>
   </message>
   <message>
     <key>simple_text_2505</key>
-    <original>一緒にやりませんか？</original>
+    <original>/d additem 17067 1 1</original>
   </message>
   <message>
     <key>simple_text_2507</key>
-    <original>１人ですか？</original>
+    <original>/d additem 16190 1 1</original>
   </message>
   <message>
     <key>simple_text_2509</key>
-    <original>空きはありますか？</original>
+    <original>/d additem 13245 1 1</original>
   </message>
   <message>
     <key>simple_text_2510</key>
-    <original>誘ってください</original>
+    <original>/d additem 14255 1 1</original>
   </message>
   <message>
     <key>simple_text_2512</key>
-    <original>入れてください</original>
+    <original>/d additem 16755 1 1</original>
   </message>
   <message>
     <key>simple_text_2513</key>
-    <original>リーダーは誰ですか？</original>
+    <original>/d additem 16756 1 1</original>
   </message>
   <message>
     <key>simple_text_2515</key>
-    <original>こちらは短期間でもＯＫです</original>
+    <original>/d additem 13247 1 1</original>
   </message>
   <message>
     <key>simple_text_2516</key>
-    <original>フルパーティーです</original>
+    <original>/d additem 14250 1 1</original>
   </message>
   <message>
     <key>simple_text_2518</key>
-    <original>手伝ってください</original>
+    <original>/d additem 16182 1 1</original>
   </message>
   <message>
     <key>simple_text_2522</key>
-    <original>解散します</original>
+    <original>/d additem 16183 1 1</original>
   </message>
   <message>
     <key>simple_text_2523</key>
-    <original>席を外します</original>
+    <original>/d additem 13246 1 1</original>
   </message>
   <message>
     <key>simple_text_2527</key>
-    <original>レベル差が少ないほうがいいですね</original>
+    <original>/d additem 13248 1 1</original>
   </message>
   <message>
     <key>simple_text_2529</key>
-    <original>タンク</original>
+    <original>/d additem 17145 1 1</original>
   </message>
   <message>
     <key>simple_text_2530</key>
-    <original>近距離アタッカー</original>
+    <original>/d additem 17146 1 1</original>
   </message>
   <message>
     <key>simple_text_2533</key>
-    <original>遠距離アタッカー</original>
+    <original>/d additem 17147 1 1</original>
   </message>
   <message>
     <key>simple_text_2534</key>
-    <original>ヒーラー</original>
+    <original>/d additem 17148 1 1</original>
   </message>
   <message>
     <key>simple_text_2537</key>
-    <original>強化役</original>
+    <original>/d additem 17149 1 1</original>
   </message>
   <message>
     <key>simple_text_2538</key>
-    <original>魔法攻撃役</original>
+    <original>/d additem 17150 1 1</original>
   </message>
   <message>
     <key>simple_text_2539</key>
-    <original>参加を希望します</original>
+    <original>/d additem 17151 1 1</original>
   </message>
   <message>
     <key>simple_text_2540</key>
-    <original>ソロ</original>
+    <original>/d additem 17152 1 1</original>
   </message>
   <message>
     <key>simple_text_9069</key>
-    <original>リーダー</original>
+    <original>/d additem 13251 1 1</original>
   </message>
   <message>
     <key>simple_text_9070</key>
-    <original>ポーンを参加させます</original>
+    <original>/d additem 13252 1 1</original>
   </message>
   <message>
     <key>simple_text_9071</key>
-    <original>引きつける！</original>
+    <original>/d additem 13253 1 1</original>
   </message>
   <message>
     <key>simple_text_9072</key>
-    <original>助けてくれ！</original>
+    <original>/d additem 13792 1 1</original>
   </message>
   <message>
     <key>simple_text_9073</key>
-    <original>回復を頼む</original>
+    <original>/d additem 17086 1 1</original>
   </message>
   <message>
     <key>simple_text_9074</key>
-    <original>回復する！</original>
+    <original>/d additem 17087 1 1</original>
   </message>
   <message>
     <key>simple_text_9075</key>
-    <original>跳ね上げる！</original>
+    <original>/d additem 17088 1 1</original>
   </message>
   <message>
     <key>simple_text_9076</key>
-    <original>こっちだ</original>
+    <original>/d additem 17089 1 1</original>
   </message>
   <message>
     <key>simple_text_9077</key>
-    <original>いまだ、攻撃を！</original>
+    <original>/d additem 17090 1 1</original>
   </message>
   <message>
     <key>simple_text_9078</key>
-    <original>退くぞ！</original>
+    <original>/d additem 17091 1 1</original>
   </message>
   <message>
     <key>simple_text_9079</key>
-    <original>引きつける！</original>
+    <original>/d additem 17092 1 1</original>
   </message>
   <message>
     <key>simple_text_9080</key>
-    <original>助けて！</original>
+    <original>/d additem 17093 1 1</original>
   </message>
   <message>
     <key>simple_text_9081</key>
-    <original>回復をお願い</original>
+    <original>/d additem 17094 1 1</original>
   </message>
   <message>
     <key>simple_text_9082</key>
-    <original>回復します！</original>
+    <original>/d additem 17095 1 1</original>
   </message>
   <message>
     <key>simple_text_9083</key>
-    <original>跳ね上げます！</original>
+    <original>/d additem 17096 1 1</original>
   </message>
   <message>
     <key>simple_text_9084</key>
-    <original>こっちです</original>
+    <original>/d additem 16113 1 1</original>
   </message>
   <message>
     <key>simple_text_9085</key>
-    <original>いまこそ、攻撃を！</original>
+    <original>/d additem 16184 1 1</original>
   </message>
   <message>
     <key>simple_text_9086</key>
-    <original>退きましょう！</original>
+    <original>/d additem 16185 1 1</original>
   </message>
   <message>
     <key>simple_text_9087</key>
-    <original>ついてきてください</original>
+    <original>/d additem 17105 1 1</original>
   </message>
   <message>
     <key>simple_text_9088</key>
-    <original>ついていきます</original>
+    <original>/d additem 13240 1 1</original>
   </message>
   <message>
     <key>simple_text_9089</key>
-    <original>調べてみてください</original>
+    <original>/d additem 16114 1 1</original>
   </message>
   <message>
     <key>simple_text_9090</key>
-    <original>見つけました</original>
+    <original>/d additem 16727 1 1</original>
   </message>
   <message>
     <key>simple_text_9091</key>
-    <original>全力で攻撃！</original>
+    <original>/d additem 17370 1 1</original>
   </message>
   <message>
     <key>simple_text_9092</key>
-    <original>少し下がってください</original>
+    <original>/d additem 17371 1 1</original>
   </message>
   <message>
     <key>simple_text_9093</key>
-    <original>敵に注視されぬよう気をつけてください</original>
+    <original>/d additem 17372 1 1</original>
   </message>
   <message>
     <key>simple_text_9094</key>
-    <original>これを先にやっつけて！</original>
+    <original>/d additem 16122 1 1</original>
   </message>
   <message>
     <key>simple_text_9095</key>
-    <original>攻撃しないでください</original>
+    <original>/d additem 16123 1 1</original>
   </message>
   <message>
     <key>simple_text_9096</key>
-    <original>無効化してください</original>
+    <original>/d additem 16124 1 1</original>
   </message>
   <message>
     <key>simple_text_9097</key>
-    <original>支援行動をお願いします！</original>
+    <original>/d additem 16125 1 1</original>
   </message>
   <message>
     <key>simple_text_9098</key>
-    <original>逃げて！</original>
+    <original>/d additem 16126 1 1</original>
   </message>
   <message>
     <key>simple_text_9099</key>
-    <original>行動不能！　助けて！！！</original>
+    <original>/d additem 16127 1 1</original>
   </message>
   <message>
     <key>simple_text_9100</key>
-    <original>待機します</original>
+    <original>/d additem 16128 1 1</original>
   </message>
   <message>
     <key>simple_text_9101</key>
-    <original>なくなりました</original>
+    <original>/d additem 16129 1 1</original>
   </message>
   <message>
     <key>simple_text_9102</key>
-    <original>ありません</original>
+    <original>/d additem 16130 1 1</original>
   </message>
   <message>
     <key>simple_text_9103</key>
-    <original>準備完了！</original>
+    <original>/d additem 16131 1 1</original>
   </message>
   <message>
     <key>simple_text_9104</key>
-    <original>使ってください</original>
+    <original>/d additem 16132 1 1</original>
   </message>
   <message>
     <key>simple_text_9105</key>
-    <original>休憩しましょう</original>
+    <original>/d additem 16133 1 1</original>
   </message>
   <message>
     <key>simple_text_9106</key>
-    <original>しがみつきます</original>
+    <original>/d additem 17097 1 1</original>
   </message>
   <message>
     <key>simple_text_9107</key>
-    <original>敵を引きつけます</original>
+    <original>/d additem 17098 1 1</original>
   </message>
   <message>
     <key>simple_text_9108</key>
-    <original>待ってください</original>
+    <original>/d additem 17099 1 1</original>
   </message>
   <message>
     <key>simple_text_9109</key>
-    <original>現地に集合しましょう</original>
+    <original>/d additem 17100 1 1</original>
   </message>
   <message>
     <key>simple_text_9110</key>
-    <original>そこにいてください</original>
+    <original>/d additem 17101 1 1</original>
   </message>
   <message>
     <key>simple_text_9111</key>
-    <original>これから向かいます</original>
+    <original>/d additem 17102 1 1</original>
   </message>
   <message>
     <key>simple_text_9112</key>
-    <original>すぐ戻ります</original>
+    <original>/d additem 17103 1 1</original>
   </message>
   <message>
     <key>simple_text_9113</key>
-    <original>がんばりましょう！</original>
+    <original>/d additem 17104 1 1</original>
   </message>
   <message>
     <key>simple_text_9114</key>
-    <original>がんばります！</original>
+    <original>/d additem 17153 1 1</original>
   </message>
   <message>
     <key>simple_text_9115</key>

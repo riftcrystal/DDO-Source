@@ -1465,4 +1465,12 @@
     <key>OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2</key>
     <original>オートラン</original>
   </message>
+  <message>
+    <key>OPTION_MSG_CHOICE_RQUEST</key>
+    <original>サブストーリークエスト</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_TALK_CAMERA</key>
+    <original>NPCに話しかけた時のカメラを主観にする</original>
+  </message>
 </resource>

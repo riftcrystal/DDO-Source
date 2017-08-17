@@ -101,4 +101,9 @@
 アイテムの納品をキャンセルします
 よろしいですか？</original>
   </message>
+  <message>
+    <key>HANDOVER_MSG_DIALOG_00_MANDRA</key>
+    <original>アイテムの受け取りを中止しますか？
+(未受け取りのままだと再び育てることができません)</original>
+  </message>
 </resource>

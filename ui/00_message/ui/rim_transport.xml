@@ -132,4 +132,13 @@
     <key>tab_lobby_foundation</key>
     <original>神殿内</original>
   </message>
+  <message>
+    <key>list_name_large_pt_warp</key>
+    <original>&lt;COL ffdc78&gt;集合場所に戻る&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>dialog_large_pt_warp_check</key>
+    <original>集合場所に戻ります
+よろしいですか？</original>
+  </message>
 </resource>

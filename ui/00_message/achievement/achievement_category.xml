@@ -19,4 +19,8 @@
     <key>ACHIEVEMENT_CATEGORY_5</key>
     <original>その他</original>
   </message>
+  <message>
+    <key>ACHIEVEMENT_CATEGORY_6</key>
+    <original>王家再興</original>
+  </message>
 </resource>

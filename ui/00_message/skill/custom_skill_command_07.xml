@@ -56,4 +56,12 @@
     <original>セットボタン押しっぱなし
 空中ではセットボタンを押す</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_180</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_07_181</key>
+    <original>セットボタンを押す</original>
+  </message>
 </resource>

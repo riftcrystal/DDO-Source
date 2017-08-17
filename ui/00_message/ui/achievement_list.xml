@@ -12,7 +12,7 @@
     <original>Category</original>
   </message>
   <message>
-    <key>ACHIEVEMENT_MSG_LIST_02</key>
+    <key>ACHIEVEMENT_MSG_LIST_03</key>
     <original>Reward</original>
   </message>
   <message>
@@ -66,5 +66,9 @@
   <message>
     <key>ACHIEVEMENT_MSG_FILTER_COMPLETE</key>
     <original>達成済みアチーブメントだけを表示</original>
+  </message>
+  <message>
+    <key>ACHIEVEMENT_MSG_LIST_02</key>
+    <original>Great Purpose</original>
   </message>
 </resource>

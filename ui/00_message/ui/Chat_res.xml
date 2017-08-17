@@ -91,4 +91,8 @@
     <key>MSG_NOT_SPEAK_A_FEW_SECONDS</key>
     <original>発言できません あと&lt;VAL&gt;秒</original>
   </message>
+  <message>
+    <key>MSG_ADDRESS_MEMO</key>
+    <original>Memo</original>
+  </message>
 </resource>

@@ -41,6 +41,7 @@ LV.６で効果範囲拡大&lt;/COL&gt;</original>
     <key>CUSTOM_SKILL_INFO_05_61</key>
     <original>地を揺らし、広範囲の敵をよろめかせる
 大型の敵や一部の強敵には無効
+フォースゲージ１本以上の時、消費して詠唱時間短縮
 &lt;COL ffdc78&gt;LV UP毎に詠唱時間短縮
 LV.６で攻撃範囲拡大&lt;/COL&gt;</original>
   </message>
@@ -104,5 +105,18 @@ LV.６で照射範囲拡大&lt;/COL&gt;</original>
 フォースゲージ１本以上の時、消費して技性能上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で盾ガード値上昇／ヒット数増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_170</key>
+    <original>【ＥＸ追加効果】
+岩石を吹き飛ばし、ダメージを与える
+&lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_05_171</key>
+    <original>【ＥＸ追加効果】
+周囲の敵の注目を素早く集める
+エンチャントが付与されている際は
+エンチャント属性の状態異常を発生させることも可能</original>
   </message>
 </resource>

@@ -8,14 +8,14 @@
     <original>以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_2ND_0</key>
     <original>以下の能力を取得します。よろしいですか？
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_1</key>
@@ -23,7 +23,7 @@
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;+&lt;VAL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+</original>
   </message>
   <message>
     <key>ORB_TEXT_SKILL_GET_1ST_0</key>
@@ -31,7 +31,7 @@
 (次回から隣接する能力のみが取得可能になります)
 
 　取得能力：&lt;NAME SKILL&gt;
-　必要ブラッドオーブ：&lt;VAL BO&gt;</original>
+</original>
   </message>
   <message>
     <key>ORB_TEXT_RELEASE_PERCENT</key>
@@ -47,7 +47,7 @@
   </message>
   <message>
     <key>ORB_TEXT_MYBO</key>
-    <original>所持ブラッドオーブ</original>
+    <original>所持&lt;UNTN BO&gt;</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_GETED</key>
@@ -84,7 +84,7 @@
   </message>
   <message>
     <key>ORB_TEXT_ERR_BO_LACK</key>
-    <original>ブラッドオーブが不足しています</original>
+    <original>&lt;UNTN BO&gt;が不足しています</original>
   </message>
   <message>
     <key>ORB_TEXT_ERR_ALLCOMP</key>
@@ -143,6 +143,34 @@
   </message>
   <message>
     <key>ORB_TEXT_CONDITION_QUEST</key>
-    <original>条件：以下のクエストをクリア</original>
+    <original>▼以下のクエストをクリア</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_NEED_HB</key>
+    <original>　必要&lt;UNTN HB&gt;：&lt;VAL HB&gt;</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_NEED_BO</key>
+    <original>　必要&lt;UNTN BO&gt;：&lt;VAL BO&gt;</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_CONDITION_SPECIAL</key>
+    <original>▼以下の特殊条件をクリア</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_HB_LACK</key>
+    <original>&lt;UNTN HB&gt;が不足しています</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_CLEAR_SPECIAL</key>
+    <original>特殊条件をクリアしていません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_ERR_NOT_RELEASE_JOB</key>
+    <original>ジョブが解放されていません</original>
+  </message>
+  <message>
+    <key>ORB_TEXT_GUIDE_CONVERT_ORB</key>
+    <original>ブラッドオーブ変換</original>
   </message>
 </resource>

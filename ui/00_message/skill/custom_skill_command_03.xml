@@ -56,4 +56,12 @@
     <key>CUSTOM_SKILL_COMMAND_03_132</key>
     <original>セットボタンで構え後、セットボタンを連続して押す</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_162</key>
+    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_163</key>
+    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+  </message>
 </resource>

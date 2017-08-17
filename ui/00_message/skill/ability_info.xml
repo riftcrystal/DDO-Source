@@ -74,7 +74,7 @@
   <message>
     <key>ABILITY_INFO_85</key>
     <original>盾ガード時のスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量さらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_116</key>
@@ -389,7 +389,7 @@
     <key>ABILITY_INFO_106</key>
     <original>しがみつき時、耐えるアクション中の
 スタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに軽減&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_132</key>
@@ -398,7 +398,8 @@
   </message>
   <message>
     <key>ABILITY_INFO_161</key>
-    <original>瀕死状態中にダメージを受けた際の
+    <original>瀕死状態中にダメージを受けた際
+または瀕死状態になるダメージを受けた際の
 治癒上限値が低下しにくくなる
 &lt;COL ffdc78&gt;LV UP毎に治癒上限値をさらに維持&lt;/COL&gt;</original>
   </message>
@@ -778,7 +779,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_410</key>
-    <original>エイド／エイド・モールの展開時間が延長される
+    <original>エイド/エイド・モールの展開時間が延長される
 &lt;COL ffdc78&gt;LV UP毎に展開時間がより延長&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1555,7 +1556,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_296</key>
     <original>連撃のダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1620,7 +1621,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_297</key>
     <original>斬り崩し/強斬り崩しのダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1686,7 +1687,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_299</key>
     <original>えぐり突きのダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1815,7 +1816,7 @@ LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_300</key>
     <original>強連撃のダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1940,7 +1941,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_302</key>
     <original>連撃のダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -2005,7 +2006,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_303</key>
     <original>斬り崩し/強斬り崩しのダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6で気絶攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -2071,7 +2072,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_305</key>
     <original>えぐり突きのダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -2194,7 +2195,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_306</key>
     <original>強連撃のダメージ量が増加する
-&lt;COL ffdc78&gt;LV UP毎にダメージがさらに増加
+&lt;COL ffdc78&gt;LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -2212,17 +2213,17 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
     <key>ABILITY_INFO_343</key>
     <original>アトラクト/モアアトラクトの
 スタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_355</key>
     <original>転身のスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_367</key>
     <original>バックムーブのスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎にスタミナ消費量がさらに減少&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_379</key>
@@ -2232,7 +2233,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_391</key>
-    <original>魔人斬り、真・魔人斬りによる
+    <original>魔人斬り/真・魔人斬りによる
 リベンジゲージ消費時に少しゲージが残る
 &lt;COL ffdc78&gt;LV UP毎にゲージ残量が増加&lt;/COL&gt;</original>
   </message>
@@ -2255,7 +2256,7 @@ LV5～6でチャンス攻力と疲労攻力が増加&lt;/COL&gt;</original>
   <message>
     <key>ABILITY_INFO_307</key>
     <original>えぐり突きのスタミナ消費量が軽減される
-&lt;COL ffdc78&gt;LV UP毎に軽減量がより増加&lt;/COL&gt;</original>
+&lt;COL ffdc78&gt;LV UP毎にスタミナ消費がさらに減少&lt;/COL&gt;</original>
   </message>
   <message>
     <key>ABILITY_INFO_264</key>

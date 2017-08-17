@@ -52,118 +52,6 @@
     <original>件</original>
   </message>
   <message>
-    <key>bazaar_msg_category_l_mineral</key>
-    <original>無機物</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_plant</key>
-    <original>植物</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_animal</key>
-    <original>動物</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_sewing</key>
-    <original>裁縫</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_artifact</key>
-    <original>特殊</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_all</key>
-    <original>すべて</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_ore</key>
-    <original>鉱石</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_metal</key>
-    <original>金属</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_sand</key>
-    <original>砂材</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_jewel</key>
-    <original>宝石</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_liquid</key>
-    <original>液体</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_grass</key>
-    <original>草</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_mushroom</key>
-    <original>キノコ</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_wood</key>
-    <original>木材</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_skin</key>
-    <original>皮</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_bone</key>
-    <original>骨</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_tusk</key>
-    <original>牙</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_horn</key>
-    <original>角</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_feather</key>
-    <original>羽</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_meat</key>
-    <original>肉</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_cloth</key>
-    <original>布</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_string</key>
-    <original>糸</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_fur</key>
-    <original>毛</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_scroll</key>
-    <original>巻物</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_other</key>
-    <original>その他</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_crest</key>
-    <original>クレスト</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_strength</key>
-    <original>精錬材</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_dye</key>
-    <original>染料</original>
-  </message>
-  <message>
     <key>bazaar_msg_itemlist_disp_unitprice</key>
     <original>単価</original>
   </message>
@@ -279,14 +167,6 @@
   <message>
     <key>bazaar_msg_situation_exhibition_imposs</key>
     <original>あと&lt;COL FFFF00&gt;&lt;JKAN HM&gt;&lt;/COL&gt;で利用できます</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_weapon</key>
-    <original>武器用</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_s_armor</key>
-    <original>防具用</original>
   </message>
   <message>
     <key>bazaar_msg_situation_congrats</key>
@@ -405,9 +285,5 @@
 時間を置いてもう一度お試しいただくか
 アクセス頻度を下げてご利用いただきますよう
 お願いいたします</original>
-  </message>
-  <message>
-    <key>bazaar_msg_category_l_material_area</key>
-    <original>地域素材</original>
   </message>
 </resource>

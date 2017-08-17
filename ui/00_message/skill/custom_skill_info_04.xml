@@ -102,4 +102,16 @@ LV.６で展開エリアのサイズ拡張&lt;/COL&gt;</original>
 &lt;COL ffdc78&gt;LV UP毎に魔法砲台の出現時間延長
 LV.６で魔法球の威力上昇／魔法砲台増加（１→２）&lt;/COL&gt;</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_166</key>
+    <original>【ＥＸ追加効果】
+魔法エリア内にいる味方の
+治癒上限値を徐々に回復する</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_167</key>
+    <original>【ＥＸ追加効果】
+敵にダメージを与えた時、体力が回復する効果を付与
+離脱後の効果時間大幅延長</original>
+  </message>
 </resource>

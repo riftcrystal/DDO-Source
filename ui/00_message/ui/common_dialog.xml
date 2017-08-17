@@ -904,7 +904,7 @@
   </message>
   <message>
     <key>ana_mitem_get_gameitem</key>
-    <original>　アイテム x &lt;VAL&gt; 入手(アイテムポスト)</original>
+    <original>　アイテム x &lt;VAL&gt; 入手</original>
   </message>
   <message>
     <key>ana_mitem_get_opt_course</key>
@@ -944,7 +944,7 @@
   </message>
   <message>
     <key>ana_get_ability</key>
-    <original>アビリティ「&lt;NAME ABILITY&gt;」を習得しました</original>
+    <original>アビリティ「&lt;NAME ABILITY&gt; &lt;VAL LV&gt;」を習得しました</original>
   </message>
   <message>
     <key>ana_grandmission_get_reward</key>
@@ -1140,7 +1140,7 @@
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendspbox_nonsp</key>
-    <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
   </message>
   <message>
     <key>ana_itembox_submenu_tooltip_sendbox_ng_frame</key>
@@ -1157,10 +1157,6 @@
   <message>
     <key>ana_new_leader_re_entry</key>
     <original>新たなリーダーに任命されました。出撃確認画面に入り直して下さい</original>
-  </message>
-  <message>
-    <key>ana_rewardbox_full</key>
-    <original>報酬ボックスの容量が少なくなっています。古い報酬を失う可能性があります</original>
   </message>
   <message>
     <key>ana_quick_pt_recruiting_ng</key>
@@ -1281,7 +1277,7 @@
   </message>
   <message>
     <key>ana_box_err_exspace</key>
-    <original>拡張枠は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+    <original>＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
   </message>
   <message>
     <key>ana_input_device_err_pad</key>
@@ -1577,10 +1573,6 @@
     <key>ana_craft_noxp_rankup</key>
     <original>選択中のポーンは昇格試験クリアまで
 クラフト経験値を獲得できません</original>
-  </message>
-  <message>
-    <key>ana_rewardbox_fullmax</key>
-    <original>報酬ボックスの容量がいっぱいです。容量を超えると古い報酬は失われます</original>
   </message>
   <message>
     <key>ana_autologout_notice</key>
@@ -2139,5 +2131,186 @@
   <message>
     <key>ana_entryb_clan_member_disable</key>
     <original>同じクランに所属しているメンバーにのみ使用できます</original>
+  </message>
+  <message>
+    <key>ana_mail_receive_box</key>
+    <original>保管ボックスに受け取る</original>
+  </message>
+  <message>
+    <key>ana_mail_receive_post</key>
+    <original>ポストに受け取る</original>
+  </message>
+  <message>
+    <key>ana_mail_receive_bag</key>
+    <original>アイテムバッグに受け取る</original>
+  </message>
+  <message>
+    <key>ana_itembox_submenu_tooltip_sendbox_ng_same</key>
+    <original>同じアイテムは選択できません</original>
+  </message>
+  <message>
+    <key>OS_annnounce_for_fixed_phrase</key>
+    <original>対象のボイス定型文が使用可能になりました</original>
+  </message>
+  <message>
+    <key>ana_itembox_submenu_tooltip_sendspbox_nonsp1</key>
+    <original>格納チェスト引出し&lt;VAL&gt;は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+  </message>
+  <message>
+    <key>ana_box_err_exspace1</key>
+    <original>格納チェスト引出し&lt;VAL&gt;は＜&lt;OPCS&gt;＞の発動中に使用可能となります</original>
+  </message>
+  <message>
+    <key>ana_gamemenu_purchase_processing</key>
+    <original>購入情報を処理しています</original>
+  </message>
+  <message>
+    <key>ana_party_waiting_for_all</key>
+    <original>パーティー全員が参加するまで、しばらくお待ちください</original>
+  </message>
+  <message>
+    <key>ana_party_waiting_for_me</key>
+    <original>パーティーメンバーがあなたの参加を待っています</original>
+  </message>
+  <message>
+    <key>ana_om_warp_nazo_warp</key>
+    <original>今は転移の力を失っているようだ――</original>
+  </message>
+  <message>
+    <key>ana_camera_angle_limit</key>
+    <original>装備判定により、撮影アングルが制限されました</original>
+  </message>
+  <message>
+    <key>OS_annnounce_for_available_immediately</key>
+    <original>購入した商品が利用可能になりました</original>
+  </message>
+  <message>
+    <key>ana_get_custom_skill</key>
+    <original>カスタムスキル「&lt;NAME CUSTOM_SKILL&gt; &lt;VAL LV&gt;」を習得しました</original>
+  </message>
+  <message>
+    <key>ana_get_normal_skill</key>
+    <original>ノーマルスキル「&lt;NAME NORMAL_SKILL&gt;」を習得しました</original>
+  </message>
+  <message>
+    <key>ana_get_custom_skill_no_level</key>
+    <original>カスタムスキル「&lt;NAME CUSTOM_SKILL&gt;」を習得しました</original>
+  </message>
+  <message>
+    <key>ana_pawn_expedition_report_em_subjugation</key>
+    <original>-討伐結果報告-</original>
+  </message>
+  <message>
+    <key>ana_epitaph_001</key>
+    <original>よくここまできた
+試練を乗り越えしものに力を授けよう</original>
+  </message>
+  <message>
+    <key>ana_epitaph_002</key>
+    <original>炎が煌めいており
+すでに力は授かっているようだ</original>
+  </message>
+  <message>
+    <key>ana_wm_limited_condition_open</key>
+    <original>新たな戦況が期間限定で開催決定！</original>
+  </message>
+  <message>
+    <key>ana_epitaph_003</key>
+    <original>カテゴリ選択</original>
+  </message>
+  <message>
+    <key>ana_epitaph_004</key>
+    <original>ダンジョン選択</original>
+  </message>
+  <message>
+    <key>ana_epitaph_005</key>
+    <original>確認</original>
+  </message>
+  <message>
+    <key>ana_epitaph_007</key>
+    <original>待ち受けをキャンセルしますか？</original>
+  </message>
+  <message>
+    <key>ana_epitaph_008</key>
+    <original>パーティーリーダーが決定するまで、使用できません</original>
+  </message>
+  <message>
+    <key>ana_epitaph_009</key>
+    <original>リーダーが選択したダンジョンに突入しますか？</original>
+  </message>
+  <message>
+    <key>ana_epitaph_010</key>
+    <original>《魂》を捧げることで道が開けそうだ――</original>
+  </message>
+  <message>
+    <key>ana_epitaph_011</key>
+    <original>パーティーメンバーが開拓済みのため
+一時的に《魂》を捧げずに開拓できます
+(その場合、開拓状況は保存されません)</original>
+  </message>
+  <message>
+    <key>ana_epitaph_012</key>
+    <original>通常開拓</original>
+  </message>
+  <message>
+    <key>ana_epitaph_013</key>
+    <original>一時開拓</original>
+  </message>
+  <message>
+    <key>ana_epitaph_014</key>
+    <original>不思議な文字が
+刻み込まれている――</original>
+  </message>
+  <message>
+    <key>ana_epitaph_015</key>
+    <original>試練一覧</original>
+  </message>
+  <message>
+    <key>ana_epitaph_016</key>
+    <original>試練を中断しますか？
+(中断した場合、納品したアイテムは破棄されます)</original>
+  </message>
+  <message>
+    <key>ana_epitaph_017</key>
+    <original>パーティーメンバーが別の場所で
+試練開始を待っています</original>
+  </message>
+  <message>
+    <key>ana_epitaph_019</key>
+    <original>待ち受けをキャンセルしますか？</original>
+  </message>
+  <message>
+    <key>ana_epitaph_020</key>
+    <original>試練の開始待ちです
+(キャンセルはできません)</original>
+  </message>
+  <message>
+    <key>ana_epitaph_021</key>
+    <original>石板が青白く輝いている――</original>
+  </message>
+  <message>
+    <key>ana_epitaph_022</key>
+    <original>絶技の継承から
+さらなる力を得られるようになった</original>
+  </message>
+  <message>
+    <key>ana_epitaph_023</key>
+    <original>不思議な力が辺りに散らばった</original>
+  </message>
+  <message>
+    <key>ana_err_not_enough_item</key>
+    <original>アイテムが足りません</original>
+  </message>
+  <message>
+    <key>ana_q_use_item2</key>
+    <original>ダンジョンへの突入時に以下のアイテムを消費します
+よろしいですか？
+
+&lt;NAME ITEM&gt; × &lt;VAL&gt;枚</original>
+  </message>
+  <message>
+    <key>ana_pack_seq_empty</key>
+    <original>使命：＜&lt;NAME QUEST&gt;＞
+本日のミッションは達成しています</original>
   </message>
 </resource>

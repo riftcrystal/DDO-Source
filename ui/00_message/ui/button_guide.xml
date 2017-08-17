@@ -135,4 +135,8 @@
     <key>button_guide_palet_change</key>
     <original>(長押し)スキル切替</original>
   </message>
+  <message>
+    <key>button_guide_Auto_Run</key>
+    <original>オートラン切り替え</original>
+  </message>
 </resource>

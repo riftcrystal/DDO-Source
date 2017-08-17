@@ -124,4 +124,8 @@
 ゲームを終了するにはエディット(または美容院)の
 画面でキャンセル操作をおこなってください</original>
   </message>
+  <message>
+    <key>net_error_contents_reload</key>
+    <original></original>
+  </message>
 </resource>
