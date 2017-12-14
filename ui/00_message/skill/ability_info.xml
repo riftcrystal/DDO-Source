@@ -682,7 +682,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_77</key>
-    <original>フォースゲインの攻力吸収量が増加する
+    <original>フォースゲインの攻力吸収量が大幅に増加する
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
   </message>
   <message>
@@ -1042,7 +1042,7 @@
   </message>
   <message>
     <key>ABILITY_INFO_76</key>
-    <original>フォースガードの攻力吸収量が増加する
+    <original>フォースガード／フォースゲインの攻力吸収量が増加する
 &lt;COL ffdc78&gt;LV UP毎に攻力吸収量がより増加&lt;/COL&gt;</original>
   </message>
   <message>

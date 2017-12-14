@@ -219,4 +219,8 @@
     <key>shop_title_job_emblem</key>
     <original>ジョブエンブレム</original>
   </message>
+  <message>
+    <key>shop_title_hard_Quest</key>
+    <original>スペシャルクエストボード</original>
+  </message>
 </resource>

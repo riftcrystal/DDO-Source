@@ -23,4 +23,12 @@
     <key>g_myr_msg_no_furniture</key>
     <original>変更できる家具がありません</original>
   </message>
+  <message>
+    <key>g_myr_title_kyoten_en</key>
+    <original>Clan Base</original>
+  </message>
+  <message>
+    <key>g_myr_title_kyoten_jp</key>
+    <original>拠点</original>
+  </message>
 </resource>

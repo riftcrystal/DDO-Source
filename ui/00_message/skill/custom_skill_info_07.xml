@@ -79,13 +79,13 @@ LV.６で最大攻撃回数増加（７→１１）&lt;/COL&gt;</original>
     <key>CUSTOM_SKILL_INFO_07_91</key>
     <original>高く跳躍し、一点集中で力強く大剣を突き立てる
 攻撃範囲は狭いが威力は絶大
+落下距離により威力が上昇
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_07_88</key>
     <original>力を十分に溜めた後、渾身の一撃を繰り出す
-&lt;COL ff7878&gt;戦甲へのカウンターに特化&lt;/COL&gt;
 &lt;COL ffdc78&gt;LV UP毎に攻撃威力の上昇
 LV.６で剣に風圧が追加／攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
@@ -118,5 +118,20 @@ LV.６で溜め段階上昇（１→２）&lt;/COL&gt;</original>
 攻撃を受ける瞬間に発動すると
 ダメージ量が増加すると同時に
 攻撃を敵に接触させる度にリベンジゲージが増加</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_182</key>
+    <original>【ＥＸ追加効果】
+ダメージ量が増加
+気絶攻力が増加
+攻撃回数が増加（１→２）
+２回目の攻撃はボタン長押しで溜め可能</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_07_183</key>
+    <original>【ＥＸ追加効果】
+チャンス攻力がやや増加
+疲労攻力がやや増加
+&lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
   </message>
 </resource>

@@ -948,6 +948,14 @@
     <original>侵食グリフィン</original>
   </message>
   <message>
+    <key>ENEMY_NAME_247</key>
+    <original>バイルアイ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_248</key>
+    <original>イービルアイ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_249</key>
     <original>マンイーター</original>
   </message>
@@ -1054,6 +1062,10 @@
   <message>
     <key>ENEMY_NAME_282</key>
     <original>ビフレスト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_283</key>
+    <original>触手</original>
   </message>
   <message>
     <key>ENEMY_NAME_284</key>
@@ -1180,6 +1192,10 @@
     <original>スリンググリムゴブリン</original>
   </message>
   <message>
+    <key>ENEMY_NAME_317</key>
+    <original>グレーターゴブリン</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_318</key>
     <original>ゴブリンシャーマン</original>
   </message>
@@ -1188,16 +1204,32 @@
     <original>ゴブリンエイドシャーマン</original>
   </message>
   <message>
+    <key>ENEMY_NAME_322</key>
+    <original>スケルトンワーグ</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_323</key>
     <original>戦甲グリムワーグ</original>
   </message>
   <message>
-    <key>ENEMY_NAME_334</key>
-    <original>ヘルワーム</original>
+    <key>ENEMY_NAME_327</key>
+    <original>戦甲リザードマン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_328</key>
+    <original>戦甲ラージリザード</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_337</key>
+    <original>スケルトンサイクロプス</original>
   </message>
   <message>
     <key>ENEMY_NAME_338</key>
     <original>戦甲ゴアサイクロプス</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_340</key>
+    <original>ゴアマンティコア</original>
   </message>
   <message>
     <key>ENEMY_NAME_341</key>
@@ -1210,6 +1242,18 @@
   <message>
     <key>ENEMY_NAME_345</key>
     <original>リトルクラッグ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_346</key>
+    <original>戦甲オーガ</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_347</key>
+    <original>ミザリーゴースト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_350</key>
+    <original>ホワイトタラスク</original>
   </message>
   <message>
     <key>ENEMY_NAME_351</key>
@@ -1228,6 +1272,10 @@
     <original>獣の将</original>
   </message>
   <message>
+    <key>ENEMY_NAME_358</key>
+    <original>骸の将</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_366</key>
     <original>打兵ドワーフオーク</original>
   </message>
@@ -1242,10 +1290,6 @@
   <message>
     <key>ENEMY_NAME_369</key>
     <original>グリムゴブリンリーダー</original>
-  </message>
-  <message>
-    <key>ENEMY_NAME_370</key>
-    <original>サイクロプス</original>
   </message>
   <message>
     <key>ENEMY_NAME_373</key>

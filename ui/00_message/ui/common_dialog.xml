@@ -2313,4 +2313,13 @@
     <original>使命：＜&lt;NAME QUEST&gt;＞
 本日のミッションは達成しています</original>
   </message>
+  <message>
+    <key>ana_clan_kyoten_no_authority_layout</key>
+    <original>拠点のレイアウトを使用する権限が与えられていません</original>
+  </message>
+  <message>
+    <key>ana_member_remove_q</key>
+    <original>&lt;NAME TARGET&gt;を
+メンバーから外します。よろしいですか？</original>
+  </message>
 </resource>

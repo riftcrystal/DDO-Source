@@ -45,7 +45,9 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_43</key>
-    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射
+&lt;COL ff7878&gt;溜め満了の瞬間に放つことで
+戦甲へのカウンターに特化&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_131</key>
@@ -62,6 +64,14 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_03_163</key>
+    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_164</key>
+    <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_03_165</key>
     <original>セットボタンで構え後、&lt;KC SHOOT&gt;で発射</original>
   </message>
 </resource>

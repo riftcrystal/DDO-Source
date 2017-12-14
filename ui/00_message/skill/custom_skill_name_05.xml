@@ -63,4 +63,12 @@
     <key>CUSTOM_SKILL_NAME_05_171</key>
     <original>アースシェイク 技</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_172</key>
+    <original>フォースシールド 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_05_173</key>
+    <original>フォースシールド 技</original>
+  </message>
 </resource>
