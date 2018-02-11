@@ -359,4 +359,16 @@
     <key>np_msg_mypoint_wm</key>
     <original>ウォーミッション累積&lt;UNIT PT&gt;</original>
   </message>
+  <message>
+    <key>np_msg_period_01</key>
+    <original>本作戦進行期間</original>
+  </message>
+  <message>
+    <key>np_msg_period_02</key>
+    <original>戦果分析期間</original>
+  </message>
+  <message>
+    <key>np_msg_period_03</key>
+    <original>報酬配分期間</original>
+  </message>
 </resource>

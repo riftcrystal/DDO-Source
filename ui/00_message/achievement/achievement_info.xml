@@ -6233,6 +6233,10 @@
     <original>いずれかのエンブレムストーンのレベルが5に到達</original>
   </message>
   <message>
+    <key>ACHIEVEMENT_INFO_2899</key>
+    <original>いずれかのエンブレムストーンのレベルが15に到達</original>
+  </message>
+  <message>
     <key>ACHIEVEMENT_INFO_2902</key>
     <original>クエスト「不思議な呼び鈴」クリア</original>
   </message>

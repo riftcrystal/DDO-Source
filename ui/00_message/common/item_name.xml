@@ -29913,7 +29913,7 @@
     <original>AP【フェルヤナ荒原】</original>
   </item>
   <item id="13347">
-    <original>AP【◆エリア3.2】</original>
+    <original>AP【メガドシス高地】</original>
   </item>
   <item id="13348">
     <original>12_07_JP入手_01</original>
@@ -46887,10 +46887,10 @@
     <original>ホラーナイトなリビングカーペット</original>
   </item>
   <item id="19642">
-    <original>恋人のリビングカーペット</original>
+    <original>ハートのリビングカーペット・バレンタイン</original>
   </item>
   <item id="19643">
-    <original>恋人のリビングカーペット・ホワイト</original>
+    <original>ハートのリビングカーペット・ホワイトデー</original>
   </item>
   <item id="19644">
     <original>魔族還しの特質錬石の欠片</original>
@@ -47557,5 +47557,38 @@
   </item>
   <item id="21389">
     <original>2018新春ジャンボ抽選券</original>
+  </item>
+  <item id="21546">
+    <original>バレンタインパペット</original>
+  </item>
+  <item id="21547">
+    <original>ウォールペイント・バレンタイン</original>
+  </item>
+  <item id="21548">
+    <original>お風呂・バレンタインの湯</original>
+  </item>
+  <item id="21549">
+    <original>クッキーテーブル・ビター</original>
+  </item>
+  <item id="21550">
+    <original>ホワイトデーパペット</original>
+  </item>
+  <item id="21551">
+    <original>ウォールペイント・ホワイトデー</original>
+  </item>
+  <item id="21552">
+    <original>お風呂・ホワイトデーの湯</original>
+  </item>
+  <item id="21553">
+    <original>クッキーテーブル・ホワイト</original>
+  </item>
+  <item id="21554">
+    <original>スイーツセット・バレンタイン</original>
+  </item>
+  <item id="21555">
+    <original>スイーツセット・ホワイトデー</original>
+  </item>
+  <item id="23123">
+    <original>「LV.80」成長の宝珠</original>
   </item>
 </item_data>
