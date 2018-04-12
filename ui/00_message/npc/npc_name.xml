@@ -1,3842 +1,3059 @@
 ﻿<resource>
   <message>
-    <key>NPC_NAME_251</key>
     <original>白竜</original>
   </message>
   <message>
-    <key>NPC_NAME_252</key>
     <original>ミシアル</original>
   </message>
   <message>
-    <key>NPC_NAME_253</key>
     <original>クラウス</original>
   </message>
   <message>
-    <key>NPC_NAME_254</key>
     <original>ジョゼフ</original>
   </message>
   <message>
-    <key>NPC_NAME_255</key>
     <original>レオ</original>
   </message>
   <message>
-    <key>NPC_NAME_256</key>
     <original>イリス</original>
   </message>
   <message>
-    <key>NPC_NAME_257</key>
     <original>ゲルト</original>
   </message>
   <message>
-    <key>NPC_NAME_258</key>
     <original>ハインツ</original>
   </message>
   <message>
-    <key>NPC_NAME_259</key>
     <original>ディアマンテス</original>
   </message>
   <message>
-    <key>NPC_NAME_260</key>
     <original>テオドール</original>
   </message>
   <message>
-    <key>NPC_NAME_261</key>
     <original>ヴァネッサ</original>
   </message>
   <message>
-    <key>NPC_NAME_262</key>
     <original>ファビオ</original>
   </message>
   <message>
-    <key>NPC_NAME_263</key>
     <original>リズ</original>
   </message>
   <message>
-    <key>NPC_NAME_264</key>
     <original>メイリーフ</original>
   </message>
   <message>
-    <key>NPC_NAME_265</key>
     <original>キースヒルト</original>
   </message>
   <message>
-    <key>NPC_NAME_266</key>
     <original>モゴック</original>
   </message>
   <message>
-    <key>NPC_NAME_267</key>
     <original>ズール</original>
   </message>
   <message>
-    <key>NPC_NAME_268</key>
     <original>ディアマンテス</original>
   </message>
   <message>
-    <key>NPC_NAME_269</key>
     <original>プラム</original>
   </message>
   <message>
-    <key>NPC_NAME_270</key>
     <original>ガルドリン</original>
   </message>
   <message>
-    <key>NPC_NAME_271</key>
     <original>流浪の探究者</original>
   </message>
   <message>
-    <key>NPC_NAME_272</key>
     <original>トラバース</original>
   </message>
   <message>
-    <key>NPC_NAME_273</key>
     <original>白衛騎士団員</original>
   </message>
   <message>
-    <key>NPC_NAME_274</key>
     <original>白衛騎士団員</original>
   </message>
   <message>
-    <key>NPC_NAME_275</key>
     <original>白衛騎士団員</original>
   </message>
   <message>
-    <key>NPC_NAME_276</key>
     <original>不気味な男</original>
   </message>
   <message>
-    <key>NPC_NAME_277</key>
     <original>不思議な少女</original>
   </message>
   <message>
-    <key>NPC_NAME_278</key>
     <original>行商人</original>
   </message>
   <message>
-    <key>NPC_NAME_279</key>
     <original>男</original>
   </message>
   <message>
-    <key>NPC_NAME_280</key>
     <original>男</original>
   </message>
   <message>
-    <key>NPC_NAME_281</key>
     <original>女</original>
   </message>
   <message>
-    <key>NPC_NAME_282</key>
     <original>クリストフ</original>
   </message>
   <message>
-    <key>NPC_NAME_283</key>
     <original>トマス</original>
   </message>
   <message>
-    <key>NPC_NAME_284</key>
     <original>オーギュスト</original>
   </message>
   <message>
-    <key>NPC_NAME_285</key>
     <original>ダリア</original>
   </message>
   <message>
-    <key>NPC_NAME_286</key>
     <original>デュボワ</original>
   </message>
   <message>
-    <key>NPC_NAME_287</key>
     <original>マルキス</original>
   </message>
   <message>
-    <key>NPC_NAME_288</key>
     <original>フレイア</original>
   </message>
   <message>
-    <key>NPC_NAME_289</key>
     <original>レント</original>
   </message>
   <message>
-    <key>NPC_NAME_290</key>
     <original>キーファー</original>
   </message>
   <message>
-    <key>NPC_NAME_291</key>
     <original>盗賊</original>
   </message>
   <message>
-    <key>NPC_NAME_292</key>
     <original>たたずむスケルトン</original>
   </message>
   <message>
-    <key>NPC_NAME_293</key>
     <original>スケルトン</original>
   </message>
   <message>
-    <key>NPC_NAME_294</key>
     <original>スケルトン</original>
   </message>
   <message>
-    <key>NPC_NAME_295</key>
     <original>物憂げなハーピー</original>
   </message>
   <message>
-    <key>NPC_NAME_296</key>
     <original>デュボワ</original>
   </message>
   <message>
-    <key>NPC_NAME_297</key>
     <original>モルテン</original>
   </message>
   <message>
-    <key>NPC_NAME_298</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_299</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_300</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_301</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_302</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_303</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_304</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_305</key>
     <original>戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_306</key>
     <original>戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_307</key>
     <original>女性戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_308</key>
     <original>軽装の戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_309</key>
     <original>軽装の女戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_310</key>
     <original>ハンター</original>
   </message>
   <message>
-    <key>NPC_NAME_311</key>
     <original>旅の女性ハンター</original>
   </message>
   <message>
-    <key>NPC_NAME_312</key>
     <original>魔術師</original>
   </message>
   <message>
-    <key>NPC_NAME_313</key>
     <original>魔術師</original>
   </message>
   <message>
-    <key>NPC_NAME_314</key>
     <original>神官</original>
   </message>
   <message>
-    <key>NPC_NAME_315</key>
     <original>女性神官</original>
   </message>
   <message>
-    <key>NPC_NAME_316</key>
     <original>息絶えた村人</original>
   </message>
   <message>
-    <key>NPC_NAME_317</key>
     <original>息絶えた村人</original>
   </message>
   <message>
-    <key>NPC_NAME_318</key>
     <original>息絶えた村人</original>
   </message>
   <message>
-    <key>NPC_NAME_319</key>
     <original>息絶えた村人</original>
   </message>
   <message>
-    <key>NPC_NAME_320</key>
     <original>息絶えた村人</original>
   </message>
   <message>
-    <key>NPC_NAME_321</key>
     <original>息絶えた騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_322</key>
     <original>息絶えた騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_323</key>
     <original>息絶えた騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_324</key>
     <original>息絶えた覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_325</key>
     <original>息絶えた覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_326</key>
     <original>ジョナス</original>
   </message>
   <message>
-    <key>NPC_NAME_327</key>
     <original>息絶えた覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_328</key>
     <original>エミリア</original>
   </message>
   <message>
-    <key>NPC_NAME_329</key>
     <original>コレット</original>
   </message>
   <message>
-    <key>NPC_NAME_330</key>
     <original>ファーガソン</original>
   </message>
   <message>
-    <key>NPC_NAME_331</key>
     <original>パメラ</original>
   </message>
   <message>
-    <key>NPC_NAME_332</key>
     <original>モーリス</original>
   </message>
   <message>
-    <key>NPC_NAME_333</key>
     <original>キトリッジ</original>
   </message>
   <message>
-    <key>NPC_NAME_334</key>
     <original>ヴァイスロット</original>
   </message>
   <message>
-    <key>NPC_NAME_335</key>
     <original>オーウェン</original>
   </message>
   <message>
-    <key>NPC_NAME_336</key>
     <original>メル</original>
   </message>
   <message>
-    <key>NPC_NAME_337</key>
     <original>ジョアンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_338</key>
     <original>トニオ</original>
   </message>
   <message>
-    <key>NPC_NAME_339</key>
     <original>キビザ</original>
   </message>
   <message>
-    <key>NPC_NAME_340</key>
     <original>ナンシー</original>
   </message>
   <message>
-    <key>NPC_NAME_341</key>
     <original>セネカ</original>
   </message>
   <message>
-    <key>NPC_NAME_342</key>
     <original>ネストーレ</original>
   </message>
   <message>
-    <key>NPC_NAME_343</key>
     <original>ヒルデ</original>
   </message>
   <message>
-    <key>NPC_NAME_344</key>
     <original>デューク</original>
   </message>
   <message>
-    <key>NPC_NAME_345</key>
     <original>ローガン</original>
   </message>
   <message>
-    <key>NPC_NAME_346</key>
     <original>ミルバーン</original>
   </message>
   <message>
-    <key>NPC_NAME_347</key>
     <original>カルノ</original>
   </message>
   <message>
-    <key>NPC_NAME_348</key>
     <original>ハンコック</original>
   </message>
   <message>
-    <key>NPC_NAME_349</key>
     <original>フレディー</original>
   </message>
   <message>
-    <key>NPC_NAME_350</key>
     <original>チャールストン</original>
   </message>
   <message>
-    <key>NPC_NAME_351</key>
     <original>ルチーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_352</key>
     <original>バートン</original>
   </message>
   <message>
-    <key>NPC_NAME_353</key>
     <original>コーネリア</original>
   </message>
   <message>
-    <key>NPC_NAME_354</key>
     <original>ソニア</original>
   </message>
   <message>
-    <key>NPC_NAME_355</key>
     <original>アラン</original>
   </message>
   <message>
-    <key>NPC_NAME_356</key>
     <original>アーチボルト</original>
   </message>
   <message>
-    <key>NPC_NAME_357</key>
     <original>レンテン</original>
   </message>
   <message>
-    <key>NPC_NAME_358</key>
     <original>キャメロン</original>
   </message>
   <message>
-    <key>NPC_NAME_359</key>
     <original>アレン</original>
   </message>
   <message>
-    <key>NPC_NAME_360</key>
     <original>ギリアム</original>
   </message>
   <message>
-    <key>NPC_NAME_361</key>
     <original>マコーミック</original>
   </message>
   <message>
-    <key>NPC_NAME_362</key>
     <original>ラピス</original>
   </message>
   <message>
-    <key>NPC_NAME_363</key>
     <original>ゼルキン</original>
   </message>
   <message>
-    <key>NPC_NAME_364</key>
     <original>ボルドー</original>
   </message>
   <message>
-    <key>NPC_NAME_365</key>
     <original>ガーシュウィン</original>
   </message>
   <message>
-    <key>NPC_NAME_366</key>
     <original>ピット</original>
   </message>
   <message>
-    <key>NPC_NAME_367</key>
     <original>モアナ</original>
   </message>
   <message>
-    <key>NPC_NAME_368</key>
     <original>ウォルター</original>
   </message>
   <message>
-    <key>NPC_NAME_369</key>
     <original>ローザ</original>
   </message>
   <message>
-    <key>NPC_NAME_370</key>
     <original>ハロルド</original>
   </message>
   <message>
-    <key>NPC_NAME_371</key>
     <original>パーシモン</original>
   </message>
   <message>
-    <key>NPC_NAME_372</key>
     <original>ミステラ</original>
   </message>
   <message>
-    <key>NPC_NAME_373</key>
     <original>オニール</original>
   </message>
   <message>
-    <key>NPC_NAME_374</key>
     <original>アキム</original>
   </message>
   <message>
-    <key>NPC_NAME_375</key>
     <original>ユニ</original>
   </message>
   <message>
-    <key>NPC_NAME_376</key>
     <original>グロリア</original>
   </message>
   <message>
-    <key>NPC_NAME_377</key>
     <original>ターレス</original>
   </message>
   <message>
-    <key>NPC_NAME_378</key>
     <original>フロイト</original>
   </message>
   <message>
-    <key>NPC_NAME_379</key>
     <original>アニス</original>
   </message>
   <message>
-    <key>NPC_NAME_380</key>
     <original>クロエ</original>
   </message>
   <message>
-    <key>NPC_NAME_381</key>
     <original>ローラ</original>
   </message>
   <message>
-    <key>NPC_NAME_382</key>
     <original>ペドロ</original>
   </message>
   <message>
-    <key>NPC_NAME_383</key>
     <original>フェデルコ</original>
   </message>
   <message>
-    <key>NPC_NAME_384</key>
     <original>エテルナ</original>
   </message>
   <message>
-    <key>NPC_NAME_385</key>
     <original>ノーマン</original>
   </message>
   <message>
-    <key>NPC_NAME_386</key>
     <original>ヘンリー</original>
   </message>
   <message>
-    <key>NPC_NAME_387</key>
     <original>マイラ</original>
   </message>
   <message>
-    <key>NPC_NAME_388</key>
     <original>ボブ</original>
   </message>
   <message>
-    <key>NPC_NAME_389</key>
     <original>ニキ</original>
   </message>
   <message>
-    <key>NPC_NAME_390</key>
     <original>ゴートン</original>
   </message>
   <message>
-    <key>NPC_NAME_391</key>
     <original>ナサニエル</original>
   </message>
   <message>
-    <key>NPC_NAME_392</key>
     <original>ジョシュ</original>
   </message>
   <message>
-    <key>NPC_NAME_393</key>
     <original>ミランダ</original>
   </message>
   <message>
-    <key>NPC_NAME_394</key>
     <original>ヤンクス</original>
   </message>
   <message>
-    <key>NPC_NAME_395</key>
     <original>バークレイ</original>
   </message>
   <message>
-    <key>NPC_NAME_396</key>
     <original>アルカン</original>
   </message>
   <message>
-    <key>NPC_NAME_397</key>
     <original>メリッサ</original>
   </message>
   <message>
-    <key>NPC_NAME_398</key>
     <original>セドリック</original>
   </message>
   <message>
-    <key>NPC_NAME_399</key>
     <original>エコール</original>
   </message>
   <message>
-    <key>NPC_NAME_400</key>
     <original>ガッシュ</original>
   </message>
   <message>
-    <key>NPC_NAME_401</key>
     <original>マハル</original>
   </message>
   <message>
-    <key>NPC_NAME_402</key>
     <original>サーニャ</original>
   </message>
   <message>
-    <key>NPC_NAME_403</key>
     <original>カイン</original>
   </message>
   <message>
-    <key>NPC_NAME_404</key>
     <original>アルマ</original>
   </message>
   <message>
-    <key>NPC_NAME_405</key>
     <original>グレイ</original>
   </message>
   <message>
-    <key>NPC_NAME_406</key>
     <original>フラベル</original>
   </message>
   <message>
-    <key>NPC_NAME_407</key>
     <original>ウルダ</original>
   </message>
   <message>
-    <key>NPC_NAME_408</key>
     <original>ムバラク</original>
   </message>
   <message>
-    <key>NPC_NAME_409</key>
     <original>ゴルタス</original>
   </message>
   <message>
-    <key>NPC_NAME_410</key>
     <original>ギブソン</original>
   </message>
   <message>
-    <key>NPC_NAME_411</key>
     <original>トビー</original>
   </message>
   <message>
-    <key>NPC_NAME_412</key>
     <original>ノーメル</original>
   </message>
   <message>
-    <key>NPC_NAME_413</key>
     <original>ドロテア</original>
   </message>
   <message>
-    <key>NPC_NAME_414</key>
     <original>ラウル</original>
   </message>
   <message>
-    <key>NPC_NAME_415</key>
     <original>チャンク</original>
   </message>
   <message>
-    <key>NPC_NAME_416</key>
     <original>リビアン</original>
   </message>
   <message>
-    <key>NPC_NAME_417</key>
     <original>ロイ</original>
   </message>
   <message>
-    <key>NPC_NAME_418</key>
     <original>ケネック</original>
   </message>
   <message>
-    <key>NPC_NAME_419</key>
     <original>シスレー</original>
   </message>
   <message>
-    <key>NPC_NAME_420</key>
     <original>ユージーン</original>
   </message>
   <message>
-    <key>NPC_NAME_421</key>
     <original>ネルソン</original>
   </message>
   <message>
-    <key>NPC_NAME_422</key>
     <original>ニルヴァーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_423</key>
     <original>セレア</original>
   </message>
   <message>
-    <key>NPC_NAME_424</key>
     <original>ハンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_425</key>
     <original>マイルズ</original>
   </message>
   <message>
-    <key>NPC_NAME_426</key>
     <original>ブリジット</original>
   </message>
   <message>
-    <key>NPC_NAME_427</key>
     <original>ホーソーン</original>
   </message>
   <message>
-    <key>NPC_NAME_428</key>
     <original>ジゼル</original>
   </message>
   <message>
-    <key>NPC_NAME_429</key>
     <original>シャロム</original>
   </message>
   <message>
-    <key>NPC_NAME_430</key>
     <original>マーガレット</original>
   </message>
   <message>
-    <key>NPC_NAME_431</key>
     <original>フランチェスカ</original>
   </message>
   <message>
-    <key>NPC_NAME_432</key>
     <original>クロムウェル</original>
   </message>
   <message>
-    <key>NPC_NAME_433</key>
     <original>ネイア</original>
   </message>
   <message>
-    <key>NPC_NAME_434</key>
     <original>エンポリオ</original>
   </message>
   <message>
-    <key>NPC_NAME_435</key>
     <original>サニー</original>
   </message>
   <message>
-    <key>NPC_NAME_436</key>
     <original>ブランドン</original>
   </message>
   <message>
-    <key>NPC_NAME_437</key>
     <original>ゴート</original>
   </message>
   <message>
-    <key>NPC_NAME_438</key>
     <original>レジーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_439</key>
     <original>ヨハン</original>
   </message>
   <message>
-    <key>NPC_NAME_440</key>
     <original>ローシェ</original>
   </message>
   <message>
-    <key>NPC_NAME_441</key>
     <original>ジョーダン</original>
   </message>
   <message>
-    <key>NPC_NAME_442</key>
     <original>アウグスト</original>
   </message>
   <message>
-    <key>NPC_NAME_443</key>
     <original>オズワルド</original>
   </message>
   <message>
-    <key>NPC_NAME_444</key>
     <original>ケイシー</original>
   </message>
   <message>
-    <key>NPC_NAME_445</key>
     <original>イザベル</original>
   </message>
   <message>
-    <key>NPC_NAME_446</key>
     <original>ポー</original>
   </message>
   <message>
-    <key>NPC_NAME_447</key>
     <original>ライオネット</original>
   </message>
   <message>
-    <key>NPC_NAME_448</key>
     <original>ダイアン</original>
   </message>
   <message>
-    <key>NPC_NAME_449</key>
     <original>ツエッペリ</original>
   </message>
   <message>
-    <key>NPC_NAME_450</key>
     <original>リック</original>
   </message>
   <message>
-    <key>NPC_NAME_451</key>
     <original>ソーニャ</original>
   </message>
   <message>
-    <key>NPC_NAME_452</key>
     <original>オリバー</original>
   </message>
   <message>
-    <key>NPC_NAME_453</key>
     <original>シェリン</original>
   </message>
   <message>
-    <key>NPC_NAME_454</key>
     <original>ナディア</original>
   </message>
   <message>
-    <key>NPC_NAME_455</key>
     <original>サラミス</original>
   </message>
   <message>
-    <key>NPC_NAME_456</key>
     <original>マジョリー</original>
   </message>
   <message>
-    <key>NPC_NAME_457</key>
     <original>サイラス</original>
   </message>
   <message>
-    <key>NPC_NAME_458</key>
     <original>タルコット</original>
   </message>
   <message>
-    <key>NPC_NAME_459</key>
     <original>スターク</original>
   </message>
   <message>
-    <key>NPC_NAME_460</key>
     <original>リドリー</original>
   </message>
   <message>
-    <key>NPC_NAME_461</key>
     <original>ディッカ</original>
   </message>
   <message>
-    <key>NPC_NAME_462</key>
     <original>スケルツォ</original>
   </message>
   <message>
-    <key>NPC_NAME_463</key>
     <original>ヘストン</original>
   </message>
   <message>
-    <key>NPC_NAME_464</key>
     <original>ギルスタン</original>
   </message>
   <message>
-    <key>NPC_NAME_465</key>
     <original>ウガウ</original>
   </message>
   <message>
-    <key>NPC_NAME_466</key>
     <original>バランジャ</original>
   </message>
   <message>
-    <key>NPC_NAME_467</key>
     <original>ズタン</original>
   </message>
   <message>
-    <key>NPC_NAME_468</key>
     <original>スラボ</original>
   </message>
   <message>
-    <key>NPC_NAME_469</key>
     <original>バボ</original>
   </message>
   <message>
-    <key>NPC_NAME_470</key>
     <original>トロッガ</original>
   </message>
   <message>
-    <key>NPC_NAME_471</key>
     <original>ワンゴ</original>
   </message>
   <message>
-    <key>NPC_NAME_472</key>
     <original>ニコラ</original>
   </message>
   <message>
-    <key>NPC_NAME_473</key>
     <original>デレード</original>
   </message>
   <message>
-    <key>NPC_NAME_474</key>
     <original>アルヴァー</original>
   </message>
   <message>
-    <key>NPC_NAME_475</key>
     <original>セラ</original>
   </message>
   <message>
-    <key>NPC_NAME_476</key>
     <original>トマソン</original>
   </message>
   <message>
-    <key>NPC_NAME_477</key>
     <original>スザンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_478</key>
     <original>ナバル</original>
   </message>
   <message>
-    <key>NPC_NAME_479</key>
     <original>カミュ</original>
   </message>
   <message>
-    <key>NPC_NAME_480</key>
     <original>ジュリエンヌ</original>
   </message>
   <message>
-    <key>NPC_NAME_481</key>
     <original>ジェネラルオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_482</key>
     <original>キャプテンオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_483</key>
     <original>オーク</original>
   </message>
   <message>
-    <key>NPC_NAME_484</key>
     <original>オーク</original>
   </message>
   <message>
-    <key>NPC_NAME_485</key>
     <original>オーク</original>
   </message>
   <message>
-    <key>NPC_NAME_486</key>
     <original>アクタイオン</original>
   </message>
   <message>
-    <key>NPC_NAME_487</key>
     <original>ベアトリクス</original>
   </message>
   <message>
-    <key>NPC_NAME_488</key>
     <original>イオセフ</original>
   </message>
   <message>
-    <key>NPC_NAME_489</key>
     <original>アリアドネ</original>
   </message>
   <message>
-    <key>NPC_NAME_490</key>
     <original>メトロファネス</original>
   </message>
   <message>
-    <key>NPC_NAME_491</key>
     <original>ルドルフォ</original>
   </message>
   <message>
-    <key>NPC_NAME_492</key>
     <original>エメラダ</original>
   </message>
   <message>
-    <key>NPC_NAME_493</key>
     <original>リングディール</original>
   </message>
   <message>
-    <key>NPC_NAME_494</key>
     <original>イヴァン</original>
   </message>
   <message>
-    <key>NPC_NAME_495</key>
     <original>バイヤール</original>
   </message>
   <message>
-    <key>NPC_NAME_496</key>
     <original>チェスター</original>
   </message>
   <message>
-    <key>NPC_NAME_497</key>
     <original>クリスティーヌ</original>
   </message>
   <message>
-    <key>NPC_NAME_498</key>
     <original>ダイオン</original>
   </message>
   <message>
-    <key>NPC_NAME_499</key>
     <original></original>
   </message>
   <message>
-    <key>NPC_NAME_500</key>
     <original></original>
   </message>
   <message>
-    <key>NPC_NAME_501</key>
     <original>自分中心　デモ枠1</original>
   </message>
   <message>
-    <key>NPC_NAME_502</key>
     <original>自分中心　デモ枠2</original>
   </message>
   <message>
-    <key>NPC_NAME_503</key>
     <original>自分中心　デモ枠3</original>
   </message>
   <message>
-    <key>NPC_NAME_504</key>
     <original>自分中心　デモ枠4</original>
   </message>
   <message>
-    <key>NPC_NAME_505</key>
     <original>自分中心　デモ枠5</original>
   </message>
   <message>
-    <key>NPC_NAME_506</key>
     <original>自分中心　デモ枠6</original>
   </message>
   <message>
-    <key>NPC_NAME_507</key>
     <original>自分中心　デモ枠7</original>
   </message>
   <message>
-    <key>NPC_NAME_508</key>
     <original>自分中心　デモ枠8</original>
   </message>
   <message>
-    <key>NPC_NAME_509</key>
     <original>メンバー共通　デモ枠1</original>
   </message>
   <message>
-    <key>NPC_NAME_510</key>
     <original>メンバー共通　デモ枠2</original>
   </message>
   <message>
-    <key>NPC_NAME_511</key>
     <original>メンバー共通　デモ枠3</original>
   </message>
   <message>
-    <key>NPC_NAME_512</key>
     <original>メンバー共通　デモ枠4</original>
   </message>
   <message>
-    <key>NPC_NAME_513</key>
     <original>メンバー共通　デモ枠5</original>
   </message>
   <message>
-    <key>NPC_NAME_514</key>
     <original>メンバー共通　デモ枠6</original>
   </message>
   <message>
-    <key>NPC_NAME_515</key>
     <original>メンバー共通　デモ枠7</original>
   </message>
   <message>
-    <key>NPC_NAME_516</key>
     <original>メンバー共通　デモ枠8</original>
   </message>
   <message>
-    <key>NPC_NAME_517</key>
     <original>クラフトリーダー1</original>
   </message>
   <message>
-    <key>NPC_NAME_518</key>
     <original>クラフトリーダー2</original>
   </message>
   <message>
-    <key>NPC_NAME_519</key>
     <original>クラフトリーダー3</original>
   </message>
   <message>
-    <key>NPC_NAME_520</key>
     <original>クラフトリーダー4</original>
   </message>
   <message>
-    <key>NPC_NAME_521</key>
     <original>クラフトリーダー5</original>
   </message>
   <message>
-    <key>NPC_NAME_522</key>
     <original>クラフトリーダー6</original>
   </message>
   <message>
-    <key>NPC_NAME_523</key>
     <original>クラフトサポート1</original>
   </message>
   <message>
-    <key>NPC_NAME_524</key>
     <original>クラフトサポート2</original>
   </message>
   <message>
-    <key>NPC_NAME_525</key>
     <original>クラフトサポート3</original>
   </message>
   <message>
-    <key>NPC_NAME_526</key>
     <original>クラフトサポート4</original>
   </message>
   <message>
-    <key>NPC_NAME_527</key>
     <original>クラフトサポート5</original>
   </message>
   <message>
-    <key>NPC_NAME_528</key>
     <original>クラフトサポート6</original>
   </message>
   <message>
-    <key>NPC_NAME_529</key>
     <original>クラフトサポート7</original>
   </message>
   <message>
-    <key>NPC_NAME_530</key>
     <original>クラフトサポート8</original>
   </message>
   <message>
-    <key>NPC_NAME_531</key>
     <original>クラフトサポート9</original>
   </message>
   <message>
-    <key>NPC_NAME_532</key>
     <original>クラフトサポート10</original>
   </message>
   <message>
-    <key>NPC_NAME_533</key>
     <original>クラフトサポート11</original>
   </message>
   <message>
-    <key>NPC_NAME_534</key>
     <original>クラフトサポート12</original>
   </message>
   <message>
-    <key>NPC_NAME_535</key>
     <original>クラフトサポート13</original>
   </message>
   <message>
-    <key>NPC_NAME_536</key>
     <original>クラフトサポート14</original>
   </message>
   <message>
-    <key>NPC_NAME_537</key>
     <original>野良ポーン1</original>
   </message>
   <message>
-    <key>NPC_NAME_538</key>
     <original>野良ポーン2</original>
   </message>
   <message>
-    <key>NPC_NAME_539</key>
     <original>野良ポーン3</original>
   </message>
   <message>
-    <key>NPC_NAME_540</key>
     <original>野良ポーン4</original>
   </message>
   <message>
-    <key>NPC_NAME_541</key>
     <original>野良ポーン5</original>
   </message>
   <message>
-    <key>NPC_NAME_542</key>
     <original>野良ポーン6</original>
   </message>
   <message>
-    <key>NPC_NAME_543</key>
     <original>野良ポーン7</original>
   </message>
   <message>
-    <key>NPC_NAME_544</key>
     <original>野良ポーン8</original>
   </message>
   <message>
-    <key>NPC_NAME_545</key>
     <original>野良ポーン9</original>
   </message>
   <message>
-    <key>NPC_NAME_546</key>
     <original>野良ポーン10</original>
   </message>
   <message>
-    <key>NPC_NAME_547</key>
     <original>野良ポーン11</original>
   </message>
   <message>
-    <key>NPC_NAME_548</key>
     <original>野良ポーン12</original>
   </message>
   <message>
-    <key>NPC_NAME_549</key>
     <original>野良ポーン13</original>
   </message>
   <message>
-    <key>NPC_NAME_550</key>
     <original>野良ポーン14</original>
   </message>
   <message>
-    <key>NPC_NAME_551</key>
     <original>野良ポーン15</original>
   </message>
   <message>
-    <key>NPC_NAME_552</key>
     <original>野良ポーン16</original>
   </message>
   <message>
-    <key>NPC_NAME_553</key>
     <original>野良ポーン17</original>
   </message>
   <message>
-    <key>NPC_NAME_554</key>
     <original>野良ポーン18</original>
   </message>
   <message>
-    <key>NPC_NAME_555</key>
     <original>野良ポーン19</original>
   </message>
   <message>
-    <key>NPC_NAME_556</key>
     <original>野良ポーン20</original>
   </message>
   <message>
-    <key>NPC_NAME_557</key>
     <original>野良ポーン21</original>
   </message>
   <message>
-    <key>NPC_NAME_558</key>
     <original>野良ポーン22</original>
   </message>
   <message>
-    <key>NPC_NAME_559</key>
     <original>野良ポーン23</original>
   </message>
   <message>
-    <key>NPC_NAME_560</key>
     <original>野良ポーン24</original>
   </message>
   <message>
-    <key>NPC_NAME_561</key>
     <original>野良ポーン25</original>
   </message>
   <message>
-    <key>NPC_NAME_562</key>
     <original>野良ポーン26</original>
   </message>
   <message>
-    <key>NPC_NAME_563</key>
     <original>野良ポーン27</original>
   </message>
   <message>
-    <key>NPC_NAME_564</key>
     <original>野良ポーン28</original>
   </message>
   <message>
-    <key>NPC_NAME_565</key>
     <original>野良ポーン29</original>
   </message>
   <message>
-    <key>NPC_NAME_566</key>
     <original>野良ポーン30</original>
   </message>
   <message>
-    <key>NPC_NAME_567</key>
     <original>野良ポーン31</original>
   </message>
   <message>
-    <key>NPC_NAME_568</key>
     <original>野良ポーン32</original>
   </message>
   <message>
-    <key>NPC_NAME_569</key>
     <original>野良ポーン33</original>
   </message>
   <message>
-    <key>NPC_NAME_570</key>
     <original>野良ポーン34</original>
   </message>
   <message>
-    <key>NPC_NAME_571</key>
     <original>野良ポーン35</original>
   </message>
   <message>
-    <key>NPC_NAME_572</key>
     <original>野良ポーン36</original>
   </message>
   <message>
-    <key>NPC_NAME_573</key>
     <original>野良ポーン37</original>
   </message>
   <message>
-    <key>NPC_NAME_574</key>
     <original>野良ポーン38</original>
   </message>
   <message>
-    <key>NPC_NAME_575</key>
     <original>野良ポーン39</original>
   </message>
   <message>
-    <key>NPC_NAME_576</key>
     <original>野良ポーン40</original>
   </message>
   <message>
-    <key>NPC_NAME_577</key>
     <original>野良ポーン41</original>
   </message>
   <message>
-    <key>NPC_NAME_578</key>
     <original>野良ポーン42</original>
   </message>
   <message>
-    <key>NPC_NAME_579</key>
     <original>野良ポーン43</original>
   </message>
   <message>
-    <key>NPC_NAME_580</key>
     <original>野良ポーン44</original>
   </message>
   <message>
-    <key>NPC_NAME_581</key>
     <original>野良ポーン45</original>
   </message>
   <message>
-    <key>NPC_NAME_582</key>
     <original>野良ポーン46</original>
   </message>
   <message>
-    <key>NPC_NAME_583</key>
     <original>野良ポーン47</original>
   </message>
   <message>
-    <key>NPC_NAME_584</key>
     <original>野良ポーン48</original>
   </message>
   <message>
-    <key>NPC_NAME_585</key>
     <original>野良ポーン49</original>
   </message>
   <message>
-    <key>NPC_NAME_586</key>
     <original>野良ポーン50</original>
   </message>
   <message>
-    <key>NPC_NAME_587</key>
     <original>野良ポーン51</original>
   </message>
   <message>
-    <key>NPC_NAME_588</key>
     <original>野良ポーン52</original>
   </message>
   <message>
-    <key>NPC_NAME_589</key>
     <original>野良ポーン53</original>
   </message>
   <message>
-    <key>NPC_NAME_590</key>
     <original>野良ポーン54</original>
   </message>
   <message>
-    <key>NPC_NAME_591</key>
     <original>野良ポーン55</original>
   </message>
   <message>
-    <key>NPC_NAME_592</key>
     <original>野良ポーン56</original>
   </message>
   <message>
-    <key>NPC_NAME_593</key>
     <original>野良ポーン57</original>
   </message>
   <message>
-    <key>NPC_NAME_594</key>
     <original>野良ポーン58</original>
   </message>
   <message>
-    <key>NPC_NAME_595</key>
     <original>野良ポーン59</original>
   </message>
   <message>
-    <key>NPC_NAME_596</key>
     <original>野良ポーン60</original>
   </message>
   <message>
-    <key>NPC_NAME_597</key>
     <original>野良ポーン61</original>
   </message>
   <message>
-    <key>NPC_NAME_598</key>
     <original>野良ポーン62</original>
   </message>
   <message>
-    <key>NPC_NAME_599</key>
     <original>野良ポーン63</original>
   </message>
   <message>
-    <key>NPC_NAME_600</key>
     <original>野良ポーン64</original>
   </message>
   <message>
-    <key>NPC_NAME_601</key>
     <original>野良ポーン65</original>
   </message>
   <message>
-    <key>NPC_NAME_602</key>
     <original>野良ポーン66</original>
   </message>
   <message>
-    <key>NPC_NAME_603</key>
     <original>野良ポーン67</original>
   </message>
   <message>
-    <key>NPC_NAME_604</key>
     <original>野良ポーン68</original>
   </message>
   <message>
-    <key>NPC_NAME_605</key>
     <original>野良ポーン69</original>
   </message>
   <message>
-    <key>NPC_NAME_606</key>
     <original>野良ポーン70</original>
   </message>
   <message>
-    <key>NPC_NAME_607</key>
     <original>野良ポーン71</original>
   </message>
   <message>
-    <key>NPC_NAME_608</key>
     <original>野良ポーン72</original>
   </message>
   <message>
-    <key>NPC_NAME_609</key>
     <original>野良ポーン73</original>
   </message>
   <message>
-    <key>NPC_NAME_610</key>
     <original>野良ポーン74</original>
   </message>
   <message>
-    <key>NPC_NAME_611</key>
     <original>野良ポーン75</original>
   </message>
   <message>
-    <key>NPC_NAME_612</key>
     <original>野良ポーン76</original>
   </message>
   <message>
-    <key>NPC_NAME_613</key>
     <original>野良ポーン77</original>
   </message>
   <message>
-    <key>NPC_NAME_614</key>
     <original>野良ポーン78</original>
   </message>
   <message>
-    <key>NPC_NAME_615</key>
     <original>野良ポーン79</original>
   </message>
   <message>
-    <key>NPC_NAME_616</key>
     <original>野良ポーン80</original>
   </message>
   <message>
-    <key>NPC_NAME_617</key>
     <original>野良ポーン81</original>
   </message>
   <message>
-    <key>NPC_NAME_618</key>
     <original>野良ポーン82</original>
   </message>
   <message>
-    <key>NPC_NAME_619</key>
     <original>野良ポーン83</original>
   </message>
   <message>
-    <key>NPC_NAME_620</key>
     <original>野良ポーン84</original>
   </message>
   <message>
-    <key>NPC_NAME_621</key>
     <original>野良ポーン85</original>
   </message>
   <message>
-    <key>NPC_NAME_622</key>
     <original>野良ポーン86</original>
   </message>
   <message>
-    <key>NPC_NAME_623</key>
     <original>野良ポーン87</original>
   </message>
   <message>
-    <key>NPC_NAME_624</key>
     <original>野良ポーン88</original>
   </message>
   <message>
-    <key>NPC_NAME_625</key>
     <original>野良ポーン89</original>
   </message>
   <message>
-    <key>NPC_NAME_626</key>
     <original>野良ポーン90</original>
   </message>
   <message>
-    <key>NPC_NAME_627</key>
     <original>野良ポーン91</original>
   </message>
   <message>
-    <key>NPC_NAME_628</key>
     <original>野良ポーン92</original>
   </message>
   <message>
-    <key>NPC_NAME_629</key>
     <original>野良ポーン93</original>
   </message>
   <message>
-    <key>NPC_NAME_630</key>
     <original>野良ポーン94</original>
   </message>
   <message>
-    <key>NPC_NAME_631</key>
     <original>野良ポーン95</original>
   </message>
   <message>
-    <key>NPC_NAME_632</key>
     <original>野良ポーン96</original>
   </message>
   <message>
-    <key>NPC_NAME_633</key>
     <original>野良ポーン97</original>
   </message>
   <message>
-    <key>NPC_NAME_634</key>
     <original>野良ポーン98</original>
   </message>
   <message>
-    <key>NPC_NAME_635</key>
     <original>野良ポーン99</original>
   </message>
   <message>
-    <key>NPC_NAME_636</key>
     <original>野良ポーン100</original>
   </message>
   <message>
-    <key>NPC_NAME_637</key>
     <original>救出ポーン1</original>
   </message>
   <message>
-    <key>NPC_NAME_638</key>
     <original>救出ポーン2</original>
   </message>
   <message>
-    <key>NPC_NAME_639</key>
     <original>救出ポーン3</original>
   </message>
   <message>
-    <key>NPC_NAME_640</key>
     <original>救出ポーン4</original>
   </message>
   <message>
-    <key>NPC_NAME_641</key>
     <original>救出ポーン5</original>
   </message>
   <message>
-    <key>NPC_NAME_642</key>
     <original>救出ポーン6</original>
   </message>
   <message>
-    <key>NPC_NAME_643</key>
     <original>救出ポーン7</original>
   </message>
   <message>
-    <key>NPC_NAME_644</key>
     <original>救出ポーン8</original>
   </message>
   <message>
-    <key>NPC_NAME_645</key>
     <original>救出ポーン9</original>
   </message>
   <message>
-    <key>NPC_NAME_646</key>
     <original>救出ポーン10</original>
   </message>
   <message>
-    <key>NPC_NAME_647</key>
     <original>共闘ポーン1</original>
   </message>
   <message>
-    <key>NPC_NAME_648</key>
     <original>ヒックス</original>
   </message>
   <message>
-    <key>NPC_NAME_649</key>
     <original>ドネル</original>
   </message>
   <message>
-    <key>NPC_NAME_650</key>
     <original>クラフトサポート15</original>
   </message>
   <message>
-    <key>NPC_NAME_651</key>
     <original>クラフトサポート16</original>
   </message>
   <message>
-    <key>NPC_NAME_652</key>
     <original>クラフトサポート17</original>
   </message>
   <message>
-    <key>NPC_NAME_653</key>
     <original>クラフトサポート18</original>
   </message>
   <message>
-    <key>NPC_NAME_654</key>
     <original>待機ポーン１</original>
   </message>
   <message>
-    <key>NPC_NAME_655</key>
     <original>待機ポーン2</original>
   </message>
   <message>
-    <key>NPC_NAME_656</key>
     <original>待機ポーン3</original>
   </message>
   <message>
-    <key>NPC_NAME_657</key>
     <original>待機ポーン4</original>
   </message>
   <message>
-    <key>NPC_NAME_658</key>
     <original>待機ポーン5</original>
   </message>
   <message>
-    <key>NPC_NAME_659</key>
     <original>待機ポーン6</original>
   </message>
   <message>
-    <key>NPC_NAME_660</key>
     <original>待機ポーン7</original>
   </message>
   <message>
-    <key>NPC_NAME_661</key>
     <original>待機ポーン8</original>
   </message>
   <message>
-    <key>NPC_NAME_662</key>
     <original>待機ポーン9</original>
   </message>
   <message>
-    <key>NPC_NAME_663</key>
     <original>待機ポーン10</original>
   </message>
   <message>
-    <key>NPC_NAME_664</key>
     <original>待機ポーン11</original>
   </message>
   <message>
-    <key>NPC_NAME_665</key>
     <original>待機ポーン12</original>
   </message>
   <message>
-    <key>NPC_NAME_666</key>
     <original>待機ポーン13</original>
   </message>
   <message>
-    <key>NPC_NAME_667</key>
     <original>待機ポーン14</original>
   </message>
   <message>
-    <key>NPC_NAME_668</key>
     <original>待機ポーン15</original>
   </message>
   <message>
-    <key>NPC_NAME_669</key>
     <original>待機ポーン16</original>
   </message>
   <message>
-    <key>NPC_NAME_670</key>
     <original>待機ポーン17</original>
   </message>
   <message>
-    <key>NPC_NAME_671</key>
     <original>待機ポーン18</original>
   </message>
   <message>
-    <key>NPC_NAME_672</key>
     <original>待機ポーン19</original>
   </message>
   <message>
-    <key>NPC_NAME_673</key>
     <original>待機ポーン20</original>
   </message>
   <message>
-    <key>NPC_NAME_674</key>
     <original>ゴブリン</original>
   </message>
   <message>
-    <key>NPC_NAME_675</key>
     <original>アルフレド</original>
   </message>
   <message>
-    <key>NPC_NAME_683</key>
     <original>パトリシア</original>
   </message>
   <message>
-    <key>NPC_NAME_685</key>
     <original>ヘイデン</original>
   </message>
   <message>
-    <key>NPC_NAME_686</key>
     <original>ロンドジール</original>
   </message>
   <message>
-    <key>NPC_NAME_687</key>
     <original>ウィルソン</original>
   </message>
   <message>
-    <key>NPC_NAME_688</key>
     <original>ゴルゴラン</original>
   </message>
   <message>
-    <key>NPC_NAME_689</key>
     <original>エリン</original>
   </message>
   <message>
-    <key>NPC_NAME_690</key>
     <original>ハーヴェイ</original>
   </message>
   <message>
-    <key>NPC_NAME_691</key>
     <original>禁域守の神官</original>
   </message>
   <message>
-    <key>NPC_NAME_692</key>
     <original>オフィリア</original>
   </message>
   <message>
-    <key>NPC_NAME_693</key>
     <original>神殿女：予備枠</original>
   </message>
   <message>
-    <key>NPC_NAME_694</key>
     <original>文化Ａ：男4</original>
   </message>
   <message>
-    <key>NPC_NAME_695</key>
     <original>グレゴリー</original>
   </message>
   <message>
-    <key>NPC_NAME_696</key>
     <original>カール</original>
   </message>
   <message>
-    <key>NPC_NAME_697</key>
     <original>ルキーノ</original>
   </message>
   <message>
-    <key>NPC_NAME_698</key>
     <original>シェリー</original>
   </message>
   <message>
-    <key>NPC_NAME_699</key>
     <original>ナタリア</original>
   </message>
   <message>
-    <key>NPC_NAME_700</key>
     <original>サリー</original>
   </message>
   <message>
-    <key>NPC_NAME_701</key>
     <original>文化Ａ：男5</original>
   </message>
   <message>
-    <key>NPC_NAME_702</key>
     <original>文化Ａ：女5</original>
   </message>
   <message>
-    <key>NPC_NAME_703</key>
     <original>文化Ａ：女4</original>
   </message>
   <message>
-    <key>NPC_NAME_704</key>
     <original>アンジェロ</original>
   </message>
   <message>
-    <key>NPC_NAME_705</key>
     <original>文化Ｂ：男2　きこり系</original>
   </message>
   <message>
-    <key>NPC_NAME_706</key>
     <original>文化Ｂ：男3　鉱山系</original>
   </message>
   <message>
-    <key>NPC_NAME_707</key>
     <original>文化Ｃ：男1　海系</original>
   </message>
   <message>
-    <key>NPC_NAME_708</key>
     <original>文化Ｃ：男2　海系</original>
   </message>
   <message>
-    <key>NPC_NAME_709</key>
     <original>文化Ｃ：男3　半裸系</original>
   </message>
   <message>
-    <key>NPC_NAME_710</key>
     <original>エイダス</original>
   </message>
   <message>
-    <key>NPC_NAME_711</key>
     <original>貴族2</original>
   </message>
   <message>
-    <key>NPC_NAME_712</key>
     <original>貴族3</original>
   </message>
   <message>
-    <key>NPC_NAME_713</key>
     <original>お水系1</original>
   </message>
   <message>
-    <key>NPC_NAME_714</key>
     <original>お水系2</original>
   </message>
   <message>
-    <key>NPC_NAME_715</key>
     <original>マリサ</original>
   </message>
   <message>
-    <key>NPC_NAME_716</key>
     <original>ジュリア</original>
   </message>
   <message>
-    <key>NPC_NAME_717</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_718</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_719</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_720</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_721</key>
     <original>白衛騎士団3</original>
   </message>
   <message>
-    <key>NPC_NAME_722</key>
     <original>チャールズ</original>
   </message>
   <message>
-    <key>NPC_NAME_723</key>
     <original>不在伝言係</original>
   </message>
   <message>
-    <key>NPC_NAME_724</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_725</key>
     <original>ルドヴィカ</original>
   </message>
   <message>
-    <key>NPC_NAME_726</key>
     <original>術士　女2</original>
   </message>
   <message>
-    <key>NPC_NAME_727</key>
     <original>術士　女1</original>
   </message>
   <message>
-    <key>NPC_NAME_728</key>
     <original>術士　男2</original>
   </message>
   <message>
-    <key>NPC_NAME_729</key>
     <original>覚者隊の隊士</original>
   </message>
   <message>
-    <key>NPC_NAME_730</key>
     <original>妖艶な錬金術師</original>
   </message>
   <message>
-    <key>NPC_NAME_731</key>
     <original>エウニケ</original>
   </message>
   <message>
-    <key>NPC_NAME_732</key>
     <original>亡都の民</original>
   </message>
   <message>
-    <key>NPC_NAME_733</key>
     <original>亡都の錬金術師</original>
   </message>
   <message>
-    <key>NPC_NAME_738</key>
     <original>薄着　女2</original>
   </message>
   <message>
-    <key>NPC_NAME_739</key>
     <original>薄着　女1</original>
   </message>
   <message>
-    <key>NPC_NAME_740</key>
     <original>薄着　男2</original>
   </message>
   <message>
-    <key>NPC_NAME_741</key>
     <original>エイブラム</original>
   </message>
   <message>
-    <key>NPC_NAME_742</key>
     <original>怪しいゴブリン</original>
   </message>
   <message>
-    <key>NPC_NAME_743</key>
     <original>オーク</original>
   </message>
   <message>
-    <key>NPC_NAME_744</key>
     <original>ポーン会話用セクシー</original>
   </message>
   <message>
-    <key>NPC_NAME_745</key>
     <original>ポーン会話用ワイルド</original>
   </message>
   <message>
-    <key>NPC_NAME_746</key>
     <original>ポーン会話用ピュア</original>
   </message>
   <message>
-    <key>NPC_NAME_747</key>
     <original>ポーン会話用クール</original>
   </message>
   <message>
-    <key>NPC_NAME_748</key>
     <original>ポーン会話用スマート</original>
   </message>
   <message>
-    <key>NPC_NAME_749</key>
     <original>ポーン会話用アクティブ</original>
   </message>
   <message>
-    <key>NPC_NAME_750</key>
     <original>ポーン会話用シャイ</original>
   </message>
   <message>
-    <key>NPC_NAME_751</key>
     <original>ポーン会話用ノーマル</original>
   </message>
   <message>
-    <key>NPC_NAME_752</key>
     <original>シーベル</original>
   </message>
   <message>
-    <key>NPC_NAME_753</key>
     <original>マリオ</original>
   </message>
   <message>
-    <key>NPC_NAME_754</key>
     <original>ルーシー</original>
   </message>
   <message>
-    <key>NPC_NAME_755</key>
     <original>イサップ</original>
   </message>
   <message>
-    <key>NPC_NAME_756</key>
     <original>ララ</original>
   </message>
   <message>
-    <key>NPC_NAME_757</key>
     <original>ブッグ</original>
   </message>
   <message>
-    <key>NPC_NAME_758</key>
     <original>ゴーゴ</original>
   </message>
   <message>
-    <key>NPC_NAME_767</key>
     <original>男性</original>
   </message>
   <message>
-    <key>NPC_NAME_770</key>
     <original>女性</original>
   </message>
   <message>
-    <key>NPC_NAME_771</key>
     <original>鉱員</original>
   </message>
   <message>
-    <key>NPC_NAME_772</key>
     <original>農夫</original>
   </message>
   <message>
-    <key>NPC_NAME_773</key>
     <original>老夫婦</original>
   </message>
   <message>
-    <key>NPC_NAME_774</key>
     <original>子供連れの女性</original>
   </message>
   <message>
-    <key>NPC_NAME_775</key>
     <original>おびえた様子の女性</original>
   </message>
   <message>
-    <key>NPC_NAME_776</key>
     <original>酔っぱらった男</original>
   </message>
   <message>
-    <key>NPC_NAME_777</key>
     <original>負傷した男性</original>
   </message>
   <message>
-    <key>NPC_NAME_778</key>
     <original>音楽家</original>
   </message>
   <message>
-    <key>NPC_NAME_779</key>
     <original>通りすがりの旅人</original>
   </message>
   <message>
-    <key>NPC_NAME_780</key>
     <original>旅人</original>
   </message>
   <message>
-    <key>NPC_NAME_781</key>
     <original>魔術師</original>
   </message>
   <message>
-    <key>NPC_NAME_782</key>
     <original>負傷した戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_783</key>
     <original>戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_784</key>
     <original>貴族</original>
   </message>
   <message>
-    <key>NPC_NAME_785</key>
     <original>商人</original>
   </message>
   <message>
-    <key>NPC_NAME_786</key>
     <original>見習い覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_787</key>
     <original>覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_788</key>
     <original>賞金稼ぎ</original>
   </message>
   <message>
-    <key>NPC_NAME_789</key>
     <original>冒険者</original>
   </message>
   <message>
-    <key>NPC_NAME_790</key>
     <original>神官</original>
   </message>
   <message>
-    <key>NPC_NAME_791</key>
     <original>村人</original>
   </message>
   <message>
-    <key>NPC_NAME_792</key>
     <original>少年</original>
   </message>
   <message>
-    <key>NPC_NAME_793</key>
     <original>少女</original>
   </message>
   <message>
-    <key>NPC_NAME_794</key>
     <original>騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_795</key>
     <original>見習い騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_796</key>
     <original>古参の騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_797</key>
     <original>歴戦の戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_798</key>
     <original>古参の覚者</original>
   </message>
   <message>
-    <key>NPC_NAME_799</key>
     <original>老婦</original>
   </message>
   <message>
-    <key>NPC_NAME_800</key>
     <original>酔っぱらった女</original>
   </message>
   <message>
-    <key>NPC_NAME_801</key>
     <original>狩人</original>
   </message>
   <message>
-    <key>NPC_NAME_802</key>
     <original>木こり</original>
   </message>
   <message>
-    <key>NPC_NAME_803</key>
     <original>盗賊</original>
   </message>
   <message>
-    <key>NPC_NAME_804</key>
     <original>酒場の女</original>
   </message>
   <message>
-    <key>NPC_NAME_805</key>
     <original>詩人</original>
   </message>
   <message>
-    <key>NPC_NAME_806</key>
     <original>鍛冶職人</original>
   </message>
   <message>
-    <key>NPC_NAME_807</key>
     <original>ボロをまとった男</original>
   </message>
   <message>
-    <key>NPC_NAME_808</key>
     <original>女戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_809</key>
     <original>目撃者予備枠18</original>
   </message>
   <message>
-    <key>NPC_NAME_810</key>
     <original>目撃者予備枠19</original>
   </message>
   <message>
-    <key>NPC_NAME_811</key>
     <original>目撃者予備枠20</original>
   </message>
   <message>
-    <key>NPC_NAME_812</key>
     <original>目撃者予備枠21</original>
   </message>
   <message>
-    <key>NPC_NAME_813</key>
     <original>目撃者予備枠22</original>
   </message>
   <message>
-    <key>NPC_NAME_814</key>
     <original>目撃者予備枠23</original>
   </message>
   <message>
-    <key>NPC_NAME_815</key>
     <original>目撃者予備枠24</original>
   </message>
   <message>
-    <key>NPC_NAME_816</key>
     <original>目撃者予備枠25</original>
   </message>
   <message>
-    <key>NPC_NAME_817</key>
     <original>目撃者予備枠26</original>
   </message>
   <message>
-    <key>NPC_NAME_818</key>
     <original>目撃者予備枠27</original>
   </message>
   <message>
-    <key>NPC_NAME_819</key>
     <original>目撃者予備枠28</original>
   </message>
   <message>
-    <key>NPC_NAME_820</key>
     <original>目撃者予備枠29</original>
   </message>
   <message>
-    <key>NPC_NAME_821</key>
     <original>目撃者予備枠30</original>
   </message>
   <message>
-    <key>NPC_NAME_822</key>
     <original>セカンドポーン</original>
   </message>
   <message>
-    <key>NPC_NAME_823</key>
     <original>共闘セット用NPC</original>
   </message>
   <message>
-    <key>NPC_NAME_824</key>
     <original></original>
   </message>
   <message>
-    <key>NPC_NAME_827</key>
     <original>グランエント</original>
   </message>
   <message>
-    <key>NPC_NAME_828</key>
     <original>セシリー</original>
   </message>
   <message>
-    <key>NPC_NAME_829</key>
     <original>エリオット</original>
   </message>
   <message>
-    <key>NPC_NAME_831</key>
     <original>ロイグ</original>
   </message>
   <message>
-    <key>NPC_NAME_832</key>
     <original>ガラダ</original>
   </message>
   <message>
-    <key>NPC_NAME_833</key>
     <original>黒騎士</original>
   </message>
   <message>
-    <key>NPC_NAME_834</key>
     <original>アルタード・ズール</original>
   </message>
   <message>
-    <key>NPC_NAME_835</key>
     <original>淀みし大竜力</original>
   </message>
   <message>
-    <key>NPC_NAME_836</key>
     <original>精霊竜ウィルミア</original>
   </message>
   <message>
-    <key>NPC_NAME_837</key>
     <original>精霊竜セシリー</original>
   </message>
   <message>
-    <key>NPC_NAME_838</key>
     <original>リュカ</original>
   </message>
   <message>
-    <key>NPC_NAME_839</key>
     <original>ベルトラン</original>
   </message>
   <message>
-    <key>NPC_NAME_840</key>
     <original>アイザック</original>
   </message>
   <message>
-    <key>NPC_NAME_841</key>
     <original>エンド誘導予備1</original>
   </message>
   <message>
-    <key>NPC_NAME_842</key>
     <original>エンド誘導予備2</original>
   </message>
   <message>
-    <key>NPC_NAME_843</key>
     <original>エンド誘導予備3</original>
   </message>
   <message>
-    <key>NPC_NAME_844</key>
     <original>イナタイヤ</original>
   </message>
   <message>
-    <key>NPC_NAME_845</key>
     <original>ブレーデン</original>
   </message>
   <message>
-    <key>NPC_NAME_846</key>
     <original>エンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_847</key>
     <original>ゴビネット</original>
   </message>
   <message>
-    <key>NPC_NAME_848</key>
     <original>モル</original>
   </message>
   <message>
-    <key>NPC_NAME_849</key>
     <original>ディリス</original>
   </message>
   <message>
-    <key>NPC_NAME_850</key>
     <original>コランタン</original>
   </message>
   <message>
-    <key>NPC_NAME_851</key>
     <original>サリヴァン</original>
   </message>
   <message>
-    <key>NPC_NAME_852</key>
     <original>グリニス</original>
   </message>
   <message>
-    <key>NPC_NAME_853</key>
     <original>イーファ</original>
   </message>
   <message>
-    <key>NPC_NAME_854</key>
     <original>助けを求める男</original>
   </message>
   <message>
-    <key>NPC_NAME_855</key>
     <original>カラドック</original>
   </message>
   <message>
-    <key>NPC_NAME_856</key>
     <original>ヘフィーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_857</key>
     <original>エルネド</original>
   </message>
   <message>
-    <key>NPC_NAME_858</key>
     <original>ロルカン</original>
   </message>
   <message>
-    <key>NPC_NAME_859</key>
     <original>グレナー</original>
   </message>
   <message>
-    <key>NPC_NAME_863</key>
     <original>セバスチャン</original>
   </message>
   <message>
-    <key>NPC_NAME_864</key>
     <original>メアリー</original>
   </message>
   <message>
-    <key>NPC_NAME_865</key>
     <original>パリスハルト</original>
   </message>
   <message>
-    <key>NPC_NAME_866</key>
     <original>ルヴィア</original>
   </message>
   <message>
-    <key>NPC_NAME_867</key>
     <original>クラリッサ</original>
   </message>
   <message>
-    <key>NPC_NAME_868</key>
     <original>ギュンター</original>
   </message>
   <message>
-    <key>NPC_NAME_869</key>
     <original>ロルフ</original>
   </message>
   <message>
-    <key>NPC_NAME_870</key>
     <original>スヴェン</original>
   </message>
   <message>
-    <key>NPC_NAME_871</key>
     <original>ピサル</original>
   </message>
   <message>
-    <key>NPC_NAME_872</key>
     <original>ラザネイル</original>
   </message>
   <message>
-    <key>NPC_NAME_873</key>
     <original>オドラン</original>
   </message>
   <message>
-    <key>NPC_NAME_874</key>
     <original>イーヴィ</original>
   </message>
   <message>
-    <key>NPC_NAME_875</key>
     <original>フラナン</original>
   </message>
   <message>
-    <key>NPC_NAME_876</key>
     <original>レウェラ</original>
   </message>
   <message>
-    <key>NPC_NAME_877</key>
     <original>マーホン</original>
   </message>
   <message>
-    <key>NPC_NAME_878</key>
     <original>フィン</original>
   </message>
   <message>
-    <key>NPC_NAME_879</key>
     <original>ワイニ</original>
   </message>
   <message>
-    <key>NPC_NAME_880</key>
     <original>オリア</original>
   </message>
   <message>
-    <key>NPC_NAME_881</key>
     <original>デューイ</original>
   </message>
   <message>
-    <key>NPC_NAME_882</key>
     <original>エトナ</original>
   </message>
   <message>
-    <key>NPC_NAME_883</key>
     <original>アルトフェイル</original>
   </message>
   <message>
-    <key>NPC_NAME_884</key>
     <original>ディンガス</original>
   </message>
   <message>
-    <key>NPC_NAME_885</key>
     <original>ミラン</original>
   </message>
   <message>
-    <key>NPC_NAME_886</key>
     <original>スローニャ</original>
   </message>
   <message>
-    <key>NPC_NAME_887</key>
     <original>トリン</original>
   </message>
   <message>
-    <key>NPC_NAME_888</key>
     <original>ウルタン</original>
   </message>
   <message>
-    <key>NPC_NAME_889</key>
     <original>フィンバー</original>
   </message>
   <message>
-    <key>NPC_NAME_890</key>
     <original>ライシュ</original>
   </message>
   <message>
-    <key>NPC_NAME_891</key>
     <original>ゾルタ</original>
   </message>
   <message>
-    <key>NPC_NAME_892</key>
     <original>ウィニー</original>
   </message>
   <message>
-    <key>NPC_NAME_893</key>
     <original>モードレッド</original>
   </message>
   <message>
-    <key>NPC_NAME_895</key>
     <original>キアラン</original>
   </message>
   <message>
-    <key>NPC_NAME_896</key>
     <original>メーヴ</original>
   </message>
   <message>
-    <key>NPC_NAME_903</key>
     <original>コナーン</original>
   </message>
   <message>
-    <key>NPC_NAME_904</key>
     <original>シェナ</original>
   </message>
   <message>
-    <key>NPC_NAME_905</key>
     <original>ナーヴ</original>
   </message>
   <message>
-    <key>NPC_NAME_906</key>
     <original>アデリン</original>
   </message>
   <message>
-    <key>NPC_NAME_907</key>
     <original>オイングス</original>
   </message>
   <message>
-    <key>NPC_NAME_908</key>
     <original>マヴェイル</original>
   </message>
   <message>
-    <key>NPC_NAME_909</key>
     <original>ボーデシア</original>
   </message>
   <message>
-    <key>NPC_NAME_910</key>
     <original>ドハティ</original>
   </message>
   <message>
-    <key>NPC_NAME_911</key>
     <original>マイア</original>
   </message>
   <message>
-    <key>NPC_NAME_913</key>
     <original>ターグ</original>
   </message>
   <message>
-    <key>NPC_NAME_914</key>
     <original>ガス</original>
   </message>
   <message>
-    <key>NPC_NAME_915</key>
     <original>アルベ</original>
   </message>
   <message>
-    <key>NPC_NAME_916</key>
     <original>ヴォーラ</original>
   </message>
   <message>
-    <key>NPC_NAME_917</key>
     <original>ゴーン</original>
   </message>
   <message>
-    <key>NPC_NAME_918</key>
     <original>ハフ</original>
   </message>
   <message>
-    <key>NPC_NAME_919</key>
     <original>ダリン</original>
   </message>
   <message>
-    <key>NPC_NAME_920</key>
     <original>エナン</original>
   </message>
   <message>
-    <key>NPC_NAME_921</key>
     <original>ビデリア</original>
   </message>
   <message>
-    <key>NPC_NAME_922</key>
     <original>グェネイラ</original>
   </message>
   <message>
-    <key>NPC_NAME_923</key>
     <original>ギルロイ</original>
   </message>
   <message>
-    <key>NPC_NAME_924</key>
     <original>ウーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_925</key>
     <original>ベレナス</original>
   </message>
   <message>
-    <key>NPC_NAME_926</key>
     <original>ライアム</original>
   </message>
   <message>
-    <key>NPC_NAME_927</key>
     <original>ダレン</original>
   </message>
   <message>
-    <key>NPC_NAME_929</key>
     <original>ミューセル</original>
   </message>
   <message>
-    <key>NPC_NAME_931</key>
     <original>アデルドナハ</original>
   </message>
   <message>
-    <key>NPC_NAME_932</key>
     <original>カデル</original>
   </message>
   <message>
-    <key>NPC_NAME_933</key>
     <original>ガラダの護衛戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_934</key>
     <original>ガラダの護衛戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_935</key>
     <original>ノーラ</original>
   </message>
   <message>
-    <key>NPC_NAME_936</key>
     <original>アネリアン</original>
   </message>
   <message>
-    <key>NPC_NAME_937</key>
     <original>マクマホン</original>
   </message>
   <message>
-    <key>NPC_NAME_938</key>
     <original>ファーガル</original>
   </message>
   <message>
-    <key>NPC_NAME_939</key>
     <original>ディアドラ</original>
   </message>
   <message>
-    <key>NPC_NAME_940</key>
     <original>イデ</original>
   </message>
   <message>
-    <key>NPC_NAME_941</key>
     <original>フィンダム女予備3</original>
   </message>
   <message>
-    <key>NPC_NAME_942</key>
     <original></original>
   </message>
   <message>
-    <key>NPC_NAME_943</key>
     <original>モルガーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_944</key>
     <original>パートナーポーン</original>
   </message>
   <message>
-    <key>NPC_NAME_945</key>
     <original>ブレア</original>
   </message>
   <message>
-    <key>NPC_NAME_946</key>
     <original>ガヴァン</original>
   </message>
   <message>
-    <key>NPC_NAME_947</key>
     <original>キャナ</original>
   </message>
   <message>
-    <key>NPC_NAME_986</key>
     <original>トレアサ</original>
   </message>
   <message>
-    <key>NPC_NAME_987</key>
     <original>ガラダの護衛戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_988</key>
     <original>クラン管理人枠</original>
   </message>
   <message>
-    <key>NPC_NAME_989</key>
     <original>自宅用ポーン枠２</original>
   </message>
   <message>
-    <key>NPC_NAME_990</key>
     <original>クラン拠点用ポーン枠1</original>
   </message>
   <message>
-    <key>NPC_NAME_991</key>
     <original>リアガン</original>
   </message>
   <message>
-    <key>NPC_NAME_992</key>
     <original>デリーン</original>
   </message>
   <message>
-    <key>NPC_NAME_993</key>
     <original>クラン他人ポーン_ノーマル</original>
   </message>
   <message>
-    <key>NPC_NAME_994</key>
     <original>クラン他人ポーン_シャイ</original>
   </message>
   <message>
-    <key>NPC_NAME_995</key>
     <original>クラン他人ポーン_アクティブ</original>
   </message>
   <message>
-    <key>NPC_NAME_998</key>
     <original>クラン他人ポーン_セクシー</original>
   </message>
   <message>
-    <key>NPC_NAME_999</key>
     <original>クラン他人ポーン_スマート</original>
   </message>
   <message>
-    <key>NPC_NAME_1000</key>
     <original>クラン他人ポーン_クール</original>
   </message>
   <message>
-    <key>NPC_NAME_1001</key>
     <original>クラン他人ポーン_ピュア</original>
   </message>
   <message>
-    <key>NPC_NAME_1002</key>
     <original>クラン他人ポーン_ワイルド</original>
   </message>
   <message>
-    <key>NPC_NAME_1003</key>
     <original>クラン自分ポーン_ノーマル</original>
   </message>
   <message>
-    <key>NPC_NAME_1004</key>
     <original>クラン自分ポーン_シャイ</original>
   </message>
   <message>
-    <key>NPC_NAME_1005</key>
     <original>クラン自分ポーン_アクティブ</original>
   </message>
   <message>
-    <key>NPC_NAME_1006</key>
     <original>クラン自分ポーン_スマート</original>
   </message>
   <message>
-    <key>NPC_NAME_1007</key>
     <original>クラン自分ポーン_クール</original>
   </message>
   <message>
-    <key>NPC_NAME_1008</key>
     <original>クラン自分ポーン_ピュア</original>
   </message>
   <message>
-    <key>NPC_NAME_1009</key>
     <original>クラン自分ポーン_ワイルド</original>
   </message>
   <message>
-    <key>NPC_NAME_1010</key>
     <original>クラン自分ポーン_セクシー</original>
   </message>
   <message>
-    <key>NPC_NAME_1011</key>
     <original>クラン拠点用ポーン枠2</original>
   </message>
   <message>
-    <key>NPC_NAME_1012</key>
     <original>クラン拠点用ポーン枠3</original>
   </message>
   <message>
-    <key>NPC_NAME_1013</key>
     <original>クラン拠点用ポーン枠4</original>
   </message>
   <message>
-    <key>NPC_NAME_1014</key>
     <original>クラン拠点用ポーン枠5</original>
   </message>
   <message>
-    <key>NPC_NAME_1015</key>
     <original>クラン拠点用ポーン枠6</original>
   </message>
   <message>
-    <key>NPC_NAME_1016</key>
     <original>クラン拠点用ポーン枠7</original>
   </message>
   <message>
-    <key>NPC_NAME_1017</key>
     <original>クラン拠点用ポーン枠8</original>
   </message>
   <message>
-    <key>NPC_NAME_1018</key>
     <original>クラン拠点用ポーン枠9</original>
   </message>
   <message>
-    <key>NPC_NAME_1019</key>
     <original>クラン拠点用ポーン枠10</original>
   </message>
   <message>
-    <key>NPC_NAME_1026</key>
     <original>クラン拠点用ポーン枠11</original>
   </message>
   <message>
-    <key>NPC_NAME_1027</key>
     <original>クラン拠点用ポーン枠12</original>
   </message>
   <message>
-    <key>NPC_NAME_1028</key>
     <original>クラン拠点用ポーン枠13</original>
   </message>
   <message>
-    <key>NPC_NAME_1029</key>
     <original>クラン拠点用ポーン枠14</original>
   </message>
   <message>
-    <key>NPC_NAME_1030</key>
     <original>クラン拠点用ポーン枠15</original>
   </message>
   <message>
-    <key>NPC_NAME_1031</key>
     <original>ネド</original>
   </message>
   <message>
-    <key>NPC_NAME_1032</key>
     <original>ジリアン</original>
   </message>
   <message>
-    <key>NPC_NAME_1033</key>
     <original>メイロワ</original>
   </message>
   <message>
-    <key>NPC_NAME_1034</key>
     <original>イェルハルド</original>
   </message>
   <message>
-    <key>NPC_NAME_1035</key>
     <original>ベルタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1036</key>
     <original>クインタス</original>
   </message>
   <message>
-    <key>NPC_NAME_1037</key>
     <original>悪しき竜</original>
   </message>
   <message>
-    <key>NPC_NAME_1038</key>
     <original>闇の将</original>
   </message>
   <message>
-    <key>NPC_NAME_1039</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1040</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1041</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1042</key>
     <original>ドワーフオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1043</key>
     <original>ドワーフオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1044</key>
     <original>ドワーフオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1045</key>
     <original>隊将ドワーフオーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1046</key>
     <original>獣の将</original>
   </message>
   <message>
-    <key>NPC_NAME_1047</key>
     <original>骸の将</original>
   </message>
   <message>
-    <key>NPC_NAME_1048</key>
     <original>戦の将</original>
   </message>
   <message>
-    <key>NPC_NAME_1049</key>
     <original>スライ</original>
   </message>
   <message>
-    <key>NPC_NAME_1050</key>
     <original>レイベン</original>
   </message>
   <message>
-    <key>NPC_NAME_1051</key>
     <original>ユーリ</original>
   </message>
   <message>
-    <key>NPC_NAME_1052</key>
     <original>ロス</original>
   </message>
   <message>
-    <key>NPC_NAME_1054</key>
     <original>ニコラス</original>
   </message>
   <message>
-    <key>NPC_NAME_1055</key>
     <original>マルコ</original>
   </message>
   <message>
-    <key>NPC_NAME_1056</key>
     <original>ミーア</original>
   </message>
   <message>
-    <key>NPC_NAME_1057</key>
     <original>ガルドリン</original>
   </message>
   <message>
-    <key>NPC_NAME_1058</key>
     <original>エリオット</original>
   </message>
   <message>
-    <key>NPC_NAME_1059</key>
     <original>クラウス</original>
   </message>
   <message>
-    <key>NPC_NAME_1060</key>
     <original>メイリーフ</original>
   </message>
   <message>
-    <key>NPC_NAME_1061</key>
     <original>リズ</original>
   </message>
   <message>
-    <key>NPC_NAME_1062</key>
-    <original>北の盗賊</original>
+    <original>セロ</original>
   </message>
   <message>
-    <key>NPC_NAME_1063</key>
-    <original>北の盗賊</original>
+    <original>ピエリ</original>
   </message>
   <message>
-    <key>NPC_NAME_1064</key>
-    <original>北の盗賊</original>
+    <original>マルテン</original>
   </message>
   <message>
-    <key>NPC_NAME_1065</key>
-    <original>北の盗賊</original>
+    <original>ベルス</original>
   </message>
   <message>
-    <key>NPC_NAME_1066</key>
     <original>ドルキ</original>
   </message>
   <message>
-    <key>NPC_NAME_1067</key>
     <original>ブルース</original>
   </message>
   <message>
-    <key>NPC_NAME_1068</key>
     <original>エニス</original>
   </message>
   <message>
-    <key>NPC_NAME_1069</key>
     <original>アシル</original>
   </message>
   <message>
-    <key>NPC_NAME_1070</key>
     <original>ジュディス</original>
   </message>
   <message>
-    <key>NPC_NAME_1071</key>
     <original>ジェンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1072</key>
     <original>ヘスター</original>
   </message>
   <message>
-    <key>NPC_NAME_1073</key>
     <original>マデリーン</original>
   </message>
   <message>
-    <key>NPC_NAME_1074</key>
     <original>ハヤル</original>
   </message>
   <message>
-    <key>NPC_NAME_1075</key>
     <original>エセル</original>
   </message>
   <message>
-    <key>NPC_NAME_1076</key>
     <original>ドロシー</original>
   </message>
   <message>
-    <key>NPC_NAME_1077</key>
     <original>ガイ</original>
   </message>
   <message>
-    <key>NPC_NAME_1078</key>
     <original>ダーナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1079</key>
     <original>ディーン</original>
   </message>
   <message>
-    <key>NPC_NAME_1080</key>
     <original>エイリーン</original>
   </message>
   <message>
-    <key>NPC_NAME_1081</key>
     <original>レヴェント</original>
   </message>
   <message>
-    <key>NPC_NAME_1082</key>
     <original>ダドリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1083</key>
     <original>アンナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1084</key>
     <original>エルトン</original>
   </message>
   <message>
-    <key>NPC_NAME_1085</key>
     <original>バリス</original>
   </message>
   <message>
-    <key>NPC_NAME_1086</key>
     <original>バーサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1087</key>
     <original>スーレ</original>
   </message>
   <message>
-    <key>NPC_NAME_1088</key>
     <original>傷付いた戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1089</key>
     <original>傷付いた戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1090</key>
     <original>疲弊した盗賊男</original>
   </message>
   <message>
-    <key>NPC_NAME_1091</key>
     <original>助けを求める村人女</original>
   </message>
   <message>
-    <key>NPC_NAME_1092</key>
     <original>助けを求める村人女</original>
   </message>
   <message>
-    <key>NPC_NAME_1093</key>
     <original>助けを求める村人男</original>
   </message>
   <message>
-    <key>NPC_NAME_1094</key>
     <original>助けを求める村人男</original>
   </message>
   <message>
-    <key>NPC_NAME_1095</key>
     <original>エンデール</original>
   </message>
   <message>
-    <key>NPC_NAME_1096</key>
     <original>ブルーノ</original>
   </message>
   <message>
-    <key>NPC_NAME_1097</key>
     <original>アンドレア</original>
   </message>
   <message>
-    <key>NPC_NAME_1098</key>
     <original>フラン</original>
   </message>
   <message>
-    <key>NPC_NAME_1099</key>
     <original>オルハン</original>
   </message>
   <message>
-    <key>NPC_NAME_1100</key>
     <original>カルロッタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1101</key>
     <original>ボリス</original>
   </message>
   <message>
-    <key>NPC_NAME_1102</key>
     <original>モナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1103</key>
     <original>フェリクス</original>
   </message>
   <message>
-    <key>NPC_NAME_1104</key>
     <original>エミール</original>
   </message>
   <message>
-    <key>NPC_NAME_1105</key>
     <original>イルヴァ</original>
   </message>
   <message>
-    <key>NPC_NAME_1106</key>
     <original>アスラン</original>
   </message>
   <message>
-    <key>NPC_NAME_1107</key>
     <original>リキャルド</original>
   </message>
   <message>
-    <key>NPC_NAME_1108</key>
     <original>リーザ</original>
   </message>
   <message>
-    <key>NPC_NAME_1109</key>
     <original>アルビン</original>
   </message>
   <message>
-    <key>NPC_NAME_1110</key>
     <original>ゼキ</original>
   </message>
   <message>
-    <key>NPC_NAME_1111</key>
     <original>イネス</original>
   </message>
   <message>
-    <key>NPC_NAME_1112</key>
     <original>バート</original>
   </message>
   <message>
-    <key>NPC_NAME_1113</key>
     <original>ミカエラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1114</key>
     <original>エンフ</original>
   </message>
   <message>
-    <key>NPC_NAME_1115</key>
     <original>セダ</original>
   </message>
   <message>
-    <key>NPC_NAME_1116</key>
     <original>ヴィクトル</original>
   </message>
   <message>
-    <key>NPC_NAME_1117</key>
     <original>ラウラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1118</key>
     <original>イングリッド</original>
   </message>
   <message>
-    <key>NPC_NAME_1119</key>
     <original>エルセン</original>
   </message>
   <message>
-    <key>NPC_NAME_1120</key>
     <original>オズギュル</original>
   </message>
   <message>
-    <key>NPC_NAME_1121</key>
     <original>ミリヤム</original>
   </message>
   <message>
-    <key>NPC_NAME_1122</key>
     <original>ブレット</original>
   </message>
   <message>
-    <key>NPC_NAME_1123</key>
     <original>アセナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1124</key>
     <original>エバ</original>
   </message>
   <message>
-    <key>NPC_NAME_1125</key>
     <original>ハムザ</original>
   </message>
   <message>
-    <key>NPC_NAME_1126</key>
     <original>ポール</original>
   </message>
   <message>
-    <key>NPC_NAME_1127</key>
     <original>セルマ</original>
   </message>
   <message>
-    <key>NPC_NAME_1130</key>
     <original>ヨアキム</original>
   </message>
   <message>
-    <key>NPC_NAME_1131</key>
     <original>ジェラール</original>
   </message>
   <message>
-    <key>NPC_NAME_1132</key>
     <original>エジェ</original>
   </message>
   <message>
-    <key>NPC_NAME_1133</key>
     <original>ケナン</original>
   </message>
   <message>
-    <key>NPC_NAME_1134</key>
     <original>ジョセフィン</original>
   </message>
   <message>
-    <key>NPC_NAME_1135</key>
     <original>アデム</original>
   </message>
   <message>
-    <key>NPC_NAME_1136</key>
     <original>ペール</original>
   </message>
   <message>
-    <key>NPC_NAME_1137</key>
     <original>アニタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1138</key>
     <original>イゼル</original>
   </message>
   <message>
-    <key>NPC_NAME_1139</key>
     <original>ダーマード</original>
   </message>
   <message>
-    <key>NPC_NAME_1140</key>
     <original>ナヤジーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1141</key>
     <original>シェケル</original>
   </message>
   <message>
-    <key>NPC_NAME_1142</key>
     <original>ハリル</original>
   </message>
   <message>
-    <key>NPC_NAME_1143</key>
     <original>アルティン</original>
   </message>
   <message>
-    <key>NPC_NAME_1144</key>
     <original>デニス</original>
   </message>
   <message>
-    <key>NPC_NAME_1145</key>
     <original>ベルク</original>
   </message>
   <message>
-    <key>NPC_NAME_1146</key>
     <original>シーラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1147</key>
     <original>メルテム</original>
   </message>
   <message>
-    <key>NPC_NAME_1148</key>
     <original>テア</original>
   </message>
   <message>
-    <key>NPC_NAME_1149</key>
     <original>マルクス</original>
   </message>
   <message>
-    <key>NPC_NAME_1150</key>
     <original>イゼット</original>
   </message>
   <message>
-    <key>NPC_NAME_1151</key>
     <original>アクギス</original>
   </message>
   <message>
-    <key>NPC_NAME_1152</key>
     <original>バイラム</original>
   </message>
   <message>
-    <key>NPC_NAME_1153</key>
     <original>ヨナス</original>
   </message>
   <message>
-    <key>NPC_NAME_1154</key>
     <original>サーラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1155</key>
     <original>ムスタファ</original>
   </message>
   <message>
-    <key>NPC_NAME_1156</key>
     <original>サムエル</original>
   </message>
   <message>
-    <key>NPC_NAME_1157</key>
     <original>アイセル</original>
   </message>
   <message>
-    <key>NPC_NAME_1158</key>
     <original>トビアス</original>
   </message>
   <message>
-    <key>NPC_NAME_1159</key>
     <original>ダン</original>
   </message>
   <message>
-    <key>NPC_NAME_1160</key>
     <original>ロッタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1161</key>
     <original>エクレム</original>
   </message>
   <message>
-    <key>NPC_NAME_1162</key>
     <original>セリク</original>
   </message>
   <message>
-    <key>NPC_NAME_1163</key>
     <original>バーバラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1164</key>
     <original>ビルジ</original>
   </message>
   <message>
-    <key>NPC_NAME_1165</key>
     <original>ベステ</original>
   </message>
   <message>
-    <key>NPC_NAME_1166</key>
     <original>タネル</original>
   </message>
   <message>
-    <key>NPC_NAME_1167</key>
     <original>レヤ</original>
   </message>
   <message>
-    <key>NPC_NAME_1168</key>
     <original>ユイアト</original>
   </message>
   <message>
-    <key>NPC_NAME_1169</key>
     <original>アイラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1170</key>
     <original>ケマル</original>
   </message>
   <message>
-    <key>NPC_NAME_1171</key>
     <original>フーリャ</original>
   </message>
   <message>
-    <key>NPC_NAME_1196</key>
+    <original>ドリス</original>
+  </message>
+  <message>
+    <original>ルーカス</original>
+  </message>
+  <message>
+    <original>ユーミット</original>
+  </message>
+  <message>
+    <original>アクセル</original>
+  </message>
+  <message>
+    <original>ジネット</original>
+  </message>
+  <message>
+    <original>セム</original>
+  </message>
+  <message>
+    <original>ジェミル</original>
+  </message>
+  <message>
+    <original>エヴレン</original>
+  </message>
+  <message>
+    <original>ミュゲ</original>
+  </message>
+  <message>
+    <original>ムラト</original>
+  </message>
+  <message>
+    <original>エルデム</original>
+  </message>
+  <message>
+    <original>デミル</original>
+  </message>
+  <message>
+    <original>ジャン</original>
+  </message>
+  <message>
+    <original>アイヴィ</original>
+  </message>
+  <message>
+    <original>エディーズ</original>
+  </message>
+  <message>
+    <original>サゴー</original>
+  </message>
+  <message>
+    <original>フレッド</original>
+  </message>
+  <message>
+    <original>カレン</original>
+  </message>
+  <message>
+    <original>ライナス</original>
+  </message>
+  <message>
+    <original>トユガル</original>
+  </message>
+  <message>
+    <original>パーシー</original>
+  </message>
+  <message>
+    <original>バリー</original>
+  </message>
+  <message>
+    <original>エセン</original>
+  </message>
+  <message>
     <original>キルスティ</original>
   </message>
   <message>
-    <key>NPC_NAME_1197</key>
     <original>ウォルト</original>
   </message>
   <message>
-    <key>NPC_NAME_1198</key>
     <original>ポーラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1199</key>
     <original>アシュトン</original>
   </message>
   <message>
-    <key>NPC_NAME_1200</key>
     <original>エミーネ</original>
   </message>
   <message>
-    <key>NPC_NAME_1201</key>
     <original>パスカル</original>
   </message>
   <message>
-    <key>NPC_NAME_1202</key>
-    <original>メガド護衛兵男</original>
+    <original>メガド護衛兵</original>
   </message>
   <message>
-    <key>NPC_NAME_1203</key>
     <original>スニーカー</original>
   </message>
   <message>
-    <key>NPC_NAME_1204</key>
     <original>イーデン</original>
   </message>
   <message>
-    <key>NPC_NAME_1205</key>
-    <original>火竜大陸　裕福系男</original>
+    <original>エルドアン</original>
   </message>
   <message>
-    <key>NPC_NAME_1206</key>
-    <original>火竜大陸　一般女</original>
+    <original>メリエム</original>
   </message>
   <message>
-    <key>NPC_NAME_1207</key>
-    <original>火竜大陸　裕福系女</original>
+    <original>ブルジュ</original>
   </message>
   <message>
-    <key>NPC_NAME_1208</key>
     <original>キャリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1209</key>
     <original>ペール</original>
   </message>
   <message>
-    <key>NPC_NAME_1210</key>
     <original>アニタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1211</key>
     <original>イゼル</original>
   </message>
   <message>
-    <key>NPC_NAME_1212</key>
     <original>ダーマード</original>
   </message>
   <message>
-    <key>NPC_NAME_1213</key>
     <original>アイラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1214</key>
     <original>ユイアト</original>
   </message>
   <message>
-    <key>NPC_NAME_1215</key>
     <original>ケマル</original>
   </message>
   <message>
-    <key>NPC_NAME_1216</key>
     <original>フーリャ</original>
   </message>
   <message>
-    <key>NPC_NAME_1217</key>
     <original>工事作業員I</original>
   </message>
   <message>
-    <key>NPC_NAME_1218</key>
     <original>工事作業員J</original>
   </message>
   <message>
-    <key>NPC_NAME_1219</key>
     <original>工事作業員K</original>
   </message>
   <message>
-    <key>NPC_NAME_1220</key>
     <original>工事作業員L</original>
   </message>
   <message>
-    <key>NPC_NAME_1221</key>
     <original>工事作業員1-A</original>
   </message>
   <message>
-    <key>NPC_NAME_1222</key>
     <original>工事作業員1-B</original>
   </message>
   <message>
-    <key>NPC_NAME_1223</key>
     <original>工事作業員1-C</original>
   </message>
   <message>
-    <key>NPC_NAME_1224</key>
     <original>工事作業員1-D</original>
   </message>
   <message>
-    <key>NPC_NAME_1225</key>
     <original>工事作業員1-E</original>
   </message>
   <message>
-    <key>NPC_NAME_1226</key>
     <original>工事作業員1-F</original>
   </message>
   <message>
-    <key>NPC_NAME_1227</key>
     <original>工事作業員1-G</original>
   </message>
   <message>
-    <key>NPC_NAME_1228</key>
     <original>工事作業員1-H</original>
   </message>
   <message>
-    <key>NPC_NAME_1229</key>
     <original>工事作業員1-I</original>
   </message>
   <message>
-    <key>NPC_NAME_1230</key>
     <original>工事作業員1-J</original>
   </message>
   <message>
-    <key>NPC_NAME_1231</key>
     <original>工事作業員1-K</original>
   </message>
   <message>
-    <key>NPC_NAME_1232</key>
     <original>工事作業員1-L</original>
   </message>
   <message>
-    <key>NPC_NAME_1257</key>
     <original>ペコ</original>
   </message>
   <message>
-    <key>NPC_NAME_1258</key>
     <original>ソネル</original>
   </message>
   <message>
-    <key>NPC_NAME_1259</key>
     <original>ドルー</original>
   </message>
   <message>
-    <key>NPC_NAME_1260</key>
     <original>シェナイ</original>
   </message>
   <message>
-    <key>NPC_NAME_1261</key>
     <original>デレク</original>
   </message>
   <message>
-    <key>NPC_NAME_1262</key>
     <original>ケイーク</original>
   </message>
   <message>
-    <key>NPC_NAME_1263</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1264</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1265</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1266</key>
     <original>解放軍戦士</original>
   </message>
   <message>
-    <key>NPC_NAME_1267</key>
     <original>ベルタ盗賊団</original>
   </message>
   <message>
-    <key>NPC_NAME_1268</key>
     <original>ベルタ盗賊団</original>
   </message>
   <message>
-    <key>NPC_NAME_1269</key>
     <original>ベルタ盗賊団</original>
   </message>
   <message>
-    <key>NPC_NAME_1270</key>
     <original>ロスギル兵士</original>
   </message>
   <message>
-    <key>NPC_NAME_1271</key>
     <original>ロスギル兵士</original>
   </message>
   <message>
-    <key>NPC_NAME_1272</key>
     <original>ロスギル兵士</original>
   </message>
   <message>
-    <key>NPC_NAME_1273</key>
     <original>エルマー</original>
   </message>
   <message>
-    <key>NPC_NAME_1274</key>
     <original>ハリエット</original>
   </message>
   <message>
-    <key>NPC_NAME_1275</key>
     <original>リアム</original>
   </message>
   <message>
-    <key>NPC_NAME_1276</key>
     <original>ジャスパー</original>
   </message>
   <message>
-    <key>NPC_NAME_1277</key>
     <original>ベイザ</original>
   </message>
   <message>
-    <key>NPC_NAME_1278</key>
     <original>ガリプ</original>
   </message>
   <message>
-    <key>NPC_NAME_1279</key>
     <original>ジェレン</original>
   </message>
   <message>
-    <key>NPC_NAME_1280</key>
     <original>テッド</original>
   </message>
   <message>
-    <key>NPC_NAME_1281</key>
     <original>タバサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1282</key>
     <original>ユーイン</original>
   </message>
   <message>
-    <key>NPC_NAME_1283</key>
     <original>イーサン</original>
   </message>
   <message>
-    <key>NPC_NAME_1284</key>
     <original>ルシンダ</original>
   </message>
   <message>
-    <key>NPC_NAME_1285</key>
     <original>セイディ</original>
   </message>
   <message>
-    <key>NPC_NAME_1286</key>
     <original>カーティス</original>
   </message>
   <message>
-    <key>NPC_NAME_1287</key>
     <original>エディ</original>
   </message>
   <message>
-    <key>NPC_NAME_1288</key>
     <original>ショーン</original>
   </message>
   <message>
-    <key>NPC_NAME_1289</key>
     <original>オオネズミ</original>
   </message>
   <message>
-    <key>NPC_NAME_1290</key>
     <original>ウサギ</original>
   </message>
   <message>
-    <key>NPC_NAME_1291</key>
     <original>雄シカ</original>
   </message>
   <message>
-    <key>NPC_NAME_1292</key>
     <original>ブタ</original>
   </message>
   <message>
-    <key>NPC_NAME_1293</key>
     <original>牛</original>
   </message>
   <message>
-    <key>NPC_NAME_1294</key>
     <original>お花ちゃん</original>
   </message>
   <message>
-    <key>NPC_NAME_1295</key>
     <original>シディカ</original>
   </message>
   <message>
-    <key>NPC_NAME_1296</key>
     <original>クレイグ</original>
   </message>
   <message>
-    <key>NPC_NAME_1297</key>
     <original>レイ</original>
   </message>
   <message>
-    <key>NPC_NAME_1298</key>
     <original>サマンサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1299</key>
     <original>ブラッド</original>
   </message>
   <message>
-    <key>NPC_NAME_1300</key>
     <original>ローナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1301</key>
     <original>ヘザー</original>
   </message>
   <message>
-    <key>NPC_NAME_1302</key>
     <original>アイダン</original>
   </message>
   <message>
-    <key>NPC_NAME_1303</key>
     <original>チーフマンドラゴラ</original>
   </message>
   <message>
-    <key>NPC_NAME_1304</key>
     <original>エルナ</original>
   </message>
   <message>
-    <key>NPC_NAME_1305</key>
     <original>ゲルト</original>
   </message>
   <message>
-    <key>NPC_NAME_1306</key>
     <original>ハインツ</original>
   </message>
   <message>
-    <key>NPC_NAME_1307</key>
     <original>ヴァネッサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1308</key>
     <original>ファビオ</original>
   </message>
   <message>
-    <key>NPC_NAME_1309</key>
     <original>プラム</original>
   </message>
   <message>
-    <key>NPC_NAME_1310</key>
     <original>セネカ</original>
   </message>
   <message>
-    <key>NPC_NAME_1311</key>
     <original>コーネリア</original>
   </message>
   <message>
-    <key>NPC_NAME_1312</key>
     <original>アラン</original>
   </message>
   <message>
-    <key>NPC_NAME_1313</key>
     <original>キャメロン</original>
   </message>
   <message>
-    <key>NPC_NAME_1314</key>
     <original>シーベル</original>
   </message>
   <message>
-    <key>NPC_NAME_1315</key>
     <original>エメラダ</original>
   </message>
   <message>
-    <key>NPC_NAME_1316</key>
     <original>リングディール</original>
   </message>
   <message>
-    <key>NPC_NAME_1317</key>
     <original>チェスター</original>
   </message>
   <message>
-    <key>NPC_NAME_1318</key>
     <original>ディリス</original>
   </message>
   <message>
-    <key>NPC_NAME_1319</key>
     <original>ミューセル</original>
   </message>
   <message>
-    <key>NPC_NAME_1320</key>
     <original>ガラダ</original>
   </message>
   <message>
-    <key>NPC_NAME_1321</key>
     <original>モードレッド</original>
   </message>
   <message>
-    <key>NPC_NAME_1322</key>
     <original>ガルドリン</original>
   </message>
   <message>
-    <key>NPC_NAME_1323</key>
     <original>エリオット</original>
   </message>
   <message>
-    <key>NPC_NAME_1324</key>
     <original>メイリーフ</original>
   </message>
   <message>
-    <key>NPC_NAME_1325</key>
     <original>リズ</original>
   </message>
   <message>
-    <key>NPC_NAME_1326</key>
     <original>グレゴリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1327</key>
     <original>リサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1328</key>
     <original>ルキーノ</original>
   </message>
   <message>
-    <key>NPC_NAME_1329</key>
     <original>マリサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1330</key>
     <original>饒舌なスケルトン</original>
   </message>
   <message>
-    <key>NPC_NAME_1334</key>
+    <original>メフィス</original>
+  </message>
+  <message>
+    <original>ナヴィド</original>
+  </message>
+  <message>
+    <original>ドワーフオーク</original>
+  </message>
+  <message>
     <original>アンジェロ</original>
   </message>
   <message>
-    <key>NPC_NAME_1335</key>
     <original>シェリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1336</key>
     <original>アデルドナハ</original>
   </message>
   <message>
-    <key>NPC_NAME_1337</key>
     <original>ハインツ</original>
   </message>
   <message>
-    <key>NPC_NAME_1338</key>
     <original>ロンドジール</original>
   </message>
   <message>
-    <key>NPC_NAME_1339</key>
     <original>ネド</original>
   </message>
   <message>
-    <key>NPC_NAME_1340</key>
     <original>クレイグ</original>
   </message>
   <message>
-    <key>NPC_NAME_1341</key>
     <original>ヴァネッサ</original>
   </message>
   <message>
-    <key>NPC_NAME_1342</key>
     <original>ジリアン</original>
   </message>
   <message>
-    <key>NPC_NAME_1343</key>
     <original>キャリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1344</key>
     <original>リュカ</original>
   </message>
   <message>
-    <key>NPC_NAME_1345</key>
     <original>エメラダ</original>
   </message>
   <message>
-    <key>NPC_NAME_1346</key>
     <original>シェリー</original>
   </message>
   <message>
-    <key>NPC_NAME_1347</key>
     <original>アンジェロ</original>
   </message>
   <message>
-    <key>NPC_NAME_1348</key>
     <original>アンジェロ</original>
+  </message>
+  <message>
+    <original>メガド護衛兵</original>
+  </message>
+  <message>
+    <original>セリン</original>
+  </message>
+  <message>
+    <original>ティメル</original>
+  </message>
+  <message>
+    <original>シラ</original>
+  </message>
+  <message>
+    <original>イルマズ</original>
+  </message>
+  <message>
+    <original>メガド護衛兵</original>
+  </message>
+  <message>
+    <original>メガド護衛兵</original>
+  </message>
+  <message>
+    <original>憲兵</original>
+  </message>
+  <message>
+    <original>憲兵</original>
+  </message>
+  <message>
+    <original>憲兵</original>
+  </message>
+  <message>
+    <original>憲兵</original>
+  </message>
+  <message>
+    <original>憲兵</original>
+  </message>
+  <message>
+    <original>バジット</original>
+  </message>
+  <message>
+    <original>ゴロツキ</original>
+  </message>
+  <message>
+    <original>ゴロツキリーダー</original>
+  </message>
+  <message>
+    <original>夜の女</original>
+  </message>
+  <message>
+    <original>夜の女</original>
+  </message>
+  <message>
+    <original>酔っ払い</original>
+  </message>
+  <message>
+    <original>ガクシャ</original>
+  </message>
+  <message>
+    <original>ジョウホウヤ</original>
+  </message>
+  <message>
+    <original>怯えた男</original>
+  </message>
+  <message>
+    <original>バーノン</original>
+  </message>
+  <message>
+    <original>子供</original>
+  </message>
+  <message>
+    <original>子供</original>
+  </message>
+  <message>
+    <original>子供</original>
+  </message>
+  <message>
+    <original>アッバス</original>
+  </message>
+  <message>
+    <original>スレイマン</original>
+  </message>
+  <message>
+    <original>モーガン</original>
+  </message>
+  <message>
+    <original>セリム</original>
+  </message>
+  <message>
+    <original>ジャレッド</original>
+  </message>
+  <message>
+    <original>チャウラ</original>
+  </message>
+  <message>
+    <original>リュカ</original>
+  </message>
+  <message>
+    <original>リュカ</original>
   </message>
 </resource>

@@ -403,4 +403,8 @@
     <key>poptop_craft_change_quality</key>
     <original>装備の品質変更</original>
   </message>
+  <message>
+    <key>poptop_entryboard_chat_recruit</key>
+    <original>チャット募集</original>
+  </message>
 </resource>

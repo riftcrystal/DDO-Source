@@ -51,4 +51,8 @@
     <key>WEAPON_CTGR_13</key>
     <original>精霊槍</original>
   </message>
+  <message>
+    <key>WEAPON_CTGR_15</key>
+    <original>魔道剣</original>
+  </message>
 </resource>

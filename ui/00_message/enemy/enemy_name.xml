@@ -1212,12 +1212,28 @@
     <original>戦甲グリムワーグ</original>
   </message>
   <message>
+    <key>ENEMY_NAME_325</key>
+    <original>ジオリザードマン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_326</key>
+    <original>ラージジオリザード</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_327</key>
     <original>戦甲リザードマン</original>
   </message>
   <message>
     <key>ENEMY_NAME_328</key>
     <original>戦甲ラージリザード</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_329</key>
+    <original>ブレイズハーピー</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_336</key>
+    <original>フォッデン</original>
   </message>
   <message>
     <key>ENEMY_NAME_337</key>
@@ -1236,6 +1252,10 @@
     <original>戦甲ゴアマンティコア</original>
   </message>
   <message>
+    <key>ENEMY_NAME_342</key>
+    <original>戦甲ナイトメア</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_344</key>
     <original>クラッガー</original>
   </message>
@@ -1250,6 +1270,14 @@
   <message>
     <key>ENEMY_NAME_347</key>
     <original>ミザリーゴースト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_348</key>
+    <original>グラッジゴースト</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_349</key>
+    <original>ロータスフィン</original>
   </message>
   <message>
     <key>ENEMY_NAME_350</key>
@@ -1268,12 +1296,36 @@
     <original>隊将ドワーフオーク</original>
   </message>
   <message>
+    <key>ENEMY_NAME_354</key>
+    <original>アンセスターオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_355</key>
+    <original>キャプテンアンセスターオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_356</key>
+    <original>戦の将</original>
+  </message>
+  <message>
     <key>ENEMY_NAME_357</key>
     <original>獣の将</original>
   </message>
   <message>
     <key>ENEMY_NAME_358</key>
     <original>骸の将</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_359</key>
+    <original>闇の将</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_360</key>
+    <original>アンセスターオリジン</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_363</key>
+    <original>イフリート</original>
   </message>
   <message>
     <key>ENEMY_NAME_366</key>
@@ -1294,5 +1346,29 @@
   <message>
     <key>ENEMY_NAME_373</key>
     <original>レッドズール</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_383</key>
+    <original>烈火岩</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_385</key>
+    <original>怨塊</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_386</key>
+    <original>メガド護衛兵</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_390</key>
+    <original>ヘイト管理用透明敵</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_391</key>
+    <original>ドワーフオーク</original>
+  </message>
+  <message>
+    <key>ENEMY_NAME_392</key>
+    <original>デス</original>
   </message>
 </resource>

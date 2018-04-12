@@ -44,6 +44,10 @@
     <original>アルマ・セクタ</original>
   </message>
   <message>
+    <key>CUSTOM_SKILL_NAME_09_115</key>
+    <original>レギア・バリアル</original>
+  </message>
+  <message>
     <key>CUSTOM_SKILL_NAME_09_189</key>
     <original>パイル・バインダ 剛</original>
   </message>
@@ -58,5 +62,13 @@
   <message>
     <key>CUSTOM_SKILL_NAME_09_192</key>
     <original>アルマ・ピラー 技</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_09_229</key>
+    <original>アルマ・ウェイブ 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_09_230</key>
+    <original>アルマ・ウェイブ 技</original>
   </message>
 </resource>

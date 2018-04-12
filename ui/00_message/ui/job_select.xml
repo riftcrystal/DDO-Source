@@ -9,7 +9,6 @@
   </message>
   <message>
     <key>job_orb_tree_err_not_release</key>
-    <original>まだ解放されていません
-&lt;VAL&gt;のジョブマスターを訪ねてください</original>
+    <original>まだ解放されていません</original>
   </message>
 </resource>

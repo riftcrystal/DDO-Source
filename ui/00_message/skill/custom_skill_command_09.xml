@@ -47,6 +47,11 @@
     <original>セットボタンを押す</original>
   </message>
   <message>
+    <key>CUSTOM_SKILL_COMMAND_09_115</key>
+    <original>セットボタンを連続して押す
+展開後、その場に留まることで展開時間を延長</original>
+  </message>
+  <message>
     <key>CUSTOM_SKILL_COMMAND_09_189</key>
     <original>セットボタンを押す</original>
   </message>
@@ -60,6 +65,14 @@
   </message>
   <message>
     <key>CUSTOM_SKILL_COMMAND_09_192</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_229</key>
+    <original>セットボタンを押す</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_09_230</key>
     <original>セットボタンを押す</original>
   </message>
 </resource>

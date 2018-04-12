@@ -121,4 +121,16 @@ LV.６で攻撃威力上昇／攻撃ヒット数増加&lt;/COL&gt;</original>
 空中詠唱可能
 のけぞり、吹き飛び中でも発動可能</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_221</key>
+    <original>【ＥＸ追加効果】
+中央に巨大な爆炎が追加で発生</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_06_222</key>
+    <original>【ＥＸ追加効果】
+攻撃範囲の高度が拡張
+延焼エリアに吹き飛ばし力が追加され
+展開時間が延長される</original>
+  </message>
 </resource>

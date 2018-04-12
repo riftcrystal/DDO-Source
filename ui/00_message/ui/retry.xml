@@ -67,4 +67,15 @@
     <original>&lt;COL FFFF00&gt;リム&lt;/COL&gt;を&lt;VAL RIM&gt;消費して救出します
 よろしいですか？</original>
   </message>
+  <message>
+    <key>RETRY_MSG_PENALTY_EXP_BBI</key>
+    <original>状態異常【弱化】が発生しませんが
+&lt;COL AA1414&gt;アイテムバッグの中身がすべて消失します&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>RETRY_MSG_DIALOG_PENALTY_BBI</key>
+    <original>に戻りますか？
+状態異常【弱化】が発生しませんが
+&lt;COL AA1414&gt;アイテムバッグの中身がすべて消失します&lt;/COL&gt;</original>
+  </message>
 </resource>

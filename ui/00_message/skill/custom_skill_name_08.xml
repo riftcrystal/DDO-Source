@@ -71,4 +71,12 @@
     <key>CUSTOM_SKILL_NAME_08_187</key>
     <original>減耐魔弓 技</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_201</key>
+    <original>癒し閃光 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_08_202</key>
+    <original>癒し閃光 技</original>
+  </message>
 </resource>

@@ -120,7 +120,7 @@ LV.６で魔法球の威力上昇／魔法砲台増加（１→２）&lt;/COL&gt
 魔法球増加（５→７）
 ダメージ量と吹き飛ばし力が増加
 チャンス攻力と疲労攻力が増加
-&lt;COL ff7878&gt;骸骨／腐死／呪詛／霊体系の敵への与ダメージ量増加&lt;/COL&gt;</original>
+&lt;COL ff7878&gt;骸骨／腐死／呪詛／霊体系の敵へのダメージ量増加&lt;/COL&gt;</original>
   </message>
   <message>
     <key>CUSTOM_SKILL_INFO_04_169</key>
@@ -129,5 +129,18 @@ LV.６で魔法球の威力上昇／魔法砲台増加（１→２）&lt;/COL&gt
 体力回復とシークレットコア発現が
 可能な魔法球を発射
 &lt;COL ff7878&gt;戦甲を攻撃時、ダメージ量が増加&lt;/COL&gt;</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_218</key>
+    <original>【ＥＸ追加効果】
+石化／黄金化／侵食を死亡確定前であれば治療可能になる
+ステータスダウン系の状態異常を治療可能になる
+詠唱時間を短縮</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_04_217</key>
+    <original>【ＥＸ追加効果】
+魔法エリアに入ると一定時間
+キュアスポットの効果が付与される</original>
   </message>
 </resource>

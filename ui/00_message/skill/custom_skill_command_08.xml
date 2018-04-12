@@ -71,4 +71,12 @@
     <key>CUSTOM_SKILL_COMMAND_08_187</key>
     <original>セットボタンを押して詠唱後、&lt;KC SHOOT&gt;で放つ</original>
   </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_08_201</key>
+    <original>セットボタンを押して詠唱後、&lt;KC SHOOT&gt;で放つ</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_COMMAND_08_202</key>
+    <original>セットボタンを押して詠唱後、&lt;KC SHOOT&gt;で放つ</original>
+  </message>
 </resource>

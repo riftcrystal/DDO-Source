@@ -119,7 +119,7 @@
   </message>
   <message>
     <key>kcd_027</key>
-    <original>&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;アトラクト</original>
+    <original>&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;アトラクト</original>
   </message>
   <message>
     <key>kcd_028</key>
@@ -256,12 +256,13 @@
   </message>
   <message>
     <key>kcd_061</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;セイントオーラ　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;フォースエンチャント 
-&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;エリクシル　　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;ヒールブースト</original>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;セイントオーラ　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;フォースエンチャント
+&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;エリクシル　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;ヒールブースト　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;バック・リープ</original>
   </message>
   <message>
     <key>kcd_062</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;しじま射ち（弓構え中）　&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;スペリング（詠唱中）</original>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;しじま射ち（弓構え中）　&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;スペリング（詠唱中）
+&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ロックオン中のカメラ操作（ルイン・ブレード構え中）</original>
   </message>
   <message>
     <key>kcd_063</key>
@@ -273,8 +274,8 @@
   </message>
   <message>
     <key>kcd_065</key>
-    <original>&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;バックムーブ　　　　&lt;COL DAEEF3&gt;【ウォリアー】&lt;/COL&gt;退魔の身構え
-&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;アルケム・フーガ　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;スカー・ムーヴ</original>
+    <original>&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;バックムーブ　　　&lt;COL DAEEF3&gt;【Ｗａ】&lt;/COL&gt;退魔の身構え
+&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;アルケム・フーガ　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;スカー・ムーヴ</original>
   </message>
   <message>
     <key>kcd_066</key>
@@ -283,15 +284,15 @@
   </message>
   <message>
     <key>kcd_067</key>
-    <original>&lt;COL DAEEF3&gt;【ファイター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;&lt;COL DAEEF3&gt;【ウォリアー】&lt;/COL&gt;連係投げ</original>
+    <original>&lt;COL DAEEF3&gt;【Ｆｉ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｗａ】&lt;/COL&gt;連係投げ</original>
   </message>
   <message>
     <key>kcd_068</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;弓構え</original>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;弓構え</original>
   </message>
   <message>
     <key>kcd_069</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;射撃（弓構え中）</original>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;射撃（弓構え中）</original>
   </message>
   <message>
     <key>kcd_070</key>
@@ -299,45 +300,53 @@
   </message>
   <message>
     <key>kcd_071</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;矢の切替え　&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;癒しの装</original>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;矢の切替え　&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;癒しの装</original>
   </message>
   <message>
     <key>kcd_072</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;&lt;COL DAEEF3&gt;【ソーサラー】&lt;/COL&gt;ロックオンモード切り替え（詠唱中）</original>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｓｏ】&lt;/COL&gt;ロックオンモード切り替え（詠唱中）</original>
   </message>
   <message>
     <key>kcd_073</key>
-    <original>&lt;COL DAEEF3&gt;【ファイター】&lt;/COL&gt;ガード　　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;シールドロック
-&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;ロープ構え</original>
+    <original>&lt;COL DAEEF3&gt;【Ｆｉ】&lt;/COL&gt;ガード　　　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;シールドロック
+&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;ロープ構え　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ウィル・スタンス</original>
   </message>
   <message>
     <key>kcd_074</key>
-    <original>&lt;COL DAEEF3&gt;【プリースト】&lt;/COL&gt;フィールドシフト　&lt;COL DAEEF3&gt;【シールドセージ】&lt;/COL&gt;フォースバースト</original>
+    <original>&lt;COL DAEEF3&gt;【Ｐｒ】&lt;/COL&gt;フィールドシフト　&lt;COL DAEEF3&gt;【Ｓｈ】&lt;/COL&gt;フォースバースト</original>
   </message>
   <message>
     <key>kcd_075</key>
-    <original>&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;転身</original>
+    <original>&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;転身　&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;避翻斬</original>
   </message>
   <message>
     <key>kcd_076</key>
-    <original>&lt;COL DAEEF3&gt;【シーカー】&lt;/COL&gt;ロープ投げ（ロープ構え中）</original>
+    <original>&lt;COL DAEEF3&gt;【Ｓｅ】&lt;/COL&gt;ロープ投げ（ロープ構え中）</original>
   </message>
   <message>
     <key>kcd_077</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;矢の装填</original>
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;矢の装填</original>
   </message>
   <message>
     <key>kcd_078</key>
-    <original>&lt;COL DAEEF3&gt;【アルケミスト】&lt;/COL&gt;エリクシル・チェンジ　&lt;COL DAEEF3&gt;【スピリットランサー】&lt;/COL&gt;アタックブースト</original>
+    <original>&lt;COL DAEEF3&gt;【Ａｌ】&lt;/COL&gt;エリクシル・チェンジ　&lt;COL DAEEF3&gt;【Ｓｐ】&lt;/COL&gt;アタックブースト</original>
   </message>
   <message>
     <key>kcd_079</key>
-    <original>&lt;COL DAEEF3&gt;【ハンター】&lt;/COL&gt;&lt;COL DAEEF3&gt;【エレメントアーチャー】&lt;/COL&gt;構え変更（弓構え中）
+    <original>&lt;COL DAEEF3&gt;【Ｈｕ】&lt;/COL&gt;&lt;COL DAEEF3&gt;【Ｅｌ】&lt;/COL&gt;構え変更（弓構え中）
 ※この項目がブランクキーの場合、マウスホイール前後で構え変更</original>
   </message>
   <message>
     <key>kcd_080</key>
     <original>カスタムスキルの追加入力（連打 / 派生 等）
 ※この項目がブランクキーの場合、各カスタムスキル設定キーで追加入力</original>
+  </message>
+  <message>
+    <key>kcd_081</key>
+    <original>&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ルイン・ブレード</original>
+  </message>
+  <message>
+    <key>kcd_082</key>
+    <original>&lt;COL DAEEF3&gt;【Ｈｉ】&lt;/COL&gt;ウィル・マーカー（ウィル・スタンス中）</original>
   </message>
 </resource>

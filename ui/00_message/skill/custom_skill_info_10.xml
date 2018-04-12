@@ -65,6 +65,14 @@ LV.６でバリアの耐久値増加（１→２）&lt;/COL&gt;</original>
 LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
   </message>
   <message>
+    <key>CUSTOM_SKILL_INFO_10_188</key>
+    <original>クレストを含むエンチャント攻撃力と吹き飛ばし力を
+増加する霊力エリアを展開。攻撃を受け流し発動すると
+展開サイズを拡張しつつ自身の強化性能を更に上昇させる
+&lt;COL ffdc78&gt;LV UP毎に効果時間延長
+LV.６でエンチャント強化と吹き飛ばし力強化の性能上昇&lt;/COL&gt;</original>
+  </message>
+  <message>
     <key>CUSTOM_SKILL_INFO_10_195</key>
     <original>【ＥＸ追加効果】
 防御力の上昇量が増加
@@ -88,5 +96,16 @@ LV.６でモーション変化／攻撃ヒット数増加&lt;/COL&gt;</original>
     <original>【ＥＸ追加効果】
 派生斬りを初段経由せずに空中で発動可能
 スピリットゲージ蓄積量が増加</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_233</key>
+    <original>【ＥＸ追加効果】
+溜め満了の瞬間に攻撃を放つと威力が上昇する</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_INFO_10_234</key>
+    <original>【ＥＸ追加効果】
+攻撃が最初にヒットした敵に
+エイド／エイド・モールを吸着させる</original>
   </message>
 </resource>

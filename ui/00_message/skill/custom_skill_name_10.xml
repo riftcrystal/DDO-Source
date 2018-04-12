@@ -36,6 +36,10 @@
     <original>コル・ミーティア</original>
   </message>
   <message>
+    <key>CUSTOM_SKILL_NAME_10_188</key>
+    <original>エードラム・カウンター</original>
+  </message>
+  <message>
     <key>CUSTOM_SKILL_NAME_10_195</key>
     <original>ウォール・グラスタ 剛</original>
   </message>
@@ -50,5 +54,13 @@
   <message>
     <key>CUSTOM_SKILL_NAME_10_194</key>
     <original>アラム・ファング 技</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_10_233</key>
+    <original>コル・スパイク 剛</original>
+  </message>
+  <message>
+    <key>CUSTOM_SKILL_NAME_10_234</key>
+    <original>コル・スパイク 技</original>
   </message>
 </resource>

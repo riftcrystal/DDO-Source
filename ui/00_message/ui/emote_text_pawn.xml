@@ -163,4 +163,16 @@
     <key>emote_text_pawn_9717</key>
     <original>居眠り</original>
   </message>
+  <message>
+    <key>emote_text_pawn_11807</key>
+    <original>あわてる</original>
+  </message>
+  <message>
+    <key>emote_text_pawn_11808</key>
+    <original>なだめる</original>
+  </message>
+  <message>
+    <key>emote_text_pawn_11809</key>
+    <original>掛け声</original>
+  </message>
 </resource>

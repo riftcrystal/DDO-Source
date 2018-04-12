@@ -93,7 +93,7 @@
     <original>訓練官</original>
   </message>
   <message>
-    <original>トレジャーズロット</original>
+    <original>トレジャーズロット・納品イベント受付</original>
   </message>
   <message>
     <original>素材屋</original>
@@ -333,10 +333,13 @@
     <original>現れしポーン</original>
   </message>
   <message>
+    <original>黒呪の迷宮 案内人</original>
+  </message>
+  <message>
     <original>エリアマスター</original>
   </message>
   <message>
-    <original>エクストリームミッション</original>
+    <original>冒険ガイド・エクストリームミッション</original>
   </message>
   <message>
     <original>宿・よろず屋</original>
@@ -519,6 +522,33 @@
     <original>冒険仲介係</original>
   </message>
   <message>
+    <original>エリアマスター・紋章メダル交換</original>
+  </message>
+  <message>
+    <original>宿・戦技補佐</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
+    <original>転職・戦技補佐</original>
+  </message>
+  <message>
+    <original>防具屋</original>
+  </message>
+  <message>
+    <original>冒険仲介係</original>
+  </message>
+  <message>
+    <original>バザー</original>
+  </message>
+  <message>
+    <original>クラフト係官</original>
+  </message>
+  <message>
+    <original>よろず屋</original>
+  </message>
+  <message>
     <original>ジョブマスター：ハイセプター</original>
   </message>
   <message>
@@ -568,5 +598,32 @@
   </message>
   <message>
     <original>冒険手帳サポート係</original>
+  </message>
+  <message>
+    <original>美容院</original>
+  </message>
+  <message>
+    <original>鑑定交換</original>
+  </message>
+  <message>
+    <original>復活力の回復</original>
+  </message>
+  <message>
+    <original>武器屋</original>
+  </message>
+  <message>
+    <original>ウォーミッション：霧の森の死闘</original>
+  </message>
+  <message>
+    <original>カスタムメイド工房</original>
+  </message>
+  <message>
+    <original>戦技補佐</original>
+  </message>
+  <message>
+    <original>黒呪の迷宮 案内人</original>
+  </message>
+  <message>
+    <original>黒呪の迷宮 案内人</original>
   </message>
 </resource>

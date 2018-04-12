@@ -75,4 +75,16 @@
     <key>AREA_NAME_19</key>
     <original>フェルヤナ荒原</original>
   </message>
+  <message>
+    <key>AREA_NAME_20</key>
+    <original>メガドシス高地</original>
+  </message>
+  <message>
+    <key>AREA_NAME_22</key>
+    <original>メガドシスの記憶</original>
+  </message>
+  <message>
+    <key>AREA_NAME_24</key>
+    <original>黒呪の迷宮</original>
+  </message>
 </resource>

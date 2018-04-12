@@ -1473,4 +1473,20 @@
     <key>OPTION_MSG_TALK_CAMERA</key>
     <original>NPCに話しかけた時のカメラを主観にする</original>
   </message>
+  <message>
+    <key>OPTION_MSG_ADV_001</key>
+    <original>冒険ガイド</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_ADV_002</key>
+    <original>クエストの紹介通知を表示する</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_ADV_NTC_ANNOUNCE_DISP</key>
+    <original>紹介通知のポップアップを表示する</original>
+  </message>
+  <message>
+    <key>OPTION_MSG_NAVIGATION_DISP</key>
+    <original>ナビゲーションを表示する</original>
+  </message>
 </resource>

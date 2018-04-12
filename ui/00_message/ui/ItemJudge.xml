@@ -131,4 +131,8 @@
     <key>ItemJudge_man_only</key>
     <original>[男性専用]</original>
   </message>
+  <message>
+    <key>ItemJudge_select_storage_error</key>
+    <original>この保存先は選択できません</original>
+  </message>
 </resource>
