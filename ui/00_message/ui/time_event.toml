@@ -1,0 +1,27 @@
+﻿[[message]]
+key = 'time_event_backup_title_en'
+old = 'Time Event'
+[[message]]
+key = 'time_event_backup_title_jp'
+old = '期間イベント'
+[[message]]
+key = 'time_event_msg_01'
+old = '項目はありません'
+[[message]]
+key = 'time_event_msg_02'
+old = '条件'
+[[message]]
+key = 'time_event_msg_03'
+old = '達成度'
+[[message]]
+key = 'time_event_msg_04'
+old = '報酬'
+[[message]]
+key = 'time_event_msg_05'
+old = '無制限'
+[[message]]
+key = 'time_event_msg_06'
+old = '開始まで'
+[[message]]
+key = 'time_event_msg_07'
+old = '終了しました'

@@ -1,0 +1,306 @@
+﻿[[message]]
+key = 'CHAT_COM_143'
+old = '引きつける！'
+[[message]]
+key = 'CHAT_COM_144'
+old = '助けてくれ！'
+[[message]]
+key = 'CHAT_COM_218'
+old = '助けて！'
+[[message]]
+key = 'CHAT_COM_145'
+old = '回復を頼む'
+[[message]]
+key = 'CHAT_COM_219'
+old = '回復をお願い'
+[[message]]
+key = 'CHAT_COM_146'
+old = '回復する！'
+[[message]]
+key = 'CHAT_COM_220'
+old = '回復します！'
+[[message]]
+key = 'CHAT_COM_147'
+old = '跳ね上げる！'
+[[message]]
+key = 'CHAT_COM_221'
+old = '跳ね上げます！'
+[[message]]
+key = 'CHAT_COM_148'
+old = 'こっちだ'
+[[message]]
+key = 'CHAT_COM_222'
+old = 'こっちです'
+[[message]]
+key = 'CHAT_COM_149'
+old = 'いまだ、攻撃を！'
+[[message]]
+key = 'CHAT_COM_223'
+old = 'いまこそ、攻撃を！'
+[[message]]
+key = 'CHAT_COM_150'
+old = '退くぞ！'
+[[message]]
+key = 'CHAT_COM_224'
+old = '退きましょう！'
+[[message]]
+key = 'CHAT_COM_151'
+old = 'ついてきてください'
+[[message]]
+key = 'CHAT_COM_152'
+old = 'ついていきます'
+[[message]]
+key = 'CHAT_COM_153'
+old = '調べてみてください'
+[[message]]
+key = 'CHAT_COM_154'
+old = '見つけました'
+[[message]]
+key = 'CHAT_COM_155'
+old = '全力で攻撃！'
+[[message]]
+key = 'CHAT_COM_156'
+old = '少し下がってください'
+[[message]]
+key = 'CHAT_COM_157'
+old = '敵に注視されぬよう気をつけてください'
+[[message]]
+key = 'CHAT_COM_158'
+old = 'これを先にやっつけて！'
+[[message]]
+key = 'CHAT_COM_159'
+old = '攻撃しないでください'
+[[message]]
+key = 'CHAT_COM_160'
+old = '無効化してください'
+[[message]]
+key = 'CHAT_COM_161'
+old = '支援行動をお願いします！'
+[[message]]
+key = 'CHAT_COM_162'
+old = '逃げて！'
+[[message]]
+key = 'CHAT_COM_163'
+old = '行動不能！　助けて！！！'
+[[message]]
+key = 'CHAT_COM_164'
+old = '待機します'
+[[message]]
+key = 'CHAT_COM_165'
+old = 'なくなりました'
+[[message]]
+key = 'CHAT_COM_166'
+old = 'ありません'
+[[message]]
+key = 'CHAT_COM_167'
+old = '準備完了！'
+[[message]]
+key = 'CHAT_COM_168'
+old = '使ってください'
+[[message]]
+key = 'CHAT_COM_169'
+old = '休憩しましょう'
+[[message]]
+key = 'CHAT_COM_170'
+old = 'しがみつきます'
+[[message]]
+key = 'CHAT_COM_171'
+old = '敵を引きつけます'
+[[message]]
+key = 'CHAT_COM_172'
+old = '待ってください'
+[[message]]
+key = 'CHAT_COM_173'
+old = '現地に集合しましょう'
+[[message]]
+key = 'CHAT_COM_174'
+old = 'そこにいてください'
+[[message]]
+key = 'CHAT_COM_175'
+old = 'これから向かいます'
+[[message]]
+key = 'CHAT_COM_176'
+old = 'すぐ戻ります'
+[[message]]
+key = 'CHAT_COM_177'
+old = 'どんまい！'
+[[message]]
+key = 'CHAT_COM_178'
+old = '気にするな！'
+[[message]]
+key = 'CHAT_COM_225'
+old = '気にしないで！'
+[[message]]
+key = 'CHAT_COM_179'
+old = '大丈夫です！'
+[[message]]
+key = 'CHAT_COM_180'
+old = '申し訳ない！'
+[[message]]
+key = 'CHAT_COM_181'
+old = 'すみません！'
+[[message]]
+key = 'CHAT_COM_182'
+old = '俺が！'
+[[message]]
+key = 'CHAT_COM_226'
+old = '私が！'
+[[message]]
+key = 'CHAT_COM_183'
+old = '状態異常に気を付けましょう！'
+[[message]]
+key = 'CHAT_COM_184'
+old = 'エンチャントを頼む！'
+[[message]]
+key = 'CHAT_COM_227'
+old = 'エンチャントをお願い！'
+[[message]]
+key = 'CHAT_COM_185'
+old = 'ザコは無視しよう！'
+[[message]]
+key = 'CHAT_COM_228'
+old = 'ザコは無視しましょう！'
+[[message]]
+key = 'CHAT_COM_186'
+old = 'この敵は倒そう！'
+[[message]]
+key = 'CHAT_COM_229'
+old = 'この敵は倒しましょう！'
+[[message]]
+key = 'CHAT_COM_187'
+old = '先に行ってください'
+[[message]]
+key = 'CHAT_COM_188'
+old = '急ごう！'
+[[message]]
+key = 'CHAT_COM_230'
+old = '急ぎましょう！'
+[[message]]
+key = 'CHAT_COM_189'
+old = '焦らずに'
+[[message]]
+key = 'CHAT_COM_190'
+old = '助かりました！'
+[[message]]
+key = 'CHAT_COM_191'
+old = 'う、動けない！'
+[[message]]
+key = 'CHAT_COM_192'
+old = '少し準備します'
+[[message]]
+key = 'CHAT_COM_193'
+old = '手を出すな'
+[[message]]
+key = 'CHAT_COM_231'
+old = '手を出さないで'
+[[message]]
+key = 'CHAT_COM_194'
+old = '敵を引きつける'
+[[message]]
+key = 'CHAT_COM_232'
+old = '敵を引きつけます'
+[[message]]
+key = 'CHAT_COM_195'
+old = '俺に任せろ！'
+[[message]]
+key = 'CHAT_COM_233'
+old = '私に任せて！'
+[[message]]
+key = 'CHAT_COM_196'
+old = '俺の背中に隠れて！'
+[[message]]
+key = 'CHAT_COM_234'
+old = '私の背中に隠れて！'
+[[message]]
+key = 'CHAT_COM_197'
+old = '凍らせる！'
+[[message]]
+key = 'CHAT_COM_235'
+old = '凍らせます！'
+[[message]]
+key = 'CHAT_COM_198'
+old = 'スローにする！'
+[[message]]
+key = 'CHAT_COM_236'
+old = 'スローにします！'
+[[message]]
+key = 'CHAT_COM_199'
+old = '眠らせる！'
+[[message]]
+key = 'CHAT_COM_237'
+old = '眠らせます！'
+[[message]]
+key = 'CHAT_COM_200'
+old = '状態異常を狙う！'
+[[message]]
+key = 'CHAT_COM_238'
+old = '状態異常を狙います！'
+[[message]]
+key = 'CHAT_COM_201'
+old = '状態異常にする！'
+[[message]]
+key = 'CHAT_COM_239'
+old = '状態異常にします！'
+[[message]]
+key = 'CHAT_COM_202'
+old = '弱点を攻撃してくれ！'
+[[message]]
+key = 'CHAT_COM_240'
+old = '弱点を攻撃して！'
+[[message]]
+key = 'CHAT_COM_203'
+old = '別れて戦おう！'
+[[message]]
+key = 'CHAT_COM_241'
+old = '別れて戦いましょう！'
+[[message]]
+key = 'CHAT_COM_204'
+old = '集まってください！'
+[[message]]
+key = 'CHAT_COM_205'
+old = '散らばってください！'
+[[message]]
+key = 'CHAT_COM_206'
+old = '弱点を出そう！'
+[[message]]
+key = 'CHAT_COM_207'
+old = '弱点を狙おう！'
+[[message]]
+key = 'CHAT_COM_208'
+old = '弱点を攻撃しよう！'
+[[message]]
+key = 'CHAT_COM_209'
+old = 'スタミナを減らそう！'
+[[message]]
+key = 'CHAT_COM_210'
+old = '一気に揺さぶろう！'
+[[message]]
+key = 'CHAT_COM_211'
+old = '今助ける！'
+[[message]]
+key = 'CHAT_COM_242'
+old = '今助けます！'
+[[message]]
+key = 'CHAT_COM_212'
+old = 'こっちだ、跳ね上げる！'
+[[message]]
+key = 'CHAT_COM_243'
+old = 'こっちです、跳ね上げます！'
+[[message]]
+key = 'CHAT_COM_213'
+old = 'おきろ！'
+[[message]]
+key = 'CHAT_COM_244'
+old = '起きて！'
+[[message]]
+key = 'CHAT_COM_214'
+old = 'トドメだ！'
+[[message]]
+key = 'CHAT_COM_215'
+old = '仕切り直そう！'
+[[message]]
+key = 'CHAT_COM_245'
+old = '仕切り直しましょう！'
+[[message]]
+key = 'CHAT_COM_216'
+old = 'こいつは危険です！'

@@ -1,0 +1,188 @@
+﻿[[message]]
+key = 'info_party_invite'
+old = '<NAME TARGET> からパーティーへの招待があります'
+[[message]]
+key = 'info_party_invite_list'
+old = '<NAME TARGET> からパーティーへの招待があります'
+[[message]]
+key = 'info_friend_req'
+old = '<NAME TARGET> からフレンド申請があります'
+[[message]]
+key = 'info_friend_req_list'
+old = 'フレンド申請があります'
+[[message]]
+key = 'info_clan_invite'
+old = '<NAME TARGET>からクランへの招待があります'
+[[message]]
+key = 'info_clan_invite_list'
+old = 'クランから誘いがあります'
+[[message]]
+key = 'info_clan_mission'
+old = '<NAME CLANMISSION> を達成した！'
+[[message]]
+key = 'info_clan_mission_list'
+old = '<NAME CLANMISSION> を達成した！'
+[[message]]
+key = 'info_clan_levelup'
+old = 'クランレベルが<VAL>になった！'
+[[message]]
+key = 'info_clan_levelup_list'
+old = 'クランの歴史が更新されました'
+[[message]]
+key = 'info_group_invite'
+old = '<NAME TARGET> からグループチャットへの招待があります'
+[[message]]
+key = 'info_group_invite_list'
+old = '<NAME TARGET> からグループチャットへの招待があります'
+[[message]]
+key = 'info_mail'
+old = '新着メールが届きました'
+[[message]]
+key = 'info_mail_list'
+old = '未読／未取得メールがあります'
+[[message]]
+key = 'info_news'
+old = 'レスタニアニュースが更新されました'
+[[message]]
+key = 'info_news_list'
+old = 'レスタニアニュースが更新されました'
+[[message]]
+key = 'info_full_member'
+old = 'エントリーメンバーが揃いました'
+[[message]]
+key = 'info_full_member_list'
+old = 'エントリーメンバーが揃いました'
+[[message]]
+key = 'info_tutorial'
+old = 'チュートリアル：<NAME TUTORIAL>'
+[[message]]
+key = 'info_tutorial_list'
+old = 'チュートリアル：<NAME TUTORIAL>'
+[[message]]
+key = 'info_wait_quest'
+old = '受注待ちのクエストがあります'
+[[message]]
+key = 'info_wait_quest_list'
+old = '受注待ちのクエストが<VAL>件あります'
+[[message]]
+key = 'info_achieve'
+old = 'アチーブメントを獲得しました'
+[[message]]
+key = 'info_achieve_list'
+old = '<NAME ACHIEVE>を獲得しました'
+[[message]]
+key = 'info_achieve_unlock'
+old = '新たなアチーブメントが解放されました'
+[[message]]
+key = 'info_achieve_unlock_list'
+old = '新たなアチーブメントを解放しました'
+[[message]]
+key = 'info_craft_finish'
+old = 'クラフトが完成しました'
+[[message]]
+key = 'info_quest_end'
+old = '配信期間が終了したクエストを破棄しました'
+[[message]]
+key = 'info_propose_quit_contents'
+old = 'コンテンツ途中離脱の提案がありました'
+[[message]]
+key = 'info_propose_quit_contents_list'
+old = 'コンテンツ途中離脱の提案が届いています'
+[[message]]
+key = 'info_quick_ready_wait_list'
+old = 'クイックパーティーの準備完了を受付中'
+[[message]]
+key = 'info_entry_board_ready_wait_list'
+old = 'エントリーメンバーの準備完了を受付中'
+[[message]]
+key = 'info_quest_end_list'
+old = '配信期間が終了したクエストを破棄しました'
+[[message]]
+key = 'info_entry_board_time_extension_list'
+old = 'エントリーボードの募集時間を延長できます'
+[[message]]
+key = 'info_party_entry_accepted_list'
+old = 'リーダーがパーティー要請を受諾しました'
+[[message]]
+key = 'info_clan_req'
+old = '<NAME TARGET>からクラン加入申請がありました'
+[[message]]
+key = 'info_clan_req_info'
+old = 'クランへの加入申請があります'
+[[message]]
+key = 'info_clan_join_other'
+old = '<NAME TARGET>がクランに加入しました'
+[[message]]
+key = 'info_clan_join'
+old = '<NAME TARGET>がクランに加入しました'
+[[message]]
+key = 'info_clan_chg_master'
+old = '<NAME TARGET>がクランマスターになりました'
+[[message]]
+key = 'info_clan_chg_leader'
+old = '<NAME TARGET>がクランリーダーになりました'
+[[message]]
+key = 'info_pt_leader_leave_list'
+old = 'リーダーが不在です'
+[[message]]
+key = 'info_pt_leader_leave'
+old = '''
+リーダーが不在です
+白竜神殿かリムストーンのある拠点施設でリーダーを設定してください'''
+[[message]]
+key = 'info_bazzar_dealed'
+old = 'バザーに出品中の<NAME ITEM>が取引成立しました'
+[[message]]
+key = 'info_party_invite_pop'
+old = 'パーティーへの招待があります'
+[[message]]
+key = 'info_caplink_chat'
+old = 'カプリンク：新着チャットがあります'
+[[message]]
+key = 'info_caplink_maintenance'
+old = 'カプリンクが<VAL>からメンテナンスに入ります'
+[[message]]
+key = 'info_caplink_friend_online'
+old = 'カプリンク：カプトモがオンラインになりました'
+[[message]]
+key = 'info_caplink_friend_request'
+old = 'カプリンク：カプトモ申請が届いています'
+[[message]]
+key = 'info_caplink_friend_consent'
+old = 'カプリンク：カプトモが増えました'
+[[message]]
+key = 'info_caplink_invite'
+old = 'カプリンク：ゲーム招待メッセージが届いています'
+[[message]]
+key = 'info_caplink_message'
+old = 'カプリンク：メッセージが届いています'
+[[message]]
+key = 'info_caplink_friend_modify'
+old = 'カプリンク：カプトモがプロフィールを変更しました'
+[[message]]
+key = 'info_caplink_invite_detail'
+old = 'カプリンク：%sからゲーム招待メッセージが届いています'
+[[message]]
+key = 'info_caplink_friend_online_detail'
+old = 'カプリンク：%sがオンラインになりました'
+[[message]]
+key = 'info_caplink_friend_content_detail'
+old = 'カプリンク：%sとカプトモになりました'
+[[message]]
+key = 'info_entry_invitation'
+old = '<NAME TARGET>からエントリーボードに招待されました'
+[[message]]
+key = 'info_entry_invitation_list'
+old = '<NAME TARGET>からエントリーボードへの招待があります'
+[[message]]
+key = 'info_clan_invite_direct'
+old = '<NAME TARGET>からクランへの直接招待があります'
+[[message]]
+key = 'info_clan_invite_list_direct'
+old = 'クランから直接招待があります'
+[[message]]
+key = 'info_dlc_station_not_receive'
+old = 'DLC Stationに未受け取りのダウンロードコンテンツがあります'
+[[message]]
+key = 'info_adv_guide_new_info'
+old = '冒険ガイドに新たなクエストの紹介があります'

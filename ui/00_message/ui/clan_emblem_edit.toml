@@ -1,0 +1,27 @@
+﻿[[message]]
+key = 'CLAN_EME_TEXT_MARK'
+old = 'マーク'
+[[message]]
+key = 'CLAN_EME_TEXT_BASE'
+old = 'ベース'
+[[message]]
+key = 'CLAN_EME_TEXT_COL_M'
+old = 'ベースカラー(白地)'
+[[message]]
+key = 'CLAN_EME_TEXT_COL_S'
+old = 'ベースカラー(灰地)'
+[[message]]
+key = 'CLAN_EME_TEXT_PREV'
+old = 'Preview'
+[[message]]
+key = 'CLAN_EME_TEXT_DECIDE'
+old = '決定'
+[[message]]
+key = 'CLAN_EME_TEXT_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'CLAN_EME_TEXT_TITLE_EN'
+old = 'Emblem Edit'
+[[message]]
+key = 'CLAN_EME_TEXT_TITLE_JP'
+old = 'エンブレム編集'

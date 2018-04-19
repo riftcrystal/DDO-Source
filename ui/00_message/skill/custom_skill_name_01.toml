@@ -1,0 +1,60 @@
+﻿[[message]]
+key = 'CUSTOM_SKILL_NAME_01_8'
+old = '一閃突き'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_12'
+old = '刀牙昇斬'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_10'
+old = 'シールドバッシュ'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_13'
+old = '天蓋斬り'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_15'
+old = '逸らし斬り'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_9'
+old = '直下突き'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_11'
+old = 'センチュリオンスパイク'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_14'
+old = '円月斬り'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_18'
+old = 'チャリオットムーブ'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_16'
+old = '弐段突き'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_19'
+old = '流剣閃'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_17'
+old = 'ブレイブスレイド'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_120'
+old = '豪溜斬り'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_121'
+old = '流盾翔'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_154'
+old = '刀牙昇斬 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_155'
+old = '刀牙昇斬 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_174'
+old = 'シールドバッシュ 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_175'
+old = 'シールドバッシュ 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_209'
+old = '直下突き 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_01_210'
+old = '直下突き 技'

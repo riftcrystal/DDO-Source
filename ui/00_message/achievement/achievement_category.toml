@@ -1,0 +1,18 @@
+﻿[[message]]
+key = 'ACHIEVEMENT_CATEGORY_1'
+old = '冒険'
+[[message]]
+key = 'ACHIEVEMENT_CATEGORY_2'
+old = '戦闘'
+[[message]]
+key = 'ACHIEVEMENT_CATEGORY_3'
+old = '成長'
+[[message]]
+key = 'ACHIEVEMENT_CATEGORY_4'
+old = '収集'
+[[message]]
+key = 'ACHIEVEMENT_CATEGORY_5'
+old = 'その他'
+[[message]]
+key = 'ACHIEVEMENT_CATEGORY_6'
+old = '王家再興'

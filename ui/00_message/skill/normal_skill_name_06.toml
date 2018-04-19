@@ -1,0 +1,21 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_NAME_06_92'
+old = 'マジックボール'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_93'
+old = 'マジックトラップ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_94'
+old = 'マジックブースト'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_95'
+old = 'スペリング'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_96'
+old = 'バックムーブ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_101'
+old = 'フローティング'
+[[message]]
+key = 'NORMAL_SKILL_NAME_06_102'
+old = 'マジッククラッカー'

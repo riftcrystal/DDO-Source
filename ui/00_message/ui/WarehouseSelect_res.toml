@@ -1,0 +1,21 @@
+﻿[[message]]
+key = 'warehouse_title'
+old = 'Menu'
+[[message]]
+key = 'warehouse_title_sub'
+old = 'メニュー'
+[[message]]
+key = 'warehouse_item'
+old = '引き出す / 預ける'
+[[message]]
+key = 'warehouse_reward'
+old = '報酬受け取り'
+[[message]]
+key = 'warehouse_status'
+old = '装備変更'
+[[message]]
+key = 'warehouse_chara_select_title'
+old = 'キャラクターを選択してください'
+[[message]]
+key = 'warehouse_gm_reward'
+old = 'GM最終報酬受け取り'

@@ -1,0 +1,735 @@
+﻿[[message]]
+key = 'TUTORIAL_8'
+old = 'メインクエスト'
+[[message]]
+key = 'TUTORIAL_24'
+old = '詳細～広域マップの使い方'
+[[message]]
+key = 'TUTORIAL_27'
+old = '覚者の基本能力'
+[[message]]
+key = 'TUTORIAL_29'
+old = 'ショートカット登録'
+[[message]]
+key = 'TUTORIAL_31'
+old = '危険な場所'
+[[message]]
+key = 'TUTORIAL_32'
+old = 'ボードクエスト'
+[[message]]
+key = 'TUTORIAL_33'
+old = '戦うべき敵'
+[[message]]
+key = 'TUTORIAL_35'
+old = '白竜神殿レーゼ'
+[[message]]
+key = 'TUTORIAL_36'
+old = '優先クエスト'
+[[message]]
+key = 'TUTORIAL_38'
+old = '世界の住人'
+[[message]]
+key = 'TUTORIAL_39'
+old = 'ミニマップの使い方'
+[[message]]
+key = 'TUTORIAL_40'
+old = 'レスタニアニュース'
+[[message]]
+key = 'TUTORIAL_42'
+old = 'ワールドクエスト'
+[[message]]
+key = 'TUTORIAL_43'
+old = 'クエスト推奨レベル'
+[[message]]
+key = 'TUTORIAL_46'
+old = 'チャットログ'
+[[message]]
+key = 'TUTORIAL_49'
+old = '覚者の基本成長'
+[[message]]
+key = 'TUTORIAL_53'
+old = 'クライミング'
+[[message]]
+key = 'TUTORIAL_55'
+old = 'アイテムの入手'
+[[message]]
+key = 'TUTORIAL_56'
+old = 'アイテムの活用'
+[[message]]
+key = 'TUTORIAL_57'
+old = 'エレメントアーチャーの戦術的役割'
+[[message]]
+key = 'TUTORIAL_66'
+old = 'ファイターの戦術的役割'
+[[message]]
+key = 'TUTORIAL_67'
+old = 'プリーストの戦術的役割'
+[[message]]
+key = 'TUTORIAL_68'
+old = 'ハンターの戦術的役割'
+[[message]]
+key = 'TUTORIAL_69'
+old = 'シールドセージの戦術的役割'
+[[message]]
+key = 'TUTORIAL_70'
+old = 'シーカーの戦術的役割'
+[[message]]
+key = 'TUTORIAL_71'
+old = 'ウォリアーの戦術的役割'
+[[message]]
+key = 'TUTORIAL_72'
+old = 'ソーサラーの戦術的役割'
+[[message]]
+key = 'TUTORIAL_73'
+old = 'ファイターの戦法：基本'
+[[message]]
+key = 'TUTORIAL_74'
+old = 'プリーストの戦法：基本'
+[[message]]
+key = 'TUTORIAL_75'
+old = 'ハンターの戦法：基本'
+[[message]]
+key = 'TUTORIAL_76'
+old = 'シールドセージの戦法：基本'
+[[message]]
+key = 'TUTORIAL_77'
+old = 'シーカーの戦法：基本'
+[[message]]
+key = 'TUTORIAL_78'
+old = 'ウォリアーの戦法：基本'
+[[message]]
+key = 'TUTORIAL_79'
+old = 'ソーサラーの戦法：基本'
+[[message]]
+key = 'TUTORIAL_80'
+old = 'エレメントアーチャーの戦法：基本'
+[[message]]
+key = 'TUTORIAL_81'
+old = '美容院'
+[[message]]
+key = 'TUTORIAL_86'
+old = '商品の取引'
+[[message]]
+key = 'TUTORIAL_87'
+old = '装備品'
+[[message]]
+key = 'TUTORIAL_88'
+old = '保管ボックス'
+[[message]]
+key = 'TUTORIAL_91'
+old = '竜の礎とリム転移'
+[[message]]
+key = 'TUTORIAL_92'
+old = '宿屋'
+[[message]]
+key = 'TUTORIAL_93'
+old = 'バザー'
+[[message]]
+key = 'TUTORIAL_97'
+old = 'パーティー編成'
+[[message]]
+key = 'TUTORIAL_100'
+old = 'パーティープレイ中の注意点'
+[[message]]
+key = 'TUTORIAL_102'
+old = '戦技の獲得'
+[[message]]
+key = 'TUTORIAL_107'
+old = 'エクストリームミッション'
+[[message]]
+key = 'TUTORIAL_109'
+old = '覚者のさらなる成長・竜力の継承'
+[[message]]
+key = 'TUTORIAL_110'
+old = 'ジョブロール（戦闘時の役割）'
+[[message]]
+key = 'TUTORIAL_114'
+old = 'オートラン'
+[[message]]
+key = 'TUTORIAL_115'
+old = '冒険中のリトライ'
+[[message]]
+key = 'TUTORIAL_118'
+old = 'ジョブマスター'
+[[message]]
+key = 'TUTORIAL_119'
+old = '拠点の利用'
+[[message]]
+key = 'TUTORIAL_121'
+old = '世界の探索'
+[[message]]
+key = 'TUTORIAL_122'
+old = 'ブラッドオーブの物々交換'
+[[message]]
+key = 'TUTORIAL_123'
+old = 'エリアマスター'
+[[message]]
+key = 'TUTORIAL_124'
+old = 'ポーンの基本成長'
+[[message]]
+key = 'TUTORIAL_125'
+old = 'ポーンとは'
+[[message]]
+key = 'TUTORIAL_126'
+old = 'ポーンの雇用と編成'
+[[message]]
+key = 'TUTORIAL_128'
+old = 'ポーンの死亡と復活'
+[[message]]
+key = 'TUTORIAL_131'
+old = 'クラフトルーム'
+[[message]]
+key = 'TUTORIAL_132'
+old = 'アイテム生産の基本'
+[[message]]
+key = 'TUTORIAL_135'
+old = '装備品のカスタマイズ'
+[[message]]
+key = 'TUTORIAL_136'
+old = 'アチーブメント'
+[[message]]
+key = 'TUTORIAL_139'
+old = 'クラン'
+[[message]]
+key = 'TUTORIAL_143'
+old = 'アイテムの所持制限'
+[[message]]
+key = 'TUTORIAL_144'
+old = 'クエストの受注制限'
+[[message]]
+key = 'TUTORIAL_152'
+old = 'ゲームの中断／再開方法'
+[[message]]
+key = 'TUTORIAL_153'
+old = '覚者とは'
+[[message]]
+key = 'TUTORIAL_155'
+old = 'グリッテン砦攻防戦'
+[[message]]
+key = 'TUTORIAL_156'
+old = '魔物のるつぼ'
+[[message]]
+key = 'TUTORIAL_158'
+old = '闇を照らすランタン'
+[[message]]
+key = 'TUTORIAL_159'
+old = 'カスタムスキル'
+[[message]]
+key = 'TUTORIAL_161'
+old = 'ジョブ修練ログ'
+[[message]]
+key = 'TUTORIAL_163'
+old = '拠点の礎'
+[[message]]
+key = 'TUTORIAL_164'
+old = '回復手段'
+[[message]]
+key = 'TUTORIAL_165'
+old = 'レスタニアの状況'
+[[message]]
+key = 'TUTORIAL_166'
+old = 'スタンプボーナス'
+[[message]]
+key = 'TUTORIAL_167'
+old = 'クレストによる装備強化'
+[[message]]
+key = 'TUTORIAL_168'
+old = 'トレジャーズロット'
+[[message]]
+key = 'TUTORIAL_169'
+old = 'アルケミストの戦法：基本'
+[[message]]
+key = 'TUTORIAL_170'
+old = 'アルケミストの戦術的役割'
+[[message]]
+key = 'TUTORIAL_172'
+old = 'ファイターの戦法：追記'
+[[message]]
+key = 'TUTORIAL_174'
+old = 'クエストの進め方'
+[[message]]
+key = 'TUTORIAL_175'
+old = '戦徒の契り'
+[[message]]
+key = 'TUTORIAL_176'
+old = '着飾り装備'
+[[message]]
+key = 'TUTORIAL_177'
+old = 'ハンターの戦法：追記'
+[[message]]
+key = 'TUTORIAL_178'
+old = 'プリーストの戦法：追記'
+[[message]]
+key = 'TUTORIAL_179'
+old = 'シールドセージの戦法：追記'
+[[message]]
+key = 'TUTORIAL_180'
+old = 'しがみつき行動'
+[[message]]
+key = 'TUTORIAL_181'
+old = '冒険フィールドへの出発'
+[[message]]
+key = 'TUTORIAL_182'
+old = '復活力の回復'
+[[message]]
+key = 'TUTORIAL_195'
+old = '神殿への帰還'
+[[message]]
+key = 'TUTORIAL_208'
+old = '大型敵との戦い'
+[[message]]
+key = 'TUTORIAL_209'
+old = '進行マーカーの使い方'
+[[message]]
+key = 'TUTORIAL_211'
+old = 'シーカーの戦法：追記'
+[[message]]
+key = 'TUTORIAL_212'
+old = 'ソーサラーの戦法：追記'
+[[message]]
+key = 'TUTORIAL_214'
+old = 'エレメントアーチャーの戦法：追記'
+[[message]]
+key = 'TUTORIAL_216'
+old = 'ウォリアーの戦法：追記'
+[[message]]
+key = 'TUTORIAL_218'
+old = 'アルケミストの戦法：追記'
+[[message]]
+key = 'TUTORIAL_219'
+old = '太古の強者'
+[[message]]
+key = 'TUTORIAL_220'
+old = '失われた秩序'
+[[message]]
+key = 'TUTORIAL_221'
+old = '眩き黄金'
+[[message]]
+key = 'TUTORIAL_222'
+old = 'ポーンのリアクション設定'
+[[message]]
+key = 'TUTORIAL_224'
+old = 'ポーンへの命令'
+[[message]]
+key = 'TUTORIAL_226'
+old = 'パーティー同行リム転移'
+[[message]]
+key = 'TUTORIAL_227'
+old = 'コンテンツの途中離脱'
+[[message]]
+key = 'TUTORIAL_229'
+old = 'ロストポーンの救出'
+[[message]]
+key = 'TUTORIAL_230'
+old = '便利なフリーマーカー'
+[[message]]
+key = 'TUTORIAL_231'
+old = 'ワールドクエストの情報購入'
+[[message]]
+key = 'TUTORIAL_232'
+old = 'ワールドクエストの繰り返し報酬'
+[[message]]
+key = 'TUTORIAL_233'
+old = '魔物警戒スポットの強敵'
+[[message]]
+key = 'TUTORIAL_234'
+old = 'オーブエネミー'
+[[message]]
+key = 'TUTORIAL_235'
+old = '連係アクション'
+[[message]]
+key = 'TUTORIAL_236'
+old = 'エリアマスターの支援品'
+[[message]]
+key = 'TUTORIAL_237'
+old = 'ランキングへの挑戦'
+[[message]]
+key = 'TUTORIAL_238'
+old = 'エリアランクとその上昇'
+[[message]]
+key = 'TUTORIAL_239'
+old = 'チュートリアルガイド'
+[[message]]
+key = 'TUTORIAL_240'
+old = 'クラフトレベル昇格試験'
+[[message]]
+key = 'TUTORIAL_241'
+old = 'エリア試練クエスト'
+[[message]]
+key = 'TUTORIAL_242'
+old = '未知なるジョブへの挑戦'
+[[message]]
+key = 'TUTORIAL_243'
+old = 'パーティーリワード'
+[[message]]
+key = 'TUTORIAL_245'
+old = 'クラフトポイントの割り振り'
+[[message]]
+key = 'TUTORIAL_247'
+old = '弱化になった時の対処'
+[[message]]
+key = 'TUTORIAL_249'
+old = 'パーティー要請への対応'
+[[message]]
+key = 'TUTORIAL_250'
+old = 'メインクエストのボス戦時の注意点'
+[[message]]
+key = 'TUTORIAL_252'
+old = 'レスタニア序節　到達'
+[[message]]
+key = 'TUTORIAL_253'
+old = 'レスタニア第二節　到達'
+[[message]]
+key = 'TUTORIAL_255'
+old = '鑑定交換'
+[[message]]
+key = 'TUTORIAL_257'
+old = 'レスタニア第三節　到達'
+[[message]]
+key = 'TUTORIAL_258'
+old = '覚者の自室'
+[[message]]
+key = 'TUTORIAL_261'
+old = '鑑定ジュエリー'
+[[message]]
+key = 'TUTORIAL_264'
+old = '覚者のさらなる成長・戦技の継承'
+[[message]]
+key = 'TUTORIAL_266'
+old = '侵食魔について：小型敵'
+[[message]]
+key = 'TUTORIAL_267'
+old = '汚染植物について'
+[[message]]
+key = 'TUTORIAL_268'
+old = 'スピリットランサーの戦法：基本'
+[[message]]
+key = 'TUTORIAL_269'
+old = 'スピリットランサーの戦法：追記'
+[[message]]
+key = 'TUTORIAL_271'
+old = 'スピリットランサーの戦術的役割'
+[[message]]
+key = 'TUTORIAL_275'
+old = '侵食魔について：大型敵 '
+[[message]]
+key = 'TUTORIAL_278'
+old = '魔赤島の狂宴'
+[[message]]
+key = 'TUTORIAL_279'
+old = '目覚めし闇の魔物'
+[[message]]
+key = 'TUTORIAL_286'
+old = '淀みし大竜力'
+[[message]]
+key = 'TUTORIAL_288'
+old = '歪みの執行人'
+[[message]]
+key = 'TUTORIAL_293'
+old = '侵食の大災 序説　到達'
+[[message]]
+key = 'TUTORIAL_294'
+old = '侵食の大災 第二節　到達'
+[[message]]
+key = 'TUTORIAL_295'
+old = '新エリア解放'
+[[message]]
+key = 'TUTORIAL_297'
+old = '平均アイテムランク （IR） とは'
+[[message]]
+key = 'TUTORIAL_299'
+old = 'ポーン遠征隊'
+[[message]]
+key = 'TUTORIAL_301'
+old = '辺境の礎'
+[[message]]
+key = 'TUTORIAL_302'
+old = 'カスタムスキルパレット切り替え'
+[[message]]
+key = 'TUTORIAL_303'
+old = '家具について'
+[[message]]
+key = 'TUTORIAL_304'
+old = 'エリアランクキャップ解放'
+[[message]]
+key = 'TUTORIAL_306'
+old = '大型敵との戦い：ブレイクアイコン'
+[[message]]
+key = 'TUTORIAL_307'
+old = '大型敵との戦い：特殊状態'
+[[message]]
+key = 'TUTORIAL_314'
+old = '古代神殿の死闘'
+[[message]]
+key = 'TUTORIAL_315'
+old = '呼び覚まされし竜'
+[[message]]
+key = 'TUTORIAL_316'
+old = 'プレイポイント'
+[[message]]
+key = 'TUTORIAL_317'
+old = 'クランレベルとクラン拠点'
+[[message]]
+key = 'TUTORIAL_320'
+old = 'ある探検家の軌跡'
+[[message]]
+key = 'TUTORIAL_321'
+old = 'ポーンからのお願い'
+[[message]]
+key = 'TUTORIAL_322'
+old = '大地の怒り'
+[[message]]
+key = 'TUTORIAL_323'
+old = '降臨せし闇'
+[[message]]
+key = 'TUTORIAL_326'
+old = '侵食の大災 第三節　到達'
+[[message]]
+key = 'TUTORIAL_327'
+old = '侵食の大災 第四節　到達'
+[[message]]
+key = 'TUTORIAL_328'
+old = '狂侵魔の触芽'
+[[message]]
+key = 'TUTORIAL_329'
+old = '鍛練の小部屋'
+[[message]]
+key = 'TUTORIAL_330'
+old = 'クランダンジョン'
+[[message]]
+key = 'TUTORIAL_332'
+old = 'プレイポイントショップ'
+[[message]]
+key = 'TUTORIAL_333'
+old = 'エリア目視調査'
+[[message]]
+key = 'TUTORIAL_334'
+old = 'アルケミストの戦法：追記２'
+[[message]]
+key = 'TUTORIAL_335'
+old = '闇の再動'
+[[message]]
+key = 'TUTORIAL_336'
+old = 'オンラインショップ'
+[[message]]
+key = 'TUTORIAL_337'
+old = 'メールの確認'
+[[message]]
+key = 'TUTORIAL_339'
+old = '■絶望の料理番　キャリー'
+[[message]]
+key = 'TUTORIAL_340'
+old = '　NPCの護衛（食料ゲージ）'
+[[message]]
+key = 'TUTORIAL_341'
+old = '　大食堂の復旧'
+[[message]]
+key = 'TUTORIAL_342'
+old = '　拠点への食料運搬'
+[[message]]
+key = 'TUTORIAL_348'
+old = 'ドミニオンポイントショップ'
+[[message]]
+key = 'TUTORIAL_349'
+old = 'ダクレイム砦奪還戦'
+[[message]]
+key = 'TUTORIAL_350'
+old = '絶望と惨劇の砲声 限界域'
+[[message]]
+key = 'TUTORIAL_351'
+old = '戦況ゲージ'
+[[message]]
+key = 'TUTORIAL_352'
+old = '覚者のさらなる成長・絶技の継承'
+[[message]]
+key = 'TUTORIAL_353'
+old = 'カスタムスキルEX　剛/技の切替え'
+[[message]]
+key = 'TUTORIAL_354'
+old = 'ポーン戦術育成'
+[[message]]
+key = 'TUTORIAL_355'
+old = '魔物集結スポット'
+[[message]]
+key = 'TUTORIAL_356'
+old = '期間解放スポット'
+[[message]]
+key = 'TUTORIAL_357'
+old = 'エピタフロード'
+[[message]]
+key = 'TUTORIAL_358'
+old = 'ハイオーブ'
+[[message]]
+key = 'TUTORIAL_359'
+old = 'カスタムメイド工房について'
+[[message]]
+key = 'TUTORIAL_360'
+old = 'ジフール砦攻略戦'
+[[message]]
+key = 'TUTORIAL_361'
+old = '誘う眼 限界域'
+[[message]]
+key = 'TUTORIAL_362'
+old = '絶望の大陸 序節　到達'
+[[message]]
+key = 'TUTORIAL_363'
+old = '絶望の大陸 第二節　到達'
+[[message]]
+key = 'TUTORIAL_364'
+old = 'マンドラゴラ・ガーデニング'
+[[message]]
+key = 'TUTORIAL_365'
+old = 'ボーナスダンジョン'
+[[message]]
+key = 'TUTORIAL_366'
+old = 'アチーブメント：王家再興'
+[[message]]
+key = 'TUTORIAL_367'
+old = 'エンブレムストーン'
+[[message]]
+key = 'TUTORIAL_368'
+old = 'クラン拠点専用家具'
+[[message]]
+key = 'TUTORIAL_369'
+old = '戦甲種について：小型敵'
+[[message]]
+key = 'TUTORIAL_370'
+old = '戦甲種について：大型敵'
+[[message]]
+key = 'TUTORIAL_371'
+old = 'フォトモード'
+[[message]]
+key = 'TUTORIAL_372'
+old = 'ドワーフオークについて'
+[[message]]
+key = 'TUTORIAL_373'
+old = '　敵地への潜入とソネルのごきげん'
+[[message]]
+key = 'TUTORIAL_374'
+old = '　ソネルを誘導する'
+[[message]]
+key = 'TUTORIAL_375'
+old = '　警備が厳重な場所'
+[[message]]
+key = 'TUTORIAL_376'
+old = '　身を伏せて移動する'
+[[message]]
+key = 'TUTORIAL_377'
+old = '■奪還を指揮せし異才者　ソネル'
+[[message]]
+key = 'TUTORIAL_378'
+old = '　テントの細工'
+[[message]]
+key = 'TUTORIAL_379'
+old = '　細工成功後の選択'
+[[message]]
+key = 'TUTORIAL_380'
+old = '　門の攻略'
+[[message]]
+key = 'TUTORIAL_381'
+old = 'ウォーミッション'
+[[message]]
+key = 'TUTORIAL_382'
+old = 'エンブレムストーンの入手方法'
+[[message]]
+key = 'TUTORIAL_383'
+old = '戦甲種について：追記'
+[[message]]
+key = 'TUTORIAL_384'
+old = '武具のリミット解除'
+[[message]]
+key = 'TUTORIAL_385'
+old = '武具の極限合成'
+[[message]]
+key = 'TUTORIAL_386'
+old = 'スペシャルクエストボード'
+[[message]]
+key = 'TUTORIAL_388'
+old = 'ハイセプターの戦法：基本'
+[[message]]
+key = 'TUTORIAL_389'
+old = 'ハイセプターの戦法：追記'
+[[message]]
+key = 'TUTORIAL_390'
+old = 'ハイセプターの戦術的役割'
+[[message]]
+key = 'TUTORIAL_391'
+old = 'プレイヤーが操作可能な大砲'
+[[message]]
+key = 'TUTORIAL_392'
+old = '絶望の大陸 第三節　到達'
+[[message]]
+key = 'TUTORIAL_393'
+old = 'ポーンの特技'
+[[message]]
+key = 'TUTORIAL_394'
+old = 'パーティーメンバーの自室へ訪問'
+[[message]]
+key = 'TUTORIAL_395'
+old = '危険な場所：追記'
+[[message]]
+key = 'TUTORIAL_396'
+old = '王家により封印されている扉'
+[[message]]
+key = 'TUTORIAL_397'
+old = 'エピタフロード：試練'
+[[message]]
+key = 'TUTORIAL_398'
+old = '黒呪の迷宮とは'
+[[message]]
+key = 'TUTORIAL_399'
+old = '黒呪装具の効果封印'
+[[message]]
+key = 'TUTORIAL_400'
+old = 'レアアイテムの鑑定'
+[[message]]
+key = 'TUTORIAL_401'
+old = '黒呪の迷宮での装備'
+[[message]]
+key = 'TUTORIAL_402'
+old = '黒呪アイテムの持ち帰り'
+[[message]]
+key = 'TUTORIAL_403'
+old = '黒呪の迷宮を再び遊ぶ'
+[[message]]
+key = 'TUTORIAL_404'
+old = '冒険ガイド'
+[[message]]
+key = 'TUTORIAL_405'
+old = '霧の森の死闘'
+[[message]]
+key = 'TUTORIAL_406'
+old = '暗晦の炎　限界域'
+[[message]]
+key = 'TUTORIAL_407'
+old = '特定の条件で壊れる壁'
+[[message]]
+key = 'TUTORIAL_409'
+old = 'ポーンの新しい行動'
+[[message]]
+key = 'TUTORIAL_410'
+old = '■暗部を暴きし暗躍者　メフィス'
+[[message]]
+key = 'TUTORIAL_411'
+old = '　《尋問》とは'
+[[message]]
+key = 'TUTORIAL_412'
+old = '　《潜入調査》について'
+[[message]]
+key = 'TUTORIAL_413'
+old = '　《諜報活動》について'
+[[message]]
+key = 'TUTORIAL_414'
+old = '　《諜報活動》について：追記'
+[[message]]
+key = 'TUTORIAL_415'
+old = '　メガドでの極秘任務について'
+[[message]]
+key = 'TUTORIAL_416'
+old = '　《仲間》について'
+[[message]]
+key = 'TUTORIAL_418'
+old = '英霊の加護'
+[[message]]
+key = 'TUTORIAL_419'
+old = '火炎体の敵について'

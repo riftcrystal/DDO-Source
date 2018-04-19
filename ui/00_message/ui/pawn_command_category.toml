@@ -1,0 +1,12 @@
+﻿[[message]]
+key = 'pawn_command_category_640'
+old = '基本命令'
+[[message]]
+key = 'pawn_command_category_641'
+old = '詳細命令'
+[[message]]
+key = 'pawn_command_category_642'
+old = '属性指定命令'
+[[message]]
+key = 'pawn_command_category_643'
+old = '特殊命令'

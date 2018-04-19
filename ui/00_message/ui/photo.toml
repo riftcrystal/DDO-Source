@@ -1,0 +1,48 @@
+﻿[[message]]
+key = 'photo_guide_print'
+old = '撮影'
+[[message]]
+key = 'photo_guide_ploff'
+old = 'プレイヤーを非表示'
+[[message]]
+key = 'photo_guide_cam_move'
+old = 'カメラ移動'
+[[message]]
+key = 'photo_guide_cam_roll'
+old = 'カメラ回転'
+[[message]]
+key = 'photo_guide_zoomin'
+old = 'ズームイン'
+[[message]]
+key = 'photo_guide_zoomout'
+old = 'ズームアウト'
+[[message]]
+key = 'photo_guide_comm_sc'
+old = 'コミュニケーションショートカット'
+[[message]]
+key = 'photo_guide_album_num'
+old = 'アルバム保存枚数'
+[[message]]
+key = 'photo_guide_copy_right'
+old = '©CAPCOM CO., LTD. 2015 ALL RIGHTS RESERVED.'
+[[message]]
+key = 'photo_guide_title'
+old = "Dragon's Dogma Online_"
+[[message]]
+key = 'photo_frame_title_jp'
+old = 'Photo Frame'
+[[message]]
+key = 'photo_frame_title_en'
+old = 'フレーム選択'
+[[message]]
+key = 'photo_savedata_picture_album'
+old = "Dragon's Dogma Online"
+[[message]]
+key = 'photo_savedata_picture_name'
+old = "Dragon's Dogma Online Screen Shot"
+[[message]]
+key = 'photo_savedata_picture_info'
+old = "Dragon's Dogma Online で撮影したスクリーンショットです"
+[[message]]
+key = 'photo_guide_lookcamera'
+old = '注目'

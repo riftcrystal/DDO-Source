@@ -1,0 +1,855 @@
+﻿[[message]]
+key = 'CRAFT_MSG_TITLE01'
+old = 'Craft'
+[[message]]
+key = 'CRAFT_MSG_TITLE02'
+old = 'クラフト'
+[[message]]
+key = 'MENU_OPT_POINT_ASSIGN'
+old = 'クラフトステータス'
+[[message]]
+key = 'MENU_OPT_PRODUCT'
+old = 'アイテム生産'
+[[message]]
+key = 'MENU_OPT_UPGRADE'
+old = '装備の強化'
+[[message]]
+key = 'MENU_OPT_CREST'
+old = 'クレスト装備'
+[[message]]
+key = 'MENU_OPT_CHANGE_COLOR'
+old = 'カラー変更'
+[[message]]
+key = 'MENU_OPT_CRAFT_STATUS'
+old = 'アイテム作成状況'
+[[message]]
+key = 'TITLE_PAWN_STATUS'
+old = 'Pawn'
+[[message]]
+key = 'ROW_PAWN_NAME'
+old = '名前'
+[[message]]
+key = 'ROW_PAWN_STATUS'
+old = '状態'
+[[message]]
+key = 'PAWN_STATUS_STAND_BY'
+old = '待機'
+[[message]]
+key = 'PAWN_STATUS_WORKING'
+old = 'クラフト中'
+[[message]]
+key = 'PAWN_STATUS_COMPLETE'
+old = 'クラフト中（完成）'
+[[message]]
+key = 'PAWN_STATUS_PARTY'
+old = 'パーティー'
+[[message]]
+key = 'PAWN_STATUS_LOST'
+old = 'ロスト'
+[[message]]
+key = 'BUTTON_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'TITLE_ITEM_LIST'
+old = 'Item List'
+[[message]]
+key = 'TITLE_MAKE_ITEM'
+old = 'アイテム作成'
+[[message]]
+key = 'HEADING_MAKE_ITEM'
+old = '作成アイテム'
+[[message]]
+key = 'HEADING_CRAFT_MEMBER'
+old = 'クラフトメンバー'
+[[message]]
+key = 'HEADING_LEADER'
+old = 'リーダー'
+[[message]]
+key = 'HEADING_ASSISTANT'
+old = 'アシスタント'
+[[message]]
+key = 'HEADING_ADDITION'
+old = '精錬材'
+[[message]]
+key = 'BUTTON_START'
+old = '作成開始'
+[[message]]
+key = 'TITLE_PAWN_LIST'
+old = 'Pawn List'
+[[message]]
+key = 'TAB_MAIN'
+old = 'メイン'
+[[message]]
+key = 'TAB_SURPPORT'
+old = 'サポート'
+[[message]]
+key = 'ROW_NAME'
+old = 'Name'
+[[message]]
+key = 'ROW_CRAFT_LV'
+old = 'Craft LV.'
+[[message]]
+key = 'ROW_STATUS'
+old = 'Status'
+[[message]]
+key = 'ROW_LIMIT'
+old = 'Limit'
+[[message]]
+key = 'TITLE_TOTAL'
+old = 'Performance'
+[[message]]
+key = 'HEADING_SPEED'
+old = '生産作業スピード'
+[[message]]
+key = 'HEADING_TECHNOLOGY'
+old = '装備の強化技術'
+[[message]]
+key = 'HEADING_FLASH'
+old = '高品質装備の作成力'
+[[message]]
+key = 'HEADING_CAPACITY'
+old = '消耗品の生産数アップ'
+[[message]]
+key = 'HEADING_COST_PERFORMANCE'
+old = 'コストパフォーマンス'
+[[message]]
+key = 'TITLE_STATUS'
+old = 'Status'
+[[message]]
+key = 'CRAFT_TIME_INFINITY'
+old = '∞'
+[[message]]
+key = 'ROW_REQUIRED'
+old = '必要数'
+[[message]]
+key = 'HEADING_COST'
+old = '作業費用'
+[[message]]
+key = 'HEADING_TIME'
+old = '作業時間'
+[[message]]
+key = 'HEADING_XP'
+old = '取得経験値'
+[[message]]
+key = 'HEADING_NUMBER'
+old = '生産個数'
+[[message]]
+key = 'ROW_MATERIAL'
+old = '素材名'
+[[message]]
+key = 'DIALOG_CONFIRM_START'
+old = '''
+このアイテムを通常作成します
+よろしいですか？'''
+[[message]]
+key = 'DIALOG_START'
+old = 'アイテムの作成を開始しました'
+[[message]]
+key = 'TAB_WEAPON'
+old = '武器'
+[[message]]
+key = 'TAB_PROTECTOR'
+old = '防具'
+[[message]]
+key = 'BALLOON_LITTLE_LONGER'
+old = 'もう少しです'
+[[message]]
+key = 'GUIDE_PRODUCT'
+old = '作成するアイテムを選択してください'
+[[message]]
+key = 'GUIDE_UPGRADE'
+old = '強化する装備を選択してください'
+[[message]]
+key = 'GUIDE_CREST'
+old = 'クレスト装着する装備を選択してください'
+[[message]]
+key = 'GUIDE_CHANGE_COLOR'
+old = 'カラー変更する装備を選択してください'
+[[message]]
+key = 'TITLE_PROGRESS_LIST'
+old = 'Progress List'
+[[message]]
+key = 'TITLE_DETAIL'
+old = 'Details'
+[[message]]
+key = 'BALLOON_FINISH'
+old = 'できました！'
+[[message]]
+key = 'CATEGORY_ALL'
+old = 'すべて'
+[[message]]
+key = 'BUTTON_GET_ITEM_FOR_STORAGE'
+old = '保管ボックスに受け取る'
+[[message]]
+key = 'SUCCESS'
+old = 'Success!'
+[[message]]
+key = 'TITLE_RECEIPT'
+old = 'アイテムを作成しました'
+[[message]]
+key = 'BUTTON_GET_ITEM'
+old = '受け取る'
+[[message]]
+key = 'DIALOG_RECEIPT_SUCCESS'
+old = '<NAME ITEM>　<VAL>個を受け取りました'
+[[message]]
+key = 'DIALOG_GET_XP'
+old = '''
+クラフトを指揮していた<NAME PAWN>が
+クラフト経験値を<VAL XP>入手しました'''
+[[message]]
+key = 'HEADING_REMAIN'
+old = '残りポイント'
+[[message]]
+key = 'TITLE_POINT_ASSIGN'
+old = 'クラフトステータス'
+[[message]]
+key = 'DIALOG_BREAKUP'
+old = 'クラフトラインを解散しました'
+[[message]]
+key = 'DIALOG_CONFIRM_STOP'
+old = '''
+クラフトを中止しますか？
+<COL aa1414>※素材・費用・クラフト回数は消費されます</COL>'''
+[[message]]
+key = 'DIALOG_STOP'
+old = 'クラフトを中止しました'
+[[message]]
+key = 'ANNOUNCE_LV_UP'
+old = '''
+<NAME PAWN>のクラフトレベルが<VAL>になりました
+クラフトスキルポイントを<VAL>取得しました'''
+[[message]]
+key = 'DIALOG_CONFIRM_POINT_ASSIGN'
+old = 'ポイントの割り振りを行いますか？'
+[[message]]
+key = 'DIALOG_POINT_ASSIGN'
+old = 'ポイントの割り振りを行いました'
+[[message]]
+key = 'HEADING_REINFORCE_TARGET'
+old = '強化アイテム'
+[[message]]
+key = 'HEADING_REINFORCE_POINT'
+old = '強化ポイント'
+[[message]]
+key = 'BUTTON_REINFOECE'
+old = '強化'
+[[message]]
+key = 'DIALOG_CONFIRM_REINFORCE'
+old = 'このアイテムを強化しますか？'
+[[message]]
+key = 'TITLE_REINFORCE'
+old = 'アイテムを強化しました'
+[[message]]
+key = 'POPUP_GRADE_UP'
+old = 'Grade UP!'
+[[message]]
+key = 'HEADING_CREST_BREAK'
+old = 'Crest Break'
+[[message]]
+key = 'HEADING_CREST'
+old = 'Crest'
+[[message]]
+key = 'HEADING_CREST_EQUIP'
+old = 'Crest Equip'
+[[message]]
+key = 'BUTTON_EQUIP_CREST'
+old = 'クレスト装備'
+[[message]]
+key = 'HEADING_SLOT1'
+old = 'スロット１'
+[[message]]
+key = 'HEADING_SLOT2'
+old = 'スロット２'
+[[message]]
+key = 'HEADING_SLOT3'
+old = 'スロット３'
+[[message]]
+key = 'HEADING_SLOT4'
+old = 'スロット４'
+[[message]]
+key = 'GUIDE_SERECT_CREST'
+old = 'クレスト選択'
+[[message]]
+key = 'DIALOG_CONFIRM_SET_CREST'
+old = 'クレスト装備を行いますか？'
+[[message]]
+key = 'CREST_SET'
+old = 'Crest Set！'
+[[message]]
+key = 'TITLE_CREST_SET'
+old = 'クレストを装備しました'
+[[message]]
+key = 'DIALOG_CONFIRM_CREST_BREAK'
+old = '''
+選択したスロットのクレストを破壊します
+よろしいですか？'''
+[[message]]
+key = 'CREST_BREAK'
+old = 'Crest Break!'
+[[message]]
+key = 'TITLE_CREST_BREAK'
+old = 'クレストを破壊しました'
+[[message]]
+key = 'HEADING_CURRENT_COLOR'
+old = '現在のカラー'
+[[message]]
+key = 'HEADING_DYES'
+old = '染料'
+[[message]]
+key = 'HEADING_CHANGE_COLOR'
+old = '変更するカラー'
+[[message]]
+key = 'BUTTON_CHANGE_COLOR'
+old = 'カラー変更'
+[[message]]
+key = 'DIALOG_CONFIRM_CHANGE_COLOR'
+old = 'カラー変更を行いますか？'
+[[message]]
+key = 'CHANGE_COLOR'
+old = 'Color Change!'
+[[message]]
+key = 'TITLE_CHANGE_COLOR'
+old = 'カラーを変更しました'
+[[message]]
+key = 'TITLE_REMOVES_PARTY'
+old = '''
+選択したポーンはクラフト作業を行うため
+パーティーを離脱しますがよろしいですか？
+
+<COL aa1414>※パーティーからメインポーンがいなくなると
+　サポートポーンも自動的に離脱します</COL>'''
+[[message]]
+key = 'TITLE_REMOVES_PARTY_FAILURE'
+old = 'パーティーからの離脱に失敗しました'
+[[message]]
+key = 'TITLE_RECEIPT_FAILURE'
+old = 'アイテム作成に失敗しました'
+[[message]]
+key = 'TITLE_EMPTY_ITEM_PLACE'
+old = '装備強化する場合は、アイテムバッグの素材枠に空き枠を作ってください'
+[[message]]
+key = 'TITLE_REINFORCE_FAILURE'
+old = '装備の強化に失敗しました'
+[[message]]
+key = 'DIALOG_GET_ARMS_POINT'
+old = '''
+装備強化ポイントが<VAL 0>アップしました
+現在の装備強化ポイントは<VAL 1>です'''
+[[message]]
+key = 'TITLE_REQUEST_FAILURE'
+old = 'リクエストに失敗しました'
+[[message]]
+key = 'DIALOG_GET_GRADE_UP'
+old = 'グレードアップしました'
+[[message]]
+key = 'DIALOG_CRAFT_LV_UP'
+old = 'クラフトを指揮していた<NAME PAWN>のクラフトレベルが<VAL 0>になった'
+[[message]]
+key = 'TAB_UNOPENED'
+old = '未解放'
+[[message]]
+key = 'TITLE_MONEY_INSUFFICIENT'
+old = '所持金が足りません'
+[[message]]
+key = 'TITLE_EQUIP_CREST_FAILURE'
+old = 'クレスト装着に失敗しました'
+[[message]]
+key = 'TITLE_BREAK_CREST_FAILURE'
+old = 'クレスト破棄に失敗しました'
+[[message]]
+key = 'TITLE_EQUIP_CREST_SUCCESS'
+old = 'クレスト装着に成功しました'
+[[message]]
+key = 'TITLE_BREAK_CREST_SUCCESS'
+old = 'クレスト破棄に成功しました'
+[[message]]
+key = 'TITLE_CHANGE_COLOR_FAILURE'
+old = 'カラー変更に失敗しました'
+[[message]]
+key = 'TITLE_CHANGE_COLOR_SUCCESS'
+old = 'カラー変更に成功しました'
+[[message]]
+key = 'TITLE_PAWN_INFO_FAILURE'
+old = '詳細情報取得に失敗しました'
+[[message]]
+key = 'DIALOG_POINT_ASSIGN_FAILURE'
+old = 'クラフトポイントの割り振りに失敗しました'
+[[message]]
+key = 'TITLE_CRAFT_INFO_FAILURE'
+old = 'クラフト状況取得に失敗しました'
+[[message]]
+key = 'TITLE_RECEIPT_SUCCESS'
+old = '<VAL 0> x <VAL 1>個 が完成しました'
+[[message]]
+key = 'TITLE_ITEM_INFO_FAILURE'
+old = 'クラフト完成品情報取得に失敗しました'
+[[message]]
+key = 'TITLE_CRAFT_STOP_FAILURE'
+old = 'クラフト中止に失敗しました'
+[[message]]
+key = 'DIALOG_RECEIPT_FAILURE'
+old = 'アイテム受け取りに失敗しました'
+[[message]]
+key = 'TITLE_ARRANGEMENT_ITEM'
+old = '''
+アイテムバッグ、保管ボックスがいっぱいのため
+受け取ることができません
+
+作成アイテム：<VAL> × <VAL>'''
+[[message]]
+key = 'TITLE_GET_ITEM'
+old = 'アイテムを受け取りますか？'
+[[message]]
+key = 'TITLE_GET_NO_ITEM'
+old = '受け取れるアイテムはありません'
+[[message]]
+key = 'MENU_SITUATION'
+old = '状況確認'
+[[message]]
+key = 'HEADING_NEED_ITEM'
+old = '必要素材 <VAL 0> x <VAL 1>'
+[[message]]
+key = 'HEADING_COST_BASE'
+old = '基準作成費用<VAL 0>'
+[[message]]
+key = 'HEADING_COST_CUT'
+old = '補正後作成費用<VAL 0>'
+[[message]]
+key = 'REMAINING_MAKE_TIME_MINUTE'
+old = '<VAL>m'
+[[message]]
+key = 'TAB_MATERIAL_ITEM'
+old = '素材'
+[[message]]
+key = 'TAB_USE_ITEM'
+old = '消耗品'
+[[message]]
+key = 'GUIDE_SELECT_ADD_ITEM'
+old = '追加する素材を選択してください'
+[[message]]
+key = 'ROW_HAVE'
+old = 'Storage'
+[[message]]
+key = 'GUIDE_SELECT_COLOR_ITEM'
+old = '使用する染料を選択してください'
+[[message]]
+key = 'CRAFT_LEVEL_VAL'
+old = '<VAL>'
+[[message]]
+key = 'CRAFT_BUTTON_COMPLETE'
+old = '完了'
+[[message]]
+key = 'NOTICE_GRADE_MAX'
+old = '''
+グレードがアップしました！
+カラー変更ができるようになりました'''
+[[message]]
+key = 'CRAFT_BUTTON_EXAM_BEGIN'
+old = '受領'
+[[message]]
+key = 'ROW_POINT'
+old = 'Point'
+[[message]]
+key = 'ORDER_HEADER_CRAFT_ITEM'
+old = 'Craft Item'
+[[message]]
+key = 'ORDER_HEADER_CRAFT_MEMBER'
+old = 'Craft Members'
+[[message]]
+key = 'ORDER_HEADER_ADD_ITEM'
+old = 'Additional Materials'
+[[message]]
+key = 'HEADING_CUSTOMIZE_TARGET'
+old = 'アイテム'
+[[message]]
+key = 'HEADING_CUSTOMIZE_PAWN'
+old = 'クラフトポーン'
+[[message]]
+key = 'HEADING_CREST_ITEM'
+old = 'Equip Crest'
+[[message]]
+key = 'HEADING_COLOR_ITEM'
+old = 'Color Item'
+[[message]]
+key = 'ROW_PROGRESS'
+old = 'Progress'
+[[message]]
+key = 'ROW_MAKE_ITEM'
+old = 'Item'
+[[message]]
+key = 'CRAFT_VAL_NONE'
+old = 'なし'
+[[message]]
+key = 'CRAFT_PLUS_VAL'
+old = '<VAL PLUS>'
+[[message]]
+key = 'GUIDE_SELECT_LEADER_PAWN'
+old = 'リーダーをメインポーンから選択してください'
+[[message]]
+key = 'GUIDE_SELECT_ASSISTANT_PAWN'
+old = 'アシスタントを選択してください'
+[[message]]
+key = 'GUIDE_SELECT_ADD_POINT_PAWN'
+old = 'ポイントを割り振るポーンを選択してください'
+[[message]]
+key = 'EXAM_RECEIPE_TITLE'
+old = '昇格試験レシピ'
+[[message]]
+key = 'EXAM_RESULT_PARAM'
+old = '昇格結果'
+[[message]]
+key = 'CRAFT_DETAIL_ITEM_RANK'
+old = 'Item Rank'
+[[message]]
+key = 'CRAFT_DETAIL_XP_VAL'
+old = '<VAL>/<VAL>'
+[[message]]
+key = 'CRAFT_DETAIL_BAZAAR'
+old = 'バザー'
+[[message]]
+key = 'CRAFT_DETAIL_ENABLE_CREST'
+old = '装着可能'
+[[message]]
+key = 'ROW_LIST_CATEGORY'
+old = 'Category'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_HP'
+old = '体力回復'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_ST'
+old = 'スタミナ回復'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_REPAIR'
+old = '状態異常解消'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_ENCHANT'
+old = '能力上昇'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_THROW'
+old = '投擲道具'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_KEY'
+old = '鍵・採集・探索'
+[[message]]
+key = 'RECIPE_CATE_USE_ITEM_JOB'
+old = 'ジョブ専用道具'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_INGOT'
+old = 'インゴット'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_CLOTH'
+old = '布'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_THREAD'
+old = '糸'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_SCROLL'
+old = 'スクロール'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_STRENGTH_WEP'
+old = '精錬材（武器）'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_STRENGTH_ARMOR'
+old = '精錬材（防具）'
+[[message]]
+key = 'ROW_MAKE'
+old = 'Made'
+[[message]]
+key = 'CRAFT_NUM_CLASS_S'
+old = 'S級'
+[[message]]
+key = 'CRAFT_NUM_CRAFTLV'
+old = 'クラフトレベル<VAL>'
+[[message]]
+key = 'CRAFT_OVERUP_CRAFTLV'
+old = 'クラフトレベルの上限アップ'
+[[message]]
+key = 'CRAFT_SET_ASSISTANT'
+old = 'アシスタントの設定人数'
+[[message]]
+key = 'CRAFT_NUM_TO_NUM'
+old = '（<VAL>→<VAL>）'
+[[message]]
+key = 'CRAFT_NUM_CLASS_D'
+old = 'D級'
+[[message]]
+key = 'CRAFT_NUM_CLASS_A'
+old = 'A級'
+[[message]]
+key = 'CRAFT_NUM_CLASS_B'
+old = 'B級'
+[[message]]
+key = 'CRAFT_NUM_CLASS_C'
+old = 'C級'
+[[message]]
+key = 'CRAFT_UPGRADE_EQUIP_NOTHING'
+old = '強化できる装備がありません'
+[[message]]
+key = 'CRAFT_COLOR_EQUIP_NOTHING'
+old = 'カラー変更できる装備がありません'
+[[message]]
+key = 'CRAFT_CREST_EQUIP_NOTHING'
+old = 'クレスト装着できる装備がありません'
+[[message]]
+key = 'CRAFT_MATERIAL_NOTHING'
+old = '使用できる素材がありません'
+[[message]]
+key = 'CRAFT_COLOR_ITEM_NOTHING'
+old = '使用できる染料がありません'
+[[message]]
+key = 'CRAFT_PAWN_NO_ONE'
+old = 'ポーンを雇っていません'
+[[message]]
+key = 'CRAFT_MAKE_ITEM_NOTHING'
+old = '作成できるアイテムがありません'
+[[message]]
+key = 'CRAFT_MAKING_NOTHING'
+old = '作成中のアイテムはありません'
+[[message]]
+key = 'CRAFT_BTGUID_DISPAWN'
+old = 'ポーンをはずす'
+[[message]]
+key = 'CRAFT_BTGUID_DISMATERIAL'
+old = '精錬材をはずす'
+[[message]]
+key = 'CRAFT_BTGUID_DISCREST'
+old = 'クレストを戻す'
+[[message]]
+key = 'CRAFT_MAKING_CONTINUE'
+old = '同じ装備アイテムを強化しますか？'
+[[message]]
+key = 'CRAFT_FINISHED'
+old = 'クラフト完了'
+[[message]]
+key = 'REMAINING_MAKE_TIME_HOUR'
+old = '<VAL>h'
+[[message]]
+key = 'TAB_CLASS_UP_EXAM'
+old = '特殊'
+[[message]]
+key = 'CATEGORY_CLASS_UP_EXAM'
+old = '昇格試験'
+[[message]]
+key = 'MSG_NO_CLASS_UP_EXAM'
+old = '昇格試験がありません'
+[[message]]
+key = 'GUIDE_MSG_CHARACTER_CHANGE'
+old = '試着切り替え'
+[[message]]
+key = 'TITLE_MSG_CHARACTER_CHANGE'
+old = 'キャラクターを選択してください'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_OTHER'
+old = 'その他'
+[[message]]
+key = 'DIALOG_GET_XP_EX'
+old = '''
+クラフトを指揮していた<NAME PAWN>が
+クラフト経験値を<VAL> (+<VAL>) <UNIT XP>入手しました'''
+[[message]]
+key = 'EX_CHARGE_UNIT'
+old = ' (+<VAL>)'
+[[message]]
+key = 'COLOR_CHANGE_DISABLE'
+old = 'このアイテムはカラー変更できません'
+[[message]]
+key = 'CATEGORY_FURNITURE'
+old = '家具'
+[[message]]
+key = 'CRAFT_FURNITURE_NOTHING'
+old = '家具レシピがありません'
+[[message]]
+key = 'ERROR_CANT_MAKE_FURNITURE'
+old = '作成済み、または作成中の家具は選択できません'
+[[message]]
+key = 'DIALOG_USE_FUNITURE_GUIDE'
+old = '''
+受け取った家具アイテムは
+覚者の自室で配置することができます'''
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_AREA'
+old = '地域素材'
+[[message]]
+key = 'DIALOG_CONFIRM_CHOICE_CREATION_TYPE'
+old = '作成方法を選んでください'
+[[message]]
+key = 'DIALOG_CONFIRM_TYPE_START'
+old = '通常作成'
+[[message]]
+key = 'DIALOG_CONFIRM_TYPE_EX_CREATE'
+old = '黄金石を使用して作成（即時完成）'
+[[message]]
+key = 'DIALOG_CONFIRM_EX_CREATE'
+old = '''
+アイテムの作成がその場で完了します
+<COL ffdc78>黄金石<VAL>個</COL>を消費して作成しますか？
+(所持数：<VAL>)'''
+[[message]]
+key = 'DIALOG_EX_CREATE'
+old = 'アイテムの作成が完了しました'
+[[message]]
+key = 'DIALOG_CONFIRM_EX_CREATE_ERROR'
+old = '''
+黄金石が不足しています
+その場で作成完了するには<COL ffdc78>黄金石<VAL>個</COL>が必要です
+(所持数：<VAL>)'''
+[[message]]
+key = 'DIALOG_CONFIRM_TYPE_JUMP_ONLINESHOP'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'DIALOG_CONFIRM_CHOICE_STOP_TYPE'
+old = 'まだアイテム作成が完了していません'
+[[message]]
+key = 'DIALOG_CONFIRM_TYPE_STOP'
+old = 'アイテム生産を中止'
+[[message]]
+key = 'ANALYZE_RESULT'
+old = '分析結果（概算）'
+[[message]]
+key = 'ANALYZE_SPEED'
+old = '作業時間<VAL>%OFF'
+[[message]]
+key = 'ANALYZE_UPGRADE'
+old = '<VAL>～<VAL>pt'
+[[message]]
+key = 'ANALYZE_GREAT_SUCCESS'
+old = '大成功率<VAL>%'
+[[message]]
+key = 'ANALYZE_INCREASE'
+old = '<VAL>%の確率で+<VAL>個'
+[[message]]
+key = 'ANALYZE_COST_CUT'
+old = '費用<VAL>%OFF'
+[[message]]
+key = 'ANALYZE_ALWAYS_GREAT_SUCCESS'
+old = '高品質装備の作成が、特定条件で必ず大成功'
+[[message]]
+key = 'ANALYZE_ALWAYS_INCREASE'
+old = '消耗品の生産が必ず大成功'
+[[message]]
+key = 'ANALYZE_COST_CUT_MUCH'
+old = 'コストパフォーマンスの効果アップ'
+[[message]]
+key = 'CREATE_TIMES_WARNING'
+old = '※最大<VAL>回 (クラフト回数を消費します)'
+[[message]]
+key = 'HEADING_CREATE_TIMES'
+old = '生産回数'
+[[message]]
+key = 'ANALYZE_BUTTON'
+old = 'パフォーマンス分析'
+[[message]]
+key = 'ERROR_SHORTAGE_MATERIAL'
+old = '素材が足りません'
+[[message]]
+key = 'ERROR_SHORTAGE_MONEY'
+old = '所持金が足りません'
+[[message]]
+key = 'ERROR_SHORTAGE_CRAFT_NUM'
+old = 'アシスタントの残りクラフト回数が足りません'
+[[message]]
+key = 'ITEM_CREATE_TIMES'
+old = '×<VAL>回'
+[[message]]
+key = 'ERROR_CREST_CANNOT_BREAK'
+old = 'このクレストは破壊できません'
+[[message]]
+key = 'PERFORMANCE_NO_EFFECT'
+old = '効果なし'
+[[message]]
+key = 'BT_CHECK_CHEST'
+old = '格納チェストを参照'
+[[message]]
+key = 'DIALOG_CHECKING_CHEST'
+old = '格納チェストを参照しています'
+[[message]]
+key = 'ANNOUNCE_CHECK_NG_CHEST'
+old = '格納チェストの参照は＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'TAB_SPECIAL'
+old = '一時レンタル'
+[[message]]
+key = 'DIALOG_CONFIRM_GP_CREATE'
+old = '''
+以下の機能を利用しているため、このアイテムを
+作成するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です
+よろしいですか？
+(所持数：<VAL>)'''
+[[message]]
+key = 'DIALOG_CONFIRM_GP_REINFORCE'
+old = '''
+以下の機能を利用しているため、このアイテムを
+強化するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です
+よろしいですか？
+(所持数：<VAL>)'''
+[[message]]
+key = 'DIALOG_CONFIRM_GP_LACK_ERROR'
+old = '''
+黄金石が不足しています
+(所持数：<VAL>)'''
+[[message]]
+key = 'HEADING_TIME_TO_MANDRA'
+old = '育成時間'
+[[message]]
+key = 'HEADING_ADD_STATUS'
+old = '追加ステータス'
+[[message]]
+key = 'ROW_LIST'
+old = 'リスト'
+[[message]]
+key = 'GUIDE_SELECT_ADD_STATUS'
+old = '追加するステータスを選択してください'
+[[message]]
+key = 'CRAFT_BTGUID_DISADDSTATUS'
+old = '追加ステータスをはずす'
+[[message]]
+key = 'RECIPE_CATE_MATERIAL_ADD_STATUS'
+old = '特質錬石'
+[[message]]
+key = 'HEADING_ADD_STATUS2'
+old = 'Add Status'
+[[message]]
+key = 'HEADING_MATERIALS_CHANGE'
+old = 'Materials Change'
+[[message]]
+key = 'GUIDE_MATERIALS_CHANGE'
+old = '品質変更する装備を選択してください'
+[[message]]
+key = 'ERROR_MATERIALS_CHANGE_001'
+old = 'このアイテムは品質変更できません'
+[[message]]
+key = 'CRAFT_MATERIALS_CHANGE_NOTHING'
+old = '品質変更できる装備がありません'
+[[message]]
+key = 'ERROR_MATERIALS_CHANGE_002'
+old = '''
+品質が現状維持のまま、もしくは
+低下する可能性があるため使用できません'''
+[[message]]
+key = 'BUTTON_MATERIALS_CHANGE'
+old = '変更'
+[[message]]
+key = 'DIALOG_CONFIRM_MATERIALS_CHANGE'
+old = '''
+このアイテムを品質変更しますか？
+
+作業費用　：<VAL G>
+取得経験値：<VAL XP>'''
+[[message]]
+key = 'DIALOG_CONFIRM_GP_MATERIALS_CHANGE'
+old = '''
+以下の機能を利用しているため、このアイテムを
+品質変更するには、<COL ffdc78>黄金石<VAL>個</COL>が必要です
+よろしいですか？
+(所持数：<VAL>)'''
+[[message]]
+key = 'TITLE_MATERIALS_CHANGE'
+old = 'アイテムを品質変更しました'
+[[message]]
+key = 'DIALOG_CONFIRM_MATERIALS_CHANGE_EX'
+old = '''
+このアイテムを品質変更しますか？
+
+作業費用　：<VAL G>
+取得経験値：<VAL> (+<VAL>) <UNIT XP>'''

@@ -1,0 +1,18 @@
+﻿[[message]]
+key = 'SPOT_CATEGORY_1'
+old = 'エリア概要'
+[[message]]
+key = 'SPOT_CATEGORY_2'
+old = '拠点・施設スポット'
+[[message]]
+key = 'SPOT_CATEGORY_3'
+old = '魔物警戒スポット'
+[[message]]
+key = 'SPOT_CATEGORY_4'
+old = '冒険スポット'
+[[message]]
+key = 'SPOT_CATEGORY_5'
+old = '魔物集結スポット'
+[[message]]
+key = 'SPOT_CATEGORY_6'
+old = '期間解放スポット'

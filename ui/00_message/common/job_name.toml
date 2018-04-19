@@ -1,0 +1,36 @@
+﻿[[message]]
+key = 'JOB_NAME_0'
+old = '指定なし'
+[[message]]
+key = 'JOB_NAME_1'
+old = 'ファイター'
+[[message]]
+key = 'JOB_NAME_2'
+old = 'シーカー'
+[[message]]
+key = 'JOB_NAME_3'
+old = 'ハンター'
+[[message]]
+key = 'JOB_NAME_4'
+old = 'プリースト'
+[[message]]
+key = 'JOB_NAME_5'
+old = 'シールドセージ'
+[[message]]
+key = 'JOB_NAME_6'
+old = 'ソーサラー'
+[[message]]
+key = 'JOB_NAME_7'
+old = 'ウォリアー'
+[[message]]
+key = 'JOB_NAME_8'
+old = 'エレメントアーチャー'
+[[message]]
+key = 'JOB_NAME_9'
+old = 'アルケミスト'
+[[message]]
+key = 'JOB_NAME_10'
+old = 'スピリットランサー'
+[[message]]
+key = 'JOB_NAME_11'
+old = 'ハイセプター'

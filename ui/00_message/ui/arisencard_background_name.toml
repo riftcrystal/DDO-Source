@@ -1,0 +1,168 @@
+﻿[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_1'
+old = 'ノーマルホワイト'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_2'
+old = 'ノーマルレッド'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_3'
+old = 'ノーマルグリーン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_4'
+old = 'ノーマルブルー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_5'
+old = 'ノーマルブラウン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_6'
+old = 'ダークマーブル'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_7'
+old = 'オールドスクロール'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_8'
+old = 'ファイヤー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_9'
+old = 'セフィロトツリー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_10'
+old = 'ドラゴン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_11'
+old = 'アルカナ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_12'
+old = 'シーリングワックス'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_13'
+old = 'ロイヤルティ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_14'
+old = 'シック'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_15'
+old = '紋章'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_16'
+old = 'リーガルブルー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_17'
+old = 'レスタニア全土'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_18'
+old = 'オペラカーテン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_19'
+old = '石畳'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_20'
+old = 'チョコレート'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_21'
+old = 'ブック'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_22'
+old = '白竜シンボル'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_23'
+old = 'アーガイル'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_24'
+old = 'モンスターズ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_25'
+old = 'マリン・ノート'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_26'
+old = 'エレガント'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_27'
+old = 'スティグマ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_28'
+old = 'スポットライト'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_29'
+old = 'ウッドボード'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_30'
+old = 'オベリスク'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_31'
+old = '神殿'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_32'
+old = 'ゲート'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_33'
+old = '燐光虫'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_34'
+old = 'サマー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_35'
+old = 'トリック・オア・トリート'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_36'
+old = 'カラフルエッグ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_37'
+old = '知識の木'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_38'
+old = 'アンティークパターン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_39'
+old = 'ウッドテクスチャ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_40'
+old = 'ステンドグラス'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_41'
+old = 'ウェーブストライプ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_42'
+old = 'ピンクフラワー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_43'
+old = 'クラシックフラワー'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_44'
+old = 'ゴールドダマスク'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_45'
+old = 'アンティークウッドフレーム'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_46'
+old = 'リム石碑'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_47'
+old = 'レリーフ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_48'
+old = '格子柄'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_49'
+old = 'モノグラム'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_50'
+old = 'オールドストライプ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_51'
+old = 'アーバン'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_52'
+old = 'アンティーク'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_53'
+old = 'キューブ'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_54'
+old = 'ロイヤル'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_55'
+old = 'エピック'
+[[message]]
+key = 'ARISENCARD_BACKGROUND_NAME_56'
+old = 'レジェンタリー'

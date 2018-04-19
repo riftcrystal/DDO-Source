@@ -1,0 +1,33 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_NAME_01_4'
+old = '連撃'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_5'
+old = '強連撃'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_13'
+old = '斬り崩し'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_14'
+old = '強斬り崩し'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_18'
+old = '跳び斬り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_19'
+old = '兜割り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_15'
+old = 'ガード'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_16'
+old = '盾弾き'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_17'
+old = '連係投げ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_22'
+old = '受け身'
+[[message]]
+key = 'NORMAL_SKILL_NAME_01_23'
+old = 'えぐり突き'

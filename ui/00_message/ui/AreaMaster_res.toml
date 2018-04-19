@@ -1,0 +1,211 @@
+﻿[[message]]
+key = 'areamaster_msg_rank'
+old = 'Rank'
+[[message]]
+key = 'areamaster_msg_questhint_e'
+old = 'Quest Hint'
+[[message]]
+key = 'areamaster_msg_questhint_j'
+old = 'クエストヒント'
+[[message]]
+key = 'areamaster_msg_abstraction'
+old = '概要'
+[[message]]
+key = 'areamaster_msg_reward'
+old = '報酬'
+[[message]]
+key = 'areamaster_msg_bought'
+old = '購入済み'
+[[message]]
+key = 'areamaster_msg_recommend'
+old = '推奨'
+[[message]]
+key = 'areamaster_msg_masking'
+old = '？？？'
+[[message]]
+key = 'areamaster_msg_mainreward'
+old = 'メイン報酬'
+[[message]]
+key = 'areamaster_msg_clearbonus'
+old = 'クリアボーナス'
+[[message]]
+key = 'areamaster_msg_price'
+old = '情報料金'
+[[message]]
+key = 'areamaster_msg_button_buy'
+old = '情報購入'
+[[message]]
+key = 'areamaster_msg_dialog_buy'
+old = '''
+<VAL GOLD>を消費して<NAME QUEST>のクエスト情報を購入します
+よろしいですか？'''
+[[message]]
+key = 'areamaster_msg_title_e'
+old = 'Area Status'
+[[message]]
+key = 'areamaster_msg_spot_info'
+old = 'スポット情報'
+[[message]]
+key = 'areamaster_msg_populator'
+old = '入手可能アイテム'
+[[message]]
+key = 'areamaster_msg_title_j'
+old = 'エリア説明'
+[[message]]
+key = 'areamaster_msg_areacontribution_e'
+old = 'エリア名声度'
+[[message]]
+key = 'areamaster_msg_areacontribution_j'
+old = 'Area Reputation '
+[[message]]
+key = 'areamaster_msg_rankbonus'
+old = 'ランクボーナス'
+[[message]]
+key = 'areamaster_msg_contribution'
+old = '名声度'
+[[message]]
+key = 'areamaster_msg_next'
+old = '次のランクアップまで'
+[[message]]
+key = 'areamaster_msg_ap_thisweek'
+old = '今週のポイント'
+[[message]]
+key = 'areamaster_msg_weekly'
+old = 'Weekly'
+[[message]]
+key = 'areamaster_msg_last_week'
+old = '先週'
+[[message]]
+key = 'areamaster_msg_this_week'
+old = '今週'
+[[message]]
+key = 'areamaster_msg_bonus_point'
+old = 'Bonus Point'
+[[message]]
+key = 'areamaster_msg_limited_bonus'
+old = '期間限定ボーナス'
+[[message]]
+key = 'areamaster_msg_target'
+old = 'Target'
+[[message]]
+key = 'areamaster_msg_point'
+old = 'Point'
+[[message]]
+key = 'areamaster_msg_clear'
+old = 'Clear'
+[[message]]
+key = 'areamaster_msg_total'
+old = 'Total'
+[[message]]
+key = 'areamaster_msg_bonus'
+old = 'Bonus'
+[[message]]
+key = 'areamaster_msg_map_title'
+old = 'Area Map'
+[[message]]
+key = 'areamaster_msg_equal'
+old = '＝'
+[[message]]
+key = 'areamaster_msg_mul'
+old = '×'
+[[message]]
+key = 'areamaster_msg_area_point_title'
+old = 'エリア名声度：<NAME AREA_NAME>'
+[[message]]
+key = 'areamaster_msg_checkmap'
+old = '地図で確認'
+[[message]]
+key = 'areamaster_msg_mergodahint'
+old = '''
+「マップ」から
+「亡都メルゴダ　下層」「亡都メルゴダ　王宮層」の
+マップが確認できるようになりました
+エリアマスターから知りえるワールドクエスト情報
+および、スポット情報の確認に利用しましょう'''
+[[message]]
+key = 'areamaster_msg_spotmask'
+old = '？？？？？'
+[[message]]
+key = 'areamaster_msg_detectedquest'
+old = '公開クエスト'
+[[message]]
+key = 'areamaster_msg_undetectedquest'
+old = '未公開クエスト'
+[[message]]
+key = 'areamaster_msg_no_watch'
+old = '今のところ警戒情報はない'
+[[message]]
+key = 'areamaster_msg_close'
+old = '現在は封鎖されている'
+[[message]]
+key = 'areamaster_msg_gold'
+old = '<VAL GOLD>'
+[[message]]
+key = 'areamaster_msg_rim'
+old = '<VAL RIM>'
+[[message]]
+key = 'areamaster_msg_xp'
+old = '<VAL XP>'
+[[message]]
+key = 'areamaster_msg_disable_koukendo'
+old = 'パーティーリーダーしか閲覧できません'
+[[message]]
+key = 'areamaster_msg_blank'
+old = '-'
+[[message]]
+key = 'areamaster_msg_tab_rewardlist'
+old = '支援品　一覧'
+[[message]]
+key = 'areamaster_msg_tab_bonus'
+old = '名声度'
+[[message]]
+key = 'areamaster_msg_point_first'
+old = '<VAL> <UNIT AP> ～'
+[[message]]
+key = 'areamaster_msg_point_end'
+old = '～ <VAL> <UNIT AP>'
+[[message]]
+key = 'areamaster_msg_point_bet'
+old = '<VAL> <UNIT AP> ～ <VAL> <UNIT AP>'
+[[message]]
+key = 'areamaster_msg_area_trial'
+old = '特殊条件'
+[[message]]
+key = 'areamaster_msg_item_num'
+old = ' × <VAL>'
+[[message]]
+key = 'areamaster_msg_header_recommend_level'
+old = '推奨レベル'
+[[message]]
+key = 'areamaster_msg_header_spot'
+old = 'スポット'
+[[message]]
+key = 'areamaster_msg_header_item_rank'
+old = '入手IR'
+[[message]]
+key = 'areamaster_msg_header_hot_spot'
+old = 'ホットスポット'
+[[message]]
+key = 'areamaster_msg_header_expedition_num'
+old = '派遣数'
+[[message]]
+key = 'areamaster_msg_spot_open'
+old = '<COL ffdc78>現在開放中！</COL>閉鎖まで'
+[[message]]
+key = 'areamaster_msg_spot_close'
+old = '現在は開放されていません。開放まで'
+[[message]]
+key = 'areamaster_msg_release_condition'
+old = '解放条件'
+[[message]]
+key = 'areamaster_msg_release_rank'
+old = 'エリアランク<VAL>に到達'
+[[message]]
+key = 'areamaster_msg_release_personal_quest'
+old = 'クエスト＜<VAL>＞を進行、またはクリア'
+[[message]]
+key = 'areamaster_msg_release_limited'
+old = '特定の時間帯にのみ開放'
+[[message]]
+key = 'areamaster_msg_hot_growth_spot'
+old = '<COL ffdc78>スポットボス</COL>出現中！'

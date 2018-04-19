@@ -1,0 +1,126 @@
+﻿[[message]]
+key = 'CLAN_PROFILE_MOTTO_001'
+old = '自由がモットーです'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_002'
+old = '初心者にやさしく教えます'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_003'
+old = 'メンバーを大切にします'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_004'
+old = 'エンドコンテンツで遊びます'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_005'
+old = '経験者募集'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_006'
+old = 'クラフトを頑張ります'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_007'
+old = 'モットー予備'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_008'
+old = 'モットー予備'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_009'
+old = 'モットー予備'
+[[message]]
+key = 'CLAN_PROFILE_MOTTO_010'
+old = 'モットー予備'
+[[message]]
+key = 'CLAN_PROFILE_DAY_001'
+old = '毎日'
+[[message]]
+key = 'CLAN_PROFILE_DAY_002'
+old = '平日'
+[[message]]
+key = 'CLAN_PROFILE_DAY_003'
+old = '週末'
+[[message]]
+key = 'CLAN_PROFILE_DAY_004'
+old = '休日'
+[[message]]
+key = 'CLAN_PROFILE_HOUR_001'
+old = 'いつでも'
+[[message]]
+key = 'CLAN_PROFILE_HOUR_002'
+old = '朝方中心プレイ'
+[[message]]
+key = 'CLAN_PROFILE_HOUR_003'
+old = '昼型中心プレイ'
+[[message]]
+key = 'CLAN_PROFILE_HOUR_004'
+old = '夜型中心プレイ'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_001'
+old = 'だれでも歓迎'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_002'
+old = '初心者歓迎'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_003'
+old = '熟練者歓迎'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_004'
+old = 'まったり遊ぼう'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_005'
+old = 'クラン集会あります'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_006'
+old = 'なりきりプレイ'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_007'
+old = '雑談大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_008'
+old = 'チャット不要'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_009'
+old = 'バトル大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_010'
+old = 'お金大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_011'
+old = 'シナリオ大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_012'
+old = 'クラフト大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_013'
+old = 'ランキング大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_014'
+old = 'クエスト攻略大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_015'
+old = 'ミッション攻略大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_016'
+old = 'ポーン育成大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_017'
+old = 'アチーブ大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_018'
+old = 'レベルあげ大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_019'
+old = 'レア素材大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_020'
+old = 'オーブエネミーを倒す'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_021'
+old = 'クラン拠点あります'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_022'
+old = 'ポーン遠征隊で遊ぼう'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_023'
+old = 'クランダンジョン大好き'
+[[message]]
+key = 'CLAN_PROFILE_FEATURE_024'
+old = '特徴予備'

@@ -1,0 +1,2175 @@
+﻿[[message]]
+key = 'SPOT_NAME_450'
+old = '白竜神殿レーゼ'
+[[message]]
+key = 'SPOT_NAME_451'
+old = 'テル'
+[[message]]
+key = 'SPOT_NAME_452'
+old = 'ローテス'
+[[message]]
+key = 'SPOT_NAME_453'
+old = 'リンウッド'
+[[message]]
+key = 'SPOT_NAME_454'
+old = 'ジンゲン'
+[[message]]
+key = 'SPOT_NAME_455'
+old = 'キノザ'
+[[message]]
+key = 'SPOT_NAME_456'
+old = 'ホボリック洞穴'
+[[message]]
+key = 'SPOT_NAME_457'
+old = 'ドラワン'
+[[message]]
+key = 'SPOT_NAME_458'
+old = 'ゾマ'
+[[message]]
+key = 'SPOT_NAME_459'
+old = 'メルゴダ居住区'
+[[message]]
+key = 'SPOT_NAME_460'
+old = 'ハイデル平原'
+[[message]]
+key = 'SPOT_NAME_461'
+old = 'ブリア海岸'
+[[message]]
+key = 'SPOT_NAME_462'
+old = 'バートランド平原'
+[[message]]
+key = 'SPOT_NAME_463'
+old = 'ダウ渓谷'
+[[message]]
+key = 'SPOT_NAME_464'
+old = 'ボルド鉱山'
+[[message]]
+key = 'SPOT_NAME_465'
+old = 'ミスリウ森林'
+[[message]]
+key = 'SPOT_NAME_466'
+old = 'ミスリウ森林深部'
+[[message]]
+key = 'SPOT_NAME_467'
+old = 'バートランド平原北部'
+[[message]]
+key = 'SPOT_NAME_468'
+old = 'ザンドラ東部'
+[[message]]
+key = 'SPOT_NAME_469'
+old = 'ザンドラ禁域'
+[[message]]
+key = 'SPOT_NAME_470'
+old = 'ディナン深層林'
+[[message]]
+key = 'SPOT_NAME_471'
+old = 'グリッテン砦'
+[[message]]
+key = 'SPOT_NAME_472'
+old = '燐光虫の洞窟'
+[[message]]
+key = 'SPOT_NAME_473'
+old = 'ガルドノック砦'
+[[message]]
+key = 'SPOT_NAME_474'
+old = 'ドリード城'
+[[message]]
+key = 'SPOT_NAME_475'
+old = 'エルテ・ディナン'
+[[message]]
+key = 'SPOT_NAME_476'
+old = 'ボルド大坑道'
+[[message]]
+key = 'SPOT_NAME_477'
+old = '竜の巣'
+[[message]]
+key = 'SPOT_NAME_478'
+old = '禊の神殿'
+[[message]]
+key = 'SPOT_NAME_479'
+old = '黄金宮'
+[[message]]
+key = 'SPOT_NAME_480'
+old = '亡都メルゴダ'
+[[message]]
+key = 'SPOT_NAME_481'
+old = 'メルゴダ護政区'
+[[message]]
+key = 'SPOT_NAME_482'
+old = 'ポーン郷'
+[[message]]
+key = 'SPOT_NAME_483'
+old = 'キノザ鉱泉'
+[[message]]
+key = 'SPOT_NAME_484'
+old = '禊の神殿　離殿'
+[[message]]
+key = 'SPOT_NAME_485'
+old = '古の祭祀場'
+[[message]]
+key = 'SPOT_NAME_486'
+old = 'ハイデル地下霊廟'
+[[message]]
+key = 'SPOT_NAME_487'
+old = 'ハイデル地下霊廟　深部'
+[[message]]
+key = 'SPOT_NAME_488'
+old = 'ハイデル地下霊廟　最深部'
+[[message]]
+key = 'SPOT_NAME_489'
+old = 'リンウッド地下水路'
+[[message]]
+key = 'SPOT_NAME_490'
+old = '採掘師の隠れ道'
+[[message]]
+key = 'SPOT_NAME_491'
+old = '南壁のひび'
+[[message]]
+key = 'SPOT_NAME_492'
+old = 'カタコンベ'
+[[message]]
+key = 'SPOT_NAME_493'
+old = '蒼葉のテラス'
+[[message]]
+key = 'SPOT_NAME_494'
+old = '神花のテラス'
+[[message]]
+key = 'SPOT_NAME_495'
+old = 'レ・カルバス・アーマ'
+[[message]]
+key = 'SPOT_NAME_496'
+old = '戦鬼の影穴'
+[[message]]
+key = 'SPOT_NAME_497'
+old = 'バートランド地下道'
+[[message]]
+key = 'SPOT_NAME_498'
+old = '地下納骨堂'
+[[message]]
+key = 'SPOT_NAME_499'
+old = 'メルゴダ大水網'
+[[message]]
+key = 'SPOT_NAME_500'
+old = '死王の迷宮'
+[[message]]
+key = 'SPOT_NAME_501'
+old = 'さる錬金術師の家'
+[[message]]
+key = 'SPOT_NAME_502'
+old = 'エリクシル精製室'
+[[message]]
+key = 'SPOT_NAME_503'
+old = '南ハイデル大橋'
+[[message]]
+key = 'SPOT_NAME_504'
+old = '南壁谷の道'
+[[message]]
+key = 'SPOT_NAME_505'
+old = 'バートランド東関所'
+[[message]]
+key = 'SPOT_NAME_506'
+old = 'ディナン山道'
+[[message]]
+key = 'SPOT_NAME_507'
+old = 'バートランド山道'
+[[message]]
+key = 'SPOT_NAME_508'
+old = 'フロックヴァルト大橋'
+[[message]]
+key = 'SPOT_NAME_509'
+old = 'カタコンベ（カスタム）01'
+[[message]]
+key = 'SPOT_NAME_510'
+old = '自然洞窟＋坑道（カスタム）00'
+[[message]]
+key = 'SPOT_NAME_511'
+old = 'エルフ遺跡（カスタム）00'
+[[message]]
+key = 'SPOT_NAME_512'
+old = '地下通路＋水路（カスタム）00'
+[[message]]
+key = 'SPOT_NAME_513'
+old = '枯れ井戸の中（カスタム）00'
+[[message]]
+key = 'SPOT_NAME_514'
+old = '祠の中（カスタム）00'
+[[message]]
+key = 'SPOT_NAME_515'
+old = '地下室（ワイン倉庫）00'
+[[message]]
+key = 'SPOT_NAME_516'
+old = '異界の狭間'
+[[message]]
+key = 'SPOT_NAME_517'
+old = 'アーク'
+[[message]]
+key = 'SPOT_NAME_518'
+old = 'グリッテン砦　通行許可'
+[[message]]
+key = 'SPOT_NAME_519'
+old = 'ハイデル教会'
+[[message]]
+key = 'SPOT_NAME_520'
+old = 'モルトバ灯台'
+[[message]]
+key = 'SPOT_NAME_521'
+old = '旧騎士団監視塔'
+[[message]]
+key = 'SPOT_NAME_522'
+old = '灯台下の古井戸'
+[[message]]
+key = 'SPOT_NAME_523'
+old = 'レ・カルバス・サルトー'
+[[message]]
+key = 'SPOT_NAME_524'
+old = '外に出る'
+[[message]]
+key = 'SPOT_NAME_525'
+old = 'ドラワン教会'
+[[message]]
+key = 'SPOT_NAME_526'
+old = '東ザンドラ廃墟群'
+[[message]]
+key = 'SPOT_NAME_527'
+old = 'ザンドラ灯台'
+[[message]]
+key = 'SPOT_NAME_528'
+old = '謎の礎'
+[[message]]
+key = 'SPOT_NAME_529'
+old = 'テゴル川'
+[[message]]
+key = 'SPOT_NAME_530'
+old = 'セラー湖'
+[[message]]
+key = 'SPOT_NAME_531'
+old = 'ボルド大鉱山'
+[[message]]
+key = 'SPOT_NAME_532'
+old = 'イニアス湖'
+[[message]]
+key = 'SPOT_NAME_533'
+old = '大地の傷跡'
+[[message]]
+key = 'SPOT_NAME_534'
+old = '中央広場'
+[[message]]
+key = 'SPOT_NAME_535'
+old = '商店区'
+[[message]]
+key = 'SPOT_NAME_536'
+old = '宿場区'
+[[message]]
+key = 'SPOT_NAME_537'
+old = 'クラフトルーム'
+[[message]]
+key = 'SPOT_NAME_538'
+old = '港洞'
+[[message]]
+key = 'SPOT_NAME_539'
+old = '大門前'
+[[message]]
+key = 'SPOT_NAME_540'
+old = 'ザンドラ礼拝堂'
+[[message]]
+key = 'SPOT_NAME_541'
+old = '死者の小窟'
+[[message]]
+key = 'SPOT_NAME_542'
+old = '棄てられた地下道'
+[[message]]
+key = 'SPOT_NAME_543'
+old = '怨嗟の祠'
+[[message]]
+key = 'SPOT_NAME_544'
+old = '虚ろの小堂'
+[[message]]
+key = 'SPOT_NAME_545'
+old = '採掘師の隠れ道'
+[[message]]
+key = 'SPOT_NAME_546'
+old = '森民の地下道'
+[[message]]
+key = 'SPOT_NAME_547'
+old = '潮騒洞窟'
+[[message]]
+key = 'SPOT_NAME_548'
+old = '風鳴り洞窟'
+[[message]]
+key = 'SPOT_NAME_549'
+old = '断崖の坑道'
+[[message]]
+key = 'SPOT_NAME_550'
+old = 'ボルド小坑道'
+[[message]]
+key = 'SPOT_NAME_551'
+old = '盗賊の隠れ家'
+[[message]]
+key = 'SPOT_NAME_552'
+old = '悪鬼の岩窟'
+[[message]]
+key = 'SPOT_NAME_553'
+old = 'ミスリウ鍾乳洞'
+[[message]]
+key = 'SPOT_NAME_554'
+old = '魔獣の巣穴'
+[[message]]
+key = 'SPOT_NAME_555'
+old = '狩人の抜け穴'
+[[message]]
+key = 'SPOT_NAME_556'
+old = '秘弓師の住居'
+[[message]]
+key = 'SPOT_NAME_557'
+old = '深緑のテラス'
+[[message]]
+key = 'SPOT_NAME_558'
+old = '霊泉のテラス'
+[[message]]
+key = 'SPOT_NAME_559'
+old = '斜陽のテラス'
+[[message]]
+key = 'SPOT_NAME_560'
+old = '月影のテラス'
+[[message]]
+key = 'SPOT_NAME_561'
+old = '聖樹のテラス'
+[[message]]
+key = 'SPOT_NAME_562'
+old = '旧騎士団連絡路'
+[[message]]
+key = 'SPOT_NAME_563'
+old = '旧騎士団資材庫'
+[[message]]
+key = 'SPOT_NAME_564'
+old = '湖岸地下室'
+[[message]]
+key = 'SPOT_NAME_565'
+old = 'ドリード水路跡'
+[[message]]
+key = 'SPOT_NAME_566'
+old = 'キノザ治水路'
+[[message]]
+key = 'SPOT_NAME_567'
+old = 'テゴル治水路'
+[[message]]
+key = 'SPOT_NAME_568'
+old = '旧地下実験所'
+[[message]]
+key = 'SPOT_NAME_569'
+old = '修練の祠'
+[[message]]
+key = 'SPOT_NAME_570'
+old = '渓谷の小堂'
+[[message]]
+key = 'SPOT_NAME_571'
+old = '標の祠　ミスリウ森林深部'
+[[message]]
+key = 'SPOT_NAME_572'
+old = '山頂の小堂'
+[[message]]
+key = 'SPOT_NAME_573'
+old = '標の祠　ザンドラ禁域'
+[[message]]
+key = 'SPOT_NAME_574'
+old = '森の一軒家'
+[[message]]
+key = 'SPOT_NAME_575'
+old = 'イヴァンの山小屋'
+[[message]]
+key = 'SPOT_NAME_576'
+old = '渓谷の一軒家'
+[[message]]
+key = 'SPOT_NAME_577'
+old = '隠者の家'
+[[message]]
+key = 'SPOT_NAME_578'
+old = '謁見の間'
+[[message]]
+key = 'SPOT_NAME_579'
+old = '開かずの路'
+[[message]]
+key = 'SPOT_NAME_580'
+old = 'ハイデル街道の枯れ井戸'
+[[message]]
+key = 'SPOT_NAME_581'
+old = '平原の廃墟地下室'
+[[message]]
+key = 'SPOT_NAME_582'
+old = '廃屋の地下室'
+[[message]]
+key = 'SPOT_NAME_583'
+old = 'テルの枯れ井戸'
+[[message]]
+key = 'SPOT_NAME_585'
+old = '海辺の地下室'
+[[message]]
+key = 'SPOT_NAME_586'
+old = '浜辺の地下保管庫'
+[[message]]
+key = 'SPOT_NAME_588'
+old = '廃墟の食糧庫'
+[[message]]
+key = 'SPOT_NAME_589'
+old = '崩れかけたワイン庫'
+[[message]]
+key = 'SPOT_NAME_590'
+old = '閉ざされた古井戸'
+[[message]]
+key = 'SPOT_NAME_591'
+old = '旧騎士団詰め所'
+[[message]]
+key = 'SPOT_NAME_592'
+old = '森の廃墟地下'
+[[message]]
+key = 'SPOT_NAME_593'
+old = '妖精の枯れ井戸'
+[[message]]
+key = 'SPOT_NAME_594'
+old = '水陰の淵辺'
+[[message]]
+key = 'SPOT_NAME_595'
+old = '蒼水路'
+[[message]]
+key = 'SPOT_NAME_596'
+old = '呻きの枯れ井戸'
+[[message]]
+key = 'SPOT_NAME_598'
+old = 'バートランド墓地'
+[[message]]
+key = 'SPOT_NAME_599'
+old = '廃墟の地下室'
+[[message]]
+key = 'SPOT_NAME_600'
+old = '乾いた地下倉庫'
+[[message]]
+key = 'SPOT_NAME_601'
+old = '大石塊(アーク)'
+[[message]]
+key = 'SPOT_NAME_602'
+old = '朽ちかけた井戸'
+[[message]]
+key = 'SPOT_NAME_604'
+old = '術師の地下泉'
+[[message]]
+key = 'SPOT_NAME_605'
+old = '灯台の地下倉庫'
+[[message]]
+key = 'SPOT_NAME_606'
+old = '西ミスリウ橋'
+[[message]]
+key = 'SPOT_NAME_607'
+old = '不浄の地下水道'
+[[message]]
+key = 'SPOT_NAME_608'
+old = '湖底連絡路'
+[[message]]
+key = 'SPOT_NAME_609'
+old = '封じの玄室'
+[[message]]
+key = 'SPOT_NAME_610'
+old = '錬金研究室'
+[[message]]
+key = 'SPOT_NAME_611'
+old = '宮殿前広場'
+[[message]]
+key = 'SPOT_NAME_612'
+old = 'メルガン・アルケミデア'
+[[message]]
+key = 'SPOT_NAME_613'
+old = '聖獣の間'
+[[message]]
+key = 'SPOT_NAME_614'
+old = '鬼鳴き橋'
+[[message]]
+key = 'SPOT_NAME_615'
+old = '血すすぎ河原'
+[[message]]
+key = 'SPOT_NAME_616'
+old = '黒狼団のアジト'
+[[message]]
+key = 'SPOT_NAME_617'
+old = '隠れ浜'
+[[message]]
+key = 'SPOT_NAME_618'
+old = '鳥寄せ岩'
+[[message]]
+key = 'SPOT_NAME_619'
+old = '小鬼の野営地'
+[[message]]
+key = 'SPOT_NAME_620'
+old = '廃村ルフロー'
+[[message]]
+key = 'SPOT_NAME_621'
+old = '青爪浜'
+[[message]]
+key = 'SPOT_NAME_622'
+old = '森小人の集落'
+[[message]]
+key = 'SPOT_NAME_623'
+old = '唸り猿の縄張り'
+[[message]]
+key = 'SPOT_NAME_624'
+old = '肉裂き館'
+[[message]]
+key = 'SPOT_NAME_625'
+old = '豚喰いのねぐら'
+[[message]]
+key = 'SPOT_NAME_626'
+old = '山腹の野戦場'
+[[message]]
+key = 'SPOT_NAME_627'
+old = '巨鷲の宝物溜め'
+[[message]]
+key = 'SPOT_NAME_628'
+old = '白砂河原'
+[[message]]
+key = 'SPOT_NAME_629'
+old = 'ドリード監視塔'
+[[message]]
+key = 'SPOT_NAME_630'
+old = '歌姫の崖座'
+[[message]]
+key = 'SPOT_NAME_631'
+old = '密猟者のキャンプ'
+[[message]]
+key = 'SPOT_NAME_632'
+old = 'イニアス湿地帯'
+[[message]]
+key = 'SPOT_NAME_633'
+old = '名もなき廃村'
+[[message]]
+key = 'SPOT_NAME_634'
+old = '巨人の寝床'
+[[message]]
+key = 'SPOT_NAME_635'
+old = 'グローン・ノス'
+[[message]]
+key = 'SPOT_NAME_636'
+old = 'エルネア・スプリング'
+[[message]]
+key = 'SPOT_NAME_637'
+old = 'サーズ・ディナン'
+[[message]]
+key = 'SPOT_NAME_638'
+old = '湖岸の廃墟'
+[[message]]
+key = 'SPOT_NAME_639'
+old = 'バートランド大橋'
+[[message]]
+key = 'SPOT_NAME_640'
+old = 'セラー湖船墓場'
+[[message]]
+key = 'SPOT_NAME_641'
+old = '砦前・千本棘の陣'
+[[message]]
+key = 'SPOT_NAME_642'
+old = '魔犬養育所'
+[[message]]
+key = 'SPOT_NAME_643'
+old = 'ガルドノック哨戒地'
+[[message]]
+key = 'SPOT_NAME_644'
+old = '双輪の谷'
+[[message]]
+key = 'SPOT_NAME_645'
+old = '南メルゴダ遺跡群'
+[[message]]
+key = 'SPOT_NAME_646'
+old = 'バンデッドホーント'
+[[message]]
+key = 'SPOT_NAME_647'
+old = 'オーク残党宿営地'
+[[message]]
+key = 'SPOT_NAME_648'
+old = '黒淵谷'
+[[message]]
+key = 'SPOT_NAME_649'
+old = '奇岩谷'
+[[message]]
+key = 'SPOT_NAME_650'
+old = '東ザンドラ廃墟群'
+[[message]]
+key = 'SPOT_NAME_651'
+old = '呪詛の庭'
+[[message]]
+key = 'SPOT_NAME_652'
+old = '古の祭祀場'
+[[message]]
+key = 'SPOT_NAME_653'
+old = 'キノザ鉱泉'
+[[message]]
+key = 'SPOT_NAME_654'
+old = 'メルゴダ下層　礎前'
+[[message]]
+key = 'SPOT_NAME_655'
+old = 'メルゴダ王宮層　空庭'
+[[message]]
+key = 'SPOT_NAME_656'
+old = 'メルゴダ下層　廃墟群'
+[[message]]
+key = 'SPOT_NAME_657'
+old = '錬金研究棟'
+[[message]]
+key = 'SPOT_NAME_658'
+old = '軍事演習棟'
+[[message]]
+key = 'SPOT_NAME_659'
+old = '王の間'
+[[message]]
+key = 'SPOT_NAME_660'
+old = '癒しの泉'
+[[message]]
+key = 'SPOT_NAME_661'
+old = '活力の泉'
+[[message]]
+key = 'SPOT_NAME_662'
+old = '豊穣の泉'
+[[message]]
+key = 'SPOT_NAME_663'
+old = '掘削中の井戸'
+[[message]]
+key = 'SPOT_NAME_664'
+old = 'テオドール錬金工房'
+[[message]]
+key = 'SPOT_NAME_665'
+old = '囚われし戦徒の間'
+[[message]]
+key = 'SPOT_NAME_666'
+old = 'リムの淵辺'
+[[message]]
+key = 'SPOT_NAME_667'
+old = '亡都メルゴダ　下層'
+[[message]]
+key = 'SPOT_NAME_668'
+old = '亡都メルゴダ　王宮層'
+[[message]]
+key = 'SPOT_NAME_669'
+old = '啼き井戸'
+[[message]]
+key = 'SPOT_NAME_670'
+old = '第二のアーク'
+[[message]]
+key = 'SPOT_NAME_671'
+old = '第三のアーク'
+[[message]]
+key = 'SPOT_NAME_672'
+old = '白竜神殿レーゼ（大門前）'
+[[message]]
+key = 'SPOT_NAME_673'
+old = '白竜神殿レーゼ（中央広場）'
+[[message]]
+key = 'SPOT_NAME_674'
+old = '潮騒の隠れ部屋'
+[[message]]
+key = 'SPOT_NAME_675'
+old = '騎士団補給所跡'
+[[message]]
+key = 'SPOT_NAME_676'
+old = 'ドリード連絡路'
+[[message]]
+key = 'SPOT_NAME_677'
+old = '波打ちの門洞'
+[[message]]
+key = 'SPOT_NAME_678'
+old = '瀑布の大岩窟'
+[[message]]
+key = 'SPOT_NAME_679'
+old = '臥竜のうろ'
+[[message]]
+key = 'SPOT_NAME_680'
+old = '水流制御室'
+[[message]]
+key = 'SPOT_NAME_681'
+old = '聖滝の間'
+[[message]]
+key = 'SPOT_NAME_682'
+old = '中央大水廊'
+[[message]]
+key = 'SPOT_NAME_683'
+old = '魔赤島'
+[[message]]
+key = 'SPOT_NAME_684'
+old = '魔赤島・絶崖'
+[[message]]
+key = 'SPOT_NAME_685'
+old = '魔赤島・山頂'
+[[message]]
+key = 'SPOT_NAME_686'
+old = '覚者の自室'
+[[message]]
+key = 'SPOT_NAME_687'
+old = '調査隊駐屯地'
+[[message]]
+key = 'SPOT_NAME_688'
+old = 'クラン拠点'
+[[message]]
+key = 'SPOT_NAME_689'
+old = 'アーク　裏層'
+[[message]]
+key = 'SPOT_NAME_690'
+old = 'モルトバ遺跡'
+[[message]]
+key = 'SPOT_NAME_691'
+old = 'ミスリウ古墳墓'
+[[message]]
+key = 'SPOT_NAME_692'
+old = '霧幻のテラス'
+[[message]]
+key = 'SPOT_NAME_693'
+old = '灼熱の封鎖道'
+[[message]]
+key = 'SPOT_NAME_694'
+old = '罪人の修獄'
+[[message]]
+key = 'SPOT_NAME_695'
+old = 'レオのアジト'
+[[message]]
+key = 'SPOT_NAME_696'
+old = 'ドリード連絡路'
+[[message]]
+key = 'SPOT_NAME_697'
+old = '飛天のテラス'
+[[message]]
+key = 'SPOT_NAME_698'
+old = '見捨てられた井戸'
+[[message]]
+key = 'SPOT_NAME_700'
+old = '叫びの竪穴'
+[[message]]
+key = 'SPOT_NAME_701'
+old = '幽玄の霊堂'
+[[message]]
+key = 'SPOT_NAME_702'
+old = '秘匿の実験場'
+[[message]]
+key = 'SPOT_NAME_703'
+old = 'ガルドノック廃水廊'
+[[message]]
+key = 'SPOT_NAME_704'
+old = '侵食魔の巣窟'
+[[message]]
+key = 'SPOT_NAME_705'
+old = '氷気の遺路'
+[[message]]
+key = 'SPOT_NAME_706'
+old = '不浄の掃き溜め'
+[[message]]
+key = 'SPOT_NAME_707'
+old = 'せせらぎの地下聖堂'
+[[message]]
+key = 'SPOT_NAME_708'
+old = '群像の岩屋'
+[[message]]
+key = 'SPOT_NAME_709'
+old = '侵食魔の巣窟　奥底'
+[[message]]
+key = 'SPOT_NAME_710'
+old = '滝鳴洞穴'
+[[message]]
+key = 'SPOT_NAME_711'
+old = '小塔傍の枯れ井戸'
+[[message]]
+key = 'SPOT_NAME_712'
+old = '陽射す地下洞'
+[[message]]
+key = 'SPOT_NAME_713'
+old = '橋向かいの坑道'
+[[message]]
+key = 'SPOT_NAME_714'
+old = '菌糸の襲窟'
+[[message]]
+key = 'SPOT_NAME_715'
+old = '刃擦れの細道'
+[[message]]
+key = 'SPOT_NAME_717'
+old = '腐臭の溜まり場'
+[[message]]
+key = 'SPOT_NAME_719'
+old = '行商人の難所'
+[[message]]
+key = 'SPOT_NAME_721'
+old = '鉱山の大踊り場'
+[[message]]
+key = 'SPOT_NAME_723'
+old = '異邦の岬'
+[[message]]
+key = 'SPOT_NAME_724'
+old = '霧たなびく深森'
+[[message]]
+key = 'SPOT_NAME_726'
+old = '薄煙の荒れ地'
+[[message]]
+key = 'SPOT_NAME_728'
+old = '大樹の広場'
+[[message]]
+key = 'SPOT_NAME_730'
+old = '戦鬼の陣屋'
+[[message]]
+key = 'SPOT_NAME_732'
+old = '狂信者の潜伏地'
+[[message]]
+key = 'SPOT_NAME_734'
+old = '屍のすすり泣く地'
+[[message]]
+key = 'SPOT_NAME_735'
+old = '滝を臨む蝕地'
+[[message]]
+key = 'SPOT_NAME_736'
+old = '捕食者たちの低地'
+[[message]]
+key = 'SPOT_NAME_759'
+old = '武霊の庵'
+[[message]]
+key = 'SPOT_NAME_771'
+old = '眺樹の丘'
+[[message]]
+key = 'SPOT_NAME_803'
+old = '聖遺の塔'
+[[message]]
+key = 'SPOT_NAME_804'
+old = 'グリッテン砦 正門前'
+[[message]]
+key = 'SPOT_NAME_805'
+old = 'ブリア海岸 南側'
+[[message]]
+key = 'SPOT_NAME_806'
+old = 'ミスリウ森林 東側'
+[[message]]
+key = 'SPOT_NAME_807'
+old = 'ボルド鉱山 北側'
+[[message]]
+key = 'SPOT_NAME_808'
+old = 'ダウ渓谷 西側'
+[[message]]
+key = 'SPOT_NAME_809'
+old = '禊の神殿 湖畔'
+[[message]]
+key = 'SPOT_NAME_810'
+old = 'ザンドラ禁域 西側'
+[[message]]
+key = 'SPOT_NAME_813'
+old = '石像立つ木陰'
+[[message]]
+key = 'SPOT_NAME_814'
+old = '翼風高原'
+[[message]]
+key = 'SPOT_NAME_815'
+old = '再帰の浜辺'
+[[message]]
+key = 'SPOT_NAME_816'
+old = '魔赤島・絶崖'
+[[message]]
+key = 'SPOT_NAME_817'
+old = 'アーク前'
+[[message]]
+key = 'SPOT_NAME_818'
+old = '酒場'
+[[message]]
+key = 'SPOT_NAME_819'
+old = '美容院前'
+[[message]]
+key = 'SPOT_NAME_820'
+old = '霧幻のテラス　浅層'
+[[message]]
+key = 'SPOT_NAME_821'
+old = '霧幻のテラス　中層'
+[[message]]
+key = 'SPOT_NAME_822'
+old = '霧幻のテラス　深層'
+[[message]]
+key = 'SPOT_NAME_823'
+old = '水声の瞑堂'
+[[message]]
+key = 'SPOT_NAME_824'
+old = '侵食魔の巣窟　脇道'
+[[message]]
+key = 'SPOT_NAME_825'
+old = '異界の狭間　深層部'
+[[message]]
+key = 'SPOT_NAME_826'
+old = '騎士団補給所跡'
+[[message]]
+key = 'SPOT_NAME_828'
+old = 'アーク　裏層　貯蔵所'
+[[message]]
+key = 'SPOT_NAME_829'
+old = 'アーク　裏層　宝物庫'
+[[message]]
+key = 'SPOT_NAME_830'
+old = '侵食魔の巣窟　脇道'
+[[message]]
+key = 'SPOT_NAME_831'
+old = '灼熱の封鎖道　脇道'
+[[message]]
+key = 'SPOT_NAME_832'
+old = '氷気の遺路　深部'
+[[message]]
+key = 'SPOT_NAME_833'
+old = 'モルトバ遺跡　左路'
+[[message]]
+key = 'SPOT_NAME_834'
+old = 'モルトバ遺跡　右路'
+[[message]]
+key = 'SPOT_NAME_835'
+old = '霧幻のテラス　浅層'
+[[message]]
+key = 'SPOT_NAME_836'
+old = '霧幻のテラス　中層'
+[[message]]
+key = 'SPOT_NAME_837'
+old = '霧幻のテラス　深層'
+[[message]]
+key = 'SPOT_NAME_838'
+old = '侵食魔の巣窟　奥底　深層'
+[[message]]
+key = 'SPOT_NAME_839'
+old = '異界の狭間・深層部　左淵'
+[[message]]
+key = 'SPOT_NAME_840'
+old = '異界の狭間・深層部　右淵'
+[[message]]
+key = 'SPOT_NAME_841'
+old = '滝鳴洞穴　東'
+[[message]]
+key = 'SPOT_NAME_842'
+old = '滝鳴洞穴　西'
+[[message]]
+key = 'SPOT_NAME_843'
+old = '滝鳴洞穴　北'
+[[message]]
+key = 'SPOT_NAME_844'
+old = '滝鳴洞穴　南'
+[[message]]
+key = 'SPOT_NAME_845'
+old = '菌糸の襲窟　脇道'
+[[message]]
+key = 'SPOT_NAME_846'
+old = '菌糸の襲窟　鍾乳通路'
+[[message]]
+key = 'SPOT_NAME_847'
+old = '菌糸の襲窟　中層'
+[[message]]
+key = 'SPOT_NAME_848'
+old = '菌糸の襲窟　深層'
+[[message]]
+key = 'SPOT_NAME_849'
+old = '橋向かいの坑道　広間'
+[[message]]
+key = 'SPOT_NAME_850'
+old = '橋向かいの坑道　鉱石路'
+[[message]]
+key = 'SPOT_NAME_851'
+old = '橋向かいの坑道　鍾乳洞'
+[[message]]
+key = 'SPOT_NAME_852'
+old = 'ガルドノック廃水廊　深部'
+[[message]]
+key = 'SPOT_NAME_853'
+old = '秘匿の実験場　中層'
+[[message]]
+key = 'SPOT_NAME_854'
+old = '秘匿の実験場　深層'
+[[message]]
+key = 'SPOT_NAME_855'
+old = '飛天のテラス　深層'
+[[message]]
+key = 'SPOT_NAME_856'
+old = 'ミスリウ古墳墓　不死の間'
+[[message]]
+key = 'SPOT_NAME_857'
+old = 'ミスリウ古墳墓　狩猟の間'
+[[message]]
+key = 'SPOT_NAME_858'
+old = '幽玄の霊堂　中層'
+[[message]]
+key = 'SPOT_NAME_859'
+old = '幽玄の霊堂　深層'
+[[message]]
+key = 'SPOT_NAME_860'
+old = 'アーク　裏層　危険区域'
+[[message]]
+key = 'SPOT_NAME_861'
+old = '侵食魔の巣窟　奥底　危険区域'
+[[message]]
+key = 'SPOT_NAME_862'
+old = '橋向かいの坑道　危険区域'
+[[message]]
+key = 'SPOT_NAME_863'
+old = '灼熱の封鎖道　危険区域'
+[[message]]
+key = 'SPOT_NAME_864'
+old = '氷気の遺路　　危険区域'
+[[message]]
+key = 'SPOT_NAME_865'
+old = 'モルトバ遺跡　危険区域'
+[[message]]
+key = 'SPOT_NAME_866'
+old = 'ガルドノック廃水廊　危険区域'
+[[message]]
+key = 'SPOT_NAME_867'
+old = '叫びの竪穴　危険区域'
+[[message]]
+key = 'SPOT_NAME_868'
+old = '見捨てられた井戸　危険区域'
+[[message]]
+key = 'SPOT_NAME_869'
+old = '秘匿の実験場　危険区域'
+[[message]]
+key = 'SPOT_NAME_870'
+old = '霧幻のテラス　危険区域'
+[[message]]
+key = 'SPOT_NAME_871'
+old = 'ミスリウ古墳墓　危険区域'
+[[message]]
+key = 'SPOT_NAME_872'
+old = '罪人の修獄　危険区域'
+[[message]]
+key = 'SPOT_NAME_873'
+old = '幽玄の霊堂　危険区域'
+[[message]]
+key = 'SPOT_NAME_874'
+old = '飛天のテラス　危険区域'
+[[message]]
+key = 'SPOT_NAME_875'
+old = 'メルゴダ民の住居'
+[[message]]
+key = 'SPOT_NAME_876'
+old = '守り人の庵'
+[[message]]
+key = 'SPOT_NAME_877'
+old = 'ダナ'
+[[message]]
+key = 'SPOT_NAME_878'
+old = 'モルフォール'
+[[message]]
+key = 'SPOT_NAME_879'
+old = 'グリンデュア'
+[[message]]
+key = 'SPOT_NAME_880'
+old = '聖域'
+[[message]]
+key = 'SPOT_NAME_881'
+old = 'エラン水林'
+[[message]]
+key = 'SPOT_NAME_882'
+old = 'ファーラナ平原'
+[[message]]
+key = 'SPOT_NAME_883'
+old = 'モロー樹林'
+[[message]]
+key = 'SPOT_NAME_884'
+old = 'キンガル峡谷'
+[[message]]
+key = 'SPOT_NAME_885'
+old = '始まりの洞　集いの間'
+[[message]]
+key = 'SPOT_NAME_886'
+old = 'モローへの小路'
+[[message]]
+key = 'SPOT_NAME_887'
+old = '虹舞い洞窟'
+[[message]]
+key = 'SPOT_NAME_888'
+old = '藤棚の枯井戸'
+[[message]]
+key = 'SPOT_NAME_889'
+old = '密林の鍾乳洞'
+[[message]]
+key = 'SPOT_NAME_890'
+old = '旧船頭寄合所'
+[[message]]
+key = 'SPOT_NAME_891'
+old = 'エラン採石洞'
+[[message]]
+key = 'SPOT_NAME_892'
+old = 'キンガル遺跡路'
+[[message]]
+key = 'SPOT_NAME_893'
+old = 'ダナンデール洞窟'
+[[message]]
+key = 'SPOT_NAME_894'
+old = 'ファーラナ遺跡'
+[[message]]
+key = 'SPOT_NAME_895'
+old = 'マグサス古水路'
+[[message]]
+key = 'SPOT_NAME_896'
+old = 'ヴェイガサス回廊'
+[[message]]
+key = 'SPOT_NAME_897'
+old = 'ヴァルテブル・ホール'
+[[message]]
+key = 'SPOT_NAME_898'
+old = 'タラーテ集水路'
+[[message]]
+key = 'SPOT_NAME_899'
+old = 'タラーテ集水路'
+[[message]]
+key = 'SPOT_NAME_900'
+old = '知恵の小塔'
+[[message]]
+key = 'SPOT_NAME_901'
+old = '聖河の遺跡'
+[[message]]
+key = 'SPOT_NAME_902'
+old = '精霊竜のねぐら'
+[[message]]
+key = 'SPOT_NAME_903'
+old = 'ダナウィンの挑堂'
+[[message]]
+key = 'SPOT_NAME_904'
+old = 'マヌンの集落'
+[[message]]
+key = 'SPOT_NAME_905'
+old = '始まりの洞'
+[[message]]
+key = 'SPOT_NAME_906'
+old = 'モローケイヴァン'
+[[message]]
+key = 'SPOT_NAME_907'
+old = '侵鬼の洞穴'
+[[message]]
+key = 'SPOT_NAME_908'
+old = 'サウザネル侵林'
+[[message]]
+key = 'SPOT_NAME_909'
+old = 'ディプニエ大侵林'
+[[message]]
+key = 'SPOT_NAME_910'
+old = 'ノーザナス侵林'
+[[message]]
+key = 'SPOT_NAME_911'
+old = 'ネビュラ小神殿'
+[[message]]
+key = 'SPOT_NAME_912'
+old = 'シェドレアン大神殿'
+[[message]]
+key = 'SPOT_NAME_913'
+old = 'グリンメル遺跡'
+[[message]]
+key = 'SPOT_NAME_914'
+old = 'アンビュロス大遺跡'
+[[message]]
+key = 'SPOT_NAME_915'
+old = 'ハディン地下古道'
+[[message]]
+key = 'SPOT_NAME_916'
+old = '古代地下宮'
+[[message]]
+key = 'SPOT_NAME_917'
+old = '廃村ナバド'
+[[message]]
+key = 'SPOT_NAME_918'
+old = '古住居遺跡'
+[[message]]
+key = 'SPOT_NAME_919'
+old = '旧闘技場跡地'
+[[message]]
+key = 'SPOT_NAME_920'
+old = 'ニュートの巣穴'
+[[message]]
+key = 'SPOT_NAME_921'
+old = '鎧幽の巨岩'
+[[message]]
+key = 'SPOT_NAME_922'
+old = '甲竜の湿原'
+[[message]]
+key = 'SPOT_NAME_923'
+old = 'ファーラナ中央洲'
+[[message]]
+key = 'SPOT_NAME_924'
+old = '大翼の谷'
+[[message]]
+key = 'SPOT_NAME_925'
+old = '紫花の園'
+[[message]]
+key = 'SPOT_NAME_926'
+old = '喧噪の跡地'
+[[message]]
+key = 'SPOT_NAME_928'
+old = '水獣の棲み処'
+[[message]]
+key = 'SPOT_NAME_929'
+old = '魔狼の縄張り'
+[[message]]
+key = 'SPOT_NAME_930'
+old = '羽音の高台'
+[[message]]
+key = 'SPOT_NAME_931'
+old = '忘却の廃村'
+[[message]]
+key = 'SPOT_NAME_932'
+old = '彩光の滝'
+[[message]]
+key = 'SPOT_NAME_933'
+old = '木漏れ日の川辺'
+[[message]]
+key = 'SPOT_NAME_934'
+old = 'エラン大門前'
+[[message]]
+key = 'SPOT_NAME_935'
+old = '訪いの広場'
+[[message]]
+key = 'SPOT_NAME_936'
+old = '賢者の墓標'
+[[message]]
+key = 'SPOT_NAME_937'
+old = '侵染の窪地'
+[[message]]
+key = 'SPOT_NAME_938'
+old = '森精の隠れ家'
+[[message]]
+key = 'SPOT_NAME_939'
+old = '欠緑の林'
+[[message]]
+key = 'SPOT_NAME_940'
+old = 'ピクシーズキャンプ'
+[[message]]
+key = 'SPOT_NAME_941'
+old = '廃村エスリグ'
+[[message]]
+key = 'SPOT_NAME_942'
+old = 'モロー古跡'
+[[message]]
+key = 'SPOT_NAME_943'
+old = '立ち病みの森'
+[[message]]
+key = 'SPOT_NAME_944'
+old = '暗樹の大淵'
+[[message]]
+key = 'SPOT_NAME_945'
+old = 'キンガル西岸'
+[[message]]
+key = 'SPOT_NAME_946'
+old = '岩砕きの河岸'
+[[message]]
+key = 'SPOT_NAME_947'
+old = '腐肉のほとり'
+[[message]]
+key = 'SPOT_NAME_948'
+old = '大神殿前広場'
+[[message]]
+key = 'SPOT_NAME_949'
+old = '水底の古道'
+[[message]]
+key = 'SPOT_NAME_950'
+old = '廃村クラーハ'
+[[message]]
+key = 'SPOT_NAME_952'
+old = '聖域の門'
+[[message]]
+key = 'SPOT_NAME_953'
+old = '円形舞踊場'
+[[message]]
+key = 'SPOT_NAME_955'
+old = 'シェドレアン大神殿　宝物庫'
+[[message]]
+key = 'SPOT_NAME_956'
+old = '殲滅指定区域　右方'
+[[message]]
+key = 'SPOT_NAME_957'
+old = '殲滅指定区域　左方'
+[[message]]
+key = 'SPOT_NAME_958'
+old = '滝裏の青洞'
+[[message]]
+key = 'SPOT_NAME_959'
+old = 'イヴァノスの塔'
+[[message]]
+key = 'SPOT_NAME_960'
+old = '聖雫の間'
+[[message]]
+key = 'SPOT_NAME_961'
+old = 'ファーラナ平原 中央'
+[[message]]
+key = 'SPOT_NAME_962'
+old = '船着き場'
+[[message]]
+key = 'SPOT_NAME_963'
+old = 'エラン水林 深層'
+[[message]]
+key = 'SPOT_NAME_964'
+old = 'モロー樹林 深層'
+[[message]]
+key = 'SPOT_NAME_965'
+old = 'キンガル峡谷 深層'
+[[message]]
+key = 'SPOT_NAME_966'
+old = 'クラン拠点'
+[[message]]
+key = 'SPOT_NAME_967'
+old = '殲滅指定区域　最奥下層'
+[[message]]
+key = 'SPOT_NAME_968'
+old = '殲滅指定区域　最奥上層右'
+[[message]]
+key = 'SPOT_NAME_969'
+old = '殲滅指定区域　最奥上層左'
+[[message]]
+key = 'SPOT_NAME_970'
+old = 'シェドレアン大神殿　最奥前'
+[[message]]
+key = 'SPOT_NAME_971'
+old = 'ダナンデール洞窟　通路'
+[[message]]
+key = 'SPOT_NAME_972'
+old = 'ダナンデール洞窟　深部'
+[[message]]
+key = 'SPOT_NAME_973'
+old = 'ダナンデール洞窟　最深部'
+[[message]]
+key = 'SPOT_NAME_974'
+old = 'シェドレアン大神殿　中央部'
+[[message]]
+key = 'SPOT_NAME_975'
+old = 'ファーラナ遺跡　深部'
+[[message]]
+key = 'SPOT_NAME_976'
+old = '虹舞い洞窟　深部'
+[[message]]
+key = 'SPOT_NAME_977'
+old = '侵鬼の洞穴　中央通路'
+[[message]]
+key = 'SPOT_NAME_978'
+old = '侵鬼の洞穴　最深部'
+[[message]]
+key = 'SPOT_NAME_979'
+old = 'ネビュラ小神殿　中央部'
+[[message]]
+key = 'SPOT_NAME_980'
+old = 'ネビュラ小神殿　回廊'
+[[message]]
+key = 'SPOT_NAME_981'
+old = 'ネビュラ小神殿　深部'
+[[message]]
+key = 'SPOT_NAME_982'
+old = 'マグサス古水路　隠し通路'
+[[message]]
+key = 'SPOT_NAME_983'
+old = 'マグサス古水路　排水処理場'
+[[message]]
+key = 'SPOT_NAME_984'
+old = '藤棚の枯井戸　中央通路'
+[[message]]
+key = 'SPOT_NAME_985'
+old = '藤棚の枯井戸　最深部'
+[[message]]
+key = 'SPOT_NAME_986'
+old = 'グリンメル遺跡　中央通路'
+[[message]]
+key = 'SPOT_NAME_987'
+old = 'グリンメル遺跡　中深部'
+[[message]]
+key = 'SPOT_NAME_988'
+old = 'グリンメル遺跡　最深部'
+[[message]]
+key = 'SPOT_NAME_989'
+old = 'モローケイヴァン　深部'
+[[message]]
+key = 'SPOT_NAME_990'
+old = 'モローケイヴァン　最深部'
+[[message]]
+key = 'SPOT_NAME_991'
+old = '密林の鍾乳洞　深部'
+[[message]]
+key = 'SPOT_NAME_992'
+old = 'ヴェイガサス回廊　左通路'
+[[message]]
+key = 'SPOT_NAME_993'
+old = 'ヴェイガサス回廊　右通路'
+[[message]]
+key = 'SPOT_NAME_994'
+old = 'ヴェイガサス回廊　中央通路'
+[[message]]
+key = 'SPOT_NAME_995'
+old = 'ヴァルテブル・ホール　地下'
+[[message]]
+key = 'SPOT_NAME_996'
+old = 'ヴァルテブル・ホール　地下深部'
+[[message]]
+key = 'SPOT_NAME_997'
+old = 'ヴァルテブル・ホール　地下最深部'
+[[message]]
+key = 'SPOT_NAME_998'
+old = 'ヴァルテブル・ホール　上部'
+[[message]]
+key = 'SPOT_NAME_999'
+old = '旧船頭寄合所　中央広場'
+[[message]]
+key = 'SPOT_NAME_1000'
+old = '旧船頭寄合所　深部通路'
+[[message]]
+key = 'SPOT_NAME_1001'
+old = '旧船頭寄合所　最深部'
+[[message]]
+key = 'SPOT_NAME_1002'
+old = 'アンビュロス大遺跡　中央部'
+[[message]]
+key = 'SPOT_NAME_1003'
+old = 'アンビュロス大遺跡　深部'
+[[message]]
+key = 'SPOT_NAME_1004'
+old = 'タラーテ集水路　中央通路'
+[[message]]
+key = 'SPOT_NAME_1005'
+old = 'タラーテ集水路　最深部'
+[[message]]
+key = 'SPOT_NAME_1006'
+old = '聖河の遺跡　中央通路'
+[[message]]
+key = 'SPOT_NAME_1007'
+old = '聖河の遺跡　中心部'
+[[message]]
+key = 'SPOT_NAME_1008'
+old = 'エラン採石洞　中央部'
+[[message]]
+key = 'SPOT_NAME_1009'
+old = 'エラン採石洞　最深部'
+[[message]]
+key = 'SPOT_NAME_1010'
+old = 'ハディン地下古道　中央部'
+[[message]]
+key = 'SPOT_NAME_1011'
+old = 'ハディン地下古道　深部'
+[[message]]
+key = 'SPOT_NAME_1012'
+old = '古代地下宮　2階'
+[[message]]
+key = 'SPOT_NAME_1013'
+old = '古代地下宮　最深部'
+[[message]]
+key = 'SPOT_NAME_1014'
+old = '古代地下宮　隠し部屋'
+[[message]]
+key = 'SPOT_NAME_1015'
+old = '虹舞い洞窟　危険区域'
+[[message]]
+key = 'SPOT_NAME_1016'
+old = 'グリンメル遺跡　危険区域'
+[[message]]
+key = 'SPOT_NAME_1017'
+old = 'モローケイヴァン　危険区域'
+[[message]]
+key = 'SPOT_NAME_1018'
+old = 'ファーラナ遺跡　危険区域'
+[[message]]
+key = 'SPOT_NAME_1019'
+old = '旧船頭寄合所　危険区域'
+[[message]]
+key = 'SPOT_NAME_1020'
+old = 'タラーテ集水路　危険区域'
+[[message]]
+key = 'SPOT_NAME_1021'
+old = 'ハディン地下古道　危険区域'
+[[message]]
+key = 'SPOT_NAME_1022'
+old = 'ノーザナス侵林　危険区域'
+[[message]]
+key = 'SPOT_NAME_1023'
+old = 'マグサス古水路　入り口'
+[[message]]
+key = 'SPOT_NAME_1024'
+old = 'マグサス古水路　最奥'
+[[message]]
+key = 'SPOT_NAME_1025'
+old = '商店区 裏通り'
+[[message]]
+key = 'SPOT_NAME_1026'
+old = '謁見の間 手前'
+[[message]]
+key = 'SPOT_NAME_1027'
+old = '聖河の遺跡 船着き場'
+[[message]]
+key = 'SPOT_NAME_1028'
+old = 'ファーラナ平原 船着き場'
+[[message]]
+key = 'SPOT_NAME_1029'
+old = 'エラン水林 船着き場'
+[[message]]
+key = 'SPOT_NAME_1030'
+old = 'モローへの小路 船着き場'
+[[message]]
+key = 'SPOT_NAME_1031'
+old = '隠れ村ピレモス'
+[[message]]
+key = 'SPOT_NAME_1032'
+old = 'ロスギル'
+[[message]]
+key = 'SPOT_NAME_1034'
+old = '小鬼の物見台'
+[[message]]
+key = 'SPOT_NAME_1035'
+old = '遠吠えの前線'
+[[message]]
+key = 'SPOT_NAME_1036'
+old = '廃村デニスィル'
+[[message]]
+key = 'SPOT_NAME_1037'
+old = '休憩所跡地'
+[[message]]
+key = 'SPOT_NAME_1038'
+old = '落露の大穴'
+[[message]]
+key = 'SPOT_NAME_1039'
+old = 'フェルヤナ関所前'
+[[message]]
+key = 'SPOT_NAME_1040'
+old = '最果ての岸'
+[[message]]
+key = 'SPOT_NAME_1041'
+old = 'オジナの支配圏'
+[[message]]
+key = 'SPOT_NAME_1042'
+old = '魔軍進行中継場'
+[[message]]
+key = 'SPOT_NAME_1043'
+old = '嘆きの湿原'
+[[message]]
+key = 'SPOT_NAME_1044'
+old = '大門前野営地'
+[[message]]
+key = 'SPOT_NAME_1045'
+old = '銀隠者の根城'
+[[message]]
+key = 'SPOT_NAME_1046'
+old = '忌み標の領域'
+[[message]]
+key = 'SPOT_NAME_1047'
+old = '火垂れ山の穿ち石'
+[[message]]
+key = 'SPOT_NAME_1048'
+old = '幽縁ヶ浜'
+[[message]]
+key = 'SPOT_NAME_1049'
+old = '慈恵の斎場'
+[[message]]
+key = 'SPOT_NAME_1050'
+old = '魔軍出撃待機所'
+[[message]]
+key = 'SPOT_NAME_1051'
+old = '虜囚尋問牢'
+[[message]]
+key = 'SPOT_NAME_1058'
+old = 'ラスニテ山麓'
+[[message]]
+key = 'SPOT_NAME_1059'
+old = 'ラスニテ山麓　湖畔部'
+[[message]]
+key = 'SPOT_NAME_1060'
+old = 'フェルヤナ荒原'
+[[message]]
+key = 'SPOT_NAME_1061'
+old = 'メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1063'
+old = 'ラスニテ地下水路'
+[[message]]
+key = 'SPOT_NAME_1064'
+old = '水源へ続く地下道'
+[[message]]
+key = 'SPOT_NAME_1065'
+old = '冥府下りの洞穴'
+[[message]]
+key = 'SPOT_NAME_1066'
+old = 'イミズディット遺跡'
+[[message]]
+key = 'SPOT_NAME_1067'
+old = 'ウルタ古水路'
+[[message]]
+key = 'SPOT_NAME_1068'
+old = 'ラスニテ納骨廟'
+[[message]]
+key = 'SPOT_NAME_1069'
+old = '劫炎の祠堂'
+[[message]]
+key = 'SPOT_NAME_1070'
+old = '轟咆洞'
+[[message]]
+key = 'SPOT_NAME_1071'
+old = '安息無き地下水道'
+[[message]]
+key = 'SPOT_NAME_1072'
+old = 'いつわりの遺構'
+[[message]]
+key = 'SPOT_NAME_1073'
+old = '静穏の隠れ洞'
+[[message]]
+key = 'SPOT_NAME_1074'
+old = 'メガド上水網'
+[[message]]
+key = 'SPOT_NAME_1075'
+old = 'メガド大聖堂'
+[[message]]
+key = 'SPOT_NAME_1076'
+old = '戦練の社'
+[[message]]
+key = 'SPOT_NAME_1081'
+old = '魔軍緊急野営地'
+[[message]]
+key = 'SPOT_NAME_1082'
+old = '獣将の園生'
+[[message]]
+key = 'SPOT_NAME_1085'
+old = '軍妖鳥の関所'
+[[message]]
+key = 'SPOT_NAME_1086'
+old = '軍鬼の哨戒地'
+[[message]]
+key = 'SPOT_NAME_1087'
+old = 'ニルビリス大橋関所'
+[[message]]
+key = 'SPOT_NAME_1088'
+old = '軍獣強化場'
+[[message]]
+key = 'SPOT_NAME_1091'
+old = 'ティネス砦'
+[[message]]
+key = 'SPOT_NAME_1092'
+old = '展望城'
+[[message]]
+key = 'SPOT_NAME_1093'
+old = 'メフィテ'
+[[message]]
+key = 'SPOT_NAME_1094'
+old = 'ベルタ盗賊団のアジト'
+[[message]]
+key = 'SPOT_NAME_1095'
+old = '湖畔の洞窟'
+[[message]]
+key = 'SPOT_NAME_1096'
+old = '秘泉への暗道'
+[[message]]
+key = 'SPOT_NAME_1097'
+old = '城塞都市メガド 居住層'
+[[message]]
+key = 'SPOT_NAME_1098'
+old = '城塞都市メガド 王宮層'
+[[message]]
+key = 'SPOT_NAME_1099'
+old = 'メガド回廊'
+[[message]]
+key = 'SPOT_NAME_1100'
+old = '魔軍戦車駐留地'
+[[message]]
+key = 'SPOT_NAME_1101'
+old = '古テキア洞窟'
+[[message]]
+key = 'SPOT_NAME_1102'
+old = '隠匿の王間'
+[[message]]
+key = 'SPOT_NAME_1104'
+old = '王家の隠れ道'
+[[message]]
+key = 'SPOT_NAME_1105'
+old = 'ダクレイム砦'
+[[message]]
+key = 'SPOT_NAME_1106'
+old = 'ジフール砦'
+[[message]]
+key = 'SPOT_NAME_1107'
+old = 'ラスニテ山麓 北側'
+[[message]]
+key = 'SPOT_NAME_1108'
+old = '英霊眠りし道　ラスニテ山麓'
+[[message]]
+key = 'SPOT_NAME_1109'
+old = '英霊眠りし道　フェルヤナ荒原'
+[[message]]
+key = 'SPOT_NAME_1110'
+old = 'メガドシスの記憶'
+[[message]]
+key = 'SPOT_NAME_1112'
+old = '王家の隠れ道 秘密の扉前'
+[[message]]
+key = 'SPOT_NAME_1113'
+old = '湖畔の洞窟 深層部'
+[[message]]
+key = 'SPOT_NAME_1114'
+old = '湖畔の洞窟 鍾乳洞'
+[[message]]
+key = 'SPOT_NAME_1115'
+old = '湖畔の洞窟 通路'
+[[message]]
+key = 'SPOT_NAME_1116'
+old = '秘泉への暗道 深層部'
+[[message]]
+key = 'SPOT_NAME_1117'
+old = '王家の隠れ道 書庫'
+[[message]]
+key = 'SPOT_NAME_1118'
+old = '王家の隠れ道 聖堂'
+[[message]]
+key = 'SPOT_NAME_1119'
+old = '王家の隠れ道 宝物庫'
+[[message]]
+key = 'SPOT_NAME_1120'
+old = '冥府下りの洞穴 奥底'
+[[message]]
+key = 'SPOT_NAME_1121'
+old = 'ラスニテ地下水路 通路'
+[[message]]
+key = 'SPOT_NAME_1122'
+old = 'イミズディット遺跡 通路'
+[[message]]
+key = 'SPOT_NAME_1123'
+old = 'イミズディット遺跡 深層部'
+[[message]]
+key = 'SPOT_NAME_1124'
+old = 'ウルタ古水路 通路'
+[[message]]
+key = 'SPOT_NAME_1125'
+old = 'ラスニテ納骨廟 中央広場'
+[[message]]
+key = 'SPOT_NAME_1126'
+old = 'ラスニテ納骨廟 深層部'
+[[message]]
+key = 'SPOT_NAME_1127'
+old = '劫炎の祠堂 脇道'
+[[message]]
+key = 'SPOT_NAME_1128'
+old = '轟咆洞 深層部'
+[[message]]
+key = 'SPOT_NAME_1129'
+old = '轟咆洞 脇道'
+[[message]]
+key = 'SPOT_NAME_1130'
+old = '安息無き地下水道 深層部'
+[[message]]
+key = 'SPOT_NAME_1131'
+old = 'いつわりの遺構 通路'
+[[message]]
+key = 'SPOT_NAME_1132'
+old = 'いつわりの遺構 武器庫'
+[[message]]
+key = 'SPOT_NAME_1133'
+old = 'いつわりの遺構 深層部'
+[[message]]
+key = 'SPOT_NAME_1134'
+old = '展望城 上層'
+[[message]]
+key = 'SPOT_NAME_1135'
+old = '展望城 地下牢'
+[[message]]
+key = 'SPOT_NAME_1136'
+old = '展望城 大広間'
+[[message]]
+key = 'SPOT_NAME_1137'
+old = '展望城 王宮層'
+[[message]]
+key = 'SPOT_NAME_1138'
+old = '展望城 中層'
+[[message]]
+key = 'SPOT_NAME_1139'
+old = '展望城 城門前'
+[[message]]
+key = 'SPOT_NAME_1140'
+old = 'フェルヤナ荒原 西側'
+[[message]]
+key = 'SPOT_NAME_1141'
+old = '英霊眠りし道 祠 通路'
+[[message]]
+key = 'SPOT_NAME_1142'
+old = '英霊眠りし道 祠 深層'
+[[message]]
+key = 'SPOT_NAME_1143'
+old = '英霊眠りし道 祠 第一の間'
+[[message]]
+key = 'SPOT_NAME_1144'
+old = '英霊眠りし道 祠 第二の間'
+[[message]]
+key = 'SPOT_NAME_1145'
+old = '英霊眠りし道 祠 第三の間'
+[[message]]
+key = 'SPOT_NAME_1146'
+old = '英霊眠りし道 祠 第四の間'
+[[message]]
+key = 'SPOT_NAME_1147'
+old = '英霊眠りし道 洞窟 通路'
+[[message]]
+key = 'SPOT_NAME_1148'
+old = '英霊眠りし道 洞窟 第一の間'
+[[message]]
+key = 'SPOT_NAME_1149'
+old = '英霊眠りし道 洞窟 第二の間'
+[[message]]
+key = 'SPOT_NAME_1150'
+old = '英霊眠りし道 洞窟 第三の間'
+[[message]]
+key = 'SPOT_NAME_1151'
+old = '英霊眠りし道 洞窟 第四の間'
+[[message]]
+key = 'SPOT_NAME_1152'
+old = '英霊眠りし道 洞窟 深層'
+[[message]]
+key = 'SPOT_NAME_1153'
+old = '英霊眠りし道 洞窟 深層 第一の間'
+[[message]]
+key = 'SPOT_NAME_1154'
+old = '英霊眠りし道 洞窟 深層 第二の間'
+[[message]]
+key = 'SPOT_NAME_1155'
+old = '英霊眠りし道 洞窟 深層 第三の間'
+[[message]]
+key = 'SPOT_NAME_1156'
+old = '英霊眠りし道 洞窟 深層 第四の間'
+[[message]]
+key = 'SPOT_NAME_1157'
+old = '英霊眠りし道 水路 脇道'
+[[message]]
+key = 'SPOT_NAME_1158'
+old = '英霊眠りし道 水路 第一の間'
+[[message]]
+key = 'SPOT_NAME_1159'
+old = '英霊眠りし道 水路 第二の間'
+[[message]]
+key = 'SPOT_NAME_1160'
+old = '英霊眠りし道 水路 第三の間'
+[[message]]
+key = 'SPOT_NAME_1161'
+old = '英霊眠りし道 水路 第四の間'
+[[message]]
+key = 'SPOT_NAME_1162'
+old = '英霊眠りし道 洞窟 深層 脇道'
+[[message]]
+key = 'SPOT_NAME_1163'
+old = '英霊眠りし道 祠 石像の間'
+[[message]]
+key = 'SPOT_NAME_1164'
+old = '英霊眠りし道 洞窟 石像の間'
+[[message]]
+key = 'SPOT_NAME_1165'
+old = '英霊眠りし道 洞窟 深層 石像の間'
+[[message]]
+key = 'SPOT_NAME_1166'
+old = '英霊眠りし道 水路 石像の間'
+[[message]]
+key = 'SPOT_NAME_1167'
+old = '英霊眠りし道 水路 武神の間'
+[[message]]
+key = 'SPOT_NAME_1168'
+old = 'エリ警備塔'
+[[message]]
+key = 'SPOT_NAME_1169'
+old = 'メルゴダ・黄金宮'
+[[message]]
+key = 'SPOT_NAME_1170'
+old = 'ティネス砦　大食堂'
+[[message]]
+key = 'SPOT_NAME_1171'
+old = '英霊眠りし道 遺跡'
+[[message]]
+key = 'SPOT_NAME_1172'
+old = '英霊眠りし道 遺跡 通路'
+[[message]]
+key = 'SPOT_NAME_1173'
+old = '英霊眠りし道 遺跡 螺旋回廊'
+[[message]]
+key = 'SPOT_NAME_1174'
+old = '英霊眠りし道 遺跡 第一の間'
+[[message]]
+key = 'SPOT_NAME_1175'
+old = '英霊眠りし道 遺跡 第二の間'
+[[message]]
+key = 'SPOT_NAME_1176'
+old = '英霊眠りし道 遺跡 第三の間'
+[[message]]
+key = 'SPOT_NAME_1177'
+old = '英霊眠りし道 遺跡 第四の間'
+[[message]]
+key = 'SPOT_NAME_1178'
+old = '英霊眠りし道 遺跡 石像の間'
+[[message]]
+key = 'SPOT_NAME_1179'
+old = '英霊眠りし道 井戸 入口'
+[[message]]
+key = 'SPOT_NAME_1180'
+old = '英霊眠りし道 井戸'
+[[message]]
+key = 'SPOT_NAME_1181'
+old = '英霊眠りし道 井戸 通路'
+[[message]]
+key = 'SPOT_NAME_1182'
+old = '英霊眠りし道 井戸 深部'
+[[message]]
+key = 'SPOT_NAME_1183'
+old = '英霊眠りし道 井戸 第一の間'
+[[message]]
+key = 'SPOT_NAME_1184'
+old = '英霊眠りし道 井戸 第二の間'
+[[message]]
+key = 'SPOT_NAME_1185'
+old = '英霊眠りし道 井戸 第三の間'
+[[message]]
+key = 'SPOT_NAME_1186'
+old = '英霊眠りし道 井戸 第四の間'
+[[message]]
+key = 'SPOT_NAME_1187'
+old = '英霊眠りし道 井戸 石像の間'
+[[message]]
+key = 'SPOT_NAME_1188'
+old = '英霊眠りし道 墓所'
+[[message]]
+key = 'SPOT_NAME_1189'
+old = '英霊眠りし道 墓所 通路'
+[[message]]
+key = 'SPOT_NAME_1190'
+old = '英霊眠りし道 墓所 広間'
+[[message]]
+key = 'SPOT_NAME_1191'
+old = '英霊眠りし道 墓所 第一の間'
+[[message]]
+key = 'SPOT_NAME_1192'
+old = '英霊眠りし道 墓所 第二の間'
+[[message]]
+key = 'SPOT_NAME_1193'
+old = '英霊眠りし道 墓所 第三の間'
+[[message]]
+key = 'SPOT_NAME_1194'
+old = '英霊眠りし道 墓所 第四の間'
+[[message]]
+key = 'SPOT_NAME_1195'
+old = '英霊眠りし道 墓所 石像の間'
+[[message]]
+key = 'SPOT_NAME_1196'
+old = '英霊眠りし道 遺跡 深層'
+[[message]]
+key = 'SPOT_NAME_1197'
+old = '英霊眠りし道 遺跡 深層 広間'
+[[message]]
+key = 'SPOT_NAME_1198'
+old = '英霊眠りし道 遺跡 深層 通路'
+[[message]]
+key = 'SPOT_NAME_1199'
+old = '英霊眠りし道 遺跡 深層 隠し通路'
+[[message]]
+key = 'SPOT_NAME_1200'
+old = '英霊眠りし道 遺跡 深層 大広間'
+[[message]]
+key = 'SPOT_NAME_1201'
+old = '英霊眠りし道 遺跡 深層 第一の間'
+[[message]]
+key = 'SPOT_NAME_1202'
+old = '英霊眠りし道 遺跡 深層 第二の間'
+[[message]]
+key = 'SPOT_NAME_1203'
+old = '英霊眠りし道 遺跡 深層 第三の間'
+[[message]]
+key = 'SPOT_NAME_1204'
+old = '英霊眠りし道 遺跡 深層 第四の間'
+[[message]]
+key = 'SPOT_NAME_1205'
+old = '英霊眠りし道 遺跡 深層 石像の間'
+[[message]]
+key = 'SPOT_NAME_1207'
+old = '英霊眠りし道 遺跡 深層 武神の間'
+[[message]]
+key = 'SPOT_NAME_1209'
+old = '展望城 中庭'
+[[message]]
+key = 'SPOT_NAME_1210'
+old = 'メガドシス古道'
+[[message]]
+key = 'SPOT_NAME_1211'
+old = 'メガドへの隠れ水路'
+[[message]]
+key = 'SPOT_NAME_1212'
+old = 'タリーエの小塔'
+[[message]]
+key = 'SPOT_NAME_1213'
+old = '聖遺の塔'
+[[message]]
+key = 'SPOT_NAME_1214'
+old = '予備枠'
+[[message]]
+key = 'SPOT_NAME_1215'
+old = '高地のあばら屋'
+[[message]]
+key = 'SPOT_NAME_1223'
+old = '兵士詰所'
+[[message]]
+key = 'SPOT_NAME_1224'
+old = '集会場'
+[[message]]
+key = 'SPOT_NAME_1225'
+old = '兵舎'
+[[message]]
+key = 'SPOT_NAME_1226'
+old = '第一捕虜収容所'
+[[message]]
+key = 'SPOT_NAME_1227'
+old = '第一の門'
+[[message]]
+key = 'SPOT_NAME_1228'
+old = '第一防衛区画'
+[[message]]
+key = 'SPOT_NAME_1229'
+old = '大演習場'
+[[message]]
+key = 'SPOT_NAME_1230'
+old = '隔離兵舎'
+[[message]]
+key = 'SPOT_NAME_1231'
+old = '第二捕虜収容所'
+[[message]]
+key = 'SPOT_NAME_1232'
+old = '第二の門'
+[[message]]
+key = 'SPOT_NAME_1233'
+old = '第二防衛区画'
+[[message]]
+key = 'SPOT_NAME_1234'
+old = '最終防衛区画'
+[[message]]
+key = 'SPOT_NAME_1235'
+old = '展望城城外'
+[[message]]
+key = 'SPOT_NAME_1236'
+old = '展望城城外 ソネルキャンプ'
+[[message]]
+key = 'SPOT_NAME_1237'
+old = 'テントの抜け道'
+[[message]]
+key = 'SPOT_NAME_1238'
+old = '城塞都市メガド 城門'
+[[message]]
+key = 'SPOT_NAME_1239'
+old = 'ヴァネッサの私室'
+[[message]]
+key = 'SPOT_NAME_1240'
+old = '城塞都市メガド 大通り'
+[[message]]
+key = 'SPOT_NAME_1241'
+old = '城塞都市メガド 美容院前'
+[[message]]
+key = 'SPOT_NAME_1242'
+old = '城塞都市メガド 裏広場'
+[[message]]
+key = 'SPOT_NAME_1243'
+old = '城塞都市メガド 広場'
+[[message]]
+key = 'SPOT_NAME_1244'
+old = '城塞都市メガド 酒場'
+[[message]]
+key = 'SPOT_NAME_1245'
+old = '城塞都市メガド 旧英霊廟前'
+[[message]]
+key = 'SPOT_NAME_1246'
+old = '城塞都市メガド 水車部屋前'
+[[message]]
+key = 'SPOT_NAME_1247'
+old = '城塞都市メガド クラフトルーム'
+[[message]]
+key = 'SPOT_NAME_1248'
+old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1250'
+old = '古テキア洞窟　中心部'
+[[message]]
+key = 'SPOT_NAME_1251'
+old = '城塞都市メガド'
+[[message]]
+key = 'SPOT_NAME_1252'
+old = 'メガドシス古道 フェルヤナ方面'
+[[message]]
+key = 'SPOT_NAME_1253'
+old = 'メガドシス古道 中腹'
+[[message]]
+key = 'SPOT_NAME_1254'
+old = 'メガドシス古道 メガドシス方面'
+[[message]]
+key = 'SPOT_NAME_1255'
+old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1256'
+old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1257'
+old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1258'
+old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1259'
+old = '静穏の隠れ洞 洞窟通路'
+[[message]]
+key = 'SPOT_NAME_1260'
+old = '静穏の隠れ洞 洞窟通路'
+[[message]]
+key = 'SPOT_NAME_1261'
+old = '静穏の隠れ洞 最奥'
+[[message]]
+key = 'SPOT_NAME_1262'
+old = 'メガド上水網 通路'
+[[message]]
+key = 'SPOT_NAME_1263'
+old = 'メガド上水網 深層部'
+[[message]]
+key = 'SPOT_NAME_1264'
+old = '戦練の社 霊の路'
+[[message]]
+key = 'SPOT_NAME_1265'
+old = '戦練の社 霊の路'
+[[message]]
+key = 'SPOT_NAME_1266'
+old = '戦練の社 不死の路'
+[[message]]
+key = 'SPOT_NAME_1267'
+old = '戦練の社 不死の路'
+[[message]]
+key = 'SPOT_NAME_1268'
+old = '戦練の社 自然の路'
+[[message]]
+key = 'SPOT_NAME_1269'
+old = '戦練の社 最奥'
+[[message]]
+key = 'SPOT_NAME_1270'
+old = '城塞都市メガド 王宮層 玉座'
+[[message]]
+key = 'SPOT_NAME_1271'
+old = '黒呪の迷宮：入り江'
+[[message]]
+key = 'SPOT_NAME_1272'
+old = '大地の記憶 メガドシス古道 脇道'
+[[message]]
+key = 'SPOT_NAME_1273'
+old = '霧の森 征圧エリア １'
+[[message]]
+key = 'SPOT_NAME_1274'
+old = '霧の森 征圧エリア ２'
+[[message]]
+key = 'SPOT_NAME_1275'
+old = '霧の森 征圧エリア ３'
+[[message]]
+key = 'SPOT_NAME_1276'
+old = '霧の森 征圧エリア ４'
+[[message]]
+key = 'SPOT_NAME_1277'
+old = '霧の森 征圧エリア ５'
+[[message]]
+key = 'SPOT_NAME_1278'
+old = '霧の森 征圧エリア ６'
+[[message]]
+key = 'SPOT_NAME_1279'
+old = '霧の森 征圧エリア ７'
+[[message]]
+key = 'SPOT_NAME_1280'
+old = '霧の森'
+[[message]]
+key = 'SPOT_NAME_1281'
+old = '展望城 港'
+[[message]]
+key = 'SPOT_NAME_1286'
+old = '異界の扉'
+[[message]]
+key = 'SPOT_NAME_1288'
+old = '旧英霊廟'
+[[message]]
+key = 'SPOT_NAME_1297'
+old = '大地の記憶 メガドシス古道 フェルヤナ方面'
+[[message]]
+key = 'SPOT_NAME_1298'
+old = '大地の記憶 メガドシス古道 中腹'
+[[message]]
+key = 'SPOT_NAME_1299'
+old = '大地の記憶 メガドシス古道 メガドシス方面'

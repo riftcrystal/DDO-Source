@@ -1,0 +1,18 @@
+﻿[[message]]
+key = 'weather_forecast_title'
+old = '<COL ffdc78>≪今後６時間ごとの天気≫</COL>'
+[[message]]
+key = 'weather_fine'
+old = '　<COL fff300>＜晴れ＞</COL>'
+[[message]]
+key = 'weather_cloudy'
+old = '　<COL acdfcf>＜曇り＞</COL>'
+[[message]]
+key = 'weather_rainy'
+old = '　<COL 8ff4ff>＜雨＞</COL>'
+[[message]]
+key = 'game_time_format'
+old = '　レスタニア（ＧＴ）　%02d:%02d'
+[[message]]
+key = 'local_time_format'
+old = '　ローカル　（ＬＴ）　%02d:%02d'

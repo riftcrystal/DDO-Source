@@ -1,0 +1,6 @@
+﻿[[message]]
+key = 'PlatformWord_Controller'
+old = 'コントローラー'
+[[message]]
+key = 'PlatformWord_PlatformName'
+old = 'PC'

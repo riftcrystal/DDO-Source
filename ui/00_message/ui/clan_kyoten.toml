@@ -1,0 +1,115 @@
+﻿[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_SUB_TITLE'
+old = '拠点拡張'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_TITLE'
+old = 'Base Extention'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ITEM'
+old = '拡張項目'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_PRICE'
+old = '価格'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BOUGHT'
+old = '購入済み'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_DETAIL'
+old = 'Details'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CONDITION'
+old = '購入条件'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_NEED_LV'
+old = 'クラン<VAL LV>以上'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BOUGHT_FUNC_NOTICE'
+old = '''
+<VAL>を購入しました
+次回、クラン拠点へ訪れた時に反映されます'''
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BOUGHT_PAWN_EXPEDITION'
+old = 'ポーン遠征隊を解放しました'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUY_FUNC_CONFIRM'
+old = '''
+以下を購入します。よろしいですか？
+　拡張項目：<VAL>
+　購入価格：<VAL CP>'''
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_NEED_ITEM'
+old = '<VAL>の解放'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUFF_EFFECT'
+old = '支援効果'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ACTIVE'
+old = '発動中'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUY_BUFF_CONFIRM'
+old = '''
+以下を購入します。よろしいですか？
+　支援効果：<VAL>
+　購入価格：<VAL CP>'''
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BOUGHT_BUFF_NOTICE'
+old = '''
+<VAL>を発動しました
+本日のポーン遠征隊の派遣に反映されます'''
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_BOUGHT'
+old = 'すでに購入済みです'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_NO_AUTHORITY'
+old = 'クランポイントを使用する権限が与えられていません'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CONDITION'
+old = '購入条件が満たされていません'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_NOT_ENOUGH_CP'
+old = 'クランポイントが足りません'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_ACTIVE'
+old = 'すでに発動中の効果です'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUFF_TITLE'
+old = 'Pawn Expedition Support'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUFF_SUB_TITLE'
+old = 'ポーン遠征隊支援'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CONCIERGE_TITLE'
+old = 'Clan Office Officer'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CONCIERGE_SUB_TITLE'
+old = 'クラン執務官'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CONCIERGE'
+old = 'スタッフ'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_NOT_CHANGE_AUTHORITY'
+old = '変更する権限がありません'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_ERR_ALREADY_SET'
+old = 'すでに設定されています'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CATEGORY_BUFF'
+old = 'ポーン遠征隊支援'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CATEGORY_EXT'
+old = 'クラン拠点拡張'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_CATEGORY_PAWN_EXP'
+old = 'ポーン遠征隊拡張'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_APPLY'
+old = '設定中'
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BUY_CONCIERGE_CONFIRM'
+old = '''
+クラン執務官を変更します。よろしいですか？
+　スタッフ：<VAL>
+　購入価格：<VAL CP>'''
+[[message]]
+key = 'CLAN_KYOTEN_MSG_EXT_BOUGHT_CONCIERGE_NOTICE'
+old = 'クラン執務官を<VAL>に変更しました'

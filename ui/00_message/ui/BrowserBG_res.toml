@@ -1,0 +1,15 @@
+﻿[[message]]
+key = 'NFB_MSG_TITLE_E'
+old = 'Web Browser'
+[[message]]
+key = 'NFB_MSG_BACK'
+old = '操作を戻す'
+[[message]]
+key = 'NFB_MSG_RETURN'
+old = '戻る'
+[[message]]
+key = 'NFB_MSG_ADVANCE'
+old = '進む'
+[[message]]
+key = 'NFB_MSG_RELOAD'
+old = '更新'

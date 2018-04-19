@@ -1,0 +1,711 @@
+﻿[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_1'
+old = 'マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_2'
+old = 'マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_3'
+old = 'マンドラゴラ・観葉体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_4'
+old = 'マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_5'
+old = 'マンドラフラワー・フィンドブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_6'
+old = 'マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_7'
+old = 'マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_8'
+old = 'マンドラフラワー・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_9'
+old = 'マンドラブーケ・フィンドブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_10'
+old = 'マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_11'
+old = 'マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_12'
+old = 'マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_13'
+old = 'マンドラマッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_14'
+old = 'マンドラマッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_15'
+old = 'マンドラマッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_16'
+old = 'マンドラマッシュルーム・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_17'
+old = 'マンドラマッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_18'
+old = 'マンドラマッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_19'
+old = 'マンドラマッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_20'
+old = 'マンドラマッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_21'
+old = 'マンドラフラワー・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_22'
+old = 'マンドラブーケ・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_23'
+old = 'マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_24'
+old = 'マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_25'
+old = 'マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_26'
+old = 'マンドラマッシュルーム・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_27'
+old = 'マンドラマッシュルーム・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_28'
+old = 'マンドラマッシュルーム・ブラウン'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_29'
+old = 'マンドラマッシュルームズ・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_30'
+old = 'マンドラマッシュルームズ・ブラウン'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_31'
+old = 'マンドラマッシュルームズ・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_32'
+old = 'マンドラココナッツ・若木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_33'
+old = 'マンドラココナッツ・成木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_34'
+old = 'マンドラココナッツ・果実'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_35'
+old = 'マンドレインジア・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_36'
+old = 'マンドレインジア・ピンク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_37'
+old = 'マンドレインジア・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_101'
+old = 'チリマンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_102'
+old = 'チリマンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_103'
+old = 'チリマンドラゴラ・観葉体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_104'
+old = 'マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_105'
+old = 'マンドラフラワー・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_106'
+old = 'マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_107'
+old = 'マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_108'
+old = 'マンドラフラワー・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_109'
+old = 'マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_110'
+old = 'マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_111'
+old = 'マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_112'
+old = 'マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_113'
+old = 'マンドラマッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_114'
+old = 'マンドラマッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_115'
+old = 'マンドラマッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_116'
+old = 'マンドラマッシュルーム・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_117'
+old = 'マッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_118'
+old = 'マッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_119'
+old = 'マッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_120'
+old = 'マッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_121'
+old = 'マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_122'
+old = 'マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_123'
+old = 'マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_124'
+old = 'マンドレインジア・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_125'
+old = 'マンドレインジア・ピンク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_126'
+old = 'マンドレインジア・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_201'
+old = 'アルビノマンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_202'
+old = 'アルビノマンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_203'
+old = 'アルビノマンドラゴラ・観葉体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_204'
+old = 'マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_205'
+old = 'マンドラフラワー・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_206'
+old = 'マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_207'
+old = 'マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_208'
+old = 'マンドラフラワー・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_209'
+old = 'マンドラフラワー・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_210'
+old = 'マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_211'
+old = 'マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_212'
+old = 'マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_213'
+old = 'マンドラブーケ・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_214'
+old = 'マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_215'
+old = 'マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_216'
+old = 'マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_217'
+old = 'マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_218'
+old = 'マンドラマッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_219'
+old = 'マンドラマッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_220'
+old = 'マンドラマッシュルーム・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_221'
+old = 'マンドラマッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_222'
+old = 'マンドラマッシュルーム・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_223'
+old = 'マンドラマッシュルーム・ブラウン'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_224'
+old = 'マンドラマッシュルーム・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_225'
+old = 'マンドラマッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_226'
+old = 'マンドラマッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_227'
+old = 'マンドラマッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_228'
+old = 'マンドラマッシュルームズ・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_229'
+old = 'マンドラマッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_230'
+old = 'マンドラマッシュルームズ・ブラウン'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_231'
+old = 'マンドラマッシュルームズ・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_232'
+old = 'マンドレインジア・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_233'
+old = 'マンドレインジア・ピンク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_234'
+old = 'マンドレインジア・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_301'
+old = 'チャコマンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_302'
+old = 'チャコマンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_303'
+old = 'チャコマンドラゴラ・観葉体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_304'
+old = 'マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_305'
+old = 'マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_306'
+old = 'マンドラフラワー・ダーク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_307'
+old = 'マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_308'
+old = 'マンドラブーケ・ダーク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_309'
+old = 'マンドラマッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_310'
+old = 'マンドラマッシュルーム・ダーク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_311'
+old = 'マンドラマッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_312'
+old = 'マンドラマッシュルームズ・ダーク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_315'
+old = 'マンドレインジア・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_316'
+old = 'マンドレインジア・ピンク'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_317'
+old = 'マンドレインジア・パープル'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_501'
+old = '【銅】マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_502'
+old = '【銅】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_503'
+old = '【銅】マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_504'
+old = '【銅】マンドラフラワー・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_505'
+old = '【銅】マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_506'
+old = '【銅】マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_507'
+old = '【銅】マンドラフラワー・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_508'
+old = '【銅】マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_509'
+old = '【銅】マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_510'
+old = '【銅】マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_511'
+old = '【銅】マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_512'
+old = '【銅】マッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_513'
+old = '【銅】マッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_514'
+old = '【銅】マッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_515'
+old = '【銅】マッシュルーム・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_516'
+old = '【銅】マッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_517'
+old = '【銅】マッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_518'
+old = '【銅】マッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_519'
+old = '【銅】マッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_520'
+old = '【銅】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_521'
+old = '【銅】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_522'
+old = '【銅】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_531'
+old = '【銀】マンドラフラワー・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_532'
+old = '【銀】マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_533'
+old = '【銀】マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_534'
+old = '【銀】マンドラフラワー・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_535'
+old = '【銀】マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_536'
+old = '【銀】マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_537'
+old = '【銀】マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_538'
+old = '【銀】マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_539'
+old = '【銀】マッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_540'
+old = '【銀】マッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_541'
+old = '【銀】マッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_542'
+old = '【銀】マッシュルーム・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_543'
+old = '【銀】マッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_544'
+old = '【銀】マッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_545'
+old = '【銀】マッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_546'
+old = '【銀】マッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_547'
+old = '【銀】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_548'
+old = '【銀】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_549'
+old = '【銀】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_561'
+old = '【金】マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_562'
+old = '【金】マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_563'
+old = '【金】マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_564'
+old = '【金】マンドラブーケ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_565'
+old = '【金】マッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_566'
+old = '【金】マッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_567'
+old = '【金】マッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_568'
+old = '【金】マッシュルームズ・ホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_569'
+old = '【金】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_570'
+old = '【金】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_571'
+old = '【金】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_591'
+old = '【黒鋼】マンドラブーケ・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_592'
+old = '【黒鋼】マッシュルームズ・ブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_601'
+old = '【アイス】マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_602'
+old = '【アイス】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_603'
+old = '【アイス】マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_604'
+old = '【アイス】マンドラフラワー・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_605'
+old = '【アイス】マンドラブーケ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_606'
+old = '【アイス】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_607'
+old = '【アイス】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_608'
+old = '【アイス】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_609'
+old = '【アイス】マッシュルーム・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_610'
+old = '【アイス】マッシュルームズ・ブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_611'
+old = '【アイス】マンドレインジア'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_621'
+old = '【ベリー】マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_622'
+old = '【ベリー】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_623'
+old = '【ベリー】マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_624'
+old = '【ベリー】マンドラフラワー・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_625'
+old = '【ベリー】マンドラブーケ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_626'
+old = '【ベリー】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_627'
+old = '【ベリー】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_628'
+old = '【ベリー】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_629'
+old = '【ベリー】マッシュルーム・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_630'
+old = '【ベリー】マッシュルームズ・レッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_631'
+old = '【ベリー】マンドレインジア'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_641'
+old = '【ハニー】マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_642'
+old = '【ハニー】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_643'
+old = '【ハニー】マンドラフラワー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_644'
+old = '【ハニー】マンドラフラワー・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_645'
+old = '【ハニー】マンドラブーケ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_646'
+old = '【ハニー】マンドラツリー・枯れ木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_647'
+old = '【ハニー】マンドラツリー・三分咲き'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_648'
+old = '【ハニー】マンドラツリー・満開'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_649'
+old = '【ハニー】マッシュルーム・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_650'
+old = '【ハニー】マッシュルームズ・イエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_651'
+old = '【ハニー】マンドレインジア'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_661'
+old = '【ミント】マンドラゴラ・幼生体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_662'
+old = '【ミント】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_663'
+old = '【ミント】マンドラゴラ・観葉体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_664'
+old = '【ミント】マンドラココナッツ・若木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_665'
+old = '【ミント】マンドラココナッツ・成木'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_666'
+old = '【ミント】マンドラココナッツ・果実'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_701'
+old = '【ブルー】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_702'
+old = '【レッド】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_703'
+old = '【イエロー】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_704'
+old = '【ホワイト】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_705'
+old = '【ブラック】マンドラゴラ・成体'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_706'
+old = '【ブルー】マンドラフラワーブルーム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_707'
+old = '【レッド】マンドラフラワーブルーム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_708'
+old = '【イエロー】マンドラフラワーブルーム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_709'
+old = '【ホワイト】マンドラフラワーブルーム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_710'
+old = '【ブラック】マンドラフラワーブルーム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_711'
+old = '【ブルー】マンドラブロッサム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_712'
+old = '【レッド】マンドラブロッサム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_713'
+old = '【イエロー】マンドラブロッサム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_714'
+old = '【ホワイト】マンドラブロッサム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_715'
+old = '【ブラック】マンドラブロッサム'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_801'
+old = '【青銅】マンドラプスフラワーブルー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_802'
+old = '【赤銅】マンドラプスフラワーレッド'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_803'
+old = '【真鍮】マンドラプスフラワーイエロー'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_804'
+old = '【白銀】マンドラプスフラワーホワイト'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_805'
+old = '【黒曜】マンドラプスフラワーブラック'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_806'
+old = '【青銅】マンドラプスブーケ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_807'
+old = '【赤銅】マンドラプスブーケ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_808'
+old = '【真鍮】マンドラプスブーケ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_809'
+old = '【白銀】マンドラプスブーケ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_810'
+old = '【黒曜】マンドラプスブーケ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_990'
+old = 'マンドラパンプキン'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_991'
+old = 'マンドラバンパイア'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_992'
+old = 'マンドラトナカイ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_993'
+old = 'マンドラサンタクロース'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_994'
+old = 'おばけマンドラゴラ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_995'
+old = 'ルミナスマンドラ･ランプ'
+[[message]]
+key = 'MANDRAGORA_SPECIES_NAME_996'
+old = 'おうさまマンドラゴラ'

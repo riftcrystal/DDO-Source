@@ -1,0 +1,69 @@
+﻿[[message]]
+key = 'JMMH_MSG_ALLTASK_CLEAR_STR'
+old = '課題を達成し、ジョブマスターに報告しました'
+[[message]]
+key = 'JMMH_MSG_LV_STR'
+old = 'LV.'
+[[message]]
+key = 'JMMH_MSG_TASK_STR'
+old = '<VAL>で課題を達成し、ジョブマスターに報告せよ'
+[[message]]
+key = 'JMMH_MSG_SLASH_STR'
+old = '/'
+[[message]]
+key = 'JMMH_MSG_BEAT_STR'
+old = '<VAL LV>以上の<NAME ENEMY>を倒せ！'
+[[message]]
+key = 'JMMH_MSG_EQUIP_STR'
+old = 'を装備しろ！'
+[[message]]
+key = 'JMMH_MSG_MAX_STR'
+old = 'MAX'
+[[message]]
+key = 'JMMH_MSG_JOB_MASTER_STR'
+old = 'Job Master'
+[[message]]
+key = 'JMMH_MSG_JOB_MASTER_STR_JP'
+old = 'ジョブマスター'
+[[message]]
+key = 'JMMH_MSG_MASTER_HB_STR_JP'
+old = 'ジョブ修練ログ'
+[[message]]
+key = 'JMMH_MSG_LV_STR_2'
+old = 'Level'
+[[message]]
+key = 'JMMH_MSG_CUSTOM_SKILL_STR'
+old = 'カスタムスキル'
+[[message]]
+key = 'JMMH_MSG_ABILITY_STR'
+old = 'アビリティ'
+[[message]]
+key = 'JMMH_MSG_NEXT_STR'
+old = 'Next'
+[[message]]
+key = 'JOBEXAM_MSG_DECIDE_STR'
+old = 'OK'
+[[message]]
+key = 'JOBEXAM_MSG_SKILLGET_STR'
+old = '<NAME SKILL>の習得を認められた'
+[[message]]
+key = 'JOBEXAM_MSG_ABILITYGET_STR'
+old = '<NAME ABILITY>の習得を認められた'
+[[message]]
+key = 'JMMH_MSG_ENEMY_LEVEL_STR'
+old = '以上のオーブエネミーを倒せ！'
+[[message]]
+key = 'JMMH_MSG_MASTER_HB_STR'
+old = 'Training Note'
+[[message]]
+key = 'JMMH_MSG_TASK_EXAM_STR'
+old = '課題を達成し、ジョブマスターに報告せよ'
+[[message]]
+key = 'JMMH_MSG_JOB_STR'
+old = 'ジョブ'
+[[message]]
+key = 'JMMH_MSG_NO_ORDER_STR'
+old = '課題はありません'
+[[message]]
+key = 'JMMH_MSG_JOB_CHANGE_ENABLE'
+old = '転職できるようになりました'

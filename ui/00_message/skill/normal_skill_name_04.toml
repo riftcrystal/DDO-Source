@@ -1,0 +1,27 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_NAME_04_61'
+old = 'ブラストビット'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_62'
+old = 'ヒールオーラ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_63'
+old = 'ヒールオーラエクス'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_64'
+old = 'セイントオーラ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_65'
+old = 'セイントオーラエクス'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_66'
+old = 'フィールドシフト'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_68'
+old = 'フローティング'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_69'
+old = 'ライドヒールオーラ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_04_146'
+old = 'ライドセイントオーラ'

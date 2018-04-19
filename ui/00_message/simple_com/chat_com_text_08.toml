@@ -1,0 +1,246 @@
+﻿[[message]]
+key = 'CHAT_COM_313'
+old = '炎が弱点だ！'
+[[message]]
+key = 'CHAT_COM_314'
+old = '弱点は炎！'
+[[message]]
+key = 'CHAT_COM_315'
+old = '氷が弱点だ！'
+[[message]]
+key = 'CHAT_COM_316'
+old = '弱点は氷！'
+[[message]]
+key = 'CHAT_COM_317'
+old = '雷が弱点だ！'
+[[message]]
+key = 'CHAT_COM_318'
+old = '弱点は雷！'
+[[message]]
+key = 'CHAT_COM_319'
+old = '聖が弱点だ！'
+[[message]]
+key = 'CHAT_COM_320'
+old = '弱点は聖！'
+[[message]]
+key = 'CHAT_COM_321'
+old = '闇が弱点だ！'
+[[message]]
+key = 'CHAT_COM_322'
+old = '弱点は闇！'
+[[message]]
+key = 'CHAT_COM_323'
+old = '毒が有効だ！'
+[[message]]
+key = 'CHAT_COM_324'
+old = '毒が有効よ！'
+[[message]]
+key = 'CHAT_COM_325'
+old = '睡眠が有効だ！'
+[[message]]
+key = 'CHAT_COM_326'
+old = '睡眠が有効よ！'
+[[message]]
+key = 'CHAT_COM_327'
+old = '遅延が有効だ！'
+[[message]]
+key = 'CHAT_COM_328'
+old = '遅延が有効よ！'
+[[message]]
+key = 'CHAT_COM_329'
+old = '気絶が有効だ！'
+[[message]]
+key = 'CHAT_COM_330'
+old = '気絶が有効よ！'
+[[message]]
+key = 'CHAT_COM_331'
+old = '封印が有効だ！'
+[[message]]
+key = 'CHAT_COM_332'
+old = '封印が有効よ！'
+[[message]]
+key = 'CHAT_COM_333'
+old = '石化が有効だ！'
+[[message]]
+key = 'CHAT_COM_334'
+old = '石化が有効よ！'
+[[message]]
+key = 'CHAT_COM_335'
+old = '黄金化が有効だ！'
+[[message]]
+key = 'CHAT_COM_336'
+old = '黄金化が有効よ！'
+[[message]]
+key = 'CHAT_COM_337'
+old = '装甲をこわそう！'
+[[message]]
+key = 'CHAT_COM_338'
+old = '装甲をこわしましょう！'
+[[message]]
+key = 'CHAT_COM_339'
+old = 'ブレイクを狙おう！'
+[[message]]
+key = 'CHAT_COM_340'
+old = 'ブレイクを狙いましょう！'
+[[message]]
+key = 'CHAT_COM_341'
+old = '吹き飛ばし力の高い技が有効だ！'
+[[message]]
+key = 'CHAT_COM_342'
+old = '吹き飛ばし力の高い技が有効よ！'
+[[message]]
+key = 'CHAT_COM_343'
+old = '侵食核を潰そう！'
+[[message]]
+key = 'CHAT_COM_344'
+old = '侵食核を潰しましょう！'
+[[message]]
+key = 'CHAT_COM_345'
+old = '胞子を止める！'
+[[message]]
+key = 'CHAT_COM_346'
+old = '胞子を止めます！'
+[[message]]
+key = 'CHAT_COM_347'
+old = 'コアを出す！'
+[[message]]
+key = 'CHAT_COM_348'
+old = 'コア、出します！'
+[[message]]
+key = 'CHAT_COM_349'
+old = 'コアを叩こう！'
+[[message]]
+key = 'CHAT_COM_350'
+old = 'コアを叩きましょう！'
+[[message]]
+key = 'CHAT_COM_351'
+old = 'バリア張ります！'
+[[message]]
+key = 'CHAT_COM_352'
+old = 'まとめて回復する！'
+[[message]]
+key = 'CHAT_COM_353'
+old = '大技、キメる！'
+[[message]]
+key = 'CHAT_COM_354'
+old = '大技、キメるわ！'
+[[message]]
+key = 'CHAT_COM_355'
+old = '大魔法いくぞ！'
+[[message]]
+key = 'CHAT_COM_356'
+old = '大魔法いくわよ！'
+[[message]]
+key = 'CHAT_COM_357'
+old = 'っしゃあ、いくぞ！'
+[[message]]
+key = 'CHAT_COM_358'
+old = 'さあ、いくわよ！'
+[[message]]
+key = 'CHAT_COM_359'
+old = 'そろそろ本気出す！'
+[[message]]
+key = 'CHAT_COM_360'
+old = '絶対に許さん'
+[[message]]
+key = 'CHAT_COM_361'
+old = '大ピンチ！'
+[[message]]
+key = 'CHAT_COM_362'
+old = 'はっ、余裕だな！'
+[[message]]
+key = 'CHAT_COM_363'
+old = 'ま、余裕ね！'
+[[message]]
+key = 'CHAT_COM_364'
+old = '大型、沈黙！'
+[[message]]
+key = 'CHAT_COM_365'
+old = 'ナイスバリア！'
+[[message]]
+key = 'CHAT_COM_366'
+old = 'ナイスヒール！'
+[[message]]
+key = 'CHAT_COM_367'
+old = 'ナイスダウン！'
+[[message]]
+key = 'CHAT_COM_368'
+old = 'ナイスブレイク！'
+[[message]]
+key = 'CHAT_COM_369'
+old = 'オーク相手に情けは無用！'
+[[message]]
+key = 'CHAT_COM_370'
+old = 'これより生死の検分に入る！'
+[[message]]
+key = 'CHAT_COM_371'
+old = '果たせぬ夢などない！'
+[[message]]
+key = 'CHAT_COM_372'
+old = '攻城兵器、来たぞ！'
+[[message]]
+key = 'CHAT_COM_373'
+old = '攻城兵器、来たわ！'
+[[message]]
+key = 'CHAT_COM_374'
+old = '大砲を使え！'
+[[message]]
+key = 'CHAT_COM_375'
+old = '大砲を使おう！'
+[[message]]
+key = 'CHAT_COM_376'
+old = '大砲を潰せ！'
+[[message]]
+key = 'CHAT_COM_377'
+old = '大砲をこわそう！'
+[[message]]
+key = 'CHAT_COM_378'
+old = '突入成功！'
+[[message]]
+key = 'CHAT_COM_379'
+old = '開門した！　全員突撃！'
+[[message]]
+key = 'CHAT_COM_380'
+old = '開門したわ！　全員突撃！'
+[[message]]
+key = 'CHAT_COM_381'
+old = '部隊を分けて攻略しよう！'
+[[message]]
+key = 'CHAT_COM_389'
+old = '必ず生きて帰る！'
+[[message]]
+key = 'CHAT_COM_390'
+old = '必ず生きて帰ろう！'
+[[message]]
+key = 'CHAT_COM_382'
+old = '敵将を倒して帰るぞ！'
+[[message]]
+key = 'CHAT_COM_383'
+old = '敵将、倒して帰りましょう！'
+[[message]]
+key = 'CHAT_COM_384'
+old = '流れが悪い、押し返す！'
+[[message]]
+key = 'CHAT_COM_385'
+old = '流れが悪い、反撃！'
+[[message]]
+key = 'CHAT_COM_386'
+old = 'いいぞ！　優勢だ！'
+[[message]]
+key = 'CHAT_COM_387'
+old = '優勢！　良い感じ！'
+[[message]]
+key = 'CHAT_COM_388'
+old = '制圧完了！'
+[[message]]
+key = 'CHAT_COM_391'
+old = '完全勝利！'
+[[message]]
+key = 'CHAT_COM_392'
+old = '我がクランの名にかけて！'
+[[message]]
+key = 'CHAT_COM_393'
+old = 'この勝利を我がクランへ捧げよう'
+[[message]]
+key = 'CHAT_COM_394'
+old = 'この勝利、我がクランへ捧げましょう'

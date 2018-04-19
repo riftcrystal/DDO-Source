@@ -1,0 +1,6 @@
+﻿[[message]]
+key = 'PopPartyMember_res_Title'
+old = 'パーティー詳細'
+[[message]]
+key = 'PopPartyMember_res_ButtonText'
+old = '閉じる'

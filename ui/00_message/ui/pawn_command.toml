@@ -1,0 +1,126 @@
+﻿[[message]]
+key = 'pawn_command_610'
+old = '回復優先'
+[[message]]
+key = 'pawn_command_611'
+old = '攻撃'
+[[message]]
+key = 'pawn_command_612'
+old = '支援'
+[[message]]
+key = 'pawn_command_613'
+old = '追従'
+[[message]]
+key = 'pawn_command_614'
+old = '警戒'
+[[message]]
+key = 'pawn_command_615'
+old = '待機'
+[[message]]
+key = 'pawn_command_616'
+old = 'ターゲット変更'
+[[message]]
+key = 'pawn_command_617'
+old = '体力回復'
+[[message]]
+key = 'pawn_command_618'
+old = '状態異常回復'
+[[message]]
+key = 'pawn_command_619'
+old = '大威力攻撃'
+[[message]]
+key = 'pawn_command_620'
+old = '挑発スキル発動'
+[[message]]
+key = 'pawn_command_621'
+old = 'プレイヤー強化'
+[[message]]
+key = 'pawn_command_622'
+old = '敵弱体化'
+[[message]]
+key = 'pawn_command_623'
+old = 'エンチャント'
+[[message]]
+key = 'pawn_command_624'
+old = '敵バインド'
+[[message]]
+key = 'pawn_command_625'
+old = '怯ませ・吹き飛ばし'
+[[message]]
+key = 'pawn_command_626'
+old = '炎属性行動'
+[[message]]
+key = 'pawn_command_627'
+old = '氷属性行動'
+[[message]]
+key = 'pawn_command_628'
+old = '雷属性行動'
+[[message]]
+key = 'pawn_command_629'
+old = '聖属性行動'
+[[message]]
+key = 'pawn_command_630'
+old = '闇属性行動'
+[[message]]
+key = 'pawn_command_631'
+old = '斬属性攻撃'
+[[message]]
+key = 'pawn_command_632'
+old = '打属性攻撃'
+[[message]]
+key = 'pawn_command_633'
+old = '射属性攻撃'
+[[message]]
+key = 'pawn_command_634'
+old = '連係投げ発動'
+[[message]]
+key = 'pawn_command_635'
+old = 'クイックチャージ発動'
+[[message]]
+key = 'pawn_command_636'
+old = 'エナジースポット発動'
+[[message]]
+key = 'pawn_command_637'
+old = 'ソリッドライザー発動'
+[[message]]
+key = 'pawn_command_638'
+old = 'ハンズオブゴッド／レギア・バリアル発動'
+[[message]]
+key = 'pawn_command_639'
+old = '命令キャンセル'
+[[message]]
+key = 'pawn_command_9499'
+old = 'ゆさぶり命令'
+[[message]]
+key = 'pawn_command_10850'
+old = '小型敵優先'
+[[message]]
+key = 'pawn_command_10851'
+old = '大型敵優先'
+[[message]]
+key = 'pawn_command_10852'
+old = '地上敵優先'
+[[message]]
+key = 'pawn_command_10853'
+old = '飛行敵優先'
+[[message]]
+key = 'pawn_command_10854'
+old = 'スタミナ回復'
+[[message]]
+key = 'pawn_command_10855'
+old = 'シークレットコア発現'
+[[message]]
+key = 'pawn_command_10856'
+old = 'シークレットコア攻撃優先'
+[[message]]
+key = 'pawn_command_10857'
+old = '敵弱体化：行動停止'
+[[message]]
+key = 'pawn_command_10858'
+old = '敵弱体化：持続ダメージ'
+[[message]]
+key = 'pawn_command_10859'
+old = '敵弱体化：ステータスダウン'
+[[message]]
+key = 'pawn_command_10860'
+old = '敵弱体化：特殊ステータス'

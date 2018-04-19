@@ -1,0 +1,285 @@
+﻿[[message]]
+key = 'kcd_000'
+old = '移動 ↑'
+[[message]]
+key = 'kcd_001'
+old = '移動 ↓'
+[[message]]
+key = 'kcd_002'
+old = '移動 ←'
+[[message]]
+key = 'kcd_003'
+old = '移動 →'
+[[message]]
+key = 'kcd_004'
+old = 'オートラン'
+[[message]]
+key = 'kcd_005'
+old = '項目移動 ↑'
+[[message]]
+key = 'kcd_006'
+old = '項目移動 ↓'
+[[message]]
+key = 'kcd_007'
+old = '項目移動 ←'
+[[message]]
+key = 'kcd_008'
+old = '項目移動 →'
+[[message]]
+key = 'kcd_009'
+old = 'チャット'
+[[message]]
+key = 'kcd_010'
+old = 'ダイレクトチャット'
+[[message]]
+key = 'kcd_011'
+old = '''
+マルチショートカット１
+簡易コミュニケーション１'''
+[[message]]
+key = 'kcd_012'
+old = '''
+マルチショートカット２
+簡易コミュニケーション２'''
+[[message]]
+key = 'kcd_013'
+old = '''
+マルチショートカット３
+簡易コミュニケーション３'''
+[[message]]
+key = 'kcd_014'
+old = '''
+マルチショートカット４
+簡易コミュニケーション４'''
+[[message]]
+key = 'kcd_015'
+old = '''
+マルチショートカット５
+簡易コミュニケーション５'''
+[[message]]
+key = 'kcd_016'
+old = '''
+マルチショートカット６
+簡易コミュニケーション６'''
+[[message]]
+key = 'kcd_017'
+old = '''
+マルチショートカット７
+簡易コミュニケーション７'''
+[[message]]
+key = 'kcd_018'
+old = '''
+マルチショートカット８
+簡易コミュニケーション８'''
+[[message]]
+key = 'kcd_019'
+old = '''
+マルチショートカット９
+簡易コミュニケーションのページ切り替え ←'''
+[[message]]
+key = 'kcd_020'
+old = '''
+マルチショートカット１０
+簡易コミュニケーションのページ切り替え →'''
+[[message]]
+key = 'kcd_021'
+old = 'マルチショートカット１１'
+[[message]]
+key = 'kcd_022'
+old = 'マルチショートカット１２'
+[[message]]
+key = 'kcd_023'
+old = 'ジャンプ / 行動キャンセル 等'
+[[message]]
+key = 'kcd_024'
+old = 'タッチアクション / つかむ / 耐える 等'
+[[message]]
+key = 'kcd_025'
+old = 'ノーマルスキル１'
+[[message]]
+key = 'kcd_026'
+old = 'ノーマルスキル２　※ハンター / エレメントアーチャーは別項目'
+[[message]]
+key = 'kcd_027'
+old = '<COL DAEEF3>【Ｓｈ】</COL>アトラクト'
+[[message]]
+key = 'kcd_028'
+old = '武器を構える / 納める'
+[[message]]
+key = 'kcd_029'
+old = 'カスタムスキルパレット切り替え（長押し）'
+[[message]]
+key = 'kcd_030'
+old = 'カスタムスキル１'
+[[message]]
+key = 'kcd_031'
+old = 'カスタムスキル２'
+[[message]]
+key = 'kcd_032'
+old = 'カスタムスキル３'
+[[message]]
+key = 'kcd_033'
+old = 'カスタムスキル４'
+[[message]]
+key = 'kcd_034'
+old = 'カメラリセット'
+[[message]]
+key = 'kcd_035'
+old = 'ゲームメニュー'
+[[message]]
+key = 'kcd_036'
+old = 'ショートカット：ステータス・装備'
+[[message]]
+key = 'kcd_037'
+old = 'ショートカット：アイテムバッグ'
+[[message]]
+key = 'kcd_038'
+old = 'ショートカット：ゲーム設定'
+[[message]]
+key = 'kcd_039'
+old = 'ショートカット：パーティー管理'
+[[message]]
+key = 'kcd_040'
+old = 'ショートカット：チュートリアルガイド'
+[[message]]
+key = 'kcd_041'
+old = 'ショートカット：クエストログ'
+[[message]]
+key = 'kcd_042'
+old = 'ショートカット：コミュニティリスト'
+[[message]]
+key = 'kcd_043'
+old = 'ショートカット：マップ'
+[[message]]
+key = 'kcd_044'
+old = '''
+マルチショートカット、
+簡易コミュニケーションの切り替え'''
+[[message]]
+key = 'kcd_045'
+old = 'ミニマップ操作の起動'
+[[message]]
+key = 'kcd_046'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_DECIDE></COL>と同じ機能（決定）'
+[[message]]
+key = 'kcd_047'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_CANCEL></COL>と同じ機能（キャンセル）'
+[[message]]
+key = 'kcd_048'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_START></COL>と同じ機能'
+[[message]]
+key = 'kcd_049'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_X></COL>と同じ機能'
+[[message]]
+key = 'kcd_050'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_Y></COL>と同じ機能'
+[[message]]
+key = 'kcd_051'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_LB></COL>と同じ機能'
+[[message]]
+key = 'kcd_052'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_RB></COL>と同じ機能'
+[[message]]
+key = 'kcd_053'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_LT></COL>と同じ機能'
+[[message]]
+key = 'kcd_054'
+old = '<PFWD 0>の<COL FFFFFF><KCP UI_RT></COL>と同じ機能'
+[[message]]
+key = 'kcd_055'
+old = 'マウス左ボタン（決定）'
+[[message]]
+key = 'kcd_056'
+old = 'マウス右ボタン（キャンセル）'
+[[message]]
+key = 'kcd_057'
+old = 'マウス中ボタン（アイテムの複数選択 等）'
+[[message]]
+key = 'kcd_058'
+old = 'ミニマップ操作中：ウィンドウの拡縮'
+[[message]]
+key = 'kcd_059'
+old = 'ミニマップ操作中：マップ位置のロック'
+[[message]]
+key = 'kcd_060'
+old = 'ミニマップ操作中：フリーマーカーの設置 / 消去（長押し）'
+[[message]]
+key = 'kcd_061'
+old = '''
+<COL DAEEF3>【Ｐｒ】</COL>セイントオーラ　<COL DAEEF3>【Ｓｈ】</COL>フォースエンチャント
+<COL DAEEF3>【Ａｌ】</COL>エリクシル　<COL DAEEF3>【Ｓｐ】</COL>ヒールブースト　<COL DAEEF3>【Ｈｉ】</COL>バック・リープ'''
+[[message]]
+key = 'kcd_062'
+old = '''
+<COL DAEEF3>【Ｈｕ】</COL>しじま射ち（弓構え中）　<COL DAEEF3>【Ｓｏ】</COL>スペリング（詠唱中）
+<COL DAEEF3>【Ｈｉ】</COL>ロックオン中のカメラ操作（ルイン・ブレード構え中）'''
+[[message]]
+key = 'kcd_063'
+old = '（未使用）行動キャンセル'
+[[message]]
+key = 'kcd_064'
+old = '揺さぶる（しがみつき中）'
+[[message]]
+key = 'kcd_065'
+old = '''
+<COL DAEEF3>【Ｓｏ】</COL>バックムーブ　　　<COL DAEEF3>【Ｗａ】</COL>退魔の身構え
+<COL DAEEF3>【Ａｌ】</COL>アルケム・フーガ　<COL DAEEF3>【Ｓｐ】</COL>スカー・ムーヴ'''
+[[message]]
+key = 'kcd_066'
+old = '''
+ダッシュ（移動キーと同時入力）
+※この項目がブランクキーの場合、同じ移動キー２回でダッシュ'''
+[[message]]
+key = 'kcd_067'
+old = '<COL DAEEF3>【Ｆｉ】</COL><COL DAEEF3>【Ｓｅ】</COL><COL DAEEF3>【Ｗａ】</COL>連係投げ'
+[[message]]
+key = 'kcd_068'
+old = '<COL DAEEF3>【Ｈｕ】</COL><COL DAEEF3>【Ｅｌ】</COL>弓構え'
+[[message]]
+key = 'kcd_069'
+old = '<COL DAEEF3>【Ｈｕ】</COL><COL DAEEF3>【Ｅｌ】</COL>射撃（弓構え中）'
+[[message]]
+key = 'kcd_070'
+old = '（未使用）'
+[[message]]
+key = 'kcd_071'
+old = '<COL DAEEF3>【Ｈｕ】</COL>矢の切替え　<COL DAEEF3>【Ｅｌ】</COL>癒しの装'
+[[message]]
+key = 'kcd_072'
+old = '<COL DAEEF3>【Ｐｒ】</COL><COL DAEEF3>【Ｓｏ】</COL>ロックオンモード切り替え（詠唱中）'
+[[message]]
+key = 'kcd_073'
+old = '''
+<COL DAEEF3>【Ｆｉ】</COL>ガード　　　<COL DAEEF3>【Ｓｈ】</COL>シールドロック
+<COL DAEEF3>【Ｓｅ】</COL>ロープ構え　<COL DAEEF3>【Ｈｉ】</COL>ウィル・スタンス'''
+[[message]]
+key = 'kcd_074'
+old = '<COL DAEEF3>【Ｐｒ】</COL>フィールドシフト　<COL DAEEF3>【Ｓｈ】</COL>フォースバースト'
+[[message]]
+key = 'kcd_075'
+old = '<COL DAEEF3>【Ｓｅ】</COL>転身　<COL DAEEF3>【Ｈｉ】</COL>避翻斬'
+[[message]]
+key = 'kcd_076'
+old = '<COL DAEEF3>【Ｓｅ】</COL>ロープ投げ（ロープ構え中）'
+[[message]]
+key = 'kcd_077'
+old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填'
+[[message]]
+key = 'kcd_078'
+old = '<COL DAEEF3>【Ａｌ】</COL>エリクシル・チェンジ　<COL DAEEF3>【Ｓｐ】</COL>アタックブースト'
+[[message]]
+key = 'kcd_079'
+old = '''
+<COL DAEEF3>【Ｈｕ】</COL><COL DAEEF3>【Ｅｌ】</COL>構え変更（弓構え中）
+※この項目がブランクキーの場合、マウスホイール前後で構え変更'''
+[[message]]
+key = 'kcd_080'
+old = '''
+カスタムスキルの追加入力（連打 / 派生 等）
+※この項目がブランクキーの場合、各カスタムスキル設定キーで追加入力'''
+[[message]]
+key = 'kcd_081'
+old = '<COL DAEEF3>【Ｈｉ】</COL>ルイン・ブレード'
+[[message]]
+key = 'kcd_082'
+old = '<COL DAEEF3>【Ｈｉ】</COL>ウィル・マーカー（ウィル・スタンス中）'

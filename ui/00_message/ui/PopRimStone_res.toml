@@ -1,0 +1,78 @@
+﻿[[message]]
+key = 'RIM_POP_MSG_HEADER_M_HEADER'
+old = '検索条件'
+[[message]]
+key = 'RIM_POP_MSG_CHARACTER_M_JOB'
+old = 'ジョブ'
+[[message]]
+key = 'RIM_POP_MSG_CHARACTER_M_LV'
+old = 'ジョブレベル指定'
+[[message]]
+key = 'RIM_POP_MSG_CHARACTER_M_SKILL'
+old = 'スキル'
+[[message]]
+key = 'RIM_POP_MSG_CHARACTER_M_CHARACTER'
+old = '性別'
+[[message]]
+key = 'RIM_POP_MSG_M_ALL'
+old = '全て'
+[[message]]
+key = 'RIM_POP_MSG_M_UP'
+old = '以上'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_LV'
+old = 'クラフトレベル'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL00'
+old = 'クラフトスキル'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL01'
+old = '生産作業スピード'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL02'
+old = '装備の強化技術'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL03'
+old = '高品質装備の作成力'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL04'
+old = '消耗品の生産数アップ'
+[[message]]
+key = 'RIM_POP_MSG_SKILL_M_SKILL05'
+old = 'コストパフォーマンス'
+[[message]]
+key = 'RIM_POP_MSG_OWNER_M_OWNER'
+old = 'オーナー名の指定'
+[[message]]
+key = 'RIM_POP_MSG_OWNER_M_FIRST'
+old = 'First Name'
+[[message]]
+key = 'RIM_POP_MSG_OWNER_M_FAMILY'
+old = 'Family Name'
+[[message]]
+key = 'RIM_POP_MSG_OWNER_M_PAWN'
+old = 'ポーンの名前を指定'
+[[message]]
+key = 'RIM_POP_MSG_BTN_SEARCH'
+old = '検索する'
+[[message]]
+key = 'RIM_POP_MSG_M_DOWN'
+old = '以下'
+[[message]]
+key = 'RIM_POP_MSG_M_GENDER_ALL'
+old = '指定なし'
+[[message]]
+key = 'RIM_POP_MSG_M_GENDER_MALE'
+old = '男性'
+[[message]]
+key = 'RIM_POP_MSG_M_GENDER_FEMALE'
+old = '女性'
+[[message]]
+key = 'RIM_POP_MSG_SEARCH_JOB'
+old = 'ジョブで探す'
+[[message]]
+key = 'RIM_POP_MSG_SEARCH_CRAFTSKILL'
+old = 'クラフトスキルで探す'
+[[message]]
+key = 'RIM_POP_MSG_CHARACTER_M_IR'
+old = 'アイテムランク指定'

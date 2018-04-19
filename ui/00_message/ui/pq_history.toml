@@ -1,0 +1,15 @@
+﻿[[message]]
+key = 'pq_history_001'
+old = 'Log Select'
+[[message]]
+key = 'pq_history_002'
+old = '依頼人'
+[[message]]
+key = 'pq_history_003'
+old = '使命：%s'
+[[message]]
+key = 'pq_history_004'
+old = 'あらすじ'
+[[message]]
+key = 'pq_history_005'
+old = '次の受注まであと'

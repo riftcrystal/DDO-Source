@@ -1,0 +1,92 @@
+﻿[[message]]
+key = 'menu_cmn_skill_grand'
+old = '地上'
+[[message]]
+key = 'menu_cmn_skill_air'
+old = '空中'
+[[message]]
+key = 'menu_cmn_skill_climb'
+old = 'しがみつき'
+[[message]]
+key = 'menu_cmn_weight_verylight'
+old = 'Very Light'
+[[message]]
+key = 'menu_cmn_weight_light'
+old = 'Light'
+[[message]]
+key = 'menu_cmn_weight_medium'
+old = 'Medium'
+[[message]]
+key = 'menu_cmn_weight_heavy'
+old = 'Heavy'
+[[message]]
+key = 'menu_cmn_weight_beryheavy'
+old = 'Very Heavy'
+[[message]]
+key = 'menu_cmn_weight_over'
+old = 'Over'
+[[message]]
+key = 'menu_cmn_next'
+old = 'Next'
+[[message]]
+key = 'menu_cmn_cost'
+old = 'Cost'
+[[message]]
+key = 'menu_cmn_hp'
+old = 'HP'
+[[message]]
+key = 'menu_cmn_stamina'
+old = 'ST'
+[[message]]
+key = 'menu_cmn_max'
+old = 'MAX'
+[[message]]
+key = 'menu_cmn_si_height'
+old = '<VAL> cm'
+[[message]]
+key = 'menu_cmn_job'
+old = 'Job'
+[[message]]
+key = 'menu_cmn_category'
+old = 'Category'
+[[message]]
+key = 'menu_cmn_slash_val'
+old = '/<VAL>'
+[[message]]
+key = 'menu_cmn_val_slash_val'
+old = '<VAL>/<VAL>'
+[[message]]
+key = 'menu_cmn_slash'
+old = '/'
+[[message]]
+key = 'menu_cmn_filter'
+old = 'フィルタ'
+[[message]]
+key = 'menu_cmn_filter_off'
+old = 'フィルタを解除'
+[[message]]
+key = 'menu_cmn_filter_select'
+old = '適用するフィルタを選んでください'
+[[message]]
+key = 'menu_cmn_header_item'
+old = 'Item'
+[[message]]
+key = 'menu_cmn_header_storage'
+old = 'Storage'
+[[message]]
+key = 'menu_cmn_open_online_shop'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'menu_cmn_shortage_gs'
+old = '''
+<UNTN GS>が不足しています
+（所持数：<HAVE GS>）'''
+[[message]]
+key = 'menu_cmn_item'
+old = 'アイテム'
+[[message]]
+key = 'menu_cmn_receive_bag'
+old = 'アイテムバッグに受け取る'
+[[message]]
+key = 'menu_cmn_receive_box'
+old = '保管ボックスに受け取る'

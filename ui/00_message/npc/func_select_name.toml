@@ -1,0 +1,276 @@
+﻿[[message]]
+key = 'FUNC_SELECT_NAME_3'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_4'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_5'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_6'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_7'
+old = '宿泊'
+[[message]]
+key = 'FUNC_SELECT_NAME_8'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_9'
+old = 'ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_10'
+old = '戦技の付替え'
+[[message]]
+key = 'FUNC_SELECT_NAME_11'
+old = '転職／戦技の付替え'
+[[message]]
+key = 'FUNC_SELECT_NAME_12'
+old = 'グランドミッション'
+[[message]]
+key = 'FUNC_SELECT_NAME_13'
+old = 'パーティー編成'
+[[message]]
+key = 'FUNC_SELECT_NAME_14'
+old = 'クラン設立・加入'
+[[message]]
+key = 'FUNC_SELECT_NAME_15'
+old = 'クラフト'
+[[message]]
+key = 'FUNC_SELECT_NAME_16'
+old = '美容院'
+[[message]]
+key = 'FUNC_SELECT_NAME_17'
+old = 'レスタニアニュース'
+[[message]]
+key = 'FUNC_SELECT_NAME_18'
+old = '竜力の継承'
+[[message]]
+key = 'FUNC_SELECT_NAME_19'
+old = 'オーブ交換：クレスト'
+[[message]]
+key = 'FUNC_SELECT_NAME_20'
+old = 'オーブ交換：珍品／素材'
+[[message]]
+key = 'FUNC_SELECT_NAME_21'
+old = 'エリア情報'
+[[message]]
+key = 'FUNC_SELECT_NAME_22'
+old = 'ジョブ修練'
+[[message]]
+key = 'FUNC_SELECT_NAME_24'
+old = 'バザー'
+[[message]]
+key = 'FUNC_SELECT_NAME_25'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_26'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_27'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_28'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_29'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_30'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_31'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_32'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_33'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_34'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_35'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_36'
+old = '報告書の確認'
+[[message]]
+key = 'FUNC_SELECT_NAME_37'
+old = 'ポーンの復活'
+[[message]]
+key = 'FUNC_SELECT_NAME_39'
+old = 'エクストリームミッション'
+[[message]]
+key = 'FUNC_SELECT_NAME_40'
+old = '復活力の回復'
+[[message]]
+key = 'FUNC_SELECT_NAME_41'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_42'
+old = 'ログインスタンプ'
+[[message]]
+key = 'FUNC_SELECT_NAME_43'
+old = '報酬受け取り'
+[[message]]
+key = 'FUNC_SELECT_NAME_44'
+old = 'トレジャーズロット'
+[[message]]
+key = 'FUNC_SELECT_NAME_45'
+old = '契約報酬の受け取り'
+[[message]]
+key = 'FUNC_SELECT_NAME_46'
+old = '弱化の治療'
+[[message]]
+key = 'FUNC_SELECT_NAME_47'
+old = '戦徒の契り'
+[[message]]
+key = 'FUNC_SELECT_NAME_48'
+old = '鑑定交換'
+[[message]]
+key = 'FUNC_SELECT_NAME_49'
+old = 'パートナーポーン'
+[[message]]
+key = 'FUNC_SELECT_NAME_50'
+old = '戦技の継承'
+[[message]]
+key = 'FUNC_SELECT_NAME_51'
+old = 'アチーブメント'
+[[message]]
+key = 'FUNC_SELECT_NAME_52'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_53'
+old = 'ジョブ解放'
+[[message]]
+key = 'FUNC_SELECT_NAME_54'
+old = 'ボックストレジャーズロット'
+[[message]]
+key = 'FUNC_SELECT_NAME_55'
+old = 'ポーン遠征隊'
+[[message]]
+key = 'FUNC_SELECT_NAME_56'
+old = '遠征結果の確認'
+[[message]]
+key = 'FUNC_SELECT_NAME_57'
+old = 'プレイポイントショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_58'
+old = 'クラン拠点管理'
+[[message]]
+key = 'FUNC_SELECT_NAME_59'
+old = '戦技練習'
+[[message]]
+key = 'FUNC_SELECT_NAME_60'
+old = 'クランダンジョン'
+[[message]]
+key = 'FUNC_SELECT_NAME_61'
+old = 'プレゼント'
+[[message]]
+key = 'FUNC_SELECT_NAME_62'
+old = 'プレゼント状況確認'
+[[message]]
+key = 'FUNC_SELECT_NAME_63'
+old = 'プレゼント状況確認'
+[[message]]
+key = 'FUNC_SELECT_NAME_64'
+old = '絶技の継承'
+[[message]]
+key = 'FUNC_SELECT_NAME_65'
+old = 'ジョブエンブレム'
+[[message]]
+key = 'FUNC_SELECT_NAME_66'
+old = 'サブストーリーログ'
+[[message]]
+key = 'FUNC_SELECT_NAME_67'
+old = '英霊眠りし道'
+[[message]]
+key = 'FUNC_SELECT_NAME_68'
+old = '魂を捧げる'
+[[message]]
+key = 'FUNC_SELECT_NAME_69'
+old = 'ウォーミッション'
+[[message]]
+key = 'FUNC_SELECT_NAME_70'
+old = 'ドミニオンポイントショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_71'
+old = '戦徒の転生'
+[[message]]
+key = 'FUNC_SELECT_NAME_72'
+old = '武具のカスタムメイド'
+[[message]]
+key = 'FUNC_SELECT_NAME_73'
+old = '武具の資源分解'
+[[message]]
+key = 'FUNC_SELECT_NAME_74'
+old = '冒パスショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_75'
+old = 'Lv.80にする'
+[[message]]
+key = 'FUNC_SELECT_NAME_76'
+old = '竜力の継承を埋める'
+[[message]]
+key = 'FUNC_SELECT_NAME_77'
+old = '冒険をしやすくする'
+[[message]]
+key = 'FUNC_SELECT_NAME_78'
+old = 'アチーブメント：王家再興'
+[[message]]
+key = 'FUNC_SELECT_NAME_80'
+old = '紋章メダル交換'
+[[message]]
+key = 'FUNC_SELECT_NAME_81'
+old = 'おでかけ支援サービス'
+[[message]]
+key = 'FUNC_SELECT_NAME_82'
+old = '他人の自室訪問'
+[[message]]
+key = 'FUNC_SELECT_NAME_83'
+old = ''
+[[message]]
+key = 'FUNC_SELECT_NAME_84'
+old = 'プレゼント報酬確認'
+[[message]]
+key = 'FUNC_SELECT_NAME_85'
+old = '自室訪問設定'
+[[message]]
+key = 'FUNC_SELECT_NAME_86'
+old = '冒険ガイド'
+[[message]]
+key = 'FUNC_SELECT_NAME_87'
+old = 'パーティー募集掲示板'
+[[message]]
+key = 'FUNC_SELECT_NAME_88'
+old = '黒呪装具の効果封印'
+[[message]]
+key = 'FUNC_SELECT_NAME_89'
+old = 'レアアイテムの鑑定'
+[[message]]
+key = 'FUNC_SELECT_NAME_90'
+old = '黒呪アイテムの持ち帰り'
+[[message]]
+key = 'FUNC_SELECT_NAME_91'
+old = '探索結果の報告'
+[[message]]
+key = 'FUNC_SELECT_NAME_93'
+old = 'Lv.85にする（仮）'
+[[message]]
+key = 'FUNC_SELECT_NAME_94'
+old = 'ジョブ修練スキップ（仮）'
+[[message]]
+key = 'FUNC_SELECT_NAME_95'
+old = '印記章交換'
+[[message]]
+key = 'FUNC_SELECT_NAME_96'
+old = '大口納品イベント'
+[[message]]
+key = 'FUNC_SELECT_NAME_97'
+old = '黒呪ショップ'
+[[message]]
+key = 'FUNC_SELECT_NAME_98'
+old = '進行のリセット'

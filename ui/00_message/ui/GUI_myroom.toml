@@ -1,0 +1,24 @@
+﻿[[message]]
+key = 'g_myr_title_en'
+old = 'My Room'
+[[message]]
+key = 'g_myr_title_jp'
+old = '自室'
+[[message]]
+key = 'g_myr_msg_common_choice_0'
+old = '設定しない'
+[[message]]
+key = 'g_myr_msg_common_choice_1'
+old = 'デフォルト'
+[[message]]
+key = 'g_myr_msg_decision'
+old = '適用'
+[[message]]
+key = 'g_myr_msg_no_furniture'
+old = '変更できる家具がありません'
+[[message]]
+key = 'g_myr_title_kyoten_en'
+old = 'Clan Base'
+[[message]]
+key = 'g_myr_title_kyoten_jp'
+old = '拠点'

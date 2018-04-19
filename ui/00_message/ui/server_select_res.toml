@@ -1,0 +1,33 @@
+﻿[[message]]
+key = 'server_sel_page_change'
+old = 'ページ切り替え'
+[[message]]
+key = 'server_sel_plinfo'
+old = 'プレイヤー情報'
+[[message]]
+key = 'server_sel_server_en'
+old = 'World Select'
+[[message]]
+key = 'server_sel_server_jp'
+old = 'ワールド選択'
+[[message]]
+key = 'server_sel_lobby_en'
+old = 'Lobby Select'
+[[message]]
+key = 'server_sel_lobby_jp'
+old = 'ロビー選択'
+[[message]]
+key = 'server_sel_crowded'
+old = '混雑'
+[[message]]
+key = 'server_sel_msg_lobby'
+old = 'LOBBY'
+[[message]]
+key = 'server_sel_ver'
+old = 'ver'
+[[message]]
+key = 'server_sel_player'
+old = 'プレイヤー情報取得'
+[[message]]
+key = 'server_sel_destination'
+old = '行き先を選択してください'

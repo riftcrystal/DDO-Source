@@ -1,0 +1,347 @@
+﻿[[message]]
+key = 'title_item'
+old = '所持アイテム'
+[[message]]
+key = 'title_item_strage'
+old = 'キーアイテム'
+[[message]]
+key = 'option_disposal'
+old = '捨てる'
+[[message]]
+key = 'option_use'
+old = '使う'
+[[message]]
+key = 'option_hold'
+old = '持つ'
+[[message]]
+key = 'option_sheathe'
+old = 'しまう'
+[[message]]
+key = 'heading_howmany_disposal'
+old = 'いくつ捨てますか？'
+[[message]]
+key = 'option_equip'
+old = '装備'
+[[message]]
+key = 'title_fee_e'
+old = 'Reward Box'
+[[message]]
+key = 'title_fee'
+old = '報酬ボックス'
+[[message]]
+key = 'title_strage'
+old = '保管ボックス'
+[[message]]
+key = 'option_move'
+old = '移動'
+[[message]]
+key = 'submenu_sort_name'
+old = 'せいとん（名前順）'
+[[message]]
+key = 'submenu_sort_better'
+old = 'せいとん'
+[[message]]
+key = 'submenu_sort_buy_ascending'
+old = 'せいとん（装備優先）'
+[[message]]
+key = 'submenu_sort_buy_descending'
+old = 'せいとん（素材優先）'
+[[message]]
+key = 'submenu_buy'
+old = '売却'
+[[message]]
+key = 'submenu_select_all'
+old = '全て選択'
+[[message]]
+key = 'submenu_release_all'
+old = '選択全解除'
+[[message]]
+key = 'item_title_item_en'
+old = 'Item Bag'
+[[message]]
+key = 'item_title_item_jp'
+old = 'アイテムバッグ'
+[[message]]
+key = 'itempost_title_itempost_en'
+old = 'Item Post'
+[[message]]
+key = 'itempost_title_itempost_jp'
+old = 'アイテムポスト'
+[[message]]
+key = 'option_send_bag'
+old = 'アイテムバッグに送る'
+[[message]]
+key = 'option_send_box'
+old = '保管ボックスに送る'
+[[message]]
+key = 'option_send_exbox'
+old = '拡張枠に送る'
+[[message]]
+key = 'option_send_num_specified'
+old = '（個数指定）'
+[[message]]
+key = 'option_drag'
+old = 'つかむ'
+[[message]]
+key = 'item_msg_pop_put'
+old = '置く'
+[[message]]
+key = 'item_msg_pop_switch'
+old = 'タブ切り替え'
+[[message]]
+key = 'item_msg_pop_sum'
+old = '合算'
+[[message]]
+key = 'item_msg_pop_exchange'
+old = '交換'
+[[message]]
+key = 'item_msg_pop_unexchangeable'
+old = '交換不可'
+[[message]]
+key = 'item_msg_pop_move'
+old = '移動'
+[[message]]
+key = 'item_title_storage_en'
+old = 'Storage Box'
+[[message]]
+key = 'item_title_sell_en'
+old = 'Sell'
+[[message]]
+key = 'item_title_keyitem_en'
+old = 'Key Item'
+[[message]]
+key = 'item_msg_guid_tostorage'
+old = '保管ボックスに移動'
+[[message]]
+key = 'item_btnguide_buy'
+old = 'アイテムを買う'
+[[message]]
+key = 'item_btnguide_multichoice'
+old = '複数選択'
+[[message]]
+key = 'item_conf_disposal'
+old = '以下のアイテムを破棄します。よろしいですか？'
+[[message]]
+key = 'item_conf_buy'
+old = '''
+以下のアイテムを売却します。よろしいですか？
+
+　売却価格：<VAL GOLD>'''
+[[message]]
+key = 'item_title_depositbox_en'
+old = 'Storage Chest'
+[[message]]
+key = 'item_title_depositbox_jp'
+old = '格納チェスト'
+[[message]]
+key = 'option_send_depositbox'
+old = '格納チェストに送る'
+[[message]]
+key = 'item_msg_guid_todeposit'
+old = '格納チェストに移動'
+[[message]]
+key = 'item_btnguide_select_all'
+old = '全選択'
+[[message]]
+key = 'item_btnguide_select_all_cancel'
+old = '全選択解除'
+[[message]]
+key = 'submenu_jump_onlineshop'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'item_conf_jump_onlineshop'
+old = '''
+オンラインショップを開きます
+よろしいですか？'''
+[[message]]
+key = 'title_leftbox_e'
+old = 'Left Box'
+[[message]]
+key = 'title_leftbox_j'
+old = '左のボックス'
+[[message]]
+key = 'title_rightbox_e'
+old = 'Right Box'
+[[message]]
+key = 'title_rightbox_j'
+old = '右のボックス'
+[[message]]
+key = 'option_send_leftbox'
+old = '左のボックスに送る'
+[[message]]
+key = 'option_send_rightbox'
+old = '右のボックスに送る'
+[[message]]
+key = 'item_msg_guid_toleftbox'
+old = '左のボックスに移動'
+[[message]]
+key = 'item_msg_guid_torightbox'
+old = '右のボックスに移動'
+[[message]]
+key = 'pulldown_itembag_1'
+old = '<COL EBF1DE>アイテムバッグ（消費）</COL>'
+[[message]]
+key = 'pulldown_itembag_2'
+old = '<COL EBF1DE>アイテムバッグ（素材）</COL>'
+[[message]]
+key = 'pulldown_itembag_3'
+old = '<COL EBF1DE>アイテムバッグ（装備）</COL>'
+[[message]]
+key = 'pulldown_itembag_4'
+old = '<COL EBF1DE>アイテムバッグ（ジョブ専用）</COL>'
+[[message]]
+key = 'pulldown_storage_normal_1'
+old = '<COL F2DCDB>保管ボックス（通常枠）</COL>'
+[[message]]
+key = 'pulldown_storage_ex_1'
+old = '<COL F2DCDB>保管ボックス（拡張枠）</COL>'
+[[message]]
+key = 'pulldown_deposit_normal_1'
+old = '<COL DAEEF3>格納チェスト（通常枠）</COL>'
+[[message]]
+key = 'pulldown_deposit_ex_1'
+old = '<COL DAEEF3>格納チェスト（拡張枠）</COL>'
+[[message]]
+key = 'pulldown_itempost'
+old = '<COL FDE9D9>アイテムポスト</COL>'
+[[message]]
+key = 'option_send_targeting'
+old = 'ボックス指定'
+[[message]]
+key = 'option_targeting_itembag_1'
+old = 'アイテムバッグ（消費）'
+[[message]]
+key = 'option_targeting_itembag_2'
+old = 'アイテムバッグ（素材）'
+[[message]]
+key = 'option_targeting_itembag_3'
+old = 'アイテムバッグ（装備）'
+[[message]]
+key = 'option_targeting_itembag_4'
+old = 'アイテムバッグ（ジョブ専用）'
+[[message]]
+key = 'option_targeting_storage_normal_1'
+old = '保管ボックス（通常枠）'
+[[message]]
+key = 'option_targeting_storage_ex_1'
+old = '保管ボックス（拡張枠）'
+[[message]]
+key = 'option_targeting_deposit_normal_1'
+old = '格納チェスト（通常枠）'
+[[message]]
+key = 'option_targeting_deposit_ex_1'
+old = '格納チェスト（拡張枠）'
+[[message]]
+key = 'option_targeting_itempost'
+old = 'アイテムポスト'
+[[message]]
+key = 'option_targeting_itembag_0'
+old = 'アイテムバッグ'
+[[message]]
+key = 'title_allbox_e'
+old = 'All Box'
+[[message]]
+key = 'title_allbox_j'
+old = '全てのボックス'
+[[message]]
+key = 'title_fertilizer_e'
+old = 'Fertilizer'
+[[message]]
+key = 'title_fertilizer_j'
+old = '肥料'
+[[message]]
+key = 'title_fertilizer_message_0'
+old = '''
+肥料は最大２０個まで自由に選んでください
+(装備を肥料にすると付加情報は破棄されます)'''
+[[message]]
+key = 'title_fertilizer_message_1'
+old = '''
+肥料に選んだアイテムは以下の通りです
+(装備を肥料にすると付加情報は破棄されます)'''
+[[message]]
+key = 'option_send_allbox'
+old = '元に戻す'
+[[message]]
+key = 'option_send_fertilizer_0'
+old = '肥料に送る'
+[[message]]
+key = 'option_send_fertilizer_1'
+old = '肥料に送る（一個ずつ）'
+[[message]]
+key = 'item_msg_guid_toallbox'
+old = '全てのボックスに移動'
+[[message]]
+key = 'item_msg_guid_tofertilizer'
+old = '肥料に移動'
+[[message]]
+key = 'item_msg_pop_ng_sameitem'
+old = '同じアイテムは送れません（元に戻します）'
+[[message]]
+key = 'pulldown_deposit_ex_0'
+old = '<COL DAEEF3>格納チェスト引出し%s</COL>'
+[[message]]
+key = 'option_targeting_deposit_ex_0'
+old = '格納チェスト引出し'
+[[message]]
+key = 'option_send_itemlockset'
+old = 'セーフティ設定'
+[[message]]
+key = 'item_conf_itemlockset'
+old = '''
+<COL ffdc78>セーフティ設定</COL>には、以下の機能があります
+
+・アイテムバッグからの<COL ffdc78>「捨てる」</COL>を防止
+・ショップや保管ボックス等からの<COL ffdc78>「売却」</COL>を防止
+・装備が消えてしまう場合の<COL ffdc78>「ポーンの削除」</COL>を防止'''
+[[message]]
+key = 'item_conf_itemlockset_on'
+old = '設定する'
+[[message]]
+key = 'item_conf_itemlockset_off'
+old = '設定を解除する'
+[[message]]
+key = 'item_conf_itemlockset_ng01'
+old = '設定を解除するには、個別にアイテムを選択してください'
+[[message]]
+key = 'item_conf_itemlockset_ng02'
+old = '選択中のアイテムは、すでに設定されています'
+[[message]]
+key = 'item_conf_itemlockset_ng03'
+old = '選択中のアイテムは、すでに設定解除されています'
+[[message]]
+key = 'bbi_embody_sub_01'
+old = '<UNTN GDM>を使って持ち帰り'
+[[message]]
+key = 'bbi_embody_sub_02'
+old = '<UNTN GS>を使って持ち帰り'
+[[message]]
+key = 'bbi_embody_sub_03'
+old = '同じアイテムの所持確認'
+[[message]]
+key = 'bbi_embody_conf_01'
+old = '''
+以下のアイテムを<COL ffdc78><UNTN GDM> <VAL GDM></COL>を使用して
+レスタニアの<COL ffdc78><VAL></COL>に持ち帰ります
+よろしいですか？'''
+[[message]]
+key = 'bbi_embody_conf_02'
+old = '''
+以下のアイテムを<COL ffdc78><UNTN GS> <VAL GS></COL>を使用して
+レスタニアの<COL ffdc78><VAL></COL>に持ち帰ります
+よろしいですか？'''
+[[message]]
+key = 'bbi_embody_conf_done'
+old = 'アイテムを持ち帰りました'
+[[message]]
+key = 'pulldown_equip_pl'
+old = '<COL DDD9C4>装備中のアイテム</COL>'
+[[message]]
+key = 'option_targeting_equip_pl'
+old = '装備中のアイテム'
+[[message]]
+key = 'bbi_embody_conf_03'
+old = '''
+黄金石が不足しています
+（必要数：<VAL>）
+（所持数：<VAL>）'''

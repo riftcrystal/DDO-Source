@@ -1,0 +1,21 @@
+﻿[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_11'
+old = '《第一防衛区画》の攻略'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_12'
+old = '《第一の門》の奪還'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_13'
+old = '《第二防衛区画》の攻略'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_14'
+old = '《第二の門》の奪還'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_15'
+old = '捕らわれた同志の救出'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_16'
+old = 'ソネルの探し物'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_17'
+old = '《最終防衛区画》の攻略'

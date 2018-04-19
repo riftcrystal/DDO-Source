@@ -1,0 +1,154 @@
+﻿[[message]]
+old = '''
+いいか――
+覚者の初陣には白竜の特別な加護がある'''
+[[message]]
+old = '''
+だから、実力以上の戦いができるはずだ
+思う存分暴れてくれ'''
+[[message]]
+old = '砦の守備隊は、ヴァネッサをはじめ精鋭ぞろい'
+[[message]]
+old = '救援要請なんて、もしかして初めてかも？'
+[[message]]
+old = '''
+ここまでオークに押し込まれることなど
+この３００年、なかったことだ'''
+[[message]]
+old = '情勢はこの上なく深刻――さあ、急ぐぞ！'
+[[message]]
+old = '武器、用意！　構えろ！'
+[[message]]
+old = '走れ～！'
+[[message]]
+old = '''
+隙あらば掴みかかるんだ
+デカイ敵はよじ登って戦え'''
+[[message]]
+old = '体力減ったら回復アイテム！　自己責任だぞ！'
+[[message]]
+old = 'ほら、砦へ急いで！'
+[[message]]
+old = '立派立派、まだ生きてる！　やるねえ！'
+[[message]]
+old = 'あのね――わたしの心配より自分の心配！'
+[[message]]
+old = 'ここはまだ演習のようなもの――さあ、砦へ急げ！'
+[[message]]
+old = '''
+バタバタしてるが、動きは悪くない
+自信を持って戦え！'''
+[[message]]
+old = 'さあ、砦へ突入だ！'
+[[message]]
+old = 'おい、どこへいく！'
+[[message]]
+old = 'そっちじゃないぞ！'
+[[message]]
+old = 'こっちへ来い！'
+[[message]]
+old = 'おい、回復しておけ！'
+[[message]]
+old = '回復アイテムを使うんだ！'
+[[message]]
+old = 'もっと体力に気を配れ！'
+[[message]]
+old = 'くそ――回復してくれ'
+[[message]]
+old = 'すまん――自力回復できん'
+[[message]]
+old = '俺を見殺しにする気か！'
+[[message]]
+old = 'そっちじゃないって！'
+[[message]]
+old = 'ちゃんとついてきてよ！'
+[[message]]
+old = 'どこいく気！？'
+[[message]]
+old = 'ほら、回復しなさい、回復！'
+[[message]]
+old = '死にたいの？　いやなら回復！'
+[[message]]
+old = '回復しなさいってば！'
+[[message]]
+old = 'わたし、回復してほしいんだけど'
+[[message]]
+old = 'こっち見て――回復して――'
+[[message]]
+old = 'お願い――見捨てないで――'
+[[message]]
+old = '''
+戦場の咆哮が聞こえるか？　
+扉の先は、おそらく敵味方入り交じる混戦状態――'''
+[[message]]
+old = '''
+さあ、やっちゃって！
+今日のあんたには白竜の加護があるんだから！'''
+[[message]]
+old = 'さあ！　全てのオークどもを切り倒せ！'
+[[message]]
+old = '''
+ぷんぷん臭ってくるね
+ああ、腹立つ！　許さないから！'''
+[[message]]
+old = '次から次へと来るぞ！　体力に気をつけろ'
+[[message]]
+old = 'ひとりで全部倒してしまえ！　遠慮は無用だ！'
+[[message]]
+old = 'いいぞ！　その調子だ！'
+[[message]]
+old = 'ほら、来てるよ！　やっちゃえ！'
+[[message]]
+old = 'もう、鼻が曲がる～！　さっさと終わらせよう！'
+[[message]]
+old = 'いいねえ！　あとはまかせちゃおうかな'
+[[message]]
+old = 'いい調子だぞ！'
+[[message]]
+old = '敵は残り少ないぞ！　押せ！'
+[[message]]
+old = '追い風に乗れ！'
+[[message]]
+old = 'くそっ！　敵、増兵だ！'
+[[message]]
+old = '増援だ！　気を引きしめろ！'
+[[message]]
+old = 'まだいたのか！'
+[[message]]
+old = 'もう少しだよ！'
+[[message]]
+old = 'いい感じ！　このまま！'
+[[message]]
+old = '優勢優勢！'
+[[message]]
+old = 'まだいたか！　くう～！'
+[[message]]
+old = '残念、敵が増えちゃった！'
+[[message]]
+old = 'あーあ、敵、増援だ！'
+[[message]]
+old = '頼りにしてるぞ、新人！'
+[[message]]
+old = 'ここまで攻め込まれるとは――不覚！'
+[[message]]
+old = '''
+オークはまだまだいる！
+一匹残らず倒すぞ！'''
+[[message]]
+old = '''
+さすが、レオ隊長が見込んだ新人だな！
+このまま砦を掃除するぞ！'''
+[[message]]
+old = '敵には<COL ff7575><KCT ATTACK1>／<KCT ATTACK2></COL>で基本攻撃！'
+[[message]]
+old = 'さらに<COL ff7575><PADM><KCT WEAPON_SUB>を押しながら</PADM><KEYM><KCT SKILL_CUSTOM3></COL>か</KEYM>'
+[[message]]
+old = '<COL ff7575><PADM><KCT ATTACK1></PADM><KEYM><KCT SKILL_CUSTOM1></KEYM></COL>でカスタムスキルだ！'
+[[message]]
+old = '<COL ff7575><PADM><KCT WEAPON_MAIN>を押しながら</PADM><KEYM><KCT SKILL_CUSTOM4></KEYM></COL>でもOKだ！'
+[[message]]
+old = '技は画面右下のガイドで確認してくれ！'
+[[message]]
+old = 'オークや大型の敵には近づき、<COL ff7575><KCT TOUCH></COL>でしがみついて攻撃だ！'
+[[message]]
+old = '走る時は<COL ff7575><PADM>移動方向に<KEYN L_STICK>を倒しながら押し込み<KEYM>初期設定の場合、同じ移動キー２回押し</KEYM></COL>でダッシュだ！'

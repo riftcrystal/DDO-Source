@@ -1,0 +1,195 @@
+﻿[[message]]
+key = 'menu_item'
+old = 'アイテムバッグ'
+[[message]]
+key = 'menu_key_item'
+old = 'キーアイテム'
+[[message]]
+key = 'menu_equip_status'
+old = 'ステータス・装備'
+[[message]]
+key = 'menu_newspaper'
+old = 'レスタニアニュース'
+[[message]]
+key = 'menu_quest'
+old = 'クエストログ'
+[[message]]
+key = 'menu_master'
+old = 'ジョブ修練ログ'
+[[message]]
+key = 'menu_tutorial'
+old = 'チュートリアルガイド'
+[[message]]
+key = 'menu_map'
+old = 'マップ'
+[[message]]
+key = 'menu_lobby'
+old = 'ロビー情報'
+[[message]]
+key = 'menu_rim_transport'
+old = 'リム転移'
+[[message]]
+key = 'menu_party'
+old = 'パーティー管理'
+[[message]]
+key = 'menu_clan'
+old = 'クランステータス'
+[[message]]
+key = 'menu_community'
+old = 'コミュニティリスト'
+[[message]]
+key = 'menu_photo'
+old = 'フォトモード'
+[[message]]
+key = 'menu_gp_charge'
+old = '黄金石の確認'
+[[message]]
+key = 'menu_option_sys'
+old = 'デバイス設定'
+[[message]]
+key = 'menu_manual'
+old = 'プレイマニュアル'
+[[message]]
+key = 'menu_support'
+old = 'サポート・報告'
+[[message]]
+key = 'menu_license'
+old = 'ライセンス'
+[[message]]
+key = 'menu_shut_down'
+old = 'ゲーム中断'
+[[message]]
+key = 'menu_gp_status'
+old = 'オンラインステーション'
+[[message]]
+key = 'menu_gp_shop'
+old = 'オンラインショップ'
+[[message]]
+key = 'menu_matching_profile'
+old = 'プロフィール編集'
+[[message]]
+key = 'menu_ls'
+old = 'グループチャット'
+[[message]]
+key = 'menu_arisen_card'
+old = '覚者プロフィール'
+[[message]]
+key = 'menu_my_fixed_pattern'
+old = 'マイ定型文'
+[[message]]
+key = 'menu_fixed_pattern'
+old = '定型文'
+[[message]]
+key = 'menu_emote'
+old = 'エモート'
+[[message]]
+key = 'menu_mail'
+old = 'メール'
+[[message]]
+key = 'menu_pawn'
+old = 'ポーン'
+[[message]]
+key = 'menu_pawn_command'
+old = 'ポーン命令'
+[[message]]
+key = 'menu_achievement'
+old = 'アチーブメント'
+[[message]]
+key = 'menu_server_change'
+old = 'ワールド変更'
+[[message]]
+key = 'menu_exit_contents'
+old = 'コンテンツ中断'
+[[message]]
+key = 'menu_option_chr'
+old = 'ゲーム設定'
+[[message]]
+key = 'menu_area_infomation'
+old = 'エリアリスト'
+[[message]]
+key = 'menu_deli_box'
+old = 'アイテムポスト'
+[[message]]
+key = 'menu_photo_album'
+old = 'フォトアルバム'
+[[message]]
+key = 'menu_code'
+old = 'イベントコード入力'
+[[message]]
+key = 'menu_login_bonus'
+old = 'スタンプボーナス確認'
+[[message]]
+key = 'menu_confirm_go_title'
+old = '''
+ゲームを中断してタイトル画面に戻ります
+よろしいですか？'''
+[[message]]
+key = 'menu_confirm_go_launcher'
+old = '''
+ログアウトしてランチャー画面に戻ります
+よろしいですか？'''
+[[message]]
+key = 'menu_confirm_shutdown'
+old = '''
+ログアウトしてゲームを終了します
+よろしいですか？'''
+[[message]]
+key = 'menu_quit_select_shutdown'
+old = 'ログアウトしてゲームを終了する'
+[[message]]
+key = 'menu_quit_select_go_title'
+old = 'タイトルに戻る'
+[[message]]
+key = 'menu_quit_select_go_launcher'
+old = 'ログアウトしてランチャーに戻る'
+[[message]]
+key = 'menu_gacha'
+old = 'トレジャーズロット'
+[[message]]
+key = 'menu_serch_player'
+old = 'プレイヤー検索'
+[[message]]
+key = 'menu_entryboard'
+old = 'エントリーボード'
+[[message]]
+key = 'menu_quick_party'
+old = 'クイックパーティー'
+[[message]]
+key = 'menu_caplink'
+old = 'カプリンク'
+[[message]]
+key = 'menu_ps_items'
+old = ''
+[[message]]
+key = 'menu_clan_management'
+old = 'クラン管理'
+[[message]]
+key = 'menu_boxgacha'
+old = 'ボックストレジャーズロット'
+[[message]]
+key = 'menu_time_event'
+old = '期間イベント'
+[[message]]
+key = 'menu_ps_store'
+old = ''
+[[message]]
+key = 'menu_ps_store_buy'
+old = ''
+[[message]]
+key = 'menu_partyboard'
+old = 'パーティー募集掲示板'
+[[message]]
+key = 'menu_partyboard_dialog'
+old = 'パーティー募集掲示板のカテゴリを選択してください'
+[[message]]
+key = 'menu_partyboard_type01'
+old = 'パーティー募集掲示板を開く'
+[[message]]
+key = 'menu_pq_history'
+old = 'サブストーリーログ'
+[[message]]
+key = 'menu_adv_guide'
+old = '冒険ガイド'
+[[message]]
+key = 'menu_infdelivery_event'
+old = '大口納品イベント'

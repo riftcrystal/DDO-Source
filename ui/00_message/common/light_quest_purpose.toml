@@ -1,0 +1,9 @@
+﻿[[message]]
+key = 'LIGHT_QUEST_PURPOSE_1001'
+old = '<LQEM>を討伐：<VAL> / <VAL>'
+[[message]]
+key = 'LIGHT_QUEST_PURPOSE_1002'
+old = '<LQIM>を入手：<VAL> / <VAL>'
+[[message]]
+key = 'LIGHT_QUEST_PURPOSE_1006'
+old = '<LQIM>を納品'

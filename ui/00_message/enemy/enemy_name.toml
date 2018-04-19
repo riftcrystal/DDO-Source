@@ -1,0 +1,1029 @@
+﻿[[message]]
+key = 'ENEMY_NAME_1'
+old = 'ゴブリン'
+[[message]]
+key = 'ENEMY_NAME_2'
+old = 'ゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_3'
+old = 'シールドゴブリン'
+[[message]]
+key = 'ENEMY_NAME_4'
+old = 'スリングゴブリン'
+[[message]]
+key = 'ENEMY_NAME_5'
+old = 'ゴブリンリーダー'
+[[message]]
+key = 'ENEMY_NAME_6'
+old = 'ホブゴブリン'
+[[message]]
+key = 'ENEMY_NAME_7'
+old = 'ホブゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_8'
+old = 'スリングホブゴブリン'
+[[message]]
+key = 'ENEMY_NAME_9'
+old = 'ホブゴブリンリーダー'
+[[message]]
+key = 'ENEMY_NAME_10'
+old = 'ギガン・マキナ'
+[[message]]
+key = 'ENEMY_NAME_11'
+old = 'モゴック'
+[[message]]
+key = 'ENEMY_NAME_12'
+old = 'ジェネラルオーク'
+[[message]]
+key = 'ENEMY_NAME_13'
+old = 'キャプテンオーク'
+[[message]]
+key = 'ENEMY_NAME_14'
+old = 'オークバトラー'
+[[message]]
+key = 'ENEMY_NAME_15'
+old = 'オークソルジャー'
+[[message]]
+key = 'ENEMY_NAME_16'
+old = 'スライム'
+[[message]]
+key = 'ENEMY_NAME_17'
+old = 'ディープスライム'
+[[message]]
+key = 'ENEMY_NAME_18'
+old = 'ブロブ'
+[[message]]
+key = 'ENEMY_NAME_19'
+old = 'グラトンウーズ'
+[[message]]
+key = 'ENEMY_NAME_20'
+old = 'ウーズ'
+[[message]]
+key = 'ENEMY_NAME_21'
+old = 'ミストウィルム'
+[[message]]
+key = 'ENEMY_NAME_22'
+old = 'ミストドレイク'
+[[message]]
+key = 'ENEMY_NAME_23'
+old = 'ベヘモット'
+[[message]]
+key = 'ENEMY_NAME_24'
+old = 'アングルス'
+[[message]]
+key = 'ENEMY_NAME_25'
+old = 'リンドブルム'
+[[message]]
+key = 'ENEMY_NAME_26'
+old = 'ウィルム'
+[[message]]
+key = 'ENEMY_NAME_27'
+old = 'ドレイク'
+[[message]]
+key = 'ENEMY_NAME_180'
+old = 'ダムドウルフ'
+[[message]]
+key = 'ENEMY_NAME_28'
+old = 'ウルフアルケミー'
+[[message]]
+key = 'ENEMY_NAME_29'
+old = 'シャドーウルフ'
+[[message]]
+key = 'ENEMY_NAME_30'
+old = 'グリムワーグ'
+[[message]]
+key = 'ENEMY_NAME_31'
+old = 'ダイアウルフ'
+[[message]]
+key = 'ENEMY_NAME_32'
+old = 'オオカミ'
+[[message]]
+key = 'ENEMY_NAME_33'
+old = 'スケルトンアルケミー'
+[[message]]
+key = 'ENEMY_NAME_34'
+old = 'ゴーストメイル'
+[[message]]
+key = 'ENEMY_NAME_35'
+old = 'デスナイト'
+[[message]]
+key = 'ENEMY_NAME_36'
+old = 'スケルトンソーサラー'
+[[message]]
+key = 'ENEMY_NAME_37'
+old = 'スケルトンメイジ'
+[[message]]
+key = 'ENEMY_NAME_38'
+old = 'スケルトンウォリアー'
+[[message]]
+key = 'ENEMY_NAME_39'
+old = 'スケルトンナイト'
+[[message]]
+key = 'ENEMY_NAME_40'
+old = 'スケルトン'
+[[message]]
+key = 'ENEMY_NAME_41'
+old = 'ブルーニュート'
+[[message]]
+key = 'ENEMY_NAME_42'
+old = 'ロックリザード'
+[[message]]
+key = 'ENEMY_NAME_43'
+old = 'ラージサルファー'
+[[message]]
+key = 'ENEMY_NAME_44'
+old = 'サルファーリザード'
+[[message]]
+key = 'ENEMY_NAME_45'
+old = 'ラージリザード'
+[[message]]
+key = 'ENEMY_NAME_46'
+old = 'リザードマン'
+[[message]]
+key = 'ENEMY_NAME_47'
+old = 'コープストーチャー・フロスト'
+[[message]]
+key = 'ENEMY_NAME_48'
+old = 'コープスパニッシャー・フロスト'
+[[message]]
+key = 'ENEMY_NAME_49'
+old = 'スラッジマン'
+[[message]]
+key = 'ENEMY_NAME_50'
+old = 'マッドマン'
+[[message]]
+key = 'ENEMY_NAME_51'
+old = 'ウォリアーアンデッド'
+[[message]]
+key = 'ENEMY_NAME_52'
+old = 'ソードアンデッド'
+[[message]]
+key = 'ENEMY_NAME_53'
+old = 'ファットアンデッド'
+[[message]]
+key = 'ENEMY_NAME_54'
+old = 'アンデッド'
+[[message]]
+key = 'ENEMY_NAME_55'
+old = 'シャドーハーピー'
+[[message]]
+key = 'ENEMY_NAME_56'
+old = 'ハーピーアルケミー'
+[[message]]
+key = 'ENEMY_NAME_57'
+old = 'スノーハーピー'
+[[message]]
+key = 'ENEMY_NAME_58'
+old = 'ハーピー'
+[[message]]
+key = 'ENEMY_NAME_59'
+old = 'ミストアルケミスト'
+[[message]]
+key = 'ENEMY_NAME_60'
+old = 'ミストウォリアー'
+[[message]]
+key = 'ENEMY_NAME_61'
+old = 'ミストソーサラー'
+[[message]]
+key = 'ENEMY_NAME_62'
+old = 'ミストプリースト'
+[[message]]
+key = 'ENEMY_NAME_63'
+old = 'ミストハンター'
+[[message]]
+key = 'ENEMY_NAME_64'
+old = 'ミストファイター'
+[[message]]
+key = 'ENEMY_NAME_65'
+old = 'メルガンシーカー'
+[[message]]
+key = 'ENEMY_NAME_66'
+old = 'バンデッドファイター'
+[[message]]
+key = 'ENEMY_NAME_67'
+old = 'ローグファイター'
+[[message]]
+key = 'ENEMY_NAME_68'
+old = 'リーチ'
+[[message]]
+key = 'ENEMY_NAME_69'
+old = 'ワーム'
+[[message]]
+key = 'ENEMY_NAME_70'
+old = 'サイクロプス'
+[[message]]
+key = 'ENEMY_NAME_71'
+old = 'モルトロール'
+[[message]]
+key = 'ENEMY_NAME_72'
+old = 'トロール'
+[[message]]
+key = 'ENEMY_NAME_73'
+old = 'エント'
+[[message]]
+key = 'ENEMY_NAME_74'
+old = 'グランエント'
+[[message]]
+key = 'ENEMY_NAME_75'
+old = 'コロッサス'
+[[message]]
+key = 'ENEMY_NAME_76'
+old = 'アーマーサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_77'
+old = 'シャドーキメラ'
+[[message]]
+key = 'ENEMY_NAME_78'
+old = 'ホワイトキメラ'
+[[message]]
+key = 'ENEMY_NAME_79'
+old = 'キメラ'
+[[message]]
+key = 'ENEMY_NAME_80'
+old = 'ジオゴーレム'
+[[message]]
+key = 'ENEMY_NAME_81'
+old = 'ダムドゴーレム'
+[[message]]
+key = 'ENEMY_NAME_82'
+old = 'ゴリアテ'
+[[message]]
+key = 'ENEMY_NAME_83'
+old = 'ゴーレム'
+[[message]]
+key = 'ENEMY_NAME_84'
+old = 'グリフィン'
+[[message]]
+key = 'ENEMY_NAME_85'
+old = 'コカトリス'
+[[message]]
+key = 'ENEMY_NAME_86'
+old = 'ナイトメア'
+[[message]]
+key = 'ENEMY_NAME_87'
+old = 'グリフィンアルケミー'
+[[message]]
+key = 'ENEMY_NAME_88'
+old = 'ブラックグリフィン'
+[[message]]
+key = 'ENEMY_NAME_89'
+old = 'スフィンクス'
+[[message]]
+key = 'ENEMY_NAME_90'
+old = 'アルケミーアイ'
+[[message]]
+key = 'ENEMY_NAME_91'
+old = 'エメラルドアイ'
+[[message]]
+key = 'ENEMY_NAME_92'
+old = 'ラピスアイ'
+[[message]]
+key = 'ENEMY_NAME_93'
+old = 'ルビーアイ'
+[[message]]
+key = 'ENEMY_NAME_94'
+old = 'クリスタルアイ'
+[[message]]
+key = 'ENEMY_NAME_95'
+old = 'ブルトエイプ'
+[[message]]
+key = 'ENEMY_NAME_96'
+old = 'グール'
+[[message]]
+key = 'ENEMY_NAME_97'
+old = 'ドレッドエイプ'
+[[message]]
+key = 'ENEMY_NAME_98'
+old = 'オーガ'
+[[message]]
+key = 'ENEMY_NAME_99'
+old = 'エンプレスゴースト'
+[[message]]
+key = 'ENEMY_NAME_100'
+old = 'ウィッチ'
+[[message]]
+key = 'ENEMY_NAME_101'
+old = 'ワイト'
+[[message]]
+key = 'ENEMY_NAME_102'
+old = 'ゴルゴラン'
+[[message]]
+key = 'ENEMY_NAME_103'
+old = 'エルダードラゴン'
+[[message]]
+key = 'ENEMY_NAME_104'
+old = '白竜'
+[[message]]
+key = 'ENEMY_NAME_105'
+old = 'ディアマンテス'
+[[message]]
+key = 'ENEMY_NAME_106'
+old = 'ズール'
+[[message]]
+key = 'ENEMY_NAME_107'
+old = 'カブトグモ'
+[[message]]
+key = 'ENEMY_NAME_108'
+old = 'ブタ'
+[[message]]
+key = 'ENEMY_NAME_109'
+old = '野ブタ'
+[[message]]
+key = 'ENEMY_NAME_110'
+old = 'オオネズミ'
+[[message]]
+key = 'ENEMY_NAME_111'
+old = '牛'
+[[message]]
+key = 'ENEMY_NAME_112'
+old = '雌ジカ'
+[[message]]
+key = 'ENEMY_NAME_113'
+old = '雄ジカ'
+[[message]]
+key = 'ENEMY_NAME_114'
+old = 'ウサギ'
+[[message]]
+key = 'ENEMY_NAME_115'
+old = 'スカルロード'
+[[message]]
+key = 'ENEMY_NAME_116'
+old = 'ゴブリンアルケミーファイター'
+[[message]]
+key = 'ENEMY_NAME_117'
+old = 'イリス'
+[[message]]
+key = 'ENEMY_NAME_118'
+old = 'レオ'
+[[message]]
+key = 'ENEMY_NAME_119'
+old = 'ポーンファイター'
+[[message]]
+key = 'ENEMY_NAME_120'
+old = 'ポーンシーカー'
+[[message]]
+key = 'ENEMY_NAME_121'
+old = 'ポーンハンター'
+[[message]]
+key = 'ENEMY_NAME_122'
+old = 'ポーンヒーラー'
+[[message]]
+key = 'ENEMY_NAME_123'
+old = 'ポーンガーダー'
+[[message]]
+key = 'ENEMY_NAME_124'
+old = 'ポーンメイジ'
+[[message]]
+key = 'ENEMY_NAME_125'
+old = 'ポーンウォリアー'
+[[message]]
+key = 'ENEMY_NAME_126'
+old = 'ポーンエレメンター'
+[[message]]
+key = 'ENEMY_NAME_127'
+old = 'ポーンアルケミスト'
+[[message]]
+key = 'ENEMY_NAME_128'
+old = 'フォレストゴブリン'
+[[message]]
+key = 'ENEMY_NAME_129'
+old = 'フォレストゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_130'
+old = 'スリングフォレストゴブリン'
+[[message]]
+key = 'ENEMY_NAME_131'
+old = 'レッドキャップ'
+[[message]]
+key = 'ENEMY_NAME_132'
+old = 'レッドキャップファイター'
+[[message]]
+key = 'ENEMY_NAME_133'
+old = 'スリングレッドキャップ'
+[[message]]
+key = 'ENEMY_NAME_134'
+old = 'ゴブリンアルケミー'
+[[message]]
+key = 'ENEMY_NAME_135'
+old = 'メルガンアルケミスト'
+[[message]]
+key = 'ENEMY_NAME_136'
+old = 'ローグシーカー'
+[[message]]
+key = 'ENEMY_NAME_137'
+old = 'ローグハンター'
+[[message]]
+key = 'ENEMY_NAME_138'
+old = 'ローグヒーラー'
+[[message]]
+key = 'ENEMY_NAME_139'
+old = 'ローグガーダー'
+[[message]]
+key = 'ENEMY_NAME_140'
+old = 'ローグメイジ'
+[[message]]
+key = 'ENEMY_NAME_141'
+old = 'ローグウォリアー'
+[[message]]
+key = 'ENEMY_NAME_142'
+old = 'バンデッドシーカー'
+[[message]]
+key = 'ENEMY_NAME_143'
+old = 'バンデッドハンター'
+[[message]]
+key = 'ENEMY_NAME_144'
+old = 'バンデッドヒーラー'
+[[message]]
+key = 'ENEMY_NAME_145'
+old = 'バンデッドガーダー'
+[[message]]
+key = 'ENEMY_NAME_146'
+old = 'バンデッドメイジ'
+[[message]]
+key = 'ENEMY_NAME_147'
+old = 'バンデッドウォリアー'
+[[message]]
+key = 'ENEMY_NAME_148'
+old = 'メルガンハンター'
+[[message]]
+key = 'ENEMY_NAME_149'
+old = 'メルガンヒーラー'
+[[message]]
+key = 'ENEMY_NAME_150'
+old = 'メルガンガーダー'
+[[message]]
+key = 'ENEMY_NAME_151'
+old = 'メルガンメイジ'
+[[message]]
+key = 'ENEMY_NAME_152'
+old = 'メルガンウォリアー'
+[[message]]
+key = 'ENEMY_NAME_153'
+old = 'メルガンエレメンター'
+[[message]]
+key = 'ENEMY_NAME_154'
+old = 'リビングアーマー'
+[[message]]
+key = 'ENEMY_NAME_155'
+old = 'オークエイマー'
+[[message]]
+key = 'ENEMY_NAME_156'
+old = 'オークバンガー'
+[[message]]
+key = 'ENEMY_NAME_157'
+old = 'オークブリンガー'
+[[message]]
+key = 'ENEMY_NAME_158'
+old = 'オークトルーパー'
+[[message]]
+key = 'ENEMY_NAME_159'
+old = 'キラービー'
+[[message]]
+key = 'ENEMY_NAME_160'
+old = 'シャドーゴブリンリーダー'
+[[message]]
+key = 'ENEMY_NAME_161'
+old = 'ゴブリンボマー'
+[[message]]
+key = 'ENEMY_NAME_162'
+old = 'ゴブリンキング'
+[[message]]
+key = 'ENEMY_NAME_163'
+old = 'スリングシャドーゴブリン'
+[[message]]
+key = 'ENEMY_NAME_164'
+old = 'シャドーゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_165'
+old = 'シャドーゴブリン'
+[[message]]
+key = 'ENEMY_NAME_166'
+old = 'ダムドゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_167'
+old = 'ダムドスリングゴブリン'
+[[message]]
+key = 'ENEMY_NAME_168'
+old = 'ダムドゴブリン'
+[[message]]
+key = 'ENEMY_NAME_169'
+old = 'スリングゴブリンアルケミー'
+[[message]]
+key = 'ENEMY_NAME_170'
+old = 'シルバーロア'
+[[message]]
+key = 'ENEMY_NAME_171'
+old = 'ロックリザードスピネル'
+[[message]]
+key = 'ENEMY_NAME_172'
+old = '子ブタ'
+[[message]]
+key = 'ENEMY_NAME_173'
+old = '巨大な謎の肉塊'
+[[message]]
+key = 'ENEMY_NAME_174'
+old = '謎の肉塊'
+[[message]]
+key = 'ENEMY_NAME_175'
+old = 'メルガンファイター'
+[[message]]
+key = 'ENEMY_NAME_179'
+old = '？？？'
+[[message]]
+key = 'ENEMY_NAME_292'
+old = 'ピクシー'
+[[message]]
+key = 'ENEMY_NAME_181'
+old = 'ピクシージャバー'
+[[message]]
+key = 'ENEMY_NAME_182'
+old = '侵食ホブゴブリン'
+[[message]]
+key = 'ENEMY_NAME_184'
+old = 'ワーグ'
+[[message]]
+key = 'ENEMY_NAME_185'
+old = '侵食ダイアウルフ'
+[[message]]
+key = 'ENEMY_NAME_186'
+old = 'グリーンガーディアン'
+[[message]]
+key = 'ENEMY_NAME_187'
+old = 'ボルトグリムワーグ'
+[[message]]
+key = 'ENEMY_NAME_188'
+old = '狂侵ワーグ'
+[[message]]
+key = 'ENEMY_NAME_189'
+old = 'スケルトンブルート'
+[[message]]
+key = 'ENEMY_NAME_190'
+old = 'スケルトン・フレイム'
+[[message]]
+key = 'ENEMY_NAME_191'
+old = 'スケルトン・フロスト'
+[[message]]
+key = 'ENEMY_NAME_192'
+old = 'スケルトン・ボルト'
+[[message]]
+key = 'ENEMY_NAME_193'
+old = 'スケルトン・ルクス'
+[[message]]
+key = 'ENEMY_NAME_194'
+old = 'スケルトン・ダーク'
+[[message]]
+key = 'ENEMY_NAME_195'
+old = 'スケルトンブルート・フレイム'
+[[message]]
+key = 'ENEMY_NAME_196'
+old = 'スケルトンブルート・フロスト'
+[[message]]
+key = 'ENEMY_NAME_197'
+old = 'スケルトンブルート・ボルト'
+[[message]]
+key = 'ENEMY_NAME_198'
+old = 'スケルトンブルート・ルクス'
+[[message]]
+key = 'ENEMY_NAME_199'
+old = 'スケルトンブルート・ダーク'
+[[message]]
+key = 'ENEMY_NAME_200'
+old = 'ラージニュート'
+[[message]]
+key = 'ENEMY_NAME_201'
+old = 'フットバイター'
+[[message]]
+key = 'ENEMY_NAME_202'
+old = 'エリミネーター'
+[[message]]
+key = 'ENEMY_NAME_203'
+old = 'コープスパニッシャー・フレイム'
+[[message]]
+key = 'ENEMY_NAME_204'
+old = 'コープスパニッシャー・ボルト'
+[[message]]
+key = 'ENEMY_NAME_205'
+old = 'コープスパニッシャー・ルクス'
+[[message]]
+key = 'ENEMY_NAME_206'
+old = 'コープスパニッシャー・ダーク'
+[[message]]
+key = 'ENEMY_NAME_207'
+old = 'コープストーチャー・フレイム'
+[[message]]
+key = 'ENEMY_NAME_208'
+old = 'コープストーチャー・ボルト'
+[[message]]
+key = 'ENEMY_NAME_209'
+old = 'コープストーチャー・ルクス'
+[[message]]
+key = 'ENEMY_NAME_210'
+old = 'コープストーチャー・ダーク'
+[[message]]
+key = 'ENEMY_NAME_211'
+old = 'ガーゴイル'
+[[message]]
+key = 'ENEMY_NAME_212'
+old = 'セイレーン'
+[[message]]
+key = 'ENEMY_NAME_213'
+old = 'スチュパリデス'
+[[message]]
+key = 'ENEMY_NAME_214'
+old = 'ストリクス'
+[[message]]
+key = 'ENEMY_NAME_215'
+old = '侵食スノーハーピー'
+[[message]]
+key = 'ENEMY_NAME_216'
+old = '狂侵スチュパリデス'
+[[message]]
+key = 'ENEMY_NAME_217'
+old = 'ヨロイムシ'
+[[message]]
+key = 'ENEMY_NAME_219'
+old = 'アクアジェリー'
+[[message]]
+key = 'ENEMY_NAME_220'
+old = 'パイロスライム'
+[[message]]
+key = 'ENEMY_NAME_221'
+old = 'フリージングスライム'
+[[message]]
+key = 'ENEMY_NAME_222'
+old = 'エレキスライム'
+[[message]]
+key = 'ENEMY_NAME_223'
+old = 'フォトンスライム'
+[[message]]
+key = 'ENEMY_NAME_224'
+old = 'ディムスライム'
+[[message]]
+key = 'ENEMY_NAME_225'
+old = 'フィンドファイター'
+[[message]]
+key = 'ENEMY_NAME_226'
+old = 'フィンドシーカー'
+[[message]]
+key = 'ENEMY_NAME_227'
+old = 'フィンドハンター'
+[[message]]
+key = 'ENEMY_NAME_228'
+old = 'フィンドプリースト'
+[[message]]
+key = 'ENEMY_NAME_229'
+old = 'フィンドガーダー'
+[[message]]
+key = 'ENEMY_NAME_230'
+old = 'フィンドウォリアー'
+[[message]]
+key = 'ENEMY_NAME_231'
+old = 'フィンドソーサラー'
+[[message]]
+key = 'ENEMY_NAME_232'
+old = 'フィンドエレメンター'
+[[message]]
+key = 'ENEMY_NAME_235'
+old = 'モス'
+[[message]]
+key = 'ENEMY_NAME_237'
+old = 'マンドラゴラ'
+[[message]]
+key = 'ENEMY_NAME_239'
+old = 'ゴアサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_240'
+old = '侵食ゴアサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_241'
+old = '狂侵ゴアサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_242'
+old = 'マンティコア'
+[[message]]
+key = 'ENEMY_NAME_244'
+old = 'ゴアキメラ'
+[[message]]
+key = 'ENEMY_NAME_245'
+old = '狂侵グリフィン'
+[[message]]
+key = 'ENEMY_NAME_246'
+old = '侵食グリフィン'
+[[message]]
+key = 'ENEMY_NAME_247'
+old = 'バイルアイ'
+[[message]]
+key = 'ENEMY_NAME_248'
+old = 'イービルアイ'
+[[message]]
+key = 'ENEMY_NAME_249'
+old = 'マンイーター'
+[[message]]
+key = 'ENEMY_NAME_250'
+old = 'スパインバック'
+[[message]]
+key = 'ENEMY_NAME_251'
+old = 'メドゥーサ'
+[[message]]
+key = 'ENEMY_NAME_252'
+old = 'ゴースト'
+[[message]]
+key = 'ENEMY_NAME_253'
+old = 'カースドラゴン'
+[[message]]
+key = 'ENEMY_NAME_254'
+old = '侵食ベヘモット'
+[[message]]
+key = 'ENEMY_NAME_255'
+old = '狂侵ベヘモット'
+[[message]]
+key = 'ENEMY_NAME_257'
+old = '侵食オークソルジャー'
+[[message]]
+key = 'ENEMY_NAME_258'
+old = 'タラスク'
+[[message]]
+key = 'ENEMY_NAME_259'
+old = 'フロスト・マキナ'
+[[message]]
+key = 'ENEMY_NAME_260'
+old = 'グリゴリ'
+[[message]]
+key = 'ENEMY_NAME_261'
+old = '狂侵デーモン'
+[[message]]
+key = 'ENEMY_NAME_264'
+old = 'ニワトリ'
+[[message]]
+key = 'ENEMY_NAME_266'
+old = 'ヤギ'
+[[message]]
+key = 'ENEMY_NAME_267'
+old = 'カエル'
+[[message]]
+key = 'ENEMY_NAME_269'
+old = 'ワイルド・ボア'
+[[message]]
+key = 'ENEMY_NAME_271'
+old = 'アルタード・ズール'
+[[message]]
+key = 'ENEMY_NAME_272'
+old = 'スカージ'
+[[message]]
+key = 'ENEMY_NAME_274'
+old = '黒騎士'
+[[message]]
+key = 'ENEMY_NAME_275'
+old = '淀みし大竜力'
+[[message]]
+key = 'ENEMY_NAME_276'
+old = '精霊竜ウィルミア'
+[[message]]
+key = 'ENEMY_NAME_277'
+old = 'リザードマンセージ'
+[[message]]
+key = 'ENEMY_NAME_278'
+old = '侵食ホブゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_279'
+old = '侵食スリングホブゴブリン'
+[[message]]
+key = 'ENEMY_NAME_280'
+old = 'フィンダーエント'
+[[message]]
+key = 'ENEMY_NAME_281'
+old = 'ホワイトグリフィン'
+[[message]]
+key = 'ENEMY_NAME_282'
+old = 'ビフレスト'
+[[message]]
+key = 'ENEMY_NAME_283'
+old = '触手'
+[[message]]
+key = 'ENEMY_NAME_284'
+old = '侵食オークエイマー'
+[[message]]
+key = 'ENEMY_NAME_285'
+old = '侵食オークバンガー'
+[[message]]
+key = 'ENEMY_NAME_286'
+old = 'アドタラスク'
+[[message]]
+key = 'ENEMY_NAME_287'
+old = 'グリゴリベアード'
+[[message]]
+key = 'ENEMY_NAME_288'
+old = 'ピクシービフ'
+[[message]]
+key = 'ENEMY_NAME_289'
+old = 'ピクシーディン'
+[[message]]
+key = 'ENEMY_NAME_290'
+old = 'ピクシーポウ'
+[[message]]
+key = 'ENEMY_NAME_291'
+old = '狂侵ピクシー'
+[[message]]
+key = 'ENEMY_NAME_294'
+old = 'ハイピクシービフ'
+[[message]]
+key = 'ENEMY_NAME_295'
+old = 'ハイピクシーゾルダ'
+[[message]]
+key = 'ENEMY_NAME_296'
+old = 'ハイピクシーポウ'
+[[message]]
+key = 'ENEMY_NAME_297'
+old = 'ピクシーキング'
+[[message]]
+key = 'ENEMY_NAME_298'
+old = 'オークに進化したゴブリン'
+[[message]]
+key = 'ENEMY_NAME_299'
+old = 'アシッドブロブ'
+[[message]]
+key = 'ENEMY_NAME_300'
+old = 'オイルジェリー'
+[[message]]
+key = 'ENEMY_NAME_301'
+old = 'スカーレットファイター'
+[[message]]
+key = 'ENEMY_NAME_302'
+old = 'スカーレットシーカー'
+[[message]]
+key = 'ENEMY_NAME_303'
+old = 'スカーレットハンター'
+[[message]]
+key = 'ENEMY_NAME_304'
+old = 'スカーレットヒーラー'
+[[message]]
+key = 'ENEMY_NAME_305'
+old = 'スカーレットガーダー'
+[[message]]
+key = 'ENEMY_NAME_306'
+old = 'スカーレットメイジ'
+[[message]]
+key = 'ENEMY_NAME_307'
+old = 'スカーレットウォリアー'
+[[message]]
+key = 'ENEMY_NAME_308'
+old = 'ラージリザードセージ'
+[[message]]
+key = 'ENEMY_NAME_309'
+old = 'リトルスパイン'
+[[message]]
+key = 'ENEMY_NAME_310'
+old = '祈りの竜晶'
+[[message]]
+key = 'ENEMY_NAME_311'
+old = 'うめきの竜晶'
+[[message]]
+key = 'ENEMY_NAME_312'
+old = 'エリミネーター・スレイ'
+[[message]]
+key = 'ENEMY_NAME_313'
+old = '黒騎士・幻影'
+[[message]]
+key = 'ENEMY_NAME_314'
+old = 'グリムゴブリン'
+[[message]]
+key = 'ENEMY_NAME_315'
+old = 'グリムゴブリンファイター'
+[[message]]
+key = 'ENEMY_NAME_316'
+old = 'スリンググリムゴブリン'
+[[message]]
+key = 'ENEMY_NAME_317'
+old = 'グレーターゴブリン'
+[[message]]
+key = 'ENEMY_NAME_318'
+old = 'ゴブリンシャーマン'
+[[message]]
+key = 'ENEMY_NAME_319'
+old = 'ゴブリンエイドシャーマン'
+[[message]]
+key = 'ENEMY_NAME_322'
+old = 'スケルトンワーグ'
+[[message]]
+key = 'ENEMY_NAME_323'
+old = '戦甲グリムワーグ'
+[[message]]
+key = 'ENEMY_NAME_325'
+old = 'ジオリザードマン'
+[[message]]
+key = 'ENEMY_NAME_326'
+old = 'ラージジオリザード'
+[[message]]
+key = 'ENEMY_NAME_327'
+old = '戦甲リザードマン'
+[[message]]
+key = 'ENEMY_NAME_328'
+old = '戦甲ラージリザード'
+[[message]]
+key = 'ENEMY_NAME_329'
+old = 'ブレイズハーピー'
+[[message]]
+key = 'ENEMY_NAME_336'
+old = 'フォッデン'
+[[message]]
+key = 'ENEMY_NAME_337'
+old = 'スケルトンサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_338'
+old = '戦甲ゴアサイクロプス'
+[[message]]
+key = 'ENEMY_NAME_340'
+old = 'ゴアマンティコア'
+[[message]]
+key = 'ENEMY_NAME_341'
+old = '戦甲ゴアマンティコア'
+[[message]]
+key = 'ENEMY_NAME_342'
+old = '戦甲ナイトメア'
+[[message]]
+key = 'ENEMY_NAME_344'
+old = 'クラッガー'
+[[message]]
+key = 'ENEMY_NAME_345'
+old = 'リトルクラッグ'
+[[message]]
+key = 'ENEMY_NAME_346'
+old = '戦甲オーガ'
+[[message]]
+key = 'ENEMY_NAME_347'
+old = 'ミザリーゴースト'
+[[message]]
+key = 'ENEMY_NAME_348'
+old = 'グラッジゴースト'
+[[message]]
+key = 'ENEMY_NAME_349'
+old = 'ロータスフィン'
+[[message]]
+key = 'ENEMY_NAME_350'
+old = 'ホワイトタラスク'
+[[message]]
+key = 'ENEMY_NAME_351'
+old = 'カトブレパス'
+[[message]]
+key = 'ENEMY_NAME_352'
+old = '斬兵ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_353'
+old = '隊将ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_354'
+old = 'アンセスターオーク'
+[[message]]
+key = 'ENEMY_NAME_355'
+old = 'キャプテンアンセスターオーク'
+[[message]]
+key = 'ENEMY_NAME_356'
+old = '戦の将'
+[[message]]
+key = 'ENEMY_NAME_357'
+old = '獣の将'
+[[message]]
+key = 'ENEMY_NAME_358'
+old = '骸の将'
+[[message]]
+key = 'ENEMY_NAME_359'
+old = '闇の将'
+[[message]]
+key = 'ENEMY_NAME_360'
+old = 'アンセスターオリジン'
+[[message]]
+key = 'ENEMY_NAME_363'
+old = 'イフリート'
+[[message]]
+key = 'ENEMY_NAME_366'
+old = '打兵ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_367'
+old = '重兵ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_368'
+old = '投兵ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_369'
+old = 'グリムゴブリンリーダー'
+[[message]]
+key = 'ENEMY_NAME_373'
+old = 'レッドズール'
+[[message]]
+key = 'ENEMY_NAME_383'
+old = '烈火岩'
+[[message]]
+key = 'ENEMY_NAME_385'
+old = '怨塊'
+[[message]]
+key = 'ENEMY_NAME_386'
+old = 'メガド護衛兵'
+[[message]]
+key = 'ENEMY_NAME_390'
+old = 'ヘイト管理用透明敵'
+[[message]]
+key = 'ENEMY_NAME_391'
+old = 'ドワーフオーク'
+[[message]]
+key = 'ENEMY_NAME_392'
+old = 'デス'

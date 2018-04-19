@@ -1,0 +1,42 @@
+﻿[[message]]
+key = 'GMD_CLAN_LIST_TAB_JOIN_REQ'
+old = '加入希望者リスト'
+[[message]]
+key = 'GMD_CLAN_LIST_TAB_INVITE'
+old = '招待リスト'
+[[message]]
+key = 'GMD_CLAN_LIST_TAB_APPLY'
+old = '加入申請中リスト'
+[[message]]
+key = 'GMD_CLAN_LIST_TAB_INVITED'
+old = 'スカウトエントリー招待'
+[[message]]
+key = 'GMD_CLAN_LIST_TOP_EN'
+old = 'Clan List'
+[[message]]
+key = 'GMD_CLAN_LIST_TOP_JP'
+old = 'クランリスト'
+[[message]]
+key = 'GMD_CLAN_LIST_COLUMN_NAME'
+old = '名前'
+[[message]]
+key = 'GMD_CLAN_LIST_COLUMN_CLAN'
+old = 'クラン'
+[[message]]
+key = 'GMD_CLAN_LIST_COLUMN_DATE'
+old = '日付'
+[[message]]
+key = 'GMD_CLAN_LIST_NO_JOIN_REQ'
+old = '加入申請がありません'
+[[message]]
+key = 'GMD_CLAN_LIST_NO_INVITE'
+old = '招待していません'
+[[message]]
+key = 'GMD_CLAN_LIST_NO_APPLY'
+old = '加入申請していません'
+[[message]]
+key = 'GMD_CLAN_LIST_NO_INVITED'
+old = '招待されていません'
+[[message]]
+key = 'GMD_CLAN_LIST_TAB_INVITED_DIRECT'
+old = '直接招待'

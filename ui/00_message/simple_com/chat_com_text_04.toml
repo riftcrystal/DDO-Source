@@ -1,0 +1,87 @@
+﻿[[message]]
+key = 'CHAT_COM_90'
+old = '仕事の時間です'
+[[message]]
+key = 'CHAT_COM_91'
+old = '約束があります'
+[[message]]
+key = 'CHAT_COM_92'
+old = '眠くなりました'
+[[message]]
+key = 'CHAT_COM_93'
+old = '疲れました'
+[[message]]
+key = 'CHAT_COM_94'
+old = '用事があります'
+[[message]]
+key = 'CHAT_COM_95'
+old = '体調が悪いです'
+[[message]]
+key = 'CHAT_COM_96'
+old = '気が向きません'
+[[message]]
+key = 'CHAT_COM_97'
+old = '興味があります'
+[[message]]
+key = 'CHAT_COM_98'
+old = '戦闘中です'
+[[message]]
+key = 'CHAT_COM_99'
+old = 'お金を稼ぎたいです'
+[[message]]
+key = 'CHAT_COM_100'
+old = '覚えていません'
+[[message]]
+key = 'CHAT_COM_101'
+old = '知りません'
+[[message]]
+key = 'CHAT_COM_102'
+old = '使ったばかりです'
+[[message]]
+key = 'CHAT_COM_103'
+old = '経験値が欲しいです'
+[[message]]
+key = 'CHAT_COM_104'
+old = '間違えました'
+[[message]]
+key = 'CHAT_COM_105'
+old = 'すでに誘われています'
+[[message]]
+key = 'CHAT_COM_106'
+old = 'すでに持っています'
+[[message]]
+key = 'CHAT_COM_107'
+old = '募集が終わりました'
+[[message]]
+key = 'CHAT_COM_108'
+old = 'マーカーを目指しましょう'
+[[message]]
+key = 'CHAT_COM_109'
+old = '帰還しましょう'
+[[message]]
+key = 'CHAT_COM_110'
+old = '拠点に行きましょう'
+[[message]]
+key = 'CHAT_COM_111'
+old = 'リム転移します'
+[[message]]
+key = 'CHAT_COM_112'
+old = '装備を変えます'
+[[message]]
+key = 'CHAT_COM_113'
+old = 'ジョブを変えます'
+[[message]]
+key = 'CHAT_COM_114'
+old = 'アイテムを補充します'
+[[message]]
+key = 'CHAT_COM_115'
+old = 'アイテムを取ります！'
+[[message]]
+key = 'CHAT_COM_116'
+old = 'アイテムがいっぱいになりました'
+[[message]]
+key = 'CHAT_COM_117'
+old = 'もう一度行きませんか？'
+[[message]]
+key = 'CHAT_COM_118'
+old = '離脱します！'

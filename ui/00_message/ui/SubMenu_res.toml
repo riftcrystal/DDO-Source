@@ -1,0 +1,210 @@
+﻿[[message]]
+key = 'msg_SUB_MENU_PROFILE'
+old = '覚者プロフィールを見る'
+[[message]]
+key = 'msg_SUB_MENU_STATUS'
+old = 'ステータス・装備を確認する'
+[[message]]
+key = 'msg_SUB_MENU_TELL'
+old = '話しかける(Tell)'
+[[message]]
+key = 'msg_SUB_MENU_FRIEND'
+old = 'フレンド申請をする'
+[[message]]
+key = 'msg_SUB_MENU_KICK'
+old = 'パーティーから外す'
+[[message]]
+key = 'msg_SUB_MENU_LEADER'
+old = 'パーティーリーダーに任命する'
+[[message]]
+key = 'msg_SUB_MENU_CANCEL_INVITE'
+old = 'パーティー勧誘をやめる'
+[[message]]
+key = 'msg_SUB_MENU_INVITE'
+old = 'パーティーに誘う'
+[[message]]
+key = 'msg_SUB_MENU_PARTY_DETAIL'
+old = 'パーティーメンバーの確認'
+[[message]]
+key = 'msg_SUB_MENU_PARTY_JOIN'
+old = 'パーティーに参加する'
+[[message]]
+key = 'msg_SUB_MENU_PARTY_DECLINE'
+old = 'パーティー勧誘を断る'
+[[message]]
+key = 'msg_SUB_MENU_APPLY_CLAN'
+old = 'クランへの加入申請をする'
+[[message]]
+key = 'msg_SUB_MENU_CANCEL_APPLY_CLAN'
+old = 'クランへの加入申請を取り消す'
+[[message]]
+key = 'msg_SUB_MENU_ALLOW_APPLY_CLAN'
+old = 'クランへの加入を許可する'
+[[message]]
+key = 'msg_SUB_MENU_DENY_APPLY_CLAN'
+old = 'クランへの加入を拒否する'
+[[message]]
+key = 'msg_SUB_MENU_CLAN_DETAIL'
+old = 'クラン詳細情報'
+[[message]]
+key = 'msg_SUB_MENU_CLAN_INVITE'
+old = 'クランに勧誘する'
+[[message]]
+key = 'msg_SUB_MENU_CANCEL_CLAN_INVITE'
+old = 'クランへの誘いを取り消す'
+[[message]]
+key = 'msg_SUB_MENU_ALLOW_INVITE_CLAN'
+old = 'クランからの誘いを許可する'
+[[message]]
+key = 'msg_SUB_MENU_DENY_INVITE_CLAN'
+old = 'クランからの誘いを拒否する'
+[[message]]
+key = 'msg_SUB_MENU_EXPEL_CLAN_MEMBER'
+old = 'クランから除名する'
+[[message]]
+key = 'msg_SUB_MENU_CHANGE_CLAN_MASTER'
+old = 'クランマスターを委譲する'
+[[message]]
+key = 'msg_SUB_MENU_SET_CLAN_LEADER'
+old = 'クランサブマスターに任命する'
+[[message]]
+key = 'msg_SUB_MENU_RESET_CLAN_LEADER'
+old = 'クランサブマスターを解除する'
+[[message]]
+key = 'msg_SUB_MENU_CANCEL_FRIEND'
+old = 'フレンド申請を取り消す'
+[[message]]
+key = 'msg_SUB_MENU_ALLOW_APPLY_FRIEND'
+old = 'フレンド申請を許可する'
+[[message]]
+key = 'msg_SUB_MENU_DENY_APPLY_FRIEND'
+old = 'フレンド申請を拒否する'
+[[message]]
+key = 'msg_SUB_MENU_REMOVE_FRIEND'
+old = 'フレンドを解除する'
+[[message]]
+key = 'msg_SUB_MENU_FAVORITE_FRIEND'
+old = 'フレンドお気に入り登録'
+[[message]]
+key = 'msg_SUB_MENU_FAVORITE_PAWN'
+old = 'ポーンお気に入り登録'
+[[message]]
+key = 'msg_SUB_MENU_FAVORITE_OFF'
+old = 'お気に入り登録解除'
+[[message]]
+key = 'msg_SUB_MENU_RENTAL_PAWN'
+old = 'ポーンを雇用する'
+[[message]]
+key = 'msg_SUB_MENU_CUSTOMIZE_PAWN'
+old = 'ポーンのリアクション設定'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_DELETE'
+old = 'ポーンの削除'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_REG_SETTING'
+old = 'ポーンの貸し出し制限'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_HISTORY'
+old = 'ポーンのレンタル履歴'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_RETURN'
+old = 'ポーンを返却する'
+[[message]]
+key = 'msg_SUB_MENU_CARD'
+old = '覚者プロフィールを見る'
+[[message]]
+key = 'msg_SUB_MENU_GROUP_CHAT'
+old = 'グループチャットに誘う'
+[[message]]
+key = 'msg_SUB_MENU_GROUP_CHAT_KICK'
+old = 'グループチャットから外す'
+[[message]]
+key = 'msg_SUB_MENU_AUTORUN'
+old = '追従オートラン'
+[[message]]
+key = 'msg_SUB_MENU_ADD_BLACKLIST'
+old = 'ブラックリスト登録'
+[[message]]
+key = 'msg_SUB_MENU_REMOVE_BLACKLIST'
+old = 'ブラックリスト登録解除'
+[[message]]
+key = 'msg_SUB_MENU_DELETE_MAIL'
+old = 'メール削除'
+[[message]]
+key = 'msg_SUB_MENU_PARTY_BREAKUP'
+old = 'パーティー解散'
+[[message]]
+key = 'msg_SUB_MENU_START_QUICKPARTY'
+old = 'クイックパーティーを開始する'
+[[message]]
+key = 'msg_SUB_MENU_EDIT_QUICKPARTY'
+old = '設定の編集'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_CARD'
+old = 'ポーンプロフィールを見る'
+[[message]]
+key = 'msg_SUB_MENU_FAVORITE_FRIEND_OFF'
+old = 'フレンドお気に入り登録解除'
+[[message]]
+key = 'msg_SUB_MENU_FAVORITE_PAWN_OFF'
+old = 'ポーンお気に入り登録解除'
+[[message]]
+key = 'msg_SUB_MENU_LOST_PAWN_RESCUE'
+old = '救出する'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_TALK'
+old = '話しかける'
+[[message]]
+key = 'msg_SUB_MENU_SP_DISTRIBUTE'
+old = 'レンタルポイントを割り振る'
+[[message]]
+key = 'msg_SUB_MENU_ENTRY_INVITATION'
+old = 'エントリーボード招待'
+[[message]]
+key = 'msg_SUB_MENU_CRAFTSKILLRESET'
+old = 'クラフトポイントのリセット'
+[[message]]
+key = 'msg_SUB_MENU_PARTNERPAWN_SET'
+old = 'パートナーポーンに設定'
+[[message]]
+key = 'msg_SUB_MENU_CLAN_INVITE_DIRECT'
+old = 'クランに直接招待する'
+[[message]]
+key = 'msg_SUB_MENU_KEYCONFIG_EDIT_NAME'
+old = '名前の編集'
+[[message]]
+key = 'msg_SUB_MENU_KEYCONFIG_COPY'
+old = '内容のコピー'
+[[message]]
+key = 'msg_SUB_MENU_KEYCONFIG_CHANGE_BLANK'
+old = 'ブランクキーにする'
+[[message]]
+key = 'msg_SUB_MENU_KEYCONFIG_CHANGE_BEFORE'
+old = '変更前に戻す'
+[[message]]
+key = 'msg_SUB_MENU_KEYCONFIG_CHANGE_INITIALIZATION'
+old = '初期設定に戻す'
+[[message]]
+key = 'msg_SUB_MENU_CLAN_AUTHORITY_SETTING'
+old = 'クランの権限設定'
+[[message]]
+key = 'msg_SUB_MENU_CHAT_ADDRESS_MEMO'
+old = 'メモする'
+[[message]]
+key = 'msg_SUB_MENU_PAWN_CHECK_GROWTH'
+old = '調子をたずねる'
+[[message]]
+key = 'msg_SUB_MENU_KICK_ENTRY'
+old = 'メンバーから外す'
+[[message]]
+key = 'msg_SUB_MENU_ENTRY_CHECK'
+old = 'エントリーを確認する'
+[[message]]
+key = 'msg_SUB_MENU_PSPSKILL_01'
+old = 'セットする'
+[[message]]
+key = 'msg_SUB_MENU_PSPSKILL_02'
+old = '破棄する'
+[[message]]
+key = 'msg_SUB_MENU_PSPSKILL_03'
+old = 'アイテムを使用して閃く'

@@ -1,0 +1,12 @@
+﻿[[message]]
+key = 'kcg_00'
+old = '【アクション】'
+[[message]]
+key = 'kcg_01'
+old = '【ジョブ専用】'
+[[message]]
+key = 'kcg_02'
+old = '【ツール】'
+[[message]]
+key = 'kcg_03'
+old = '【メニュー操作】'

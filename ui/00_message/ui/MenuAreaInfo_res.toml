@@ -1,0 +1,30 @@
+﻿[[message]]
+key = 'mai_msg_title_e'
+old = 'Area List'
+[[message]]
+key = 'mai_msg_nodeta'
+old = 'データがありません'
+[[message]]
+key = 'mai_msg_title_j'
+old = 'エリアリスト'
+[[message]]
+key = 'mai_msg_category_area'
+old = 'エリア'
+[[message]]
+key = 'mai_msg_category_rank'
+old = 'ランク'
+[[message]]
+key = 'mai_msg_next'
+old = '次のランクアップまで'
+[[message]]
+key = 'mai_msg_weekly'
+old = '今週の獲得AP'
+[[message]]
+key = 'mai_msg_rank'
+old = 'Rank'
+[[message]]
+key = 'mai_msg_clan_point_total'
+old = 'クラン累計AP'
+[[message]]
+key = 'mai_msg_clan_point_max'
+old = 'クラン最大貢献AP'

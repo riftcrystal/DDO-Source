@@ -1,0 +1,99 @@
+﻿[[message]]
+key = 'char_sel_index_en'
+old = 'Character Select'
+[[message]]
+key = 'char_sel_index_jp'
+old = 'キャラクター選択'
+[[message]]
+key = 'char_sel_status'
+old = 'Status'
+[[message]]
+key = 'char_sel_profile'
+old = 'Profile'
+[[message]]
+key = 'char_sel_delete'
+old = 'キャラクターの削除'
+[[message]]
+key = 'char_sel_del_chara_select'
+old = '''
+削除するキャラクターを選択してください
+削除したキャラクターは二度と復活できません'''
+[[message]]
+key = 'char_sel_del_info'
+old = '''
+
+<COL ffdc78>未使用の黄金石や<OPCS>等もすべて失われます</COL>'''
+[[message]]
+key = 'char_sel_code_text'
+old = '確認コード <COL AA1414><VAL></COL> を入力してください'
+[[message]]
+key = 'char_sel_code'
+old = '確認コード：'
+[[message]]
+key = 'char_sel_decide'
+old = '決定'
+[[message]]
+key = 'char_sel_cancel'
+old = 'キャンセル'
+[[message]]
+key = 'char_sel_del'
+old = '削除'
+[[message]]
+key = 'char_sel_plz_wait'
+old = 'しばらくお待ちください'
+[[message]]
+key = 'char_sel_del_alert'
+old = 'を削除します'
+[[message]]
+key = 'char_sel_del_finish'
+old = 'キャラクターの削除が完了しました'
+[[message]]
+key = 'char_sel_del_error'
+old = '確認コードが間違っています'
+[[message]]
+key = 'char_sel_bonus'
+old = 'Course'
+[[message]]
+key = 'char_sel_no_bonus'
+old = '発動中の<OPCS>はありません'
+[[message]]
+key = 'char_sel_fourwords'
+old = '（半角英数4文字）'
+[[message]]
+key = 'char_sel_announce_charover'
+old = 'キャラクター作成上限です'
+[[message]]
+key = 'char_sel_add_newchar'
+old = '新規作成'
+[[message]]
+key = 'char_sel_button_zoom'
+old = 'モデル回転<PADM> / ズーム</PADM>'
+[[message]]
+key = 'char_sel_button_rota'
+old = 'カメラ操作'
+[[message]]
+key = 'char_sel_button_clan_notice'
+old = 'クランへの通知設定'
+[[message]]
+key = 'char_sel_affiliation_clan'
+old = '所属クラン'
+[[message]]
+key = 'char_sel_clan_notice_info'
+old = 'クランメンバーへ自分のステータスを通知する'
+[[message]]
+key = 'char_sel_on'
+old = 'ON'
+[[message]]
+key = 'char_sel_off'
+old = 'OFF'
+[[message]]
+key = 'char_sel_clan_notice_conf'
+old = '''
+クランメンバーへ自分のステータスを通知しますか？
+※この項目はゲーム設定からいつでも変更できます'''
+[[message]]
+key = 'char_sel_clan_notice_conf_yes'
+old = '通知を行う'
+[[message]]
+key = 'char_sel_clan_notice_conf_no'
+old = '通知を行わない'

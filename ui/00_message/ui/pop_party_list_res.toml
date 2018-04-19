@@ -1,0 +1,183 @@
+﻿[[message]]
+key = 'pop_prof_mokuteki_1'
+old = '冒険目的'
+[[message]]
+key = 'pop_prof_mokuteki_2'
+old = '活動場所'
+[[message]]
+key = 'pop_prof_playstyle'
+old = 'プレイスタイル'
+[[message]]
+key = 'pop_prof_comment'
+old = 'Comment'
+[[message]]
+key = 'pop_prof_party'
+old = 'パーティー参加要請'
+[[message]]
+key = 'pop_prof_maching_profile_en'
+old = 'Matching Profile'
+[[message]]
+key = 'pop_prof_maching_profile_jp'
+old = 'マッチングプロフィール'
+[[message]]
+key = 'pop_prof_decide'
+old = '決定'
+[[message]]
+key = 'pop_prof_cancel'
+old = 'キャンセル'
+[[message]]
+key = 'pop_prof_pt_ok'
+old = '受ける'
+[[message]]
+key = 'pop_prof_quick_party'
+old = 'マッチング中'
+[[message]]
+key = 'pop_prof_party_info'
+old = 'パーティー詳細'
+[[message]]
+key = 'pop_prof_name'
+old = 'Name'
+[[message]]
+key = 'pop_prof_job'
+old = 'Job'
+[[message]]
+key = 'pop_prof_lobby'
+old = 'Lobby'
+[[message]]
+key = 'pop_prof_pawn'
+old = 'ポーンの加入'
+[[message]]
+key = 'pop_prof_job_balance'
+old = 'ジョブバランス'
+[[message]]
+key = 'pop_prof_do'
+old = '行う'
+[[message]]
+key = 'pop_prof_ok'
+old = 'OK'
+[[message]]
+key = 'pop_prof_mokuteki_now'
+old = '現在の冒険目的'
+[[message]]
+key = 'pop_prof_search'
+old = '検索条件'
+[[message]]
+key = 'pop_prof_job_jp'
+old = 'ジョブ'
+[[message]]
+key = 'pop_prof_all'
+old = 'すべて'
+[[message]]
+key = 'pop_prof_level'
+old = 'レベル'
+[[message]]
+key = 'pop_prof_profile'
+old = 'Profile'
+[[message]]
+key = 'pop_prof_participate'
+old = 'パーティー参加を希望する'
+[[message]]
+key = 'pop_prof_participate_not'
+old = 'パーティー参加を希望しない'
+[[message]]
+key = 'pop_prof_quickparty_title00'
+old = '設定の編集'
+[[message]]
+key = 'pop_prof_quickparty_name'
+old = 'セット名'
+[[message]]
+key = 'pop_prof_main_purpose'
+old = '冒険目的'
+[[message]]
+key = 'pop_prof_sub_purpose'
+old = '小目的'
+[[message]]
+key = 'pop_prof_quickparty_pawn'
+old = 'ポーン：'
+[[message]]
+key = 'pop_prof_quickparty_pawn_allow'
+old = '許可する'
+[[message]]
+key = 'pop_prof_quickparty_pawn_disallow'
+old = '許可しない'
+[[message]]
+key = 'pop_prof_quickparty_continue'
+old = '続ける'
+[[message]]
+key = 'pop_prof_quickparty_end'
+old = '終了'
+[[message]]
+key = 'pop_prof_quickparty'
+old = 'クイックパーティー'
+[[message]]
+key = 'pop_prof_quickparty_retry'
+old = 'リトライ'
+[[message]]
+key = 'pop_prof_quickparty_fail'
+old = 'マッチング失敗'
+[[message]]
+key = 'pop_prof_quickparty_time'
+old = 'あと <VAL> 秒後に終了します'
+[[message]]
+key = 'pop_prof_level_wavedash'
+old = '～'
+[[message]]
+key = 'PopPartyList_PlayerSearch_Title'
+old = 'パーティー検索条件設定'
+[[message]]
+key = 'PopPartyList_PlayerSearch_MainPurpose'
+old = '冒険目的を設定して探す'
+[[message]]
+key = 'PopPartyList_PlayerSearch_PlayStyle'
+old = 'プレイスタイルを指定して探す'
+[[message]]
+key = 'PopPartyList_PlayerSearch_Job'
+old = 'ジョブを設定して探す'
+[[message]]
+key = 'PopPartyList_PlayerSearch_Level'
+old = 'レベルを設定して探す'
+[[message]]
+key = 'PopPartyList_PlayerSearch_LevelMin'
+old = '以上'
+[[message]]
+key = 'PopPartyList_PlayerSearch_LevelMax'
+old = '以下'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_Title'
+old = 'クイックパーティー条件編集'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_JobBalance'
+old = 'ジョブバランスを取る'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_JobBalanceBrief'
+old = '(タンク1人/アタッカー2人/ヒーラー1人でバランスを取ります）'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_LevelBalance'
+old = 'レベルバランスを取る'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_LevelBalanceBrief'
+old = '(±4以内で検索します)'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_Warning'
+old = '''
+※進行に変化があった場合は、クイックパーティーの登録が解除されます
+※パーティー内のポーンは、合流時にパーティーから外れます
+※登録時のジョブと異なる場合は、合流時に元のジョブに戻ります'''
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_MainPurpose_Main'
+old = 'メインクエストで遊ぶ'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_MainPurpose_Area'
+old = 'エリアスポットで遊ぶ'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_MainPurpose_News'
+old = 'レスタニアニュースで遊ぶ'
+[[message]]
+key = 'PopPartyList_Simple_Req_Title'
+old = '簡易パーティー要請条件設定'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_PTLeader'
+old = 'パーティーリーダーＯＫ'
+[[message]]
+key = 'PopPartyList_QuickPartyEdit_PTLeaderBrief'
+old = '(パーティーが組まれた時、リーダー候補になります)'

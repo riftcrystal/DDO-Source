@@ -1,0 +1,102 @@
+﻿[[message]]
+key = 'CLAN_STATUS_MSG_MASTER'
+old = 'クランマスター'
+[[message]]
+key = 'CLAN_STATUS_MSG_MEMBER'
+old = 'メンバー'
+[[message]]
+key = 'CLAN_STATUS_MSG_ATIME'
+old = '活動時間帯'
+[[message]]
+key = 'CLAN_STATUS_MSG_STYLE'
+old = 'クランの特徴'
+[[message]]
+key = 'CLAN_STATUS_MSG_STATUS'
+old = 'ステータス'
+[[message]]
+key = 'CLAN_STATUS_MSG_NAME'
+old = '名前'
+[[message]]
+key = 'CLAN_STATUS_MSG_JOB'
+old = 'ジョブレベル'
+[[message]]
+key = 'CLAN_STATUS_MSG_LOBBY'
+old = 'ワールド'
+[[message]]
+key = 'CLAN_STATUS_MSG_DATE'
+old = 'クラン加入日'
+[[message]]
+key = 'CLAN_STATUS_DATE'
+old = '<DATE>'
+[[message]]
+key = 'CLAN_STATUS_PR'
+old = '紹介メッセージ'
+[[message]]
+key = 'CLAN_STATUS_BBS'
+old = '伝言メモ'
+[[message]]
+key = 'CLAN_STATUS_MOTTO'
+old = 'モットー'
+[[message]]
+key = 'CLAN_STATUS_SHORT_NAME'
+old = '<NAME CLAN_S>'
+[[message]]
+key = 'CLAN_STATUS_MSG_PARTY'
+old = 'パーティ'
+[[message]]
+key = 'CLAN_STATUS_MSG_GUIDE_SWITCH'
+old = '表示切り替え'
+[[message]]
+key = 'CLAN_STATUS_MSG_COMMENT'
+old = 'コメント'
+[[message]]
+key = 'CLAN_STATUS_MSG_DATE_FOUND'
+old = '設立日'
+[[message]]
+key = 'CLAN_STATUS_MSG_TOP_JP'
+old = 'クランステータス'
+[[message]]
+key = 'CLAN_STATUS_MSG_TOP_EN'
+old = 'Clan Status'
+[[message]]
+key = 'CLAN_STATUS_MEMBER_NUM'
+old = '<VAL>名'
+[[message]]
+key = 'CLAN_STATUS_MSG_GUIDE_EDIT'
+old = 'クランステータスの編集'
+[[message]]
+key = 'CLAN_STATUS_MSG_DATE_LAST_LOGIN'
+old = '最終ログイン日'
+[[message]]
+key = 'CLAN_STATUS_MSG_GUIDE_CHECK_CLANAP'
+old = '累計ポイントの確認'
+[[message]]
+key = 'CLAN_STATUS_MSG_NOT_AFFILIATION_CLAN'
+old = 'クランに加入していません'
+[[message]]
+key = 'CLAN_STATUS_MSG_MONEY_CP'
+old = '通貨CP'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_TAB'
+old = 'ヒストリー'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_CAPTION'
+old = 'ヒストリー'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_0'
+old = 'ヒストリーがありません'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_1'
+old = '%s が %s を購入しました(-%d%s)'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_2'
+old = 'クランレベルが %d になりました'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_3'
+old = '%s が加入しました'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_4'
+old = '%s が脱退しました'
+[[message]]
+key = 'CLAN_STATUS_MSG_HISTORY_ITEM_5'
+old = '%s がクランマスターになりました'

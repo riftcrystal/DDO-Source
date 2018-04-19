@@ -1,0 +1,81 @@
+﻿[[message]]
+key = 'CHAT_COM_63'
+old = 'わかりません'
+[[message]]
+key = 'CHAT_COM_64'
+old = 'いりません'
+[[message]]
+key = 'CHAT_COM_65'
+old = 'はい、お願いします'
+[[message]]
+key = 'CHAT_COM_66'
+old = 'お願いします'
+[[message]]
+key = 'CHAT_COM_67'
+old = 'わかりました'
+[[message]]
+key = 'CHAT_COM_68'
+old = '後でまたお話ししてください'
+[[message]]
+key = 'CHAT_COM_69'
+old = '今は個人行動を優先中です'
+[[message]]
+key = 'CHAT_COM_70'
+old = '答えたいですが、表現がわかりません'
+[[message]]
+key = 'CHAT_COM_71'
+old = 'なるほど'
+[[message]]
+key = 'CHAT_COM_72'
+old = 'せっかくですが遠慮します'
+[[message]]
+key = 'CHAT_COM_73'
+old = 'へぇー'
+[[message]]
+key = 'CHAT_COM_74'
+old = 'えーっと――'
+[[message]]
+key = 'CHAT_COM_75'
+old = 'えっ！？'
+[[message]]
+key = 'CHAT_COM_76'
+old = '本当に？'
+[[message]]
+key = 'CHAT_COM_77'
+old = 'OK！'
+[[message]]
+key = 'CHAT_COM_78'
+old = 'むむむ'
+[[message]]
+key = 'CHAT_COM_79'
+old = 'もうすぐ別の予定があります'
+[[message]]
+key = 'CHAT_COM_80'
+old = 'はい'
+[[message]]
+key = 'CHAT_COM_81'
+old = 'いいえ'
+[[message]]
+key = 'CHAT_COM_82'
+old = '説明します'
+[[message]]
+key = 'CHAT_COM_83'
+old = '問題ないです'
+[[message]]
+key = 'CHAT_COM_84'
+old = 'できません'
+[[message]]
+key = 'CHAT_COM_85'
+old = 'しないでください'
+[[message]]
+key = 'CHAT_COM_86'
+old = 'お任せします'
+[[message]]
+key = 'CHAT_COM_87'
+old = 'いいですね！'
+[[message]]
+key = 'CHAT_COM_88'
+old = '了解！'
+[[message]]
+key = 'CHAT_COM_89'
+old = '無理です！'

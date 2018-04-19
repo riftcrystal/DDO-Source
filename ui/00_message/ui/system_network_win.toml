@@ -1,0 +1,121 @@
+﻿[[message]]
+key = 'net_signout_return_l'
+old = '''
+認証サーバーとの接続が切れました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_non_connect_lan_return_l_common'
+old = '''
+インターネットへの接続が確認できません
+インターネット接続が切断されたか、
+接続されていない可能性があります
+
+このゲームをプレイするにはインターネットへの
+接続が必要となりますので接続状況をご確認ください
+ランチャーを再起動いたします'''
+[[message]]
+key = 'net_network_cancel_return_l_common'
+old = '''
+ネットワークの開始がキャンセルされました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_network_ng_return_l_common'
+old = '''
+ネットワークの開始に失敗しました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_network_error_common'
+old = '通信エラーが発生しました'
+[[message]]
+key = 'net_network_error_return_t_common'
+old = '''
+通信エラーが発生しました
+タイトル画面に戻ります'''
+[[message]]
+key = 'net_network_error_return_l_common'
+old = '''
+通信エラーが発生しました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_server_error_common'
+old = 'サーバーとの接続に失敗しました'
+[[message]]
+key = 'net_server_error_return_l_common'
+old = '''
+サーバーとの接続に失敗しました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_server_error_return_t_common'
+old = '''
+サーバーから切断されました
+タイトル画面に戻ります'''
+[[message]]
+key = 'net_login_error_common'
+old = 'ログインに失敗しました'
+[[message]]
+key = 'net_login_error_return_l_common'
+old = '''
+ログインに失敗しました
+ランチャーに戻ります'''
+[[message]]
+key = 'net_server_error_back_t_common'
+old = '''
+サーバーから切断されました
+タイトル画面に戻ります'''
+[[message]]
+key = 'net_server_timeout_back_t_common'
+old = '''
+サーバーとの接続がタイムアウトになりました
+タイトル画面に戻ります'''
+[[message]]
+key = 'net_version_error_back_l_common'
+old = '''
+更新データが見つかりました
+アップデートする必要がありますので
+ランチャー画面へ戻ります'''
+[[message]]
+key = 'net_autologout'
+old = '''
+長時間、操作が行われなかったため
+サーバーとの接続が切断されました
+タイトル画面に戻ります'''
+[[message]]
+key = 'net_signout_return_l_keep'
+old = '認証サーバーとの接続が切れました'
+[[message]]
+key = 'net_non_connect_lan_return_l_common_keep'
+old = '''
+インターネットへの接続が確認できません
+インターネット接続が切断されたか、
+接続されていない可能性があります
+
+このゲームをプレイするにはインターネットへの
+接続が必要となりますので接続状況をご確認ください'''
+[[message]]
+key = 'net_server_error_return_t_common_keep'
+old = 'サーバーから切断されました'
+[[message]]
+key = 'net_server_error_back_t_common_keep'
+old = 'サーバーから切断されました'
+[[message]]
+key = 'net_server_timeout_back_t_common_keep'
+old = 'サーバーとの接続がタイムアウトになりました'
+[[message]]
+key = 'net_autologout_keep'
+old = '''
+長時間、操作が行われなかったため
+サーバーとの接続が切断されました'''
+[[message]]
+key = 'net_edit_keep'
+old = '''
+サーバーと接続されていないため
+これ以上ゲームを進行することができません
+
+現在のエディット情報をPC本体に
+セーブすることをオススメします
+
+ゲームを終了するにはエディット(または美容院)の
+画面でキャンセル操作をおこなってください'''
+[[message]]
+key = 'net_error_contents_reload'
+old = ''

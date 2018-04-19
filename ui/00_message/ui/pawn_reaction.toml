@@ -1,0 +1,45 @@
+﻿[[message]]
+key = 'PAWNREACTION_MSG_IF_PARTY'
+old = 'パーティメンバーと出会った時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_QCLEAR'
+old = 'クエスト成功時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_LVUP'
+old = 'レベルアップ時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_ADEATH'
+old = 'プレイヤー死亡時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_WAIT_LOBBY'
+old = 'ロビー待機時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_WAIT_FIELD'
+old = '冒険待機時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_WAIT_LAB'
+old = 'クラフトルーム待機時'
+[[message]]
+key = 'PAWNREACTION_MSG_IF_ENDBATTLE'
+old = '戦闘終了時'
+[[message]]
+key = 'PAWNREACTION_MSG_TITLE'
+old = 'ポーンリアクションを設定して下さい'
+[[message]]
+key = 'PAWNREACTION_MSG_CAPTION_CHARACTAR'
+old = '口調：'
+[[message]]
+key = 'PAWNREACTION_MSG_BUTTON_DECIDE'
+old = '決定'
+[[message]]
+key = 'PAWNREACTION_MSG_BUTTON_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'PAWNREACTION_MSG_NONE'
+old = 'なし'
+[[message]]
+key = 'PAWNREACTION_MSG_PSPSKILL01'
+old = '特技閃き時'
+[[message]]
+key = 'PAWNREACTION_MSG_PSPSKILL02'
+old = '特技使用時'

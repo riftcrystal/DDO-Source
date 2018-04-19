@@ -1,0 +1,60 @@
+﻿[[message]]
+key = 'COMLIST_MSG_BLACK_LIST'
+old = 'ブラックリスト'
+[[message]]
+key = 'COMLIST_MSG_FRIEND'
+old = 'フレンド'
+[[message]]
+key = 'COMLIST_MSG_CLAN'
+old = 'クラン'
+[[message]]
+key = 'COMLIST_MSG_REGIST_NUMOFPEAPLE'
+old = '登録人数'
+[[message]]
+key = 'COMLIST_MSG_BETWEEN_APPLICATION'
+old = '申請中'
+[[message]]
+key = 'COMLIST_MSG_WAIT_APPROVAL'
+old = '承認待'
+[[message]]
+key = 'COMLIST_MSG_PLAYER_NAME'
+old = '名前'
+[[message]]
+key = 'COMLIST_MSG_JOB_LV'
+old = 'ジョブレベル'
+[[message]]
+key = 'COMLIST_MSG_LOBBY_ID'
+old = 'ワールド'
+[[message]]
+key = 'COMLIST_MSG_PARTY_PL_NUM'
+old = 'Party'
+[[message]]
+key = 'COMLIST_MSG_COMMENT'
+old = 'コメント'
+[[message]]
+key = 'COMLIST_MSG_COMMUNITY_LIST'
+old = 'Community List'
+[[message]]
+key = 'COMLIST_MSG_COMM_LIST_JP'
+old = 'コミュニティリスト'
+[[message]]
+key = 'COMLIST_MSG_FRIEND_LIST'
+old = 'フレンドリスト'
+[[message]]
+key = 'COMLIST_MSG_ACTIVE_LIST'
+old = 'オンラインメンバー'
+[[message]]
+key = 'COMLIST_MSG_RECENT_LIST'
+old = '最近遊んだプレイヤー'
+[[message]]
+key = 'COMLIST_MSG_ANA_0_FRIEND'
+old = 'フレンドがいません'
+[[message]]
+key = 'COMLIST_MSG_ANA_0_ACTIVE'
+old = 'オンライン中のフレンド、クランメンバーがいません'
+[[message]]
+key = 'COMLIST_MSG_ANA_0_RECENT'
+old = '最近遊んだ人はいません'
+[[message]]
+key = 'COMLIST_MSG_ANA_0_BLACK'
+old = 'ブラックリストに登録されている人はいません'

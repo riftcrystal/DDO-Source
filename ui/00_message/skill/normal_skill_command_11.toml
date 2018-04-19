@@ -1,0 +1,45 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_165'
+old = '<KC ATTACK1>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_166'
+old = '<KC ATTACK1>後、少し遅らせて<KC ATTACK1>を連続して押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_175'
+old = '空中で<KC ATTACK1>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_174'
+old = '<PADM>空中で左スティックを倒しながら<KC ATTACK1>を押す<KEYM>空中で移動キーを押しながら<KC ATTACK1>を押す</KEYM>'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_167'
+old = '<KC ATTACK2>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_171'
+old = '<KC ROLLING>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_169'
+old = '<KC WEAPON_SUB>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_168'
+old = '<KC WEAPON_SUB>を押しながら<KC MARK_SHOT>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_172'
+old = '''
+<KC SKILL_NORMAL1>を押す
+　カテゴリ：補助魔法
+　魔力１ゲージ消費で発動可能'''
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_170'
+old = 'バックリープ発動後に<KC SKILL_NORMAL1>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_173'
+old = '''
+<KC OVER_BRADE>を押す
+　カテゴリ：純魔法
+　魔力１スタック消費で発動可能'''
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_177'
+old = '吹き飛ばされ中に<KC JUMP>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_11_176'
+old = 'しがみつき中に<KC ATTACK1>を連続して押す'

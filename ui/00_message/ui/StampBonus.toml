@@ -1,0 +1,27 @@
+﻿[[message]]
+key = 'sb_tub_sbonus_cumulative_total'
+old = '累計スタンプボーナス'
+[[message]]
+key = 'sb_tub_sbonus_continuity'
+old = '連続スタンプボーナス'
+[[message]]
+key = 'sb_title_sbonus_en'
+old = 'Stamp Bonus'
+[[message]]
+key = 'sb_title_sbonus_jp'
+old = 'スタンプ手帳'
+[[message]]
+key = 'sb_ana_sbonus_continuity'
+old = '《連続スタンプボーナス<VAL>日目》'
+[[message]]
+key = 'sb_ana_sbonus_cumulative_total'
+old = '《累計スタンプボーナス<VAL>日目》'
+[[message]]
+key = 'sb_ana_get_item'
+old = 'を獲得しました'
+[[message]]
+key = 'sb_ana_get_rim'
+old = '枚'
+[[message]]
+key = 'sb_ana_day_count'
+old = '日目'

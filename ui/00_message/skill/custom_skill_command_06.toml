@@ -1,0 +1,68 @@
+﻿[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_68'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_72'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_74'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_71'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_69'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_73'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_75'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_70'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_76'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_78'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_77'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_79'
+old = '''
+セットボタンを押して詠唱、詠唱完了で発動
+発動後、一定時間攻撃範囲を<PADM>左スティック上下<KEYM>移動キー<KC MOVE_FORWARD><KC MOVE_BACKWARD></KEYM>で調整可能
+<KC TOUCH>で攻撃範囲を決定'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_137'
+old = '''
+セットボタンを押して詠唱、詠唱完了で氷塊発現
+発現後、<KC ATTACK1><PADM>または<ICON PAD_L2>か<ICON PAD_R2></PADM>を押すと射出
+<KC TOUCH>を押すと氷塊解除'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_138'
+old = '''
+セットボタンを押して詠唱、詠唱完了で魔法杭発現
+発現後、再度セットボタンを押すと放電開始'''
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_176'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_177'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_178'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_179'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_221'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_06_222'
+old = 'セットボタンを押して詠唱、詠唱完了で発動'

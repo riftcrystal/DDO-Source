@@ -1,0 +1,234 @@
+﻿[[message]]
+key = 'myroom_menu_talk'
+old = '話しかける'
+[[message]]
+key = 'myroom_menu_party'
+old = 'パーティー管理'
+[[message]]
+key = 'myroom_menu_room'
+old = '自室の管理'
+[[message]]
+key = 'myroom_menu_present'
+old = 'プレゼントをあげる'
+[[message]]
+key = 'myroom_menu_partner_reset'
+old = 'パートナーポーンの解除'
+[[message]]
+key = 'myroom_om_text_esa'
+old = 'エサをあげますか？'
+[[message]]
+key = 'myroom_edit_ok'
+old = '似合ってるね'
+[[message]]
+key = 'myroom_edit_ng'
+old = '前の髪型のほうがいいね'
+[[message]]
+key = 'myroom_menu_partner_reset_error'
+old = 'リワードがあるときは解除できません'
+[[message]]
+key = 'myroom_edit_alert'
+old = '''
+<COL AA1414>最終確認</COL>
+
+元の髪型や、別の髪型に変更する場合は、
+美容院（有償）で変更する必要があります。
+
+本当に変更しますか？'''
+[[message]]
+key = 'myroom_menu_pawn_quest'
+old = 'お願いを聞く'
+[[message]]
+key = 'myroom_pawn_quest_order'
+old = 'よし、わかった'
+[[message]]
+key = 'myroom_pawn_quest_disp_ui'
+old = '詳細を聞く'
+[[message]]
+key = 'myroom_pawn_quest_no_order'
+old = 'またあとで'
+[[message]]
+key = 'myroom_menu_pwan_quest_talk'
+old = 'お願いについて'
+[[message]]
+key = 'myroom_menu_pawn_quest_clear'
+old = '思い出話'
+[[message]]
+key = 'myroom_mandragora_1A0_1_menu'
+old = 'マンドラゴラの管理'
+[[message]]
+key = 'myroom_mandragora_1A0_2_menu'
+old = 'マンドラゴラ図鑑'
+[[message]]
+key = 'myroom_mandragora_2A0_1_menu'
+old = '鉢植を持っていない'
+[[message]]
+key = 'myroom_mandragora_2A1_1_menu'
+old = 'マンドラゴラを迎え入れる'
+[[message]]
+key = 'myroom_mandragora_3A0_1_menu'
+old = '育てる'
+[[message]]
+key = 'myroom_mandragora_3A0_2_menu'
+old = '持ちあげる'
+[[message]]
+key = 'myroom_mandragora_3A0_3_menu'
+old = 'なでる'
+[[message]]
+key = 'myroom_mandragora_3A0_4_menu'
+old = '見た目を変える'
+[[message]]
+key = 'myroom_mandragora_3A0_5_menu'
+old = '名前を変える'
+[[message]]
+key = 'myroom_mandragora_3A1_1_menu'
+old = '土を変える'
+[[message]]
+key = 'myroom_mandragora_3A1_2_dialog'
+old = '''
+マンドラゴラを育てるには
+土の状態を回復する必要があります
+<COL ffdc78>ふかふかの土</COL>を使用しますか？'''
+[[message]]
+key = 'myroom_mandragora_3A2_1_menu'
+old = '育成状況を確認する'
+[[message]]
+key = 'myroom_mandragora_3A2_2_menu'
+old = '肥料を確認する'
+[[message]]
+key = 'myroom_mandragora_3A2_3_dialog'
+old = '''
+このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>します
+よろしいですか？
+<COL ffdc78>黄金石<VAL>個</COL>を消費します(所持数：<VAL>)'''
+[[message]]
+key = 'myroom_mandragora_3A2_4_dialog'
+old = 'このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>しました'
+[[message]]
+key = 'myroom_mandragora_3A2_5_dialog'
+old = '''
+黄金石が不足しています
+(所持数：<VAL>)'''
+[[message]]
+key = 'myroom_mandragora_3A2_6_dialog_menu'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'myroom_mandragora_3A3_1_menu'
+old = '受け取る'
+[[message]]
+key = 'myroom_mandragora_3A3_2_announce'
+old = '鉢植に戻るまでまとう'
+[[message]]
+key = 'myroom_mandragora_4A0_1_dialog'
+old = '''
+マンドラゴラ
+<VAL>
+の名前を変更しますか？'''
+[[message]]
+key = 'myroom_mandragora_4A0_2_dialog_title'
+old = 'マンドラゴラの名前を設定'
+[[message]]
+key = 'myroom_mandragora_4A0_3_dialog_attention'
+old = '''
+注意事項
+・半角２文字～１２文字まで入力可能です
+・半角英数字と一部の記号 '.,:;!?&-_ が使用可能です'''
+[[message]]
+key = 'myroom_mandragora_4A0_4_dialog_button'
+old = '完了'
+[[message]]
+key = 'myroom_mandragora_4A0_5_dialog_button'
+old = '中止'
+[[message]]
+key = 'myroom_mandragora_3A0_1_01_dialog'
+old = '''
+マンドラゴラを育てるには
+「作るもの」と「肥料」分のアイテムが必要です
+まずは「作るもの」を選択してください'''
+[[message]]
+key = 'myroom_mandragora_3A0_1_02_dialog_menu'
+old = '作るものを選ぶ'
+[[message]]
+key = 'myroom_mandragora_3A0_1_03_dialog'
+old = '''
+次に「肥料」分のアイテムを自由に選択してください
+「肥料」として与えたアイテムによっては、
+マンドラゴラの成長に変化が現れるかもしれません'''
+[[message]]
+key = 'myroom_mandragora_3A0_1_04_dialog_menu'
+old = '肥料を選ぶ'
+[[message]]
+key = 'myroom_mandragora_3A0_1_05_dialog'
+old = '''
+肥料選択をキャンセルしますか？
+(肥料に選んでいたアイテムは元に戻ります)'''
+[[message]]
+key = 'myroom_mandragora_3A0_1_06_dialog'
+old = '育成方法を選んでください'
+[[message]]
+key = 'myroom_mandragora_3A0_1_07_dialog_menu'
+old = '通常育成'
+[[message]]
+key = 'myroom_mandragora_3A0_1_08_dialog_menu'
+old = '黄金石で即時育成'
+[[message]]
+key = 'myroom_mandragora_3A0_1_09_dialog'
+old = '''
+このマンドラゴラを通常育成します
+よろしいですか？
+
+マンドラゴラ：<VAL>
+作るもの：<VAL>
+育成時間：<VAL>'''
+[[message]]
+key = 'myroom_mandragora_3A0_1_10_dialog'
+old = '''
+このマンドラゴラを<COL ffdc78>黄金石で即時育成</COL>します
+よろしいですか？
+
+マンドラゴラ：<VAL>
+作るもの：<VAL>
+育成時間：<VAL>
+
+<COL ffdc78>黄金石<VAL>個</COL>を消費します (所持数：<VAL>)'''
+[[message]]
+key = 'myroom_mandragora_3A0_1_11_list'
+old = '黄金石で即時育成'
+[[message]]
+key = 'myroom_mandragora_3A0_1_12_dialog'
+old = '育成を開始しました'
+[[message]]
+key = 'myroom_mandragora_3A0_1_13_dialog'
+old = '育成が完了しました'
+[[message]]
+key = 'myroom_mandragora_3A2_2_dialog'
+old = '''
+このマンドラゴラは育成途中です
+
+作るもの：<VAL>
+育成時間：<VAL>'''
+[[message]]
+key = 'myroom_mandragora_3A1_3_dialog'
+old = '<COL ffdc78>ふかふかの土</COL>を使用しました'
+[[message]]
+key = 'myroom_mandragora_3A1_4_dialog'
+old = 'ふかふかの土を持っていません'
+[[message]]
+key = 'myroom_mandragora_4A0_6_dialog'
+old = '名前を変更しました'
+[[message]]
+key = 'myroom_mandragora_3A2_1_err01'
+old = '''
+もうすぐ育成が完了するので
+黄金石で即時育成は使用できません'''
+[[message]]
+key = 'myroom_mandragora_3A0_4_err01'
+old = '今は変更できません'
+[[message]]
+key = 'myroom_mandragora_3A0_1_10_dialog_ex1'
+old = '<COL ffdc78>すぐに育ちます</COL>'
+[[message]]
+key = 'myroom_mandragora_2A1_1_err01'
+old = '自室の管理から鉢植を設定してください'
+[[message]]
+key = 'myroom_pawn_think_grow'
+old = 'ポーン戦術育成できるポーンがいます！！'

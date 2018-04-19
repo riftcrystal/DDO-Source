@@ -1,0 +1,186 @@
+﻿[[message]]
+key = 'status_title_equip_status'
+old = 'ステータス・装備'
+[[message]]
+key = 'status_tab_equip'
+old = 'ステータス・装備'
+[[message]]
+key = 'status_tab_anomaly_resist'
+old = '耐性・特能'
+[[message]]
+key = 'status_tab_job_arisenpower'
+old = 'ジョブ・竜力の継承'
+[[message]]
+key = 'status_tab_skill_ability'
+old = 'スキル・アビリティ'
+[[message]]
+key = 'status_tab_currency'
+old = '通貨'
+[[message]]
+key = 'status_heading_base_status'
+old = 'General'
+[[message]]
+key = 'status_heading_attack_status'
+old = 'Attack'
+[[message]]
+key = 'status_heading_difence_status'
+old = 'Defense'
+[[message]]
+key = 'status_option_change_equipment'
+old = '装備変更'
+[[message]]
+key = 'status_option_remove'
+old = 'はずす'
+[[message]]
+key = 'status_tab_craft_review'
+old = 'クラフト・評価'
+[[message]]
+key = 'status_heading_job_status'
+old = 'Special'
+[[message]]
+key = 'status_pawn_owner'
+old = 'Arisen:'
+[[message]]
+key = 'status_player_id'
+old = ''
+[[message]]
+key = 'status_heading_debilitation_resist'
+old = 'Debilitation / Debilitation Resist'
+[[message]]
+key = 'status_heading_money'
+old = 'Money'
+[[message]]
+key = 'status_none'
+old = 'なし'
+[[message]]
+key = 'status_pawn_review_title'
+old = '総合評価'
+[[message]]
+key = 'status_pawn_review_rental'
+old = 'レンタル回数'
+[[message]]
+key = 'status_pawn_review_battle'
+old = '敵の討伐数'
+[[message]]
+key = 'status_pawn_review_craft'
+old = 'クラフト回数'
+[[message]]
+key = 'status_pawn_review_looks_ave'
+old = '外見平均評価'
+[[message]]
+key = 'status_pawn_review_battle_ave'
+old = '冒険平均評価'
+[[message]]
+key = 'status_pawn_review_craft_ave'
+old = 'クラフト平均評価'
+[[message]]
+key = 'status_gain_orb'
+old = 'オーブ'
+[[message]]
+key = 'status_gain_kakin'
+old = '<CRS>'
+[[message]]
+key = 'status_gain_total'
+old = '合計'
+[[message]]
+key = 'status_money_title'
+old = 'Money'
+[[message]]
+key = 'status_ticket_title'
+old = 'Ticket'
+[[message]]
+key = 'status_orb_class'
+old = 'Class'
+[[message]]
+key = 'status_heading_resist_status'
+old = 'Other Status'
+[[message]]
+key = 'status_preset_title'
+old = 'プリセット'
+[[message]]
+key = 'status_preset_dialog_rename'
+old = 'プリセット名編集'
+[[message]]
+key = 'status_preset_not_regist'
+old = '未登録'
+[[message]]
+key = 'status_preset_dialog_title'
+old = 'プリセット操作'
+[[message]]
+key = 'status_preset_dialog_equip'
+old = 'プリセット適用'
+[[message]]
+key = 'status_preset_dialog_regist'
+old = 'プリセット登録'
+[[message]]
+key = 'status_preset_default_name'
+old = 'プリセット'
+[[message]]
+key = 'status_select_equip_title'
+old = '装備を選んでください'
+[[message]]
+key = 'status_title_equip_status_eng'
+old = 'Status'
+[[message]]
+key = 'status_orb_title'
+old = '竜力の継承'
+[[message]]
+key = 'status_gain_param_ability_cost'
+old = 'アビリティセットコスト'
+[[message]]
+key = 'status_gain_jewerly_slot'
+old = 'ジュエリー装備スロット'
+[[message]]
+key = 'status_gain_main_pawn'
+old = 'メインポーン契約枠'
+[[message]]
+key = 'status_gain_sub_pawn'
+old = 'サポートポーン雇用枠'
+[[message]]
+key = 'status_select_performance_equip'
+old = '性能装備選択'
+[[message]]
+key = 'status_select_mirage_equip'
+old = '着飾り装備選択'
+[[message]]
+key = 'status_sub_menu'
+old = 'サブメニュー'
+[[message]]
+key = 'status_error_storage_box_full'
+old = '保管ボックスがいっぱいです'
+[[message]]
+key = 'status_buttonguide_equip'
+old = '装備'
+[[message]]
+key = 'status_error_storage_bag_full'
+old = 'アイテムバッグがいっぱいです'
+[[message]]
+key = 'status_total_job_level'
+old = 'Total <VAL LV>'
+[[message]]
+key = 'status_other_title'
+old = 'Other'
+[[message]]
+key = 'status_craft_title'
+old = 'Craft'
+[[message]]
+key = 'status_equip_jewelry_slot_num'
+old = 'ジュエリー装備可能数：%d'
+[[message]]
+key = 'status_equip_jewelry_category_num'
+old = '%s (%d/%d)'
+[[message]]
+key = 'status_heading_resist_details'
+old = 'Details'
+[[message]]
+key = 'status_job_orb_title'
+old = '戦技の継承'
+[[message]]
+key = 'status_high_orb_tree_title'
+old = '絶技の継承'
+[[message]]
+key = 'status_tab_skill'
+old = 'スキル'
+[[message]]
+key = 'status_tab_job'
+old = 'ジョブ'

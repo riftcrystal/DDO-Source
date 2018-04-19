@@ -1,0 +1,117 @@
+﻿[[message]]
+key = 'RIM_MSG_TITLE_M_TITLE00'
+old = 'Rim Stone'
+[[message]]
+key = 'RIM_MSG_TITLE_M_TITLE01'
+old = 'リムストーンメニュー'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION00'
+old = '名前'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION01'
+old = 'ジョブ／クラフトレベル'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION02'
+old = '公開範囲'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION03'
+old = '状態'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION04'
+old = '評価'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_SERACH'
+old = 'Search'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN_SEARCH'
+old = 'ポーン検索'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN02'
+old = 'クラフトマスターポーン'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN03'
+old = '公式ポーン'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN04'
+old = 'フレンドポーン'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN05'
+old = 'クランポーン'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_PAWN06'
+old = 'お気に入り'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_SPECIAL'
+old = 'Special'
+[[message]]
+key = 'RIM_MSG_RANKLIST_M_COMMU'
+old = 'Community'
+[[message]]
+key = 'RIM_INST_MSG_BTN00'
+old = '検索条件設定'
+[[message]]
+key = 'RIM_MSG_TAB_SEARCH'
+old = 'ポーン検索'
+[[message]]
+key = 'RIM_MSG_TAB_MAIN'
+old = 'メインポーン'
+[[message]]
+key = 'RIM_MSG_TAB_SUPPORT'
+old = 'サポートポーン'
+[[message]]
+key = 'RIM_MSG_PAWN_STATE_NONE'
+old = '待機状態'
+[[message]]
+key = 'RIM_MSG_PAWN_STATE_LOST'
+old = 'ロスト状態'
+[[message]]
+key = 'RIM_MSG_PAWN_STATE_CRAFT'
+old = 'クラフト中'
+[[message]]
+key = 'RIM_MSG_PAWN_STATE_PARTY'
+old = 'パーティーメンバー'
+[[message]]
+key = 'RIM_MSG_COST_FORMAT'
+old = '<VAL> <COL 5f5fffff>R</COL>'
+[[message]]
+key = 'RIM_MSG_LEVEL_RANGE'
+old = 'Lv <VAL>～<VAL>'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION05'
+old = '冒険／クラフト残り回数'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION06'
+old = 'レンタルコスト'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION07'
+old = '履歴'
+[[message]]
+key = 'RIM_MSG_NO_COST'
+old = 'Free'
+[[message]]
+key = 'RIM_MSG_MAIN_PAWN_COUNT'
+old = '契約状況：'
+[[message]]
+key = 'RIM_MSG_SUPPORT_PAWN_COUNT'
+old = '雇用状況：'
+[[message]]
+key = 'RIM_MSG_SEARCH_PAWN_NOT_FOUND'
+old = 'ポーンが見つかりませんでした'
+[[message]]
+key = 'RIM_MSG_MAIN_PAWN_NOT_FOUND'
+old = 'ポーンと契約していません'
+[[message]]
+key = 'RIM_MSG_SUPPORT_PAWN_NOT_FOUND'
+old = 'ポーンを雇用していません'
+[[message]]
+key = 'RIM_MSG_TAB_LOST'
+old = 'ロストポーン'
+[[message]]
+key = 'RIM_MSG_CHOICE_CATEGORY'
+old = '左のカテゴリを選んでください'
+[[message]]
+key = 'RIM_MSG_SELECT_M_SECTION08'
+old = '救済コスト'
+[[message]]
+key = 'RIM_MSG_LOST_PAWN_NOT_FOUND'
+old = 'ロストしているポーンがいません'

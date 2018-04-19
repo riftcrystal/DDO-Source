@@ -1,0 +1,463 @@
+﻿[[message]]
+key = 'gacha_msg_holding_goldenstone'
+old = '所持黄金石'
+[[message]]
+key = 'gacha_msg_holding_ticket'
+old = '所持シルバーチケット'
+[[message]]
+key = 'gacha_msg_num_goldenstone'
+old = '<VAL>個'
+[[message]]
+key = 'gacha_msg_num_ticket'
+old = '<VAL>枚'
+[[message]]
+key = 'gacha_msg_draw'
+old = 'まわす'
+[[message]]
+key = 'gacha_msg_multi_draw'
+old = 'まわす(<VAL>連続)'
+[[message]]
+key = 'gacha_msg_no_stone_todaraw'
+old = '黄金石が不足しています。ロットを1回まわすには、黄金石<VAL>個が必要です'
+[[message]]
+key = 'gacha_msg_no_stone_tomultidraw'
+old = '黄金石が不足しています。ロットを<VAL>連続でまわすには、黄金石<VAL>個が必要です'
+[[message]]
+key = 'gacha_msg_no_ticket_todaraw'
+old = 'チケットが不足しています。ロットを1回まわすには、チケット<VAL>枚が必要です'
+[[message]]
+key = 'gacha_msg_no_ticket_tomultidraw'
+old = 'チケットが不足しています。ロットを<VAL>連続でまわすには、チケット<VAL>枚が必要です'
+[[message]]
+key = 'gacha_msg_buy_goldenstone'
+old = '黄金石の購入'
+[[message]]
+key = 'gacha_msg_itemclass_s'
+old = 'S級品アイテム'
+[[message]]
+key = 'gacha_msg_itemclass_a'
+old = 'A級品アイテム'
+[[message]]
+key = 'gacha_msg_itemclass_b'
+old = 'B級品アイテム'
+[[message]]
+key = 'gacha_msg_itemclass_c'
+old = 'C級品アイテム'
+[[message]]
+key = 'gacha_msg_itemclass_d'
+old = 'D級品アイテム'
+[[message]]
+key = 'gacha_msg_class_s'
+old = 'S級品'
+[[message]]
+key = 'gacha_msg_class_a'
+old = 'A級品'
+[[message]]
+key = 'gacha_msg_class_b'
+old = 'B級品'
+[[message]]
+key = 'gacha_msg_class_c'
+old = 'C級品'
+[[message]]
+key = 'gacha_msg_class_d'
+old = 'D級品'
+[[message]]
+key = 'gacha_msg_view_web'
+old = 'ロットの詳細をブラウザで見る'
+[[message]]
+key = 'gacha_msg_brief_gacha'
+old = 'ロット概要'
+[[message]]
+key = 'gacha_msg_contents_view'
+old = '内容一覧'
+[[message]]
+key = 'gacha_msg_detail'
+old = '詳細情報'
+[[message]]
+key = 'gacha_msg_isdraw_by_a_stone'
+old = '''
+黄金石<VAL>個を消費して、
+ロットを1回まわします。よろしいですか？'''
+[[message]]
+key = 'gacha_msg_isdraw_by_stones'
+old = '''
+黄金石<VAL>個を消費して、
+ロットを<VAL>連続でまわします。よろしいですか？'''
+[[message]]
+key = 'gacha_msg_isdraw_by_a_ticket'
+old = '''
+チケット<VAL>枚を消費して、
+ロットを1回まわします。よろしいですか？'''
+[[message]]
+key = 'gacha_msg_isdraw_by_tickets'
+old = '''
+チケット<VAL>枚を消費して、
+ロットを<VAL>連続でまわします。よろしいですか？'''
+[[message]]
+key = 'gacha_msg_one_more_draw'
+old = 'もう一度まわす'
+[[message]]
+key = 'gacha_msg_quit'
+old = '終了'
+[[message]]
+key = 'gacha_msg_total_num'
+old = '<VAL>/<VAL>'
+[[message]]
+key = 'gacha_msg_sale_info'
+old = 'SALE!'
+[[message]]
+key = 'gacha_msg_num'
+old = '<VAL>'
+[[message]]
+key = 'gacha_msg_post'
+old = 'アイテムポスト'
+[[message]]
+key = 'gacha_msg_preview_goldenstone'
+old = '黄金石の確認'
+[[message]]
+key = 'gacha_msg_title_j'
+old = 'トレジャーズロット'
+[[message]]
+key = 'gacha_msg_title_e'
+old = 'Treasure Lot'
+[[message]]
+key = 'gacha_msg_pray'
+old = '<VAL>プレイ'
+[[message]]
+key = 'gacha_msg_load_fail'
+old = '画像の読み込みに失敗しました'
+[[message]]
+key = 'gacha_msg_use_stone'
+old = '×<VAL>個使用'
+[[message]]
+key = 'gacha_msg_use_ticket'
+old = '×<VAL>枚使用'
+[[message]]
+key = 'gacha_msg_rate'
+old = '提供割合'
+[[message]]
+key = 'gacha_msg_rate_num'
+old = '<VAL>%'
+[[message]]
+key = 'gacha_msg_caution'
+old = 'ロットで獲得した商品はアイテムポストに送られます'
+[[message]]
+key = 'gacha_msg_ana_send_box'
+old = '''
+いいものは出たかしら？
+獲得したアイテムはアイテムポストに送っておくね'''
+[[message]]
+key = 'gacha_msg_ana_ng_box_full'
+old = 'アイテムポストの空きが不足しているため、トレジャーズロットをまわすことができません'
+[[message]]
+key = 'gacha_msg_ana_ng_gs_lack'
+old = '黄金石が不足しているため、トレジャーズロットをまわすことができません'
+[[message]]
+key = 'gacha_msg_ana_ng_ticket_lack'
+old = 'シルバーチケットが不足しているため、トレジャーズロットをまわすことができません'
+[[message]]
+key = 'gacha_msg_disable_gp'
+old = '黄金石は使用できません'
+[[message]]
+key = 'gacha_msg_disable_ticket'
+old = 'チケットは使用できません'
+[[message]]
+key = 'gacha_msg_diable_gp_to_gacha'
+old = 'このトレジャーズロットでは黄金石は使用できません'
+[[message]]
+key = 'gacha_msg_diable_ticket_to_gacha'
+old = 'このトレジャーズロットではシルバーチケットは使用できません'
+[[message]]
+key = 'gacha_msg_annotation'
+old = '''
+※提供確率は小数点第3位を四捨五入して表示しています
+　このため、合計が100%にならない場合もございます'''
+[[message]]
+key = 'gacha_msg_title_box_e'
+old = 'Box Treasure Lot'
+[[message]]
+key = 'gacha_msg_title_box_j'
+old = 'ボックストレジャーズロット'
+[[message]]
+key = 'gacha_msg_result'
+old = '獲得リザルト'
+[[message]]
+key = 'gacha_msg_draw_gp'
+old = '黄金石でまわす'
+[[message]]
+key = 'gacha_msg_draw_ticket'
+old = 'チケットでまわす'
+[[message]]
+key = 'gacha_msg_draw_free'
+old = '無料でまわす'
+[[message]]
+key = 'gacha_msg_reset'
+old = 'リセット'
+[[message]]
+key = 'gacha_msg_pray_trial'
+old = 'お試しプレイ'
+[[message]]
+key = 'gacha_msg_pray_select'
+old = '<VAL>プレイ（以下からお選びいただけます）'
+[[message]]
+key = 'gacha_msg_free'
+old = '無料'
+[[message]]
+key = 'gacha_msg_itemclass_name'
+old = '級品アイテム'
+[[message]]
+key = 'gacha_msg_pray_limit'
+old = '※プレイ回数制限'
+[[message]]
+key = 'gacha_msg_box_state'
+old = 'ボックス状況'
+[[message]]
+key = 'gacha_msg_annotation2'
+old = '''
+提供割合は小数点第3位を四捨五入して表示しています
+このため、合計が100%にならない場合もございます'''
+[[message]]
+key = 'gacha_msg_supplemental'
+old = '補足'
+[[message]]
+key = 'gacha_msg_number_of_acquisition_per_times'
+old = '1回あたりの獲得数'
+[[message]]
+key = 'gacha_msg_remaining'
+old = '残り'
+[[message]]
+key = 'gacha_msg_result_ng'
+old = '''
+直前にまわしたロットの獲得リザルトを表示します
+ロット内容は、内容一覧のページでご確認ください'''
+[[message]]
+key = 'gacha_msg_getitem'
+old = '獲得アイテム'
+[[message]]
+key = 'gacha_msg_getnum'
+old = '獲得数'
+[[message]]
+key = 'gacha_msg_dialog_select_playnum'
+old = 'プレイタイプを選んでください'
+[[message]]
+key = 'gacha_msg_dialog_start_conf'
+old = '''
+以下の内容でまわします。よろしいですか？
+
+ロット名　　：<VAL>
+プレイタイプ：<VAL>
+支払い方法　：<VAL>'''
+[[message]]
+key = 'gacha_msg_dialog_start_conf_play_num'
+old = '%dプレイ'
+[[message]]
+key = 'gacha_msg_dialog_start_conf_play_trial'
+old = 'お試しプレイ'
+[[message]]
+key = 'gacha_msg_dialog_start_conf_pay_gp'
+old = '黄金石%d個'
+[[message]]
+key = 'gacha_msg_dialog_start_conf_pay_ticket'
+old = 'シルバーチケット%d枚'
+[[message]]
+key = 'gacha_msg_dialog_start_conf_pay_free'
+old = '無料'
+[[message]]
+key = 'gacha_msg_dialog_error_01'
+old = 'プレイ回数制限があります。これ以上はまわせません'
+[[message]]
+key = 'gacha_msg_dialog_error_02'
+old = '''
+ボックスロット内の残り数が<VAL>個です
+選択中のプレイタイプではまわせません'''
+[[message]]
+key = 'gacha_msg_dialog_error_03'
+old = 'シルバーチケットが足りません'
+[[message]]
+key = 'gacha_msg_dialog_error_04'
+old = '''
+アイテムが受け取れない可能性があります
+アイテムポストを十分に空けてください'''
+[[message]]
+key = 'gacha_msg_dialog_gp_lack'
+old = '''
+黄金石が不足しています
+選択中のロットをまわすには<COL ffdc78>黄金石<VAL>個</COL>が必要です
+(所持数：<VAL>)'''
+[[message]]
+key = 'gacha_msg_jump_onlineshop'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'gacha_msg_dialog_reset_conf'
+old = '''
+ボックスをリセットします。よろしいですか？
+<COL aa1414>※一度リセットすると元に戻せません</COL>'''
+[[message]]
+key = 'gacha_msg_dialog_reset_success'
+old = 'ボックスをリセットしました'
+[[message]]
+key = 'gacha_msg_draw_lot'
+old = 'ロットをまわす'
+[[message]]
+key = 'gacha_msg_sp_price'
+old = '特別価格（あと<VAL>回利用可能）'
+[[message]]
+key = 'gacha_msg_sp_price_end'
+old = 'ご利用ありがとうございました'
+[[message]]
+key = 'gacha_msg_dialog_select_price'
+old = '支払い方法を選んでください'
+[[message]]
+key = 'gacha_msg_dialog_error_05'
+old = '''
+回数制限のため、
+選択した支払い方法ではまわせません'''
+[[message]]
+key = 'gacha_msg_annotation_box'
+old = '排出率は均一です'
+[[message]]
+key = 'gacha_msg_normal_price_limit'
+old = '（あと<VAL>回利用可能）'
+[[message]]
+key = 'gacha_msg_service_benefits_free'
+old = 'サービス特典（無料）'
+[[message]]
+key = 'gacha_msg_service_benefits_ticket'
+old = 'サービス特典（チケット）'
+[[message]]
+key = 'gacha_msg_service_benefits_gp'
+old = 'サービス特典（黄金石）'
+[[message]]
+key = 'gacha_msg_service_benefits_ticket_dialog'
+old = 'サービス特典（チケット）%d枚'
+[[message]]
+key = 'gacha_msg_service_benefits_gp_dialog'
+old = 'サービス特典（黄金石）%d個'
+[[message]]
+key = 'gacha_msg_not_available'
+old = 'ご利用になれません'
+[[message]]
+key = 'gacha_msg_dialog_service_benefits'
+old = '''
+<COL ffdc78>サービス特典</COL>は＜<OPCS>＞の発動中に
+利用可能となります'''
+[[message]]
+key = 'gacha_msg_ana_ng_service_benefits'
+old = '効能が切れているため、トレジャーズロットをまわすことができません'
+[[message]]
+key = 'lde_msg_title_e'
+old = 'Large Delivery Event'
+[[message]]
+key = 'lde_msg_title_j'
+old = '大口納品イベント'
+[[message]]
+key = 'lde_msg_tab_01'
+old = 'イベント概要'
+[[message]]
+key = 'lde_msg_tab_02'
+old = '納品対象'
+[[message]]
+key = 'lde_msg_tab_03'
+old = '報酬リスト'
+[[message]]
+key = 'lde_msg_tab_04'
+old = '詳細情報'
+[[message]]
+key = 'lde_msg_btn_01'
+old = '報酬を受け取る'
+[[message]]
+key = 'lde_msg_btn_02'
+old = '納品する'
+[[message]]
+key = 'lde_msg_btn_03'
+old = 'ランキング詳細'
+[[message]]
+key = 'lde_msg_text_001'
+old = '開催スケジュール'
+[[message]]
+key = 'lde_msg_text_002'
+old = '個人成績'
+[[message]]
+key = 'lde_msg_text_003'
+old = '全体成績'
+[[message]]
+key = 'lde_msg_text_004'
+old = '納品期間'
+[[message]]
+key = 'lde_msg_text_005'
+old = '報酬受け取り期間'
+[[message]]
+key = 'lde_msg_text_006'
+old = '獲得ポイント'
+[[message]]
+key = 'lde_msg_text_007'
+old = 'ランキング'
+[[message]]
+key = 'lde_msg_text_008'
+old = '対象アイテム'
+[[message]]
+key = 'lde_msg_text_009'
+old = '獲得pt'
+[[message]]
+key = 'lde_msg_text_010'
+old = 'ボーダー報酬'
+[[message]]
+key = 'lde_msg_text_011'
+old = 'ランキング報酬'
+[[message]]
+key = 'lde_msg_text_012'
+old = '全体ボーダー報酬'
+[[message]]
+key = 'lde_msg_text_013'
+old = '達成'
+[[message]]
+key = 'lde_msg_text_014'
+old = '未達成'
+[[message]]
+key = 'lde_msg_text_015'
+old = '-'
+[[message]]
+key = 'lde_msg_text_016'
+old = '受取可能'
+[[message]]
+key = 'lde_msg_text_017'
+old = '受取済'
+[[message]]
+key = 'lde_msg_text_018'
+old = '集計中'
+[[message]]
+key = 'lde_msg_text_019'
+old = '集計確定'
+[[message]]
+key = 'lde_msg_text_020'
+old = '''
+報酬アイテム<VAL>個をすべて受け取ります
+受け取り先を選択してください'''
+[[message]]
+key = 'lde_msg_text_021'
+old = 'に受け取りました'
+[[message]]
+key = 'lde_msg_err_001'
+old = '''
+ゲームメニューからは納品できません
+キャメロン、もしくは対象NPCに納品してください'''
+[[message]]
+key = 'lde_msg_err_002'
+old = '納品期間を過ぎています'
+[[message]]
+key = 'lde_msg_err_003'
+old = '対象NPCに直接納品してください'
+[[message]]
+key = 'lde_msg_err_004'
+old = '''
+ゲームメニューからは受け取りできません
+キャメロン、もしくは対象NPCから受け取ることができます'''
+[[message]]
+key = 'lde_msg_err_005'
+old = '受取可能なアイテムがありません'
+[[message]]
+key = 'lde_msg_text_022'
+old = '位'
+[[message]]
+key = 'lde_msg_text_023'
+old = '時点'

@@ -1,0 +1,120 @@
+﻿[[message]]
+key = 'button_guide_touch_catch'
+old = 'つかむ'
+[[message]]
+key = 'button_guide_touch_check'
+old = '調べる'
+[[message]]
+key = 'button_guide_touch_talk'
+old = '話す'
+[[message]]
+key = 'button_guide_touch_rescue'
+old = '救済する'
+[[message]]
+key = 'button_guide_touch_restore'
+old = '復活させる'
+[[message]]
+key = 'button_guide_touch_sitdown'
+old = '座る'
+[[message]]
+key = 'button_guide_touch_standup'
+old = '立ち上がる'
+[[message]]
+key = 'button_guide_touch_bathin'
+old = '浸かる'
+[[message]]
+key = 'button_guide_touch_bathout'
+old = '湯船から出る'
+[[message]]
+key = 'button_guide_lr_endure'
+old = '耐える'
+[[message]]
+key = 'button_guide_circle_dismount'
+old = '下りる'
+[[message]]
+key = 'button_guide_circle_putback'
+old = '戻す'
+[[message]]
+key = 'button_guide_cross_jump'
+old = 'ジャンプ'
+[[message]]
+key = 'button_guide_cross_qjump'
+old = '一足跳び'
+[[message]]
+key = 'button_guide_cross_detach'
+old = '離す'
+[[message]]
+key = 'button_guide_triangle_shake'
+old = '揺さぶる'
+[[message]]
+key = 'button_guide_triangle_throw'
+old = '投げる'
+[[message]]
+key = 'button_guide_square_kick'
+old = '蹴る'
+[[message]]
+key = 'button_guide_l1_skill'
+old = 'スキル'
+[[message]]
+key = 'button_guide_r1_skill'
+old = 'スキル'
+[[message]]
+key = 'button_guide_lr_shift'
+old = 'シフト'
+[[message]]
+key = 'button_guide_l2_commu'
+old = 'コミュニケーションパレット'
+[[message]]
+key = 'button_guide_r2_multi'
+old = 'マルチショートカットパレット'
+[[message]]
+key = 'button_guide_circle_breakaway'
+old = '離脱'
+[[message]]
+key = 'button_guide_fire_hunter'
+old = '射る'
+[[message]]
+key = 'button_guide_fire_elementsarcher'
+old = '放つ'
+[[message]]
+key = 'button_guide_decide'
+old = '決定'
+[[message]]
+key = 'button_guide_cancel'
+old = '中断'
+[[message]]
+key = 'button_guide_move'
+old = '発動'
+[[message]]
+key = 'button_guide_change_stance'
+old = '(構え中)構えの変更'
+[[message]]
+key = 'button_guide_stance_bow'
+old = '構える'
+[[message]]
+key = 'button_guide_cancel_magic'
+old = '解除'
+[[message]]
+key = 'button_guide_put'
+old = '置く'
+[[message]]
+key = 'button_guide_palet_change'
+old = '(長押し)スキル切替'
+[[message]]
+key = 'button_guide_Auto_Run'
+old = 'オートラン切り替え'
+[[message]]
+key = 'button_guide_janken_gu'
+old = 'グー'
+[[message]]
+key = 'button_guide_janken_tyoki'
+old = 'チョキ'
+[[message]]
+key = 'button_guide_janken_pa'
+old = 'パー'
+[[message]]
+key = 'button_guide_pursuit'
+old = '追撃'
+[[message]]
+key = 'button_guide_fire'
+old = '発射'

@@ -1,0 +1,276 @@
+﻿[[message]]
+key = 'FUNC_CLASS_NAME_3'
+old = 'よろず屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_4'
+old = '道具屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_5'
+old = '武具屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_6'
+old = '素材屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_7'
+old = '宿屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_8'
+old = '武器屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_9'
+old = '防具屋'
+[[message]]
+key = 'FUNC_CLASS_NAME_10'
+old = '戦技補佐'
+[[message]]
+key = 'FUNC_CLASS_NAME_11'
+old = '転職・戦技補佐'
+[[message]]
+key = 'FUNC_CLASS_NAME_12'
+old = 'グランドミッション'
+[[message]]
+key = 'FUNC_CLASS_NAME_13'
+old = '冒険仲介係'
+[[message]]
+key = 'FUNC_CLASS_NAME_14'
+old = 'クラン酒場'
+[[message]]
+key = 'FUNC_CLASS_NAME_15'
+old = 'クラフト係官'
+[[message]]
+key = 'FUNC_CLASS_NAME_16'
+old = '美容院'
+[[message]]
+key = 'FUNC_CLASS_NAME_17'
+old = 'レスタニアニュース'
+[[message]]
+key = 'FUNC_CLASS_NAME_18'
+old = '竜力の継承'
+[[message]]
+key = 'FUNC_CLASS_NAME_19'
+old = 'オーブ交換：クレスト'
+[[message]]
+key = 'FUNC_CLASS_NAME_20'
+old = 'オーブ交換：珍品／素材'
+[[message]]
+key = 'FUNC_CLASS_NAME_21'
+old = 'エリアマスター'
+[[message]]
+key = 'FUNC_CLASS_NAME_22'
+old = 'ジョブマスター'
+[[message]]
+key = 'FUNC_CLASS_NAME_24'
+old = 'バザー'
+[[message]]
+key = 'FUNC_CLASS_NAME_25'
+old = '保管ボックス'
+[[message]]
+key = 'FUNC_CLASS_NAME_26'
+old = '納品ボックス'
+[[message]]
+key = 'FUNC_CLASS_NAME_27'
+old = 'リムストーン'
+[[message]]
+key = 'FUNC_CLASS_NAME_28'
+old = '竜の礎'
+[[message]]
+key = 'FUNC_CLASS_NAME_29'
+old = '拠点の礎'
+[[message]]
+key = 'FUNC_CLASS_NAME_30'
+old = '竜の礎'
+[[message]]
+key = 'FUNC_CLASS_NAME_31'
+old = 'クエストボード'
+[[message]]
+key = 'FUNC_CLASS_NAME_32'
+old = 'クランクエストボード'
+[[message]]
+key = 'FUNC_CLASS_NAME_33'
+old = 'ランキングボード'
+[[message]]
+key = 'FUNC_CLASS_NAME_34'
+old = '亡都の礎'
+[[message]]
+key = 'FUNC_CLASS_NAME_35'
+old = '移送の楔'
+[[message]]
+key = 'FUNC_CLASS_NAME_36'
+old = '記録官'
+[[message]]
+key = 'FUNC_CLASS_NAME_37'
+old = 'ポーンの復活'
+[[message]]
+key = 'FUNC_CLASS_NAME_39'
+old = 'エクストリームミッション'
+[[message]]
+key = 'FUNC_CLASS_NAME_40'
+old = '復活力の回復'
+[[message]]
+key = 'FUNC_CLASS_NAME_41'
+old = '拠点用保管ボックス'
+[[message]]
+key = 'FUNC_CLASS_NAME_42'
+old = 'ログインスタンプ'
+[[message]]
+key = 'FUNC_CLASS_NAME_43'
+old = '報酬受け取り'
+[[message]]
+key = 'FUNC_CLASS_NAME_44'
+old = 'トレジャーズロット'
+[[message]]
+key = 'FUNC_CLASS_NAME_45'
+old = '現れしポーン'
+[[message]]
+key = 'FUNC_CLASS_NAME_46'
+old = '弱化の治療'
+[[message]]
+key = 'FUNC_CLASS_NAME_47'
+old = '戦徒の契り'
+[[message]]
+key = 'FUNC_CLASS_NAME_48'
+old = '鑑定交換'
+[[message]]
+key = 'FUNC_CLASS_NAME_49'
+old = 'パートナーポーン'
+[[message]]
+key = 'FUNC_CLASS_NAME_50'
+old = '戦技の継承'
+[[message]]
+key = 'FUNC_CLASS_NAME_51'
+old = 'アチーブメント'
+[[message]]
+key = 'FUNC_CLASS_NAME_52'
+old = '格納チェスト'
+[[message]]
+key = 'FUNC_CLASS_NAME_53'
+old = 'ジョブ解放'
+[[message]]
+key = 'FUNC_CLASS_NAME_54'
+old = 'ボックストレジャーズロット'
+[[message]]
+key = 'FUNC_CLASS_NAME_55'
+old = 'ポーン遠征隊'
+[[message]]
+key = 'FUNC_CLASS_NAME_56'
+old = '遠征成果の確認'
+[[message]]
+key = 'FUNC_CLASS_NAME_57'
+old = 'プレイポイントショップ'
+[[message]]
+key = 'FUNC_CLASS_NAME_58'
+old = 'クラン拠点管理'
+[[message]]
+key = 'FUNC_CLASS_NAME_59'
+old = '戦技練習'
+[[message]]
+key = 'FUNC_CLASS_NAME_60'
+old = 'クランダンジョン'
+[[message]]
+key = 'FUNC_CLASS_NAME_61'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_62'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_63'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_64'
+old = '絶技の継承'
+[[message]]
+key = 'FUNC_CLASS_NAME_65'
+old = 'ジョブエンブレム'
+[[message]]
+key = 'FUNC_CLASS_NAME_66'
+old = 'サブストーリーログ'
+[[message]]
+key = 'FUNC_CLASS_NAME_67'
+old = '英霊眠りし道'
+[[message]]
+key = 'FUNC_CLASS_NAME_68'
+old = '魂を捧げる'
+[[message]]
+key = 'FUNC_CLASS_NAME_69'
+old = 'ウォーミッション'
+[[message]]
+key = 'FUNC_CLASS_NAME_70'
+old = 'ドミニオンポイントショップ'
+[[message]]
+key = 'FUNC_CLASS_NAME_71'
+old = '戦徒の転生'
+[[message]]
+key = 'FUNC_CLASS_NAME_72'
+old = '武具のカスタムメイド'
+[[message]]
+key = 'FUNC_CLASS_NAME_73'
+old = '武具の資源分解'
+[[message]]
+key = 'FUNC_CLASS_NAME_74'
+old = '冒パスショップ'
+[[message]]
+key = 'FUNC_CLASS_NAME_75'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_76'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_77'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_78'
+old = 'アチーブメント：王家再興'
+[[message]]
+key = 'FUNC_CLASS_NAME_80'
+old = '紋章メダル交換'
+[[message]]
+key = 'FUNC_CLASS_NAME_81'
+old = 'おでかけ支援サービス'
+[[message]]
+key = 'FUNC_CLASS_NAME_82'
+old = '他人の自室訪問'
+[[message]]
+key = 'FUNC_CLASS_NAME_83'
+old = 'スペシャルクエストボード'
+[[message]]
+key = 'FUNC_CLASS_NAME_84'
+old = '大口納品報酬確認'
+[[message]]
+key = 'FUNC_CLASS_NAME_85'
+old = '自室訪問設定'
+[[message]]
+key = 'FUNC_CLASS_NAME_86'
+old = '冒険ガイド'
+[[message]]
+key = 'FUNC_CLASS_NAME_87'
+old = 'パーティー募集掲示板'
+[[message]]
+key = 'FUNC_CLASS_NAME_88'
+old = '効果の封印'
+[[message]]
+key = 'FUNC_CLASS_NAME_89'
+old = '黒呪アイテムの鑑定'
+[[message]]
+key = 'FUNC_CLASS_NAME_90'
+old = '具現化'
+[[message]]
+key = 'FUNC_CLASS_NAME_91'
+old = '探索結果の報告'
+[[message]]
+key = 'FUNC_CLASS_NAME_93'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_94'
+old = ''
+[[message]]
+key = 'FUNC_CLASS_NAME_95'
+old = '印記章交換'
+[[message]]
+key = 'FUNC_CLASS_NAME_96'
+old = '大口納品イベント'
+[[message]]
+key = 'FUNC_CLASS_NAME_97'
+old = '黒呪ショップ'
+[[message]]
+key = 'FUNC_CLASS_NAME_98'
+old = ''

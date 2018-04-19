@@ -1,0 +1,15 @@
+﻿[[message]]
+key = 'PAWN_SHARE_RANGE_RES_ANYONE'
+old = '誰にでも'
+[[message]]
+key = 'PAWN_SHARE_RANGE_RES_FRIEND_ONLY'
+old = 'フレンドのみ'
+[[message]]
+key = 'PAWN_SHARE_RANGE_RES_CRAN_ONLY'
+old = 'クランのみ'
+[[message]]
+key = 'PAWN_SHARE_RANGE_RES_FRIEND_CRAN_ONLY'
+old = 'フレンドとクランのみ'
+[[message]]
+key = 'PAWN_SHARE_RANGE_RES_NOBODY'
+old = '非公開'

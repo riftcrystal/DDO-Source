@@ -1,0 +1,33 @@
+﻿[[message]]
+key = 'FURNITURE_GROUP_NAME_1'
+old = '書斎'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_2'
+old = 'キッチン'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_3'
+old = 'ベッド'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_4'
+old = 'リビング'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_7'
+old = 'お風呂'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_8'
+old = '室内の装飾'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_9'
+old = '家具'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_10'
+old = '部屋着'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_11'
+old = '庭具'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_12'
+old = '壁紙'
+[[message]]
+key = 'FURNITURE_GROUP_NAME_13'
+old = '時計'

@@ -1,0 +1,78 @@
+﻿[[message]]
+key = 'sendmail_title_sendmail_en'
+old = 'Send Mail'
+[[message]]
+key = 'sendmail_title_sendmail_jp'
+old = 'メール送信'
+[[message]]
+key = 'sendmail_button_send'
+old = '送信'
+[[message]]
+key = 'sendmail_title_address_en'
+old = 'Addressee'
+[[message]]
+key = 'sendmail_title_address_jp'
+old = '宛先'
+[[message]]
+key = 'sendmail_footer_destination'
+old = '送信先'
+[[message]]
+key = 'sendmail_footer_number'
+old = '件'
+[[message]]
+key = 'sendmail_button_del_address'
+old = '宛先削除'
+[[message]]
+key = 'receivedmail_title_receivedmail_en'
+old = 'Received Mail'
+[[message]]
+key = 'receivedmail_title_receivedmail_jp'
+old = '受信メール'
+[[message]]
+key = 'receivedmail_button_get_all'
+old = 'すべて入手'
+[[message]]
+key = 'receivedmail_button_reply'
+old = '返信'
+[[message]]
+key = 'mail_msg_time_minute'
+old = '<VAL>分前'
+[[message]]
+key = 'mail_msg_time_hour'
+old = '<VAL>時間前'
+[[message]]
+key = 'mail_msg_time_day'
+old = '<VAL>日前'
+[[message]]
+key = 'mail_title_mail_en'
+old = 'Mail'
+[[message]]
+key = 'mail_title_mail_jp'
+old = 'メール'
+[[message]]
+key = 'mail_tab_unfiled'
+old = '未読／未取得'
+[[message]]
+key = 'mail_tab_receivedmail'
+old = '知り合い'
+[[message]]
+key = 'mail_tab_notificationmail'
+old = '運営'
+[[message]]
+key = 'mail_button_mailcreation'
+old = 'メール作成'
+[[message]]
+key = 'mail_button_getallitem'
+old = '全アイテム受け取り'
+[[message]]
+key = 'mail_header_reception'
+old = '件数：'
+[[message]]
+key = 'mail_header_update'
+old = '更新'
+[[message]]
+key = 'mail_msg_0_mail'
+old = 'メールはありません'
+[[message]]
+key = 'mail_btnguide_delete_all_read_mail'
+old = '既読メールをまとめて削除'

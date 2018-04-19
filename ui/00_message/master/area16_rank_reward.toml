@@ -1,0 +1,54 @@
+﻿[[message]]
+key = 'AREA_RANK_REWARD_291'
+old = '支援品の配給'
+[[message]]
+key = 'AREA_RANK_REWARD_292'
+old = '''
+新たな強敵が出現《<SPOT 938>》
+封鎖エリアが開放《<SPOT 907>》'''
+[[message]]
+key = 'AREA_RANK_REWARD_293'
+old = '新たな強敵が出現《<SPOT 939>》'
+[[message]]
+key = 'AREA_RANK_REWARD_294'
+old = '封鎖エリアが開放《<SPOT 906>》'
+[[message]]
+key = 'AREA_RANK_REWARD_295'
+old = '''
+新たな強敵が出現《<SPOT 940>》
+封鎖交通路が復旧《モルフォールの北門》'''
+[[message]]
+key = 'AREA_RANK_REWARD_296'
+old = '新たな強敵が出現《<SPOT 941>》'
+[[message]]
+key = 'AREA_RANK_REWARD_297'
+old = '新たな強敵が出現《<SPOT 942>》'
+[[message]]
+key = 'AREA_RANK_REWARD_298'
+old = '新たな採取品が出現《ヘンルーダ》'
+[[message]]
+key = 'AREA_RANK_REWARD_299'
+old = '封鎖エリアの開放《<SPOT 908>》'
+[[message]]
+key = 'AREA_RANK_REWARD_300'
+old = '支援品のランクアップ'
+[[message]]
+key = 'AREA_RANK_REWARD_301'
+old = '''
+封鎖エリアの開放《<SPOT 909>》
+新たな強敵が出現《<SPOT 937>》
+封鎖交通路が復旧《深層へ続く崖崩れ》'''
+[[message]]
+key = 'AREA_RANK_REWARD_302'
+old = '新たな強敵が出現《<SPOT 943>》'
+[[message]]
+key = 'AREA_RANK_REWARD_303'
+old = '''
+封鎖エリアが開放《<SPOT 910>》
+封鎖交通路が復旧《<SPOT 944>へ続く崖崩れ》'''
+[[message]]
+key = 'AREA_RANK_REWARD_304'
+old = '新たな強敵が出現《<SPOT 944>》'
+[[message]]
+key = 'AREA_RANK_REWARD_305'
+old = '支援品のランクアップ'

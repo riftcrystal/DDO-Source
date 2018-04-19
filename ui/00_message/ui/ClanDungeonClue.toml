@@ -1,0 +1,13 @@
+﻿[[message]]
+key = 'clue_list'
+old = '手がかり一覧'
+[[message]]
+key = 'about_clue_detail'
+old = '''
+発見した探検家の軌跡は
+書棚にしまっておくように致します
+この棚に古い書物が戻る度
+宝殿への道が拓かれることでしょう　'''
+[[message]]
+key = 'about_clue'
+old = '探検の書棚について'

@@ -1,0 +1,24 @@
+﻿[[message]]
+key = 'CHAT_COM_CATEGORY_1'
+old = 'あいさつ'
+[[message]]
+key = 'CHAT_COM_CATEGORY_2'
+old = '質問'
+[[message]]
+key = 'CHAT_COM_CATEGORY_3'
+old = '返答'
+[[message]]
+key = 'CHAT_COM_CATEGORY_4'
+old = '説明'
+[[message]]
+key = 'CHAT_COM_CATEGORY_5'
+old = '編成'
+[[message]]
+key = 'CHAT_COM_CATEGORY_6'
+old = '戦術'
+[[message]]
+key = 'CHAT_COM_CATEGORY_7'
+old = 'あいさつⅡ'
+[[message]]
+key = 'CHAT_COM_CATEGORY_8'
+old = '戦術Ⅱ'

@@ -1,0 +1,39 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_NAME_05_70'
+old = 'シールドブロウ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_83'
+old = 'シールドストライク'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_72'
+old = 'エレメントチェンジ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_73'
+old = 'ペンタエレメントチェンジ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_74'
+old = 'フォースガード'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_75'
+old = 'シールドロック'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_76'
+old = 'フォースゲイン'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_77'
+old = 'フォースバースト'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_78'
+old = 'アトラクト'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_79'
+old = 'モアアトラクト'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_80'
+old = 'フォースエンチャント'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_81'
+old = 'シールドシーケンス'
+[[message]]
+key = 'NORMAL_SKILL_NAME_05_91'
+old = 'ウィークライト'

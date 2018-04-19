@@ -1,0 +1,1120 @@
+﻿[[message]]
+key = 'OPTION_MSG_CATEGORY_DISPLAY'
+old = 'ディスプレイ設定'
+[[message]]
+key = 'OPTION_MSG_TAB_GAMMA'
+old = 'ガンマ補正'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_SOUND'
+old = 'サウンド設定'
+[[message]]
+key = 'OPTION_MSG_TAB_SE_SYSTEM'
+old = 'システム音'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_GAMEPAD'
+old = '<PFWD 0>設定'
+[[message]]
+key = 'OPTION_MSG_OTHERS'
+old = 'その他'
+[[message]]
+key = 'OPTION_MSG_TAB_VOICE'
+old = 'ボイス'
+[[message]]
+key = 'OPTION_MSG_TAB_BGM'
+old = 'BGM'
+[[message]]
+key = 'OPTION_MSG_TAB_SE'
+old = '効果音'
+[[message]]
+key = 'OPTION_MSG_TAB_GENERAL_GAMEPAD'
+old = '<PFWD 0>の全般設定'
+[[message]]
+key = 'OPTION_MSG_SE_TELL'
+old = 'チャットログ受信音'
+[[message]]
+key = 'OPTION_MSG_SE_OTHERSYSTEMS'
+old = 'その他のシステム音'
+[[message]]
+key = 'OPTION_MSG_VOICE_NPC'
+old = 'その他のセリフ'
+[[message]]
+key = 'OPTION_MSG_VOICE_PAWN'
+old = 'ポーンのセリフ'
+[[message]]
+key = 'OPTION_MSG_AVOICE_PLAYER'
+old = 'プレイヤーのアクションボイス'
+[[message]]
+key = 'OPTION_MSG_AVOICE_PARTY'
+old = 'その他のアクションボイス'
+[[message]]
+key = 'OPTION_MSG_AVOICE_ENEMY'
+old = '敵のアクションボイス'
+[[message]]
+key = 'OPTION_MSG_VOICE_COMMUNICATION'
+old = '簡易コミュニケーションボイス'
+[[message]]
+key = 'OPTION_MSG_BGM_BATTLE'
+old = '戦闘BGM'
+[[message]]
+key = 'OPTION_MSG_NOISE_SURROUND'
+old = '環境音'
+[[message]]
+key = 'OPTION_MSG_NOISE_ENEMY'
+old = '敵'
+[[message]]
+key = 'OPTION_MSG_NOISE_PLAYER'
+old = 'プレイヤー'
+[[message]]
+key = 'OPTION_MSG_NOISE_PARTY'
+old = 'パーティーメンバー等'
+[[message]]
+key = 'OPTION_MSG_VIBRATION_GAMEPAD'
+old = '振動機能を有効にする'
+[[message]]
+key = 'OPTION_MSG_TUTORIAL_POP'
+old = 'チュートリアル発生時にポップアップを表示する'
+[[message]]
+key = 'OPTION_MSG_ENPRIORITYQUEST'
+old = 'クエストの自動優先設定'
+[[message]]
+key = 'OPTION_MSG_DFORMAT_JPEG'
+old = 'JPEG'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_GENERAL'
+old = '全般'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_HUD'
+old = 'HUD'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_OVERHEAD'
+old = '頭上表示'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_CHAT'
+old = 'チャット'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_NOTICE'
+old = '通知・公開設定'
+[[message]]
+key = 'OPTION_MSG_TAB_CHARACAR'
+old = 'キャラクター'
+[[message]]
+key = 'OPTION_MSG_TAB_ANYONE'
+old = '他人'
+[[message]]
+key = 'OPTION_MSG_TAB_NPC'
+old = 'NPC'
+[[message]]
+key = 'OPTION_MSG_TAB_NOTICE'
+old = '通知'
+[[message]]
+key = 'OPTION_MSG_TAB_PRIVACY'
+old = '公開設定'
+[[message]]
+key = 'OPTION_MSG_TITLE_M_TITLE00'
+old = 'Device Config'
+[[message]]
+key = 'OPTION_MSG_TITLE_M_TITLE01'
+old = 'デバイス設定'
+[[message]]
+key = 'OPTION_MSG_TITLE_M_TITLE02'
+old = 'Game Config'
+[[message]]
+key = 'OPTION_MSG_TITLE_M_TITLE03'
+old = 'ゲーム設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_ONLINESTATES'
+old = 'ネットワークステータス'
+[[message]]
+key = 'OPTION_MSG_CAPTION_PCAMERA'
+old = 'カメラ操作：<PFWD 0>'
+[[message]]
+key = 'OPTION_MSG_CAPTION_KCAMERA'
+old = 'カメラ操作：キーボード'
+[[message]]
+key = 'OPTION_MSG_CAPTION_COFFSET'
+old = 'アクション時のカメラ補正'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CCONTROLL'
+old = 'カメラ操作'
+[[message]]
+key = 'OPTION_MSG_CAPTION_WHINDOWS'
+old = '各種ウィンドウ'
+[[message]]
+key = 'OPTION_MSG_CAPTION_DCHAT'
+old = 'ダイレクトチャット'
+[[message]]
+key = 'OPTION_MSG_CAPTION_DEMO'
+old = 'デモ'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CSOUND'
+old = 'エクストラサウンド'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CSET'
+old = 'キャラクター設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_SHOP_SET'
+old = 'ショップ設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_MAP_SET'
+old = 'マップ設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CINFO'
+old = 'キャラクター情報'
+[[message]]
+key = 'OPTION_MSG_CAPTION_PHOTO'
+old = 'フォト'
+[[message]]
+key = 'OPTION_MSG_CAPTION_DISPSET'
+old = '表示設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_PARTY_DISP'
+old = 'パーティーメンバー'
+[[message]]
+key = 'OPTION_MSG_CAPTION_OTHERS_DISP'
+old = '他人'
+[[message]]
+key = 'OPTION_MSG_CAPTION_NPC_DISP'
+old = 'NPC'
+[[message]]
+key = 'OPTION_MSG_CAPTION_OBJ_DISP'
+old = 'オブジェクト'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CHATLOG'
+old = 'チャットログ設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_LOGCOLLER'
+old = 'ログカラー設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CHATSE'
+old = 'チャット着信時のSE'
+[[message]]
+key = 'OPTION_MSG_CAPTION_NOTION_AREA'
+old = '通知領域'
+[[message]]
+key = 'OPTION_MSG_CAPTION_ACHIEVE'
+old = 'アチーブメント'
+[[message]]
+key = 'OPTION_MSG_CAPTION_NOTICE'
+old = '通知'
+[[message]]
+key = 'OPTION_MSG_CAPTION_ARISENCARD'
+old = '覚者プロフィール'
+[[message]]
+key = 'OPTION_MSG_ONLINESTATES'
+old = '自分のネットワークステータス'
+[[message]]
+key = 'OPTION_MSG_VERTICAL_INV'
+old = 'カメラを垂直反転させる'
+[[message]]
+key = 'OPTION_MSG_FLAT_INV'
+old = 'カメラを水平反転させる'
+[[message]]
+key = 'OPTION_MSG_CAMERA_OFFSET'
+old = 'カメラ補正を入れる'
+[[message]]
+key = 'OPTION_MSG_CAMERA_POSITION'
+old = '初期カメラ位置'
+[[message]]
+key = 'OPTION_MSG_CSPEED_PAD'
+old = '右スティックのカメラ回転速度'
+[[message]]
+key = 'OPTION_MSG_CSPEED_KAYBOARD'
+old = 'キーボードのカメラ回転速度'
+[[message]]
+key = 'OPTION_MSG_ISCHATDISPLAY'
+old = 'アクション時にウィンドウを自動透過する'
+[[message]]
+key = 'OPTION_MSG_MATCHING_POP'
+old = 'マッチング通知時にポップアップを表示する'
+[[message]]
+key = 'OPTION_MSG_ISENLARGE'
+old = ''
+[[message]]
+key = 'OPTION_MSG_ISDCHAT'
+old = 'Enterキーを押さずにチャット入力可能にする'
+[[message]]
+key = 'OPTION_MSG_ISDISCRIPTION'
+old = 'カットシーン時に字幕を表示する'
+[[message]]
+key = 'OPTION_MSG_ISCSOUND'
+old = '他人のサウンドを受け入れる'
+[[message]]
+key = 'OPTION_MSG_ISAHEAD'
+old = '自分の頭装備を表示する'
+[[message]]
+key = 'OPTION_MSG_ISPHEAD'
+old = 'ポーンの頭装備を表示する'
+[[message]]
+key = 'OPTION_MSG_ISATORCH'
+old = '自分のランタンを表示する'
+[[message]]
+key = 'OPTION_MSG_ISPTORCH'
+old = 'ポーンのランタンを表示する'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_CTGR'
+old = '待機状態時のエモート'
+[[message]]
+key = 'OPTION_MSG_WAITTIMER'
+old = '待機状態に移行するまでの時間'
+[[message]]
+key = 'OPTION_MSG_ISSELLDIALOG'
+old = ''
+[[message]]
+key = 'OPTION_MSG_ISSELLNOTION'
+old = ''
+[[message]]
+key = 'OPTION_MSG_AC_DISCLOSETYPE'
+old = '覚者プロフィールの公開設定'
+[[message]]
+key = 'OPTION_MSG_ISMAPROUND'
+old = 'ミニマップを回転させる'
+[[message]]
+key = 'OPTION_MSG_MAPTRANCERATE'
+old = 'マップの不透明度'
+[[message]]
+key = 'OPTION_MSG_ISMAPVERTINVERCE'
+old = '右スティックでの上下操作反転'
+[[message]]
+key = 'OPTION_MSG_ISMAPFLATINVERCE'
+old = '右スティックでの左右操作反転'
+[[message]]
+key = 'OPTION_MSG_ISMAPTEXT'
+old = 'マップ上にテキスト表示する'
+[[message]]
+key = 'OPTION_MSG_HUDTRANCERATE'
+old = 'HUD情報の不透明度'
+[[message]]
+key = 'OPTION_MSG_QUESTGUID'
+old = 'クエストガイドを表示する'
+[[message]]
+key = 'OPTION_MSG_ISAUTOQUESTGUID'
+old = '自動クエストガイドを有効にする'
+[[message]]
+key = 'OPTION_MSG_GUIDPRIORITY'
+old = '自動クエストガイドされるクエストのカテゴリ'
+[[message]]
+key = 'OPTION_MSG_ISDYINGEFFECT'
+old = 'プレイヤー瀕死時に画面演出を入れる'
+[[message]]
+key = 'OPTION_MSG_ISPHOTOHUD'
+old = '撮影時のHUD表示'
+[[message]]
+key = 'OPTION_MSG_DISPTARGET'
+old = '頭上表示の表示範囲'
+[[message]]
+key = 'OPTION_MSG_NAMETIPE1'
+old = '名前の表示タイプ'
+[[message]]
+key = 'OPTION_MSG_ISCLANNAME'
+old = 'クラン名を表示する'
+[[message]]
+key = 'OPTION_MSG_ISNPCNAME'
+old = '名前を表示する'
+[[message]]
+key = 'OPTION_MSG_ISHAT'
+old = '肩書を表示する'
+[[message]]
+key = 'OPTION_MSG_ISCHATCLANNAME'
+old = '発言者のクラン名を表示する'
+[[message]]
+key = 'OPTION_MSG_ISTIMESTAMP'
+old = 'タイムスタンプを表示する'
+[[message]]
+key = 'OPTION_MSG_CHATTRANCERATE'
+old = '非アクティブ時のチャット操作UIの不透明度'
+[[message]]
+key = 'OPTION_MSG_LOGCOLLER'
+old = 'ログカラー設定'
+[[message]]
+key = 'OPTION_MSG_RECIEVESE'
+old = 'チャット着信音の変更'
+[[message]]
+key = 'OPTION_MSG_RATENCY'
+old = '通信速度を表示する'
+[[message]]
+key = 'OPTION_MSG_TIME'
+old = '時間を表示する'
+[[message]]
+key = 'OPTION_MSG_TIMETYPE'
+old = '表示時間の設定'
+[[message]]
+key = 'OPTION_MSG_SERVERCHANNEL'
+old = 'ワールド情報を表示する'
+[[message]]
+key = 'OPTION_MSG_BATTLETIME'
+old = '交戦中の表示をする'
+[[message]]
+key = 'OPTION_MSG_ACHIEVEGET'
+old = '獲得通知の設定'
+[[message]]
+key = 'OPTION_MSG_REWARDNOTION'
+old = '報酬があふれそうな時に警告表示する'
+[[message]]
+key = 'OPTION_MSG_CHOICE_NEAR'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CHOICE_MIDDLE'
+old = '近い'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FAR'
+old = '遠い'
+[[message]]
+key = 'OPTION_MSG_CHOICE_MQUEST'
+old = 'メインクエスト'
+[[message]]
+key = 'OPTION_MSG_CHOICE_SQUEST'
+old = 'ワールドクエスト'
+[[message]]
+key = 'OPTION_MSG_CHOICE_LQUEST'
+old = 'パーソナルクエスト'
+[[message]]
+key = 'OPTION_MSG_CHOICE_ALL1'
+old = '誰でも表示する'
+[[message]]
+key = 'OPTION_MSG_CHOICE_NONE1'
+old = '表示しない'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FRIEND1'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CHOICE_CLAN1'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CHOICE_NOBADY1'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CHOICE_FAMILY_FIRST1'
+old = 'すべて'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FAMILY_F1'
+old = 'ファミリーネームを頭文字のみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_F_FIRST1'
+old = 'ファーストネームを頭文字のみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FAMILY1'
+old = 'ファミリーネームのみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FIRST1'
+old = 'ファーストネームのみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER1'
+old = '■ カラー１'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER2'
+old = '■ カラー２'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER3'
+old = '■ カラー３'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER4'
+old = '■ カラー４'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER5'
+old = '■ カラー５'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER6'
+old = '■ カラー６'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER7'
+old = '■ カラー７'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER8'
+old = '■ カラー８'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER9'
+old = '■ カラー９'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER10'
+old = '■ カラー１０'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER11'
+old = '■ カラー１１'
+[[message]]
+key = 'OPTION_MSG_CHOICE_COLLER12'
+old = '■ カラー１２'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE1'
+old = '着信音１'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE2'
+old = '着信音２'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE3'
+old = '着信音３'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE4'
+old = '着信音４'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE5'
+old = '着信音５'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE6'
+old = '着信音６'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE7'
+old = '着信音７'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSE8'
+old = '着信音８'
+[[message]]
+key = 'OPTION_MSG_CHOICE_RESTANIA'
+old = 'レスタニア(GT)'
+[[message]]
+key = 'OPTION_MSG_CHOICE_SERVER'
+old = 'サーバー(ST)'
+[[message]]
+key = 'OPTION_MSG_CHOICE_LOCAL'
+old = 'ローカル(LT)'
+[[message]]
+key = 'OPTION_MSG_CHOICE_ALL2'
+old = '誰にでも'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CLAN_FRIEND2'
+old = 'フレンドとクランのみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_FRIEND2'
+old = 'フレンドのみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CLAN2'
+old = 'クランのみ'
+[[message]]
+key = 'OPTION_MSG_CHOICE_NOBADY2'
+old = '非公開'
+[[message]]
+key = 'OPTION_MSG_EXIT_NOTION'
+old = '''
+変更を適用していない項目があります
+このまま終了しますか？'''
+[[message]]
+key = 'OPTION_MSG_EXIT_APLLY'
+old = '適用して終了'
+[[message]]
+key = 'OPTION_MSG_EXIT_NOAPPRY'
+old = '適用せず終了'
+[[message]]
+key = 'OPTION_MSG_EXIT_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'OPTION_MSG_BGM_OTHER'
+old = 'その他のBGM'
+[[message]]
+key = 'OPTION_MSG_NOISE_OTHER'
+old = 'その他'
+[[message]]
+key = 'OPTION_MSG_VERTICAL_INV2'
+old = 'カメラを垂直反転させる'
+[[message]]
+key = 'OPTION_MSG_FLAT_INV2'
+old = 'カメラを水平反転させる'
+[[message]]
+key = 'OPTION_MSG_ISACTIONDISP'
+old = 'アクションパレットを表示する'
+[[message]]
+key = 'OPTION_MSG_CAPTION_HUDEHELP'
+old = 'ヘルプ情報'
+[[message]]
+key = 'OPTION_MSG_NAMETIPE2'
+old = '名前の表示タイプ'
+[[message]]
+key = 'OPTION_MSG_NAMETIPE3'
+old = '名前の表示タイプ'
+[[message]]
+key = 'OPTION_MSG_ISCLANNAME2'
+old = 'クラン名を表示する'
+[[message]]
+key = 'OPTION_MSG_ISNPCNAME2'
+old = '名前を表示する'
+[[message]]
+key = 'OPTION_MSG_APPLY_NOTION'
+old = '設定を適用しました'
+[[message]]
+key = 'OPTION_MSG_INIT_NOTION'
+old = '''
+このカテゴリの設定を初期状態に戻します
+よろしいですか？'''
+[[message]]
+key = 'OPTION_MSG_INIT_YES'
+old = 'はい'
+[[message]]
+key = 'OPTION_MSG_INIT_NO'
+old = 'いいえ'
+[[message]]
+key = 'OPTION_MSG_BUTTON_APPLY'
+old = '適用'
+[[message]]
+key = 'OPTION_MSG_BUTTON_INIT'
+old = '初期化'
+[[message]]
+key = 'OPTION_MSG_GAMMA_TIPS'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CHATFILTER_COL'
+old = '色を設定するフィルター'
+[[message]]
+key = 'OPTION_MSG_COLOR_CF'
+old = '色'
+[[message]]
+key = 'OPTION_MSG_CHATFILTER_SE'
+old = '着信音を設定するフィルター'
+[[message]]
+key = 'OPTION_MSG_SE_CF'
+old = '着信音'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT'
+old = ' '
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_TIME04'
+old = '120秒'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_TIME03'
+old = '60秒'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_TIME02'
+old = '30秒'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_TIME01'
+old = '15秒'
+[[message]]
+key = 'OPTION_MSG_IDLEEMOT_TIME00'
+old = '移行させない'
+[[message]]
+key = 'OPTION_MSG_PC_DISCLOSETYPE'
+old = 'ポーンプロフィールの公開設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_PAWNCARD'
+old = 'ポーンプロフィール'
+[[message]]
+key = 'OPTION_MSG_WHINDOW_SIZE_60'
+old = '60%'
+[[message]]
+key = 'OPTION_MSG_WHINDOW_SIZE_80'
+old = '80%'
+[[message]]
+key = 'OPTION_MSG_WHINDOW_SIZE_100'
+old = '100%'
+[[message]]
+key = 'OPTION_MSG_WHINDOW_SIZE_120'
+old = '120%'
+[[message]]
+key = 'OPTION_MSG_WHINDOW_SIZE_140'
+old = '140％'
+[[message]]
+key = 'OPTION_MSG_CHOICE_CHATSENONE'
+old = '着信音なし'
+[[message]]
+key = 'OPTION_MSG_CTGR'
+old = 'Category'
+[[message]]
+key = 'OPTION_MSG_CAPTION_ACTPLTTYPE'
+old = '操作デバイス'
+[[message]]
+key = 'OPTION_MSG_ACTPLTTYPE_PAD'
+old = '<PFWD 0>'
+[[message]]
+key = 'OPTION_MSG_ACTPLTTYPE_KB'
+old = 'マウス・キーボード'
+[[message]]
+key = 'OPTION_MSG_COURSE_DISP'
+old = '発動中の<OPCS>のプレートを表示する'
+[[message]]
+key = 'OPTION_MSG_VIDEOQUARITY'
+old = '画質設定'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_INPUT'
+old = '入力機器設定'
+[[message]]
+key = 'OPTION_MSG_SCREEN_MODE'
+old = 'スクリーンモード設定'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION'
+old = '解像度設定'
+[[message]]
+key = 'OPTION_MSG_FPS'
+old = '描画設定(FPS)'
+[[message]]
+key = 'OPTION_MSG_CAPTION_MOUSE'
+old = 'マウス・キーボード操作設定'
+[[message]]
+key = 'OPTION_MSG_CAPTION_PAD'
+old = '<PFWD 0>設定'
+[[message]]
+key = 'OPTION_MSG_CAMERA_SPEED'
+old = 'マウスのカメラ回転速度'
+[[message]]
+key = 'OPTION_MSG_POINTER_SPEED'
+old = 'カーソル速度'
+[[message]]
+key = 'OPTION_MSG_BUTTONCALIBRATION'
+old = 'ボタンの配置'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CHARGE'
+old = 'その他'
+[[message]]
+key = 'OPTION_MSG_CAPTION_DISPLAY'
+old = 'ディスプレイ'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION2'
+old = '解像度'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1280_720'
+old = '1280×720'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1280_1024'
+old = '1280×1024'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1440_900'
+old = '1440×900'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1600_1050'
+old = '1600×1050'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1920_1080'
+old = '1920×1080'
+[[message]]
+key = 'OPTION_MSG_RESOLUTION_1920_1200'
+old = '1920×1200'
+[[message]]
+key = 'OPTION_MSG_FRAMERATE'
+old = 'フレームレート'
+[[message]]
+key = 'OPTION_MSG_FRAMERATE_30'
+old = '30fps'
+[[message]]
+key = 'OPTION_MSG_FRAMERATE_60'
+old = '60fps'
+[[message]]
+key = 'OPTION_MSG_CATEGORY_IMAGEQUARITY'
+old = '画質設定'
+[[message]]
+key = 'OPTION_MSG_TAB_TEXTURE'
+old = 'テクスチャ'
+[[message]]
+key = 'OPTION_MSG_CAPTION_TEXTURE'
+old = 'テクスチャ全般'
+[[message]]
+key = 'OPTION_MSG_TEXTURE_RESOLUTION'
+old = 'テクスチャ解像度'
+[[message]]
+key = 'OPTION_MSG_TEXTURE_HIGH'
+old = '高'
+[[message]]
+key = 'OPTION_MSG_TEXTURE_HIGHEST'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_ANTI_ALIASE'
+old = 'アンチエイリアス(なめらかに表示する処理)'
+[[message]]
+key = 'OPTION_MSG_AA_DISABLE'
+old = '無効'
+[[message]]
+key = 'OPTION_MSG_AA_REGULAR'
+old = '通常(FXAA)'
+[[message]]
+key = 'OPTION_MSG_AA_HIGH'
+old = '高品質(FXAA3HQ)'
+[[message]]
+key = 'OPTION_MSG_CAPTION_SHADE'
+old = '影'
+[[message]]
+key = 'OPTION_MSG_SHADE_PRESET'
+old = '影の品質'
+[[message]]
+key = 'OPTION_MSG_S_P_LOWEST'
+old = '最低'
+[[message]]
+key = 'OPTION_MSG_S_P_LOW'
+old = '低'
+[[message]]
+key = 'OPTION_MSG_S_P_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_S_P_HIGH'
+old = '高'
+[[message]]
+key = 'OPTION_MSG_S_P_HIGEST'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_S_P_CUSTOM'
+old = 'カスタム'
+[[message]]
+key = 'OPTION_MSG_SHADE_RESOLUTION'
+old = '影の解像度'
+[[message]]
+key = 'OPTION_MSG_S_R_LOWEST'
+old = '最低'
+[[message]]
+key = 'OPTION_MSG_S_R_LOW'
+old = '低'
+[[message]]
+key = 'OPTION_MSG_S_R_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_S_R_HIGH'
+old = '高'
+[[message]]
+key = 'OPTION_MSG_S_R_HIGHEST'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_SHADE_EFFECTIVERENGTH'
+old = 'カメラ演出を許可する'
+[[message]]
+key = 'OPTION_MSG_S_E_CLOSE'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_E_REGULAR'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_E_FAR'
+old = ''
+[[message]]
+key = 'OPTION_MSG_SHADE_SET1'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S1_CLOSE'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S1_FAR'
+old = ''
+[[message]]
+key = 'OPTION_MSG_SHDE_EDGEPOLISH'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_EDGE_2W'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_EDGE_3W'
+old = ''
+[[message]]
+key = 'OPTION_MSG_SHADE_ATLOBBY'
+old = 'ロビー内でのランタンによる影'
+[[message]]
+key = 'OPTION_MSG_S_A_ON'
+old = '有り'
+[[message]]
+key = 'OPTION_MSG_S_A_OFF'
+old = '無し'
+[[message]]
+key = 'OPTION_MSG_SHADE_SET2'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S2_ON'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S2_OFF'
+old = ''
+[[message]]
+key = 'OPTION_MSG_SHADE_SET3'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S3_ON'
+old = ''
+[[message]]
+key = 'OPTION_MSG_S_S3_OFF'
+old = ''
+[[message]]
+key = 'OPTION_MSG_CAPTION_GRASS'
+old = '草'
+[[message]]
+key = 'OPTION_MSG_GRASS_AMOUNT'
+old = '表示量'
+[[message]]
+key = 'OPTION_MSG_GRASS_QUARITY'
+old = '品質'
+[[message]]
+key = 'OPTION_MSG_G_Q_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_G_Q_HIGH'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_GRASS_EFFECTIVERENGTH'
+old = '表示距離'
+[[message]]
+key = 'OPTION_MSG_G_E_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_G_E_X2'
+old = '×2'
+[[message]]
+key = 'OPTION_MSG_G_E_X5'
+old = '×5'
+[[message]]
+key = 'OPTION_MSG_TAB_OBJECT'
+old = 'オブジェクト'
+[[message]]
+key = 'OPTION_MSG_CAPTION_OBJECT'
+old = 'オブジェクト全般'
+[[message]]
+key = 'OPTION_MSG_OBJECT_PRESET'
+old = 'オブジェクト品質のプリセット'
+[[message]]
+key = 'OPTION_MSG_O_B_LOW'
+old = '低'
+[[message]]
+key = 'OPTION_MSG_O_B_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_O_B_HIGH'
+old = '高'
+[[message]]
+key = 'OPTION_MSG_O_B_HIGHEST'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_O_B_CUSTOM'
+old = 'カスタム'
+[[message]]
+key = 'OPTION_MSG_OBJECT_EFFECTIVERENGTH'
+old = '生存距離'
+[[message]]
+key = 'OPTION_MSG_O_E_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_O_E_X2'
+old = '×2'
+[[message]]
+key = 'OPTION_MSG_O_E_X5'
+old = '×5'
+[[message]]
+key = 'OPTION_MSG_LOD'
+old = 'LOD比率(近づくと詳細表示になる処理)'
+[[message]]
+key = 'OPTION_MSG_LOD_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_LOD_X2'
+old = '×2'
+[[message]]
+key = 'OPTION_MSG_LOD_X5'
+old = '×5'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CHARACTOR'
+old = 'キャラクター'
+[[message]]
+key = 'OPTION_MSG_HEADCOUNT_LIMIT'
+old = '表示人数'
+[[message]]
+key = 'OPTION_MSG_H_L_10'
+old = '10人'
+[[message]]
+key = 'OPTION_MSG_H_L_20'
+old = '20人'
+[[message]]
+key = 'OPTION_MSG_H_L_40'
+old = '40人'
+[[message]]
+key = 'OPTION_MSG_H_L_80'
+old = '80人'
+[[message]]
+key = 'OPTION_MSG_HEADCOUNT_EFFECTIVERENGTH'
+old = '表示距離'
+[[message]]
+key = 'OPTION_MSG_H_E_30M'
+old = '30m'
+[[message]]
+key = 'OPTION_MSG_H_E_60M'
+old = '60m'
+[[message]]
+key = 'OPTION_MSG_H_E_100'
+old = '100m'
+[[message]]
+key = 'OPTION_MSG_TAB_EFFECT'
+old = '効果'
+[[message]]
+key = 'OPTION_MSG_CAPTION_EFFECT'
+old = 'エフェクト全般'
+[[message]]
+key = 'OPTION_MSG_ENVIRONMENT_EFFECTQUARITY'
+old = 'エフェクト品質'
+[[message]]
+key = 'OPTION_MSG_E_E_REGULAR'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_E_E_HIGH'
+old = '高'
+[[message]]
+key = 'OPTION_MSG_E_E_HIGHEST'
+old = '最高'
+[[message]]
+key = 'OPTION_MSG_BATTLE_EFFECTTARGET'
+old = 'プレイヤー・バトルエフェクトを表示する対象'
+[[message]]
+key = 'OPTION_MSG_B_E_MYSELF'
+old = '自キャラのみ'
+[[message]]
+key = 'OPTION_MSG_B_E_ALL'
+old = '全てのキャラ'
+[[message]]
+key = 'OPTION_MSG_EFFECT_LOAD'
+old = '同時表示するエフェクトの量'
+[[message]]
+key = 'OPTION_MSG_LOW'
+old = '少ない'
+[[message]]
+key = 'OPTION_MSG_MIDDLE'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_HIGH'
+old = '多い'
+[[message]]
+key = 'OPTION_MSG_MAILNOTION'
+old = 'メールがあふれそうな時に警告表示する'
+[[message]]
+key = 'OPTION_MSG_VERYICALSYNC'
+old = '垂直同期'
+[[message]]
+key = 'OPTION_MSG_VERYICALSYNC_ON'
+old = 'ON'
+[[message]]
+key = 'OPTION_MSG_VERYICALSYNC_OFF'
+old = 'OFF'
+[[message]]
+key = 'OPTION_MSG_WINDOW_WINDOW'
+old = 'ウィンドウモード'
+[[message]]
+key = 'OPTION_MSG_WINDOW_VIRTUALFULL'
+old = '仮想フルスクリーンモード'
+[[message]]
+key = 'OPTION_MSG_WINDOW_FULL'
+old = 'フルスクリーンモード'
+[[message]]
+key = 'OPTION_MSG_BUTTON_EDIT'
+old = '編集'
+[[message]]
+key = 'OPTION_MSG_UI_BIGSIZE'
+old = 'UIを拡大表示する (解像度1920×1080 以上で有効)'
+[[message]]
+key = 'OPTION_MSG_CAPTION_CLAN'
+old = 'クラン'
+[[message]]
+key = 'OPTION_MSG_CLAN_PRIVACY_NOTICE'
+old = 'クランメンバーへ自分のステータスを通知する'
+[[message]]
+key = 'OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY'
+old = '他プレイヤーのエフェクト透明度'
+[[message]]
+key = 'OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NORMAL'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_THIN'
+old = '薄い'
+[[message]]
+key = 'OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_NONE'
+old = '無し'
+[[message]]
+key = 'OPTION_MSG_LIGHT_SOURCE_NUM'
+old = '光源の個数'
+[[message]]
+key = 'OPTION_MSG_LIGHT_SOURCE_NUM_MANY'
+old = '多い'
+[[message]]
+key = 'OPTION_MSG_LIGHT_SOURCE_NUM_NORMAL'
+old = '通常'
+[[message]]
+key = 'OPTION_MSG_LIGHT_SOURCE_NUM_FEW'
+old = '少ない'
+[[message]]
+key = 'OPTION_MSG_OTHER_PL_VFX_TRANSPARENCY_MORETHIN'
+old = 'かなり薄い'
+[[message]]
+key = 'OPTION_MSG_CAPTION_LIGHT'
+old = 'ライティング全般'
+[[message]]
+key = 'OPTION_MSG_KEY_SETTING'
+old = 'キー設定'
+[[message]]
+key = 'OPTION_MSG_KEY_SETTING_DEFAULT'
+old = 'デフォルト'
+[[message]]
+key = 'OPTION_MSG_KEY_SETTING_CUSTOMIZE'
+old = 'カスタマイズ<VAL>'
+[[message]]
+key = 'OPTION_MSG_KEY_CONFIG'
+old = 'キーコンフィグ'
+[[message]]
+key = 'OPTION_MSG_KEY_CONFIG_CUSTOMIZE'
+old = 'カスタマイズ'
+[[message]]
+key = 'OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE'
+old = '転職時にキーコンフィグを自動変更する'
+[[message]]
+key = 'OPTION_MSG_JOB_CHANGE_AUTO_KEY_CHANGE_CUSTOMI'
+old = 'カスタマイズ'
+[[message]]
+key = 'OPTION_MSG_LINK_JOB_KEY'
+old = 'ジョブとキーコンフィグの関連付け'
+[[message]]
+key = 'OPTION_MSG_LINK_JOB_KEY_NOT_AUTO_CHANGE'
+old = '自動変更しない'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_MAGIC'
+old = '詠唱中のカメラ設定'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_MAGIC_NEAR'
+old = '近距離'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_MAGIC_FAR'
+old = '遠距離'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_BOW'
+old = '弓構え中のカメラ設定'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_BOW_NEAR'
+old = '近距離'
+[[message]]
+key = 'OPTION_MSG_CAMERARANGE_BOW_FAR'
+old = '遠距離'
+[[message]]
+key = 'OPTION_MSG_MINIMAP_OPE_TYPECHANGE'
+old = 'ミニマップ操作の起動で、自動的にウィンドウを拡大させる'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB'
+old = 'リム転移画面のデフォルトタブ設定'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_MAIN'
+old = '拠点の礎'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_SUB'
+old = '辺境の礎'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_FAVORITE'
+old = 'マイ拠点'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_ALL'
+old = 'すべての礎'
+[[message]]
+key = 'OPTION_MSG_RIM_TRANSPORT_DEFAULT_TAB_LOBBY'
+old = '神殿内'
+[[message]]
+key = 'OPTION_MSG_LINK_JOB_KEY_TEXT'
+old = '%sで使うキーコンフィグ'
+[[message]]
+key = 'OPTION_MSG_LINK_JOB_KEY_BT_BACK_SAVE_STATE'
+old = '変更前に戻す'
+[[message]]
+key = 'OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPECHANGE'
+old = '自動拡大の操作で、<KCTP DASH>の優先行動'
+[[message]]
+key = 'OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE1'
+old = 'ダッシュ'
+[[message]]
+key = 'OPTION_MSG_MINIMAP_OPE_TYPE2_L3_TYPE2'
+old = 'オートラン'
+[[message]]
+key = 'OPTION_MSG_CHOICE_RQUEST'
+old = 'サブストーリークエスト'
+[[message]]
+key = 'OPTION_MSG_TALK_CAMERA'
+old = 'NPCに話しかけた時のカメラを主観にする'
+[[message]]
+key = 'OPTION_MSG_ADV_001'
+old = '冒険ガイド'
+[[message]]
+key = 'OPTION_MSG_ADV_002'
+old = 'クエストの紹介通知を表示する'
+[[message]]
+key = 'OPTION_MSG_ADV_NTC_ANNOUNCE_DISP'
+old = '紹介通知のポップアップを表示する'
+[[message]]
+key = 'OPTION_MSG_NAVIGATION_DISP'
+old = 'ナビゲーションを表示する'

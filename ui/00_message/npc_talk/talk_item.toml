@@ -1,0 +1,21 @@
+﻿[[message]]
+key = 'NPC_TALK_ITEM_1'
+old = '世間話'
+[[message]]
+key = 'NPC_TALK_ITEM_2'
+old = 'クエスト情報'
+[[message]]
+key = 'NPC_TALK_ITEM_3'
+old = '耳より情報'
+[[message]]
+key = 'NPC_TALK_ITEM_4'
+old = 'ウォーミッション情報'
+[[message]]
+key = 'NPC_TALK_ITEM_14'
+old = '依頼を受ける'
+[[message]]
+key = 'NPC_TALK_ITEM_15'
+old = '詳細を聞く'
+[[message]]
+key = 'NPC_TALK_ITEM_16'
+old = '依頼を受けない'

@@ -1,0 +1,18 @@
+﻿[[message]]
+key = 'exc_have_money_name'
+old = '所持<VAL>'
+[[message]]
+key = 'exc_title'
+old = '<VAL>に変換'
+[[message]]
+key = 'exc_confirm'
+old = '''
+<VAL>を
+<COL ffdc78><VAL>に変換します</COL>
+よろしいですか？'''
+[[message]]
+key = 'exc_notice'
+old = '変換しました'
+[[message]]
+key = 'exc_rate'
+old = '※変換レート：<VAL><VAL> = <VAL><VAL>'

@@ -1,0 +1,72 @@
+﻿[[message]]
+key = 'CHAT_COM_39'
+old = '誰ですか？'
+[[message]]
+key = 'CHAT_COM_40'
+old = 'どちらですか？'
+[[message]]
+key = 'CHAT_COM_41'
+old = 'どうすればいいですか？'
+[[message]]
+key = 'CHAT_COM_42'
+old = '何ですか？'
+[[message]]
+key = 'CHAT_COM_43'
+old = 'いつですか？'
+[[message]]
+key = 'CHAT_COM_44'
+old = 'いくつですか？'
+[[message]]
+key = 'CHAT_COM_45'
+old = 'どこにですか？'
+[[message]]
+key = 'CHAT_COM_46'
+old = 'どこに行きますか？'
+[[message]]
+key = 'CHAT_COM_47'
+old = '持っていますか？'
+[[message]]
+key = 'CHAT_COM_48'
+old = '今どんな武器を持っていますか？'
+[[message]]
+key = 'CHAT_COM_49'
+old = 'できますか？'
+[[message]]
+key = 'CHAT_COM_50'
+old = 'フレンドになってくれませんか？'
+[[message]]
+key = 'CHAT_COM_51'
+old = '休憩しませんか？'
+[[message]]
+key = 'CHAT_COM_52'
+old = '助けはいりますか？'
+[[message]]
+key = 'CHAT_COM_53'
+old = 'なぜですか？'
+[[message]]
+key = 'CHAT_COM_54'
+old = 'どうしてですか？'
+[[message]]
+key = 'CHAT_COM_55'
+old = 'クランに入りませんか？'
+[[message]]
+key = 'CHAT_COM_56'
+old = 'クランに入れてくれませんか？'
+[[message]]
+key = 'CHAT_COM_57'
+old = 'グループチャットに入りませんか？'
+[[message]]
+key = 'CHAT_COM_58'
+old = 'グループチャットに入れてくれませんか？'
+[[message]]
+key = 'CHAT_COM_59'
+old = 'どのジョブを持っていますか？'
+[[message]]
+key = 'CHAT_COM_60'
+old = '他にどのジョブができますか？'
+[[message]]
+key = 'CHAT_COM_61'
+old = '準備はできていますか？'
+[[message]]
+key = 'CHAT_COM_62'
+old = 'ザコは無視しますか？'

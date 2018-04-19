@@ -1,0 +1,478 @@
+﻿[[message]]
+key = 'EDIT_MSG_TITLE_PLAYER_EDIT'
+old = 'Player Edit'
+[[message]]
+key = 'EDIT_MSG_TITLE_PAWN_EDIT'
+old = 'Pawn Edit'
+[[message]]
+key = 'EDIT_MSG_CATE_NAME'
+old = '名前'
+[[message]]
+key = 'EDIT_MSG_CATE_SEX'
+old = '性別'
+[[message]]
+key = 'EDIT_MSG_CATE_PRESET'
+old = 'デザイナープリセット'
+[[message]]
+key = 'EDIT_MSG_CATE_RANDOM'
+old = 'ランダム'
+[[message]]
+key = 'EDIT_MSG_CATE_HAIR'
+old = '髪'
+[[message]]
+key = 'EDIT_MSG_CATE_BONE'
+old = '顔の輪郭'
+[[message]]
+key = 'EDIT_MSG_CATE_EYE'
+old = '目'
+[[message]]
+key = 'EDIT_MSG_CATE_EYEBROW'
+old = '眉'
+[[message]]
+key = 'EDIT_MSG_CATE_NOSE'
+old = '鼻'
+[[message]]
+key = 'EDIT_MSG_CATE_MOUSE'
+old = '口'
+[[message]]
+key = 'EDIT_MSG_CATE_EAR'
+old = '耳'
+[[message]]
+key = 'EDIT_MSG_CATE_FASHION'
+old = 'ファッションメイク'
+[[message]]
+key = 'EDIT_MSG_CATE_COLOR'
+old = 'カラー'
+[[message]]
+key = 'EDIT_MSG_CATE_BODY'
+old = '体格'
+[[message]]
+key = 'EDIT_MSG_CATE_VOICE'
+old = '声'
+[[message]]
+key = 'EDIT_MSG_CATE_PERSONAL'
+old = '口調'
+[[message]]
+key = 'EDIT_MSG_CATE_VOICE_FREQUENTLY'
+old = '発言頻度'
+[[message]]
+key = 'EDIT_MSG_CATE_DECISION'
+old = '決定'
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_LIMIT1'
+old = 'ファーストネーム（半角2～12文字）'
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_LIMIT2'
+old = 'ファミリーネーム（半角2～8文字）'
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE'
+old = '''
+付けたい名前を入力してください
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_ATTENTION'
+old = '''
+ファースト/ファミリーネーム
+両方に入力してください
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_OK'
+old = '''
+<COL A39A70>入力ＯＫ</COL>
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_ERROR_NUMBER'
+old = '''
+<COL AA1414>文字数が不足、またはオーバーしています</COL>
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_ERROR_CHARACTER'
+old = '''
+<COL AA1414>使用できない文字が含まれています</COL>
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_ERROR_WORD'
+old = '''
+<COL AA1414>使用できない文字列が含まれています</COL>
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_NAME_GUIDE_ERROR_USED'
+old = '''
+<COL AA1414>すでに使用されている名前です</COL>
+
+
+注意事項
+ ・半角英字と'(アポストロフィー)が使用可能です
+ ・半角数字は使用できません
+ ・半角スペースは使用できません
+ ・名前の頭文字は半角英字のみ使用可能です
+ ・名前の頭文字は大文字に変換されます
+ ・名前の頭文字以外は小文字に変換されます'''
+[[message]]
+key = 'EDIT_MSG_TYPE_SEX_M'
+old = '男性'
+[[message]]
+key = 'EDIT_MSG_TYPE_SEX_F'
+old = '女性'
+[[message]]
+key = 'EDIT_MSG_TYPE_VAL'
+old = 'タイプ<VAL>'
+[[message]]
+key = 'EDIT_MSG_TYPE_HAIR_PARTS'
+old = '髪のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_HAIR_COLOR'
+old = '髪のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_SOKUTOUBU'
+old = '側頭部の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_HITAI'
+old = '額の奥行き'
+[[message]]
+key = 'EDIT_MSG_TYPE_HOBONE_UPDOWN'
+old = '頬骨の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_HOBONE_VALUE'
+old = '頬骨の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_HOHONIKU_VOLUME'
+old = '頬肉の量'
+[[message]]
+key = 'EDIT_MSG_ERAHONE_UPDOWN'
+old = 'エラ骨の高さ'
+[[message]]
+key = 'EDIT_MSG_ERAHONE_HABA'
+old = 'エラ骨の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_AGO_ZENGO'
+old = '顎の奥行き'
+[[message]]
+key = 'EDIT_MSG_AGOSAKI_UPDOWN'
+old = '顎の長さ'
+[[message]]
+key = 'EDIT_MSG_AGOSAKI_HABA'
+old = '顎の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_PARTS'
+old = '目のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_COLOR_LR'
+old = '両目のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_COLOR_L'
+old = '左目のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_HITOMI_SIZE'
+old = '瞳の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_SIZE'
+old = '目の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_ANGLE'
+old = '目の角度'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_INTERVAL'
+old = '目の間隔'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_HEIGHT'
+old = '目の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYE_MABISASI_UPDOWN'
+old = '目庇の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_PARTS'
+old = '眉のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_COLOR'
+old = '眉のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_X'
+old = '眉の間隔'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_UV_OFFSET_Y'
+old = '眉の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_MAYUKAITEN'
+old = '眉の角度'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_MIKEN_TAKASA'
+old = '眉間の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EYEBLOW_MIKEN_HABA'
+old = '眉間の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_NOSE_PARTS'
+old = '鼻のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_NOSE_POS_Y'
+old = '鼻の位置'
+[[message]]
+key = 'EDIT_MSG_TYPE_NOSE_SIZE_X'
+old = '鼻の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_NOSE_HEIGHT'
+old = '鼻の高さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_NOSE_DIR'
+old = '鼻の向き'
+[[message]]
+key = 'EDIT_MSG_TYPE_MOUSE_PARTS'
+old = '口のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_KUCHI_HABA'
+old = '口の幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_KUCHI_ATSUSA'
+old = '唇の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_HANAKUCHI_UPDOWN'
+old = '口の位置'
+[[message]]
+key = 'EDIT_MSG_TYPE_EAR_SIZE'
+old = '耳の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_EAR_DIR'
+old = '耳の向き'
+[[message]]
+key = 'EDIT_MSG_TYPE_EAR_ELF'
+old = '耳の輪郭'
+[[message]]
+key = 'EDIT_MSG_TYPE_BEARD_PARTS'
+old = '髭のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_BEARD_COLOR'
+old = '髭のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_MAKEUP_PARTS'
+old = '化粧のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_MAKEUP_COLOR'
+old = '化粧のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_SCAR_PARTS'
+old = '傷/その他のパーツ'
+[[message]]
+key = 'EDIT_MSG_TYPE_WRINKLE'
+old = 'しわの量'
+[[message]]
+key = 'EDIT_MSG_TYPE_COLOR_SKIN'
+old = '肌のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_HAIR_COLOR_ALL'
+old = '毛髪全体のカラー'
+[[message]]
+key = 'EDIT_MSG_TYPE_HEIGHT'
+old = '身長（cm）'
+[[message]]
+key = 'EDIT_MSG_TYPE_MOTION_FILTER'
+old = '立ち姿'
+[[message]]
+key = 'EDIT_MSG_TYPE_MASSLE'
+old = '筋肉量'
+[[message]]
+key = 'EDIT_MSG_TYPE_FAT'
+old = '肥満度'
+[[message]]
+key = 'EDIT_MSG_TYPE_HEAD_SIZE'
+old = '頭の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_NECK_POS'
+old = '首の長さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_NECK_SCALE'
+old = '首の太さ'
+[[message]]
+key = 'EDIT_MSG_TYPE_SHOULDER_SIZE'
+old = '肩幅'
+[[message]]
+key = 'EDIT_MSG_TYPE_KUBIRE'
+old = 'くびれ'
+[[message]]
+key = 'EDIT_MSG_TYPE_CHEST'
+old = '胸の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_WRIST_SIZE'
+old = '手の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_WEST_POS'
+old = '腰の位置'
+[[message]]
+key = 'EDIT_MSG_TYPE_WEST_SIZE'
+old = '腰の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_FOOT_SIZE'
+old = '足の大きさ'
+[[message]]
+key = 'EDIT_MSG_TYPE_VOICE_PITCH_L'
+old = '<COL 969696>ピッチ：</COL>低'
+[[message]]
+key = 'EDIT_MSG_TYPE_VOICE_PITCH_M'
+old = '<COL 969696>ピッチ：</COL>中'
+[[message]]
+key = 'EDIT_MSG_TYPE_VOICE_PITCH_H'
+old = '<COL 969696>ピッチ：</COL>高'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_NORMAL'
+old = 'ノーマル'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_SHY'
+old = 'シャイ'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_ACTIVE'
+old = 'アクティブ'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_SMART'
+old = 'スマート'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_COOL'
+old = 'クール'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_PURE'
+old = 'ピュア'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_WILD'
+old = 'ワイルド'
+[[message]]
+key = 'EDIT_MSG_TYPE_PERSONAL_SEXY'
+old = 'セクシー'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_1'
+old = 'ぜんぜん喋らない'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_2'
+old = 'あまり喋らない'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_3'
+old = 'たまに喋る'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_4'
+old = 'ときどき喋る'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_5'
+old = 'よく喋る'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_6'
+old = 'たいてい喋る'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_7'
+old = 'いつも喋る'
+[[message]]
+key = 'EDIT_MSG_TYPE_FREQUENTLY_8'
+old = 'つねに喋る'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_NAME'
+old = 'Name'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_SEX'
+old = 'Gender'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_PRISET'
+old = 'Presets'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_RANDOM'
+old = 'Random'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_FACE'
+old = 'Face'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_HAIR'
+old = 'Hair'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_FACE2'
+old = 'Face Shape'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_EYE'
+old = 'Eye'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_EYEBROW'
+old = 'Eyebrow'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_NOSE'
+old = 'Nose'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_MOUSE'
+old = 'Mouth'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_EAR'
+old = 'Ear'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_MAKE'
+old = 'Make Up'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_COLOR'
+old = 'Color'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_BODY'
+old = 'Body Type'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_VOICE'
+old = 'Voice'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_PERSONAL'
+old = 'Personality'
+[[message]]
+key = 'EDIT_MSG_SUB_TITLE_VOICE_FREQUENTLY'
+old = 'Talk Frequency'
+[[message]]
+key = 'EDIT_MSG_TITLE_BEAUTYSALON'
+old = 'Beauty Salon'
+[[message]]
+key = 'EDIT_MSG_TYPE_TYPE'
+old = 'タイプ'
+[[message]]
+key = 'EDIT_MSG_EX'
+old = 'EX'
+[[message]]
+key = 'EDIT_MSG_TITLE_PAWNREEDIT'
+old = 'Pawn Reincarnation'
+[[message]]
+key = 'EDIT_MSG_TITLE_BBI_PL_EDIT'
+old = 'Bitterblack Maze Player Edit'

@@ -1,0 +1,111 @@
+﻿[[message]]
+key = 'CHAT_COM_1'
+old = '初めまして'
+[[message]]
+key = 'CHAT_COM_2'
+old = 'よろしくお願いします'
+[[message]]
+key = 'CHAT_COM_4'
+old = 'おはよう'
+[[message]]
+key = 'CHAT_COM_5'
+old = 'こんにちは'
+[[message]]
+key = 'CHAT_COM_6'
+old = 'こんばんは'
+[[message]]
+key = 'CHAT_COM_7'
+old = 'おやすみなさい'
+[[message]]
+key = 'CHAT_COM_8'
+old = 'さようなら'
+[[message]]
+key = 'CHAT_COM_9'
+old = '今日は楽しかったです'
+[[message]]
+key = 'CHAT_COM_10'
+old = 'お疲れさまでした！'
+[[message]]
+key = 'CHAT_COM_11'
+old = 'また遊びましょう'
+[[message]]
+key = 'CHAT_COM_12'
+old = 'ただいま'
+[[message]]
+key = 'CHAT_COM_13'
+old = 'おかえり'
+[[message]]
+key = 'CHAT_COM_14'
+old = 'おめでとう！'
+[[message]]
+key = 'CHAT_COM_15'
+old = 'よくやった！'
+[[message]]
+key = 'CHAT_COM_16'
+old = 'がんばって！'
+[[message]]
+key = 'CHAT_COM_17'
+old = 'やったー！！！'
+[[message]]
+key = 'CHAT_COM_18'
+old = 'ありがとう'
+[[message]]
+key = 'CHAT_COM_19'
+old = 'どういたしまして'
+[[message]]
+key = 'CHAT_COM_20'
+old = '気を付けてください'
+[[message]]
+key = 'CHAT_COM_21'
+old = 'ごめんなさい'
+[[message]]
+key = 'CHAT_COM_22'
+old = '許してください'
+[[message]]
+key = 'CHAT_COM_23'
+old = '残念です'
+[[message]]
+key = 'CHAT_COM_24'
+old = 'ちょっといいですか？'
+[[message]]
+key = 'CHAT_COM_25'
+old = 'がんばりましょう！'
+[[message]]
+key = 'CHAT_COM_26'
+old = 'がんばります！'
+[[message]]
+key = 'CHAT_COM_27'
+old = 'やりましょう！'
+[[message]]
+key = 'CHAT_COM_28'
+old = 'いきましょう！'
+[[message]]
+key = 'CHAT_COM_29'
+old = '楽しかった！'
+[[message]]
+key = 'CHAT_COM_30'
+old = 'すごい！'
+[[message]]
+key = 'CHAT_COM_31'
+old = 'すばらしい！'
+[[message]]
+key = 'CHAT_COM_32'
+old = 'グッジョブ！'
+[[message]]
+key = 'CHAT_COM_33'
+old = 'さすが！'
+[[message]]
+key = 'CHAT_COM_34'
+old = 'ナイスです！'
+[[message]]
+key = 'CHAT_COM_35'
+old = '気にしないで！'
+[[message]]
+key = 'CHAT_COM_36'
+old = 'お気になさらず'
+[[message]]
+key = 'CHAT_COM_37'
+old = 'それではまた！'
+[[message]]
+key = 'CHAT_COM_38'
+old = '次こそは！'

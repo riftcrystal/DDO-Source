@@ -1,0 +1,15 @@
+﻿[[message]]
+key = 'PAWN_STATUS_RES_PARTY'
+old = 'パーティー中'
+[[message]]
+key = 'PAWN_STATUS_RES_NONE'
+old = '待機'
+[[message]]
+key = 'PAWN_STATUS_RES_LOST'
+old = 'ロスト中'
+[[message]]
+key = 'PAWN_STATUS_RES_CRAFT'
+old = 'クラフト中'
+[[message]]
+key = 'PAWN_STATUS_RES_EXPEDITION'
+old = '遠征中'

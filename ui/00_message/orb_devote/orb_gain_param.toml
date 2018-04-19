@@ -1,0 +1,90 @@
+﻿[[message]]
+key = 'ORB_GAIN_PARAM_1'
+old = '体力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_2'
+old = 'スタミナの覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_3'
+old = '筋力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_4'
+old = '物理防御力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_5'
+old = '魔力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_6'
+old = '魔法防御力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_7'
+old = 'リムポイントの加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_8'
+old = 'ゴールドの加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_9'
+old = '戦技の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_10'
+old = '増装の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_11'
+old = ''
+[[message]]
+key = 'ORB_GAIN_PARAM_12'
+old = ''
+[[message]]
+key = 'ORB_GAIN_PARAM_13'
+old = '異界戻りの加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_14'
+old = '覚者の器'
+[[message]]
+key = 'ORB_GAIN_PARAM_15'
+old = '統率の器'
+[[message]]
+key = 'ORB_GAIN_PARAM_16'
+old = '消費所持の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_17'
+old = '素材所持の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_18'
+old = '装備所持の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_19'
+old = 'シークレットアビリティ'
+[[message]]
+key = 'ORB_GAIN_PARAM_20'
+old = '体力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_21'
+old = 'スタミナの覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_22'
+old = '筋力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_23'
+old = '物理防御力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_24'
+old = '魔力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_25'
+old = '魔法防御力の覚醒'
+[[message]]
+key = 'ORB_GAIN_PARAM_26'
+old = 'アビリティ'
+[[message]]
+key = 'ORB_GAIN_PARAM_27'
+old = 'カスタムスキル'
+[[message]]
+key = 'ORB_GAIN_PARAM_28'
+old = '戦技の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_29'
+old = '白竜の加護'
+[[message]]
+key = 'ORB_GAIN_PARAM_30'
+old = 'ジョブ専用アイテムバッグ枠拡張'

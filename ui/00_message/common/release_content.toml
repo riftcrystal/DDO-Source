@@ -1,0 +1,216 @@
+﻿[[message]]
+key = 'RELEASE_CONTENT_1'
+old = '他のプレイヤーとのパーティープレイ'
+[[message]]
+key = 'RELEASE_CONTENT_2'
+old = 'ポーンとのパーティープレイ'
+[[message]]
+key = 'RELEASE_CONTENT_3'
+old = 'ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_5'
+old = 'エクストリームミッション'
+[[message]]
+key = 'RELEASE_CONTENT_6'
+old = '着飾り装備'
+[[message]]
+key = 'RELEASE_CONTENT_7'
+old = 'レスタニアニュース'
+[[message]]
+key = 'RELEASE_CONTENT_8'
+old = 'ジョブ修練ログ'
+[[message]]
+key = 'RELEASE_CONTENT_9'
+old = 'リム転移'
+[[message]]
+key = 'RELEASE_CONTENT_10'
+old = '竜力の継承'
+[[message]]
+key = 'RELEASE_CONTENT_11'
+old = 'クラフト'
+[[message]]
+key = 'RELEASE_CONTENT_12'
+old = 'リムストーン'
+[[message]]
+key = 'RELEASE_CONTENT_13'
+old = 'クエストボード'
+[[message]]
+key = 'RELEASE_CONTENT_15'
+old = 'エリアマスター'
+[[message]]
+key = 'RELEASE_CONTENT_16'
+old = 'エリアマスターのワールドクエスト情報'
+[[message]]
+key = 'RELEASE_CONTENT_17'
+old = 'ファイターのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_18'
+old = 'ハンターのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_19'
+old = 'プリーストのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_20'
+old = 'シールドセージのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_21'
+old = 'シーカーのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_22'
+old = 'ソーサラーのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_23'
+old = 'ウォリアーのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_24'
+old = 'エレメントアーチャーのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_25'
+old = 'アルケミストのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_26'
+old = '他のジョブへの転職'
+[[message]]
+key = 'RELEASE_CONTENT_27'
+old = 'クランの設立と加入'
+[[message]]
+key = 'RELEASE_CONTENT_29'
+old = '戦徒の契り'
+[[message]]
+key = 'RELEASE_CONTENT_32'
+old = '冒険仲介係'
+[[message]]
+key = 'RELEASE_CONTENT_33'
+old = 'マッチングプロフィール'
+[[message]]
+key = 'RELEASE_CONTENT_34'
+old = 'クイックパーティー'
+[[message]]
+key = 'RELEASE_CONTENT_37'
+old = '戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_38'
+old = 'ファイターの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_39'
+old = 'ハンターの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_40'
+old = 'プリーストの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_41'
+old = 'シールドセージの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_42'
+old = 'シーカーの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_43'
+old = 'ソーサラーの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_44'
+old = 'ウォリアーの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_45'
+old = 'エレメントアーチャーの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_46'
+old = 'アルケミストの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_47'
+old = '魔赤島ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_49'
+old = 'マイルーム'
+[[message]]
+key = 'RELEASE_CONTENT_51'
+old = 'スピリットランサーのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_52'
+old = 'スピリットランサーの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_53'
+old = 'モロー樹林ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_54'
+old = 'エラン水林ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_55'
+old = 'ファーラナ平原ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_56'
+old = 'キンガル峡谷ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_57'
+old = 'プレイポイント'
+[[message]]
+key = 'RELEASE_CONTENT_58'
+old = 'エリア目視調査'
+[[message]]
+key = 'RELEASE_CONTENT_59'
+old = 'ポーン戦術育成'
+[[message]]
+key = 'RELEASE_CONTENT_60'
+old = 'ファイターのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_61'
+old = 'プリーストのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_62'
+old = 'ハンターのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_63'
+old = 'シールドセージのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_64'
+old = 'シーカーのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_65'
+old = 'ソーサラーのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_66'
+old = 'エレメントアーチャーのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_67'
+old = 'ウォリアーのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_68'
+old = 'アルケミストのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_69'
+old = 'スピリットランサーのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_70'
+old = 'ラスニテ山麓ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_71'
+old = 'フェルヤナ荒原ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_72'
+old = 'マンドラゴラ育成'
+[[message]]
+key = 'RELEASE_CONTENT_73'
+old = '絶技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_74'
+old = '自室のテラス'
+[[message]]
+key = 'RELEASE_CONTENT_75'
+old = '王家の協力者'
+[[message]]
+key = 'RELEASE_CONTENT_76'
+old = 'ハイセプターのジョブ修練'
+[[message]]
+key = 'RELEASE_CONTENT_77'
+old = 'メガドシス高地ワールドクエスト'
+[[message]]
+key = 'RELEASE_CONTENT_78'
+old = 'ハイセプターのジョブの証'
+[[message]]
+key = 'RELEASE_CONTENT_79'
+old = 'ハイセプターへの転職'
+[[message]]
+key = 'RELEASE_CONTENT_80'
+old = 'ポーンの新特技'
+[[message]]
+key = 'RELEASE_CONTENT_81'
+old = 'ハイセプターの戦技の継承'

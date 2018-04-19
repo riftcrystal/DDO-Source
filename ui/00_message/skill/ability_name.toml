@@ -1,0 +1,1494 @@
+﻿[[message]]
+key = 'ABILITY_NAME_27'
+old = '精密'
+[[message]]
+key = 'ABILITY_NAME_62'
+old = '防炎'
+[[message]]
+key = 'ABILITY_NAME_82'
+old = '合昇'
+[[message]]
+key = 'ABILITY_NAME_111'
+old = '悠握'
+[[message]]
+key = 'ABILITY_NAME_126'
+old = '倒陣'
+[[message]]
+key = 'ABILITY_NAME_159'
+old = '甦活'
+[[message]]
+key = 'ABILITY_NAME_181'
+old = '初突'
+[[message]]
+key = 'ABILITY_NAME_205'
+old = '舞活'
+[[message]]
+key = 'ABILITY_NAME_231'
+old = '柔触'
+[[message]]
+key = 'ABILITY_NAME_405'
+old = '延霊'
+[[message]]
+key = 'ABILITY_NAME_467'
+old = '延印'
+[[message]]
+key = 'ABILITY_NAME_4'
+old = '受倒'
+[[message]]
+key = 'ABILITY_NAME_34'
+old = '遅爆'
+[[message]]
+key = 'ABILITY_NAME_67'
+old = '減炎'
+[[message]]
+key = 'ABILITY_NAME_85'
+old = '壮防'
+[[message]]
+key = 'ABILITY_NAME_116'
+old = '制倒'
+[[message]]
+key = 'ABILITY_NAME_142'
+old = '楽揚'
+[[message]]
+key = 'ABILITY_NAME_166'
+old = '死線'
+[[message]]
+key = 'ABILITY_NAME_191'
+old = '壮堪'
+[[message]]
+key = 'ABILITY_NAME_206'
+old = '奪視'
+[[message]]
+key = 'ABILITY_NAME_232'
+old = '延泉'
+[[message]]
+key = 'ABILITY_NAME_415'
+old = '採癒'
+[[message]]
+key = 'ABILITY_NAME_473'
+old = '烈翔'
+[[message]]
+key = 'ABILITY_NAME_15'
+old = '剛腕'
+[[message]]
+key = 'ABILITY_NAME_42'
+old = '底力'
+[[message]]
+key = 'ABILITY_NAME_57'
+old = '防助'
+[[message]]
+key = 'ABILITY_NAME_79'
+old = '異彩'
+[[message]]
+key = 'ABILITY_NAME_109'
+old = '躍握'
+[[message]]
+key = 'ABILITY_NAME_137'
+old = '至極'
+[[message]]
+key = 'ABILITY_NAME_154'
+old = '延助'
+[[message]]
+key = 'ABILITY_NAME_180'
+old = '斬刻'
+[[message]]
+key = 'ABILITY_NAME_214'
+old = '絶威'
+[[message]]
+key = 'ABILITY_NAME_236'
+old = '強投'
+[[message]]
+key = 'ABILITY_NAME_418'
+old = '触快'
+[[message]]
+key = 'ABILITY_NAME_478'
+old = '護印'
+[[message]]
+key = 'ABILITY_NAME_5'
+old = '受拡'
+[[message]]
+key = 'ABILITY_NAME_26'
+old = '制動'
+[[message]]
+key = 'ABILITY_NAME_52'
+old = '漲魂'
+[[message]]
+key = 'ABILITY_NAME_81'
+old = '過給'
+[[message]]
+key = 'ABILITY_NAME_101'
+old = '延縄'
+[[message]]
+key = 'ABILITY_NAME_129'
+old = '続詠'
+[[message]]
+key = 'ABILITY_NAME_167'
+old = '炎襲'
+[[message]]
+key = 'ABILITY_NAME_192'
+old = '迫堪'
+[[message]]
+key = 'ABILITY_NAME_218'
+old = '即復'
+[[message]]
+key = 'ABILITY_NAME_228'
+old = '探採'
+[[message]]
+key = 'ABILITY_NAME_406'
+old = '避影'
+[[message]]
+key = 'ABILITY_NAME_469'
+old = '強弾'
+[[message]]
+key = 'ABILITY_NAME_1'
+old = '敏動'
+[[message]]
+key = 'ABILITY_NAME_30'
+old = '集中'
+[[message]]
+key = 'ABILITY_NAME_63'
+old = '防氷'
+[[message]]
+key = 'ABILITY_NAME_89'
+old = '揺抑'
+[[message]]
+key = 'ABILITY_NAME_123'
+old = '高舞'
+[[message]]
+key = 'ABILITY_NAME_130'
+old = '攻炎'
+[[message]]
+key = 'ABILITY_NAME_168'
+old = '氷襲'
+[[message]]
+key = 'ABILITY_NAME_177'
+old = '湧恨'
+[[message]]
+key = 'ABILITY_NAME_203'
+old = '延囮'
+[[message]]
+key = 'ABILITY_NAME_235'
+old = '薬効'
+[[message]]
+key = 'ABILITY_NAME_404'
+old = '迫霊'
+[[message]]
+key = 'ABILITY_NAME_468'
+old = '危吸'
+[[message]]
+key = 'ABILITY_NAME_9'
+old = '本領'
+[[message]]
+key = 'ABILITY_NAME_36'
+old = '逞姿'
+[[message]]
+key = 'ABILITY_NAME_68'
+old = '減氷'
+[[message]]
+key = 'ABILITY_NAME_93'
+old = '開悟'
+[[message]]
+key = 'ABILITY_NAME_124'
+old = '巨護'
+[[message]]
+key = 'ABILITY_NAME_131'
+old = '攻氷'
+[[message]]
+key = 'ABILITY_NAME_160'
+old = '勢命'
+[[message]]
+key = 'ABILITY_NAME_184'
+old = '迫当'
+[[message]]
+key = 'ABILITY_NAME_208'
+old = '乖視'
+[[message]]
+key = 'ABILITY_NAME_237'
+old = '効延'
+[[message]]
+key = 'ABILITY_NAME_411'
+old = '採霊'
+[[message]]
+key = 'ABILITY_NAME_483'
+old = '活鎮'
+[[message]]
+key = 'ABILITY_NAME_16'
+old = '速離'
+[[message]]
+key = 'ABILITY_NAME_33'
+old = '匠填'
+[[message]]
+key = 'ABILITY_NAME_58'
+old = '魔助'
+[[message]]
+key = 'ABILITY_NAME_99'
+old = '溌剌'
+[[message]]
+key = 'ABILITY_NAME_106'
+old = '耐揺'
+[[message]]
+key = 'ABILITY_NAME_132'
+old = '攻雷'
+[[message]]
+key = 'ABILITY_NAME_161'
+old = '煌命'
+[[message]]
+key = 'ABILITY_NAME_188'
+old = '迫攻'
+[[message]]
+key = 'ABILITY_NAME_219'
+old = '魂吸'
+[[message]]
+key = 'ABILITY_NAME_240'
+old = '新攻'
+[[message]]
+key = 'ABILITY_NAME_417'
+old = '触防'
+[[message]]
+key = 'ABILITY_NAME_485'
+old = '迫鎮'
+[[message]]
+key = 'ABILITY_NAME_6'
+old = '受得'
+[[message]]
+key = 'ABILITY_NAME_50'
+old = '鬼狙'
+[[message]]
+key = 'ABILITY_NAME_64'
+old = '防雷'
+[[message]]
+key = 'ABILITY_NAME_84'
+old = '長守'
+[[message]]
+key = 'ABILITY_NAME_102'
+old = '縄倒'
+[[message]]
+key = 'ABILITY_NAME_146'
+old = '魔狙'
+[[message]]
+key = 'ABILITY_NAME_169'
+old = '雷襲'
+[[message]]
+key = 'ABILITY_NAME_178'
+old = '熟怨'
+[[message]]
+key = 'ABILITY_NAME_204'
+old = '速錬'
+[[message]]
+key = 'ABILITY_NAME_241'
+old = '新防'
+[[message]]
+key = 'ABILITY_NAME_413'
+old = '臨堅'
+[[message]]
+key = 'ABILITY_NAME_472'
+old = '加吸'
+[[message]]
+key = 'ABILITY_NAME_25'
+old = '軟狙'
+[[message]]
+key = 'ABILITY_NAME_48'
+old = '翼狙'
+[[message]]
+key = 'ABILITY_NAME_69'
+old = '減雷'
+[[message]]
+key = 'ABILITY_NAME_87'
+old = '見極'
+[[message]]
+key = 'ABILITY_NAME_125'
+old = '巨狙'
+[[message]]
+key = 'ABILITY_NAME_148'
+old = '呪狙'
+[[message]]
+key = 'ABILITY_NAME_173'
+old = '霊狙'
+[[message]]
+key = 'ABILITY_NAME_185'
+old = '精当'
+[[message]]
+key = 'ABILITY_NAME_211'
+old = '顕在'
+[[message]]
+key = 'ABILITY_NAME_244'
+old = '雨攻'
+[[message]]
+key = 'ABILITY_NAME_408'
+old = '臨活'
+[[message]]
+key = 'ABILITY_NAME_479'
+old = '武運'
+[[message]]
+key = 'ABILITY_NAME_23'
+old = '亜狙'
+[[message]]
+key = 'ABILITY_NAME_49'
+old = '鬼護'
+[[message]]
+key = 'ABILITY_NAME_75'
+old = '骨狙'
+[[message]]
+key = 'ABILITY_NAME_86'
+old = '抗意'
+[[message]]
+key = 'ABILITY_NAME_120'
+old = '力跳'
+[[message]]
+key = 'ABILITY_NAME_145'
+old = '魔護'
+[[message]]
+key = 'ABILITY_NAME_175'
+old = '造狙'
+[[message]]
+key = 'ABILITY_NAME_200'
+old = '獣狙'
+[[message]]
+key = 'ABILITY_NAME_222'
+old = '錬護'
+[[message]]
+key = 'ABILITY_NAME_245'
+old = '雨防'
+[[message]]
+key = 'ABILITY_NAME_416'
+old = '触攻'
+[[message]]
+key = 'ABILITY_NAME_466'
+old = '魔充'
+[[message]]
+key = 'ABILITY_NAME_24'
+old = '軟護'
+[[message]]
+key = 'ABILITY_NAME_47'
+old = '翼護'
+[[message]]
+key = 'ABILITY_NAME_73'
+old = '腐狙'
+[[message]]
+key = 'ABILITY_NAME_88'
+old = '堅牢'
+[[message]]
+key = 'ABILITY_NAME_121'
+old = '軽跳'
+[[message]]
+key = 'ABILITY_NAME_147'
+old = '呪護'
+[[message]]
+key = 'ABILITY_NAME_165'
+old = '快癒'
+[[message]]
+key = 'ABILITY_NAME_189'
+old = '精攻'
+[[message]]
+key = 'ABILITY_NAME_207'
+old = '華療'
+[[message]]
+key = 'ABILITY_NAME_229'
+old = '巧掘'
+[[message]]
+key = 'ABILITY_NAME_409'
+old = '避活'
+[[message]]
+key = 'ABILITY_NAME_484'
+old = '勇鎮'
+[[message]]
+key = 'ABILITY_NAME_22'
+old = '亜護'
+[[message]]
+key = 'ABILITY_NAME_31'
+old = '巧填'
+[[message]]
+key = 'ABILITY_NAME_74'
+old = '骨護'
+[[message]]
+key = 'ABILITY_NAME_77'
+old = '貪吸'
+[[message]]
+key = 'ABILITY_NAME_117'
+old = '空撃'
+[[message]]
+key = 'ABILITY_NAME_127'
+old = '精唱'
+[[message]]
+key = 'ABILITY_NAME_172'
+old = '霊護'
+[[message]]
+key = 'ABILITY_NAME_193'
+old = '精堪'
+[[message]]
+key = 'ABILITY_NAME_216'
+old = '迫技'
+[[message]]
+key = 'ABILITY_NAME_230'
+old = '流断'
+[[message]]
+key = 'ABILITY_NAME_414'
+old = '避霊'
+[[message]]
+key = 'ABILITY_NAME_486'
+old = '精鎮'
+[[message]]
+key = 'ABILITY_NAME_10'
+old = '壮腕'
+[[message]]
+key = 'ABILITY_NAME_29'
+old = '充矢'
+[[message]]
+key = 'ABILITY_NAME_72'
+old = '腐護'
+[[message]]
+key = 'ABILITY_NAME_80'
+old = '烈放'
+[[message]]
+key = 'ABILITY_NAME_104'
+old = '高跳'
+[[message]]
+key = 'ABILITY_NAME_128'
+old = '麗詠'
+[[message]]
+key = 'ABILITY_NAME_174'
+old = '造護'
+[[message]]
+key = 'ABILITY_NAME_199'
+old = '獣護'
+[[message]]
+key = 'ABILITY_NAME_223'
+old = '錬狙'
+[[message]]
+key = 'ABILITY_NAME_233'
+old = '羽踏'
+[[message]]
+key = 'ABILITY_NAME_410'
+old = '長癒'
+[[message]]
+key = 'ABILITY_NAME_470'
+old = '増魔'
+[[message]]
+key = 'ABILITY_NAME_2'
+old = '狂刺'
+[[message]]
+key = 'ABILITY_NAME_35'
+old = '威姿'
+[[message]]
+key = 'ABILITY_NAME_51'
+old = '緩療'
+[[message]]
+key = 'ABILITY_NAME_95'
+old = '専心'
+[[message]]
+key = 'ABILITY_NAME_112'
+old = '粘着'
+[[message]]
+key = 'ABILITY_NAME_134'
+old = '攻闇'
+[[message]]
+key = 'ABILITY_NAME_156'
+old = '延療'
+[[message]]
+key = 'ABILITY_NAME_176'
+old = '超恨'
+[[message]]
+key = 'ABILITY_NAME_202'
+old = '侵錬'
+[[message]]
+key = 'ABILITY_NAME_242'
+old = '月攻'
+[[message]]
+key = 'ABILITY_NAME_433'
+old = '救攻'
+[[message]]
+key = 'ABILITY_NAME_471'
+old = '転魔'
+[[message]]
+key = 'ABILITY_NAME_12'
+old = '重盾'
+[[message]]
+key = 'ABILITY_NAME_39'
+old = '芯撃'
+[[message]]
+key = 'ABILITY_NAME_61'
+old = '我慢'
+[[message]]
+key = 'ABILITY_NAME_96'
+old = '堅忍'
+[[message]]
+key = 'ABILITY_NAME_119'
+old = '翻防'
+[[message]]
+key = 'ABILITY_NAME_138'
+old = '泰然'
+[[message]]
+key = 'ABILITY_NAME_170'
+old = '聖襲'
+[[message]]
+key = 'ABILITY_NAME_182'
+old = '重当'
+[[message]]
+key = 'ABILITY_NAME_209'
+old = '慎療'
+[[message]]
+key = 'ABILITY_NAME_243'
+old = '月防'
+[[message]]
+key = 'ABILITY_NAME_422'
+old = '耐附'
+[[message]]
+key = 'ABILITY_NAME_482'
+old = '厚足'
+[[message]]
+key = 'ABILITY_NAME_17'
+old = '意地'
+[[message]]
+key = 'ABILITY_NAME_45'
+old = '射極'
+[[message]]
+key = 'ABILITY_NAME_65'
+old = '防聖'
+[[message]]
+key = 'ABILITY_NAME_97'
+old = '聖体'
+[[message]]
+key = 'ABILITY_NAME_122'
+old = '健着'
+[[message]]
+key = 'ABILITY_NAME_143'
+old = '延浮'
+[[message]]
+key = 'ABILITY_NAME_171'
+old = '闇襲'
+[[message]]
+key = 'ABILITY_NAME_183'
+old = '烈当'
+[[message]]
+key = 'ABILITY_NAME_212'
+old = '薄在'
+[[message]]
+key = 'ABILITY_NAME_226'
+old = '宝眼'
+[[message]]
+key = 'ABILITY_NAME_423'
+old = '不動'
+[[message]]
+key = 'ABILITY_NAME_480'
+old = '源運'
+[[message]]
+key = 'ABILITY_NAME_19'
+old = '無衝'
+[[message]]
+key = 'ABILITY_NAME_41'
+old = '充実'
+[[message]]
+key = 'ABILITY_NAME_66'
+old = '防闇'
+[[message]]
+key = 'ABILITY_NAME_92'
+old = '気鋭'
+[[message]]
+key = 'ABILITY_NAME_105'
+old = '腕力'
+[[message]]
+key = 'ABILITY_NAME_149'
+old = '人護'
+[[message]]
+key = 'ABILITY_NAME_151'
+old = '一勢'
+[[message]]
+key = 'ABILITY_NAME_187'
+old = '勇攻'
+[[message]]
+key = 'ABILITY_NAME_210'
+old = '優撫'
+[[message]]
+key = 'ABILITY_NAME_227'
+old = '根性'
+[[message]]
+key = 'ABILITY_NAME_424'
+old = '爽快'
+[[message]]
+key = 'ABILITY_NAME_489'
+old = '戦護'
+[[message]]
+key = 'ABILITY_NAME_8'
+old = '闘勢'
+[[message]]
+key = 'ABILITY_NAME_32'
+old = '侵矢'
+[[message]]
+key = 'ABILITY_NAME_55'
+old = '攻援'
+[[message]]
+key = 'ABILITY_NAME_76'
+old = '積吸'
+[[message]]
+key = 'ABILITY_NAME_103'
+old = '避旋'
+[[message]]
+key = 'ABILITY_NAME_133'
+old = '攻聖'
+[[message]]
+key = 'ABILITY_NAME_153'
+old = '迅矢'
+[[message]]
+key = 'ABILITY_NAME_186'
+old = '重攻'
+[[message]]
+key = 'ABILITY_NAME_217'
+old = '快登'
+[[message]]
+key = 'ABILITY_NAME_238'
+old = '羅刹'
+[[message]]
+key = 'ABILITY_NAME_427'
+old = '侵護'
+[[message]]
+key = 'ABILITY_NAME_481'
+old = '砲撃'
+[[message]]
+key = 'ABILITY_NAME_18'
+old = '硬台'
+[[message]]
+key = 'ABILITY_NAME_43'
+old = '強壮'
+[[message]]
+key = 'ABILITY_NAME_56'
+old = '魔援'
+[[message]]
+key = 'ABILITY_NAME_83'
+old = '岐精'
+[[message]]
+key = 'ABILITY_NAME_113'
+old = '跳避'
+[[message]]
+key = 'ABILITY_NAME_136'
+old = '魔増'
+[[message]]
+key = 'ABILITY_NAME_163'
+old = '修復'
+[[message]]
+key = 'ABILITY_NAME_195'
+old = '硬身'
+[[message]]
+key = 'ABILITY_NAME_220'
+old = '英気'
+[[message]]
+key = 'ABILITY_NAME_239'
+old = '夜叉'
+[[message]]
+key = 'ABILITY_NAME_412'
+old = '封芽'
+[[message]]
+key = 'ABILITY_NAME_488'
+old = '甲砕'
+[[message]]
+key = 'ABILITY_NAME_3'
+old = '受崩'
+[[message]]
+key = 'ABILITY_NAME_28'
+old = '力填'
+[[message]]
+key = 'ABILITY_NAME_70'
+old = '減聖'
+[[message]]
+key = 'ABILITY_NAME_90'
+old = '即直'
+[[message]]
+key = 'ABILITY_NAME_110'
+old = '耐握'
+[[message]]
+key = 'ABILITY_NAME_140'
+old = '魔抗'
+[[message]]
+key = 'ABILITY_NAME_157'
+old = '自療'
+[[message]]
+key = 'ABILITY_NAME_196'
+old = '覇気'
+[[message]]
+key = 'ABILITY_NAME_201'
+old = '挑錬'
+[[message]]
+key = 'ABILITY_NAME_234'
+old = '安着'
+[[message]]
+key = 'ABILITY_NAME_425'
+old = '減侵'
+[[message]]
+key = 'ABILITY_NAME_490'
+old = '戦狙'
+[[message]]
+key = 'ABILITY_NAME_13'
+old = '倒盾'
+[[message]]
+key = 'ABILITY_NAME_46'
+old = '陰討'
+[[message]]
+key = 'ABILITY_NAME_71'
+old = '減闇'
+[[message]]
+key = 'ABILITY_NAME_94'
+old = '精強'
+[[message]]
+key = 'ABILITY_NAME_115'
+old = '鎮逸'
+[[message]]
+key = 'ABILITY_NAME_144'
+old = '朗威'
+[[message]]
+key = 'ABILITY_NAME_164'
+old = '忌吸'
+[[message]]
+key = 'ABILITY_NAME_197'
+old = '重歩'
+[[message]]
+key = 'ABILITY_NAME_213'
+old = '盛精'
+[[message]]
+key = 'ABILITY_NAME_246'
+old = '男心'
+[[message]]
+key = 'ABILITY_NAME_426'
+old = '侵壊'
+[[message]]
+key = 'ABILITY_NAME_477'
+old = '節補'
+[[message]]
+key = 'ABILITY_NAME_21'
+old = '不屈'
+[[message]]
+key = 'ABILITY_NAME_38'
+old = '快撃'
+[[message]]
+key = 'ABILITY_NAME_53'
+old = '慈覧'
+[[message]]
+key = 'ABILITY_NAME_98'
+old = '活性'
+[[message]]
+key = 'ABILITY_NAME_118'
+old = '烈墜'
+[[message]]
+key = 'ABILITY_NAME_141'
+old = '魔精'
+[[message]]
+key = 'ABILITY_NAME_152'
+old = '拡助'
+[[message]]
+key = 'ABILITY_NAME_190'
+old = '高堪'
+[[message]]
+key = 'ABILITY_NAME_224'
+old = '竜護'
+[[message]]
+key = 'ABILITY_NAME_247'
+old = '女心'
+[[message]]
+key = 'ABILITY_NAME_407'
+old = '延臨'
+[[message]]
+key = 'ABILITY_NAME_11'
+old = '強盾'
+[[message]]
+key = 'ABILITY_NAME_37'
+old = '拡撃'
+[[message]]
+key = 'ABILITY_NAME_60'
+old = '加護'
+[[message]]
+key = 'ABILITY_NAME_91'
+old = '壮健'
+[[message]]
+key = 'ABILITY_NAME_107'
+old = '握烈'
+[[message]]
+key = 'ABILITY_NAME_135'
+old = '魔双'
+[[message]]
+key = 'ABILITY_NAME_162'
+old = '自回'
+[[message]]
+key = 'ABILITY_NAME_179'
+old = '延恨'
+[[message]]
+key = 'ABILITY_NAME_215'
+old = '快動'
+[[message]]
+key = 'ABILITY_NAME_248'
+old = '抗毒'
+[[message]]
+key = 'ABILITY_NAME_420'
+old = '合附'
+[[message]]
+key = 'ABILITY_NAME_475'
+old = '節魔'
+[[message]]
+key = 'ABILITY_NAME_7'
+old = '猛攻'
+[[message]]
+key = 'ABILITY_NAME_40'
+old = '剛力'
+[[message]]
+key = 'ABILITY_NAME_54'
+old = '長露'
+[[message]]
+key = 'ABILITY_NAME_78'
+old = '猛吸'
+[[message]]
+key = 'ABILITY_NAME_108'
+old = '与震'
+[[message]]
+key = 'ABILITY_NAME_139'
+old = '胆唱'
+[[message]]
+key = 'ABILITY_NAME_155'
+old = '執矢'
+[[message]]
+key = 'ABILITY_NAME_194'
+old = '渾身'
+[[message]]
+key = 'ABILITY_NAME_221'
+old = '快錬'
+[[message]]
+key = 'ABILITY_NAME_249'
+old = '抗遅'
+[[message]]
+key = 'ABILITY_NAME_421'
+old = '属附'
+[[message]]
+key = 'ABILITY_NAME_487'
+old = '抗滅'
+[[message]]
+key = 'ABILITY_NAME_14'
+old = '圧伏'
+[[message]]
+key = 'ABILITY_NAME_44'
+old = '硬皮'
+[[message]]
+key = 'ABILITY_NAME_59'
+old = '激励'
+[[message]]
+key = 'ABILITY_NAME_100'
+old = '緩刃'
+[[message]]
+key = 'ABILITY_NAME_114'
+old = '優避'
+[[message]]
+key = 'ABILITY_NAME_150'
+old = '人狙'
+[[message]]
+key = 'ABILITY_NAME_158'
+old = '急活'
+[[message]]
+key = 'ABILITY_NAME_198'
+old = '穿歩'
+[[message]]
+key = 'ABILITY_NAME_225'
+old = '竜狙'
+[[message]]
+key = 'ABILITY_NAME_250'
+old = '抗眠'
+[[message]]
+key = 'ABILITY_NAME_428'
+old = '侵狙'
+[[message]]
+key = 'ABILITY_NAME_474'
+old = '翔剣'
+[[message]]
+key = 'ABILITY_NAME_20'
+old = '強靭'
+[[message]]
+key = 'ABILITY_NAME_251'
+old = '抗絶'
+[[message]]
+key = 'ABILITY_NAME_308'
+old = '弓射 倒'
+[[message]]
+key = 'ABILITY_NAME_320'
+old = '癒気 詠'
+[[message]]
+key = 'ABILITY_NAME_332'
+old = '盾打 倒'
+[[message]]
+key = 'ABILITY_NAME_344'
+old = '連斬 倒'
+[[message]]
+key = 'ABILITY_NAME_356'
+old = '魔弾 倒'
+[[message]]
+key = 'ABILITY_NAME_368'
+old = '闘矢 倒'
+[[message]]
+key = 'ABILITY_NAME_380'
+old = '破斬 倒'
+[[message]]
+key = 'ABILITY_NAME_392'
+old = '錬打 倒'
+[[message]]
+key = 'ABILITY_NAME_429'
+old = '槍突 倒'
+[[message]]
+key = 'ABILITY_NAME_499'
+old = '四撃 倒'
+[[message]]
+key = 'ABILITY_NAME_252'
+old = '抗水'
+[[message]]
+key = 'ABILITY_NAME_296'
+old = '連撃 倒'
+[[message]]
+key = 'ABILITY_NAME_309'
+old = '爆矢 烈'
+[[message]]
+key = 'ABILITY_NAME_321'
+old = '破球 倒'
+[[message]]
+key = 'ABILITY_NAME_333'
+old = '属照 烈'
+[[message]]
+key = 'ABILITY_NAME_345'
+old = '裂斬 倒'
+[[message]]
+key = 'ABILITY_NAME_357'
+old = '魔罠 砕'
+[[message]]
+key = 'ABILITY_NAME_369'
+old = '助矢 詠'
+[[message]]
+key = 'ABILITY_NAME_381'
+old = '魔倒 砕'
+[[message]]
+key = 'ABILITY_NAME_393'
+old = '錬避 倒'
+[[message]]
+key = 'ABILITY_NAME_430'
+old = '槍昇 倒'
+[[message]]
+key = 'ABILITY_NAME_500'
+old = '弧撃 倒'
+[[message]]
+key = 'ABILITY_NAME_253'
+old = '抗油'
+[[message]]
+key = 'ABILITY_NAME_297'
+old = '斬崩 倒'
+[[message]]
+key = 'ABILITY_NAME_311'
+old = '矢斬 烈'
+[[message]]
+key = 'ABILITY_NAME_323'
+old = '聖気 倒'
+[[message]]
+key = 'ABILITY_NAME_336'
+old = '攻爆 砕'
+[[message]]
+key = 'ABILITY_NAME_348'
+old = '乱斬 砕'
+[[message]]
+key = 'ABILITY_NAME_363'
+old = '魔破 倒'
+[[message]]
+key = 'ABILITY_NAME_371'
+old = '一蹴 倒'
+[[message]]
+key = 'ABILITY_NAME_384'
+old = '魔斬 絶'
+[[message]]
+key = 'ABILITY_NAME_396'
+old = '錬爆 倒'
+[[message]]
+key = 'ABILITY_NAME_432'
+old = '槍墜 倒'
+[[message]]
+key = 'ABILITY_NAME_502'
+old = '空叉 倒'
+[[message]]
+key = 'ABILITY_NAME_254'
+old = '抗封'
+[[message]]
+key = 'ABILITY_NAME_299'
+old = '抉突 絶'
+[[message]]
+key = 'ABILITY_NAME_310'
+old = '硬構'
+[[message]]
+key = 'ABILITY_NAME_322'
+old = '扶魔'
+[[message]]
+key = 'ABILITY_NAME_334'
+old = '護治'
+[[message]]
+key = 'ABILITY_NAME_346'
+old = '走耐'
+[[message]]
+key = 'ABILITY_NAME_358'
+old = '硬浮'
+[[message]]
+key = 'ABILITY_NAME_370'
+old = '快進'
+[[message]]
+key = 'ABILITY_NAME_382'
+old = '快閃'
+[[message]]
+key = 'ABILITY_NAME_394'
+old = '硬視'
+[[message]]
+key = 'ABILITY_NAME_434'
+old = '活発'
+[[message]]
+key = 'ABILITY_NAME_501'
+old = '昇墜 倒'
+[[message]]
+key = 'ABILITY_NAME_255'
+old = '抗軟'
+[[message]]
+key = 'ABILITY_NAME_298'
+old = '崩攻'
+[[message]]
+key = 'ABILITY_NAME_312'
+old = '静射 倒'
+[[message]]
+key = 'ABILITY_NAME_324'
+old = '衝破 倒'
+[[message]]
+key = 'ABILITY_NAME_335'
+old = '盾序 烈'
+[[message]]
+key = 'ABILITY_NAME_347'
+old = '回蹴 倒'
+[[message]]
+key = 'ABILITY_NAME_360'
+old = '魔破 砕'
+[[message]]
+key = 'ABILITY_NAME_372'
+old = '奮矢 据'
+[[message]]
+key = 'ABILITY_NAME_383'
+old = '広斬 倒'
+[[message]]
+key = 'ABILITY_NAME_395'
+old = '錬衝 倒'
+[[message]]
+key = 'ABILITY_NAME_431'
+old = '槍円 倒'
+[[message]]
+key = 'ABILITY_NAME_497'
+old = '常撃'
+[[message]]
+key = 'ABILITY_NAME_256'
+old = '抗石'
+[[message]]
+key = 'ABILITY_NAME_300'
+old = '強連 倒'
+[[message]]
+key = 'ABILITY_NAME_313'
+old = '救耐'
+[[message]]
+key = 'ABILITY_NAME_325'
+old = '滅吸'
+[[message]]
+key = 'ABILITY_NAME_337'
+old = '集視'
+[[message]]
+key = 'ABILITY_NAME_349'
+old = '深攻'
+[[message]]
+key = 'ABILITY_NAME_361'
+old = '倒力'
+[[message]]
+key = 'ABILITY_NAME_373'
+old = '魔遮'
+[[message]]
+key = 'ABILITY_NAME_385'
+old = '攻遮'
+[[message]]
+key = 'ABILITY_NAME_397'
+old = '頑強'
+[[message]]
+key = 'ABILITY_NAME_439'
+old = '防属'
+[[message]]
+key = 'ABILITY_NAME_504'
+old = '偏吸'
+[[message]]
+key = 'ABILITY_NAME_257'
+old = '抗金'
+[[message]]
+key = 'ABILITY_NAME_301'
+old = '堅盾'
+[[message]]
+key = 'ABILITY_NAME_314'
+old = '弓射 砕'
+[[message]]
+key = 'ABILITY_NAME_326'
+old = '癒気 耐'
+[[message]]
+key = 'ABILITY_NAME_338'
+old = '盾打 砕'
+[[message]]
+key = 'ABILITY_NAME_350'
+old = '連斬 砕'
+[[message]]
+key = 'ABILITY_NAME_359'
+old = '魔弾 砕'
+[[message]]
+key = 'ABILITY_NAME_374'
+old = '闘矢 瞬'
+[[message]]
+key = 'ABILITY_NAME_386'
+old = '破斬 砕'
+[[message]]
+key = 'ABILITY_NAME_398'
+old = '錬打 砕'
+[[message]]
+key = 'ABILITY_NAME_435'
+old = '槍突 破'
+[[message]]
+key = 'ABILITY_NAME_493'
+old = '四撃 吸'
+[[message]]
+key = 'ABILITY_NAME_258'
+old = '親炎'
+[[message]]
+key = 'ABILITY_NAME_302'
+old = '連撃 砕'
+[[message]]
+key = 'ABILITY_NAME_315'
+old = '爆矢 砕'
+[[message]]
+key = 'ABILITY_NAME_327'
+old = '破球 砕'
+[[message]]
+key = 'ABILITY_NAME_339'
+old = '属照 砕'
+[[message]]
+key = 'ABILITY_NAME_351'
+old = '裂斬 砕'
+[[message]]
+key = 'ABILITY_NAME_362'
+old = '魔罠 据'
+[[message]]
+key = 'ABILITY_NAME_375'
+old = '助矢 瞬'
+[[message]]
+key = 'ABILITY_NAME_387'
+old = '魔倒 絶'
+[[message]]
+key = 'ABILITY_NAME_399'
+old = '錬避 砕'
+[[message]]
+key = 'ABILITY_NAME_436'
+old = '槍昇 破'
+[[message]]
+key = 'ABILITY_NAME_494'
+old = '弧撃 吸'
+[[message]]
+key = 'ABILITY_NAME_259'
+old = '親氷'
+[[message]]
+key = 'ABILITY_NAME_303'
+old = '斬崩 絶'
+[[message]]
+key = 'ABILITY_NAME_317'
+old = '矢斬 砕'
+[[message]]
+key = 'ABILITY_NAME_329'
+old = '聖気 烈'
+[[message]]
+key = 'ABILITY_NAME_342'
+old = '攻爆 倒'
+[[message]]
+key = 'ABILITY_NAME_354'
+old = '乱斬 絶'
+[[message]]
+key = 'ABILITY_NAME_366'
+old = '魔破 詠'
+[[message]]
+key = 'ABILITY_NAME_377'
+old = '一蹴 砕'
+[[message]]
+key = 'ABILITY_NAME_390'
+old = '魔斬 砕'
+[[message]]
+key = 'ABILITY_NAME_402'
+old = '錬爆 砕'
+[[message]]
+key = 'ABILITY_NAME_438'
+old = '槍墜 破'
+[[message]]
+key = 'ABILITY_NAME_495'
+old = '空叉 吸'
+[[message]]
+key = 'ABILITY_NAME_260'
+old = '親雷'
+[[message]]
+key = 'ABILITY_NAME_305'
+old = '抉突 砕'
+[[message]]
+key = 'ABILITY_NAME_316'
+old = '増精'
+[[message]]
+key = 'ABILITY_NAME_328'
+old = '魔猛'
+[[message]]
+key = 'ABILITY_NAME_340'
+old = '盾崩'
+[[message]]
+key = 'ABILITY_NAME_352'
+old = '剛攻'
+[[message]]
+key = 'ABILITY_NAME_364'
+old = '減属'
+[[message]]
+key = 'ABILITY_NAME_376'
+old = '救魔'
+[[message]]
+key = 'ABILITY_NAME_388'
+old = '豪握'
+[[message]]
+key = 'ABILITY_NAME_400'
+old = '空滅'
+[[message]]
+key = 'ABILITY_NAME_419'
+old = '強附'
+[[message]]
+key = 'ABILITY_NAME_496'
+old = '昇墜 吸'
+[[message]]
+key = 'ABILITY_NAME_261'
+old = '親聖'
+[[message]]
+key = 'ABILITY_NAME_304'
+old = '硬溜'
+[[message]]
+key = 'ABILITY_NAME_318'
+old = '静射 砕'
+[[message]]
+key = 'ABILITY_NAME_330'
+old = '衝破 砕'
+[[message]]
+key = 'ABILITY_NAME_341'
+old = '盾序 砕'
+[[message]]
+key = 'ABILITY_NAME_353'
+old = '回蹴 砕'
+[[message]]
+key = 'ABILITY_NAME_365'
+old = '魔罠 詠'
+[[message]]
+key = 'ABILITY_NAME_378'
+old = '奮矢 拡 '
+[[message]]
+key = 'ABILITY_NAME_389'
+old = '広斬 砕'
+[[message]]
+key = 'ABILITY_NAME_401'
+old = '錬衝 砕'
+[[message]]
+key = 'ABILITY_NAME_437'
+old = '槍円 破'
+[[message]]
+key = 'ABILITY_NAME_262'
+old = '親闇'
+[[message]]
+key = 'ABILITY_NAME_306'
+old = '強連 砕'
+[[message]]
+key = 'ABILITY_NAME_319'
+old = '至弓'
+[[message]]
+key = 'ABILITY_NAME_331'
+old = '硬気'
+[[message]]
+key = 'ABILITY_NAME_343'
+old = '快視'
+[[message]]
+key = 'ABILITY_NAME_355'
+old = '快転'
+[[message]]
+key = 'ABILITY_NAME_367'
+old = '快漂'
+[[message]]
+key = 'ABILITY_NAME_379'
+old = '通眼'
+[[message]]
+key = 'ABILITY_NAME_391'
+old = '残恨'
+[[message]]
+key = 'ABILITY_NAME_403'
+old = '守錬'
+[[message]]
+key = 'ABILITY_NAME_440'
+old = '霊蓄'
+[[message]]
+key = 'ABILITY_NAME_263'
+old = '制毒'
+[[message]]
+key = 'ABILITY_NAME_307'
+old = '快突'
+[[message]]
+key = 'ABILITY_NAME_264'
+old = '制遅'
+[[message]]
+key = 'ABILITY_NAME_265'
+old = '制眠'
+[[message]]
+key = 'ABILITY_NAME_266'
+old = '制絶'
+[[message]]
+key = 'ABILITY_NAME_267'
+old = '速乾'
+[[message]]
+key = 'ABILITY_NAME_268'
+old = '速清'
+[[message]]
+key = 'ABILITY_NAME_269'
+old = '縮封'
+[[message]]
+key = 'ABILITY_NAME_270'
+old = '縮軟'
+[[message]]
+key = 'ABILITY_NAME_271'
+old = '縮石'
+[[message]]
+key = 'ABILITY_NAME_272'
+old = '縮金'
+[[message]]
+key = 'ABILITY_NAME_273'
+old = '縮焼'
+[[message]]
+key = 'ABILITY_NAME_274'
+old = '縮凍'
+[[message]]
+key = 'ABILITY_NAME_275'
+old = '縮霧'
+[[message]]
+key = 'ABILITY_NAME_276'
+old = '縮炎'
+[[message]]
+key = 'ABILITY_NAME_277'
+old = '縮氷'
+[[message]]
+key = 'ABILITY_NAME_278'
+old = '縮雷'
+[[message]]
+key = 'ABILITY_NAME_279'
+old = '縮聖'
+[[message]]
+key = 'ABILITY_NAME_280'
+old = '縮闇'
+[[message]]
+key = 'ABILITY_NAME_281'
+old = '縮攻'
+[[message]]
+key = 'ABILITY_NAME_282'
+old = '縮防'
+[[message]]
+key = 'ABILITY_NAME_283'
+old = '縮念'
+[[message]]
+key = 'ABILITY_NAME_284'
+old = '縮衰'
+[[message]]
+key = 'ABILITY_NAME_285'
+old = '増褒'
+[[message]]
+key = 'ABILITY_NAME_286'
+old = '加奨'
+[[message]]
+key = 'ABILITY_NAME_287'
+old = '匠誉'
+[[message]]
+key = 'ABILITY_NAME_288'
+old = '輝褒'
+[[message]]
+key = 'ABILITY_NAME_289'
+old = '勝賞'
+[[message]]
+key = 'ABILITY_NAME_290'
+old = '共得'
+[[message]]
+key = 'ABILITY_NAME_291'
+old = '奏狩'
+[[message]]
+key = 'ABILITY_NAME_292'
+old = '奏泣'
+[[message]]
+key = 'ABILITY_NAME_293'
+old = '奏隆'
+[[message]]
+key = 'ABILITY_NAME_294'
+old = '奏撃'
+[[message]]
+key = 'ABILITY_NAME_295'
+old = '奏魔'
+[[message]]
+key = 'ABILITY_NAME_441'
+old = '友体'
+[[message]]
+key = 'ABILITY_NAME_442'
+old = '友活'
+[[message]]
+key = 'ABILITY_NAME_443'
+old = '友攻'
+[[message]]
+key = 'ABILITY_NAME_444'
+old = '友魔'
+[[message]]
+key = 'ABILITY_NAME_445'
+old = '友防'
+[[message]]
+key = 'ABILITY_NAME_446'
+old = '友護'
+[[message]]
+key = 'ABILITY_NAME_447'
+old = '追討'
+[[message]]
+key = 'ABILITY_NAME_448'
+old = '友癒'
+[[message]]
+key = 'ABILITY_NAME_449'
+old = '重歩 軽'
+[[message]]
+key = 'ABILITY_NAME_450'
+old = '穿歩 軽'
+[[message]]
+key = 'ABILITY_NAME_451'
+old = '延泉 軽'
+[[message]]
+key = 'ABILITY_NAME_452'
+old = '探採 軽'
+[[message]]
+key = 'ABILITY_NAME_453'
+old = '薬効 軽'
+[[message]]
+key = 'ABILITY_NAME_454'
+old = '効延 軽'
+[[message]]
+key = 'ABILITY_NAME_455'
+old = '巧掘 軽'
+[[message]]
+key = 'ABILITY_NAME_456'
+old = '流断 軽'
+[[message]]
+key = 'ABILITY_NAME_457'
+old = '宝眼 軽'
+[[message]]
+key = 'ABILITY_NAME_458'
+old = '根性 軽'
+[[message]]
+key = 'ABILITY_NAME_459'
+old = '安着 軽'
+[[message]]
+key = 'ABILITY_NAME_460'
+old = '減重'
+[[message]]
+key = 'ABILITY_NAME_461'
+old = '戦徒'
+[[message]]
+key = 'ABILITY_NAME_462'
+old = '探究'
+[[message]]
+key = 'ABILITY_NAME_463'
+old = '侵滅'
+[[message]]
+key = 'ABILITY_NAME_464'
+old = '夜帝'

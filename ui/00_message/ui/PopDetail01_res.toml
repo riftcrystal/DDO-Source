@@ -1,0 +1,96 @@
+﻿[[message]]
+key = 'pop_detail_item_rank'
+old = 'Item Rank'
+[[message]]
+key = 'pop_detail_bazaar'
+old = 'バザー'
+[[message]]
+key = 'pop_detail_ok'
+old = 'OK'
+[[message]]
+key = 'pop_detail_powerup_point'
+old = '強化ポイント'
+[[message]]
+key = 'pop_detail_status'
+old = 'Status'
+[[message]]
+key = 'pop_detail_craft'
+old = 'Craft'
+[[message]]
+key = 'pop_detail_caption'
+old = 'Details'
+[[message]]
+key = 'pop_detail_sale'
+old = '売却額'
+[[message]]
+key = 'pop_detail_G'
+old = 'G'
+[[message]]
+key = 'pop_detail_LV'
+old = 'LV.'
+[[message]]
+key = 'pop_detail_target'
+old = '目玉報酬'
+[[message]]
+key = 'pop_detail_eq_crest_slot'
+old = '装着クレスト：スロット'
+[[message]]
+key = 'pop_detail_1stack_bag'
+old = 'アイテムバッグ1枠スタック数：'
+[[message]]
+key = 'pop_detail_comparison_eq'
+old = '比較装備：'
+[[message]]
+key = 'pop_detail_shop_stock'
+old = 'ショップ残り在庫数：'
+[[message]]
+key = 'pop_detail_shop_conditions'
+old = '購入条件'
+[[message]]
+key = 'pop_detail_shop_deadline'
+old = '販売終了まであと'
+[[message]]
+key = 'pop_detail_shop_aggregate1'
+old = '集計開始まであと'
+[[message]]
+key = 'pop_detail_shop_aggregate2'
+old = '集計終了まであと'
+[[message]]
+key = 'pop_detail_shop_aggregate3'
+old = '集計終了しました'
+[[message]]
+key = 'pop_detail_shop_unlock_condition_3_1'
+old = '(まだランキングは確定していません)'
+[[message]]
+key = 'pop_detail_shop_unlock_condition_3_2'
+old = '(参加者はランキングボードを確認してください)'
+[[message]]
+key = 'pop_detail_shop_unlock_condition_3_3'
+old = '(最終結果%d位)'
+[[message]]
+key = 'pop_detail_add_status_1'
+old = 'Add Status'
+[[message]]
+key = 'pop_detail_add_status_2'
+old = 'Limit Bonus'
+[[message]]
+key = 'pop_detail_add_status_34'
+old = 'Fusion Bonus'
+[[message]]
+key = 'pop_detail_add_status_5'
+old = 'Special Bonus'
+[[message]]
+key = 'pop_detail_shop_deadline_01'
+old = '販売開始まであと'
+[[message]]
+key = 'pop_detail_shop_deadline_02'
+old = '販売終了'
+[[message]]
+key = 'pop_detail_shop_deadline_03'
+old = '販売中'
+[[message]]
+key = 'pop_detail_bbi_001'
+old = 'Unparsable'
+[[message]]
+key = 'pop_detail_bbi_002'
+old = '<COL ffdc78>？？？（入手すると判明します）</COL>'

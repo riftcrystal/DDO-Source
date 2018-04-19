@@ -1,0 +1,42 @@
+﻿[[message]]
+key = 'NORMAL_SKILL_NAME_02_24'
+old = '連斬'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_25'
+old = '回し蹴り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_26'
+old = '百裂斬り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_27'
+old = '阿修羅斬り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_32'
+old = '三連斬'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_33'
+old = '断頭台'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_28'
+old = 'ロープ構え'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_29'
+old = 'ロープ投げ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_30'
+old = '転身'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_31'
+old = '連係投げ'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_36'
+old = '空壁跳び'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_37'
+old = '二段跳び'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_38'
+old = '乱斬り'
+[[message]]
+key = 'NORMAL_SKILL_NAME_02_39'
+old = '大乱斬り'

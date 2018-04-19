@@ -1,0 +1,500 @@
+﻿[[message]]
+key = 'common_next'
+old = '次へ'
+[[message]]
+key = 'common_yes'
+old = 'はい'
+[[message]]
+key = 'common_no'
+old = 'いいえ'
+[[message]]
+key = 'common_decide'
+old = '決定'
+[[message]]
+key = 'common_cancel'
+old = 'キャンセル'
+[[message]]
+key = 'common_back'
+old = '戻る'
+[[message]]
+key = 'common_end'
+old = '終了'
+[[message]]
+key = 'common_serch'
+old = '検索'
+[[message]]
+key = 'common_entry'
+old = '登録'
+[[message]]
+key = 'common_ok'
+old = 'OK'
+[[message]]
+key = 'common_unit_g'
+old = 'G'
+[[message]]
+key = 'common_unit_r'
+old = 'R'
+[[message]]
+key = 'common_unit_bo'
+old = 'BO'
+[[message]]
+key = 'common_unit_gp'
+old = 'GP'
+[[message]]
+key = 'common_unit_xp'
+old = 'XP'
+[[message]]
+key = 'common_unit_jp'
+old = 'JP'
+[[message]]
+key = 'common_unit_cap'
+old = 'CAP'
+[[message]]
+key = 'common_unit_ap'
+old = 'AP'
+[[message]]
+key = 'common_unit_pt'
+old = 'pt'
+[[message]]
+key = 'common_unit_cp'
+old = 'CP'
+[[message]]
+key = 'common_unit_cr'
+old = 'CR'
+[[message]]
+key = 'common_unit_lv'
+old = 'LV.'
+[[message]]
+key = 'common_unitname_g'
+old = 'ゴールド'
+[[message]]
+key = 'common_unitname_r'
+old = 'リム'
+[[message]]
+key = 'common_unitname_bo'
+old = 'ブラッドオーブ'
+[[message]]
+key = 'common_unitname_jp'
+old = 'ジョブポイント'
+[[message]]
+key = 'common_edit'
+old = '編集'
+[[message]]
+key = 'common_clan_s_begin'
+old = '≪'
+[[message]]
+key = 'common_clan_s_end'
+old = '≫'
+[[message]]
+key = 'common_unitname_gs'
+old = '黄金石'
+[[message]]
+key = 'common_name'
+old = '名前'
+[[message]]
+key = 'common_level'
+old = 'レベル'
+[[message]]
+key = 'common_mymsg'
+old = 'マイ定型文セット'
+[[message]]
+key = 'common_above'
+old = '～'
+[[message]]
+key = 'common_open_bracket'
+old = '('
+[[message]]
+key = 'common_close_bracket'
+old = ')'
+[[message]]
+key = 'common_grade'
+old = '★'
+[[message]]
+key = 'common_up'
+old = 'UP'
+[[message]]
+key = 'common_down'
+old = 'DOWN'
+[[message]]
+key = 'common_off'
+old = 'OFF'
+[[message]]
+key = 'common_max'
+old = 'MAX'
+[[message]]
+key = 'common_hyphen'
+old = '-'
+[[message]]
+key = 'common_plus'
+old = '+'
+[[message]]
+key = 'common_complete'
+old = '完了'
+[[message]]
+key = 'common_select_clan_motto'
+old = 'モットーを１つ以上選択してください'
+[[message]]
+key = 'common_select_clan_day'
+old = '活動時間帯を選択してください'
+[[message]]
+key = 'common_select_clan_hour'
+old = '活動時間帯を選択してください'
+[[message]]
+key = 'common_select_clan_feature'
+old = '特徴を１つ以上選択してください'
+[[message]]
+key = 'common_guide_blank'
+old = ''
+[[message]]
+key = 'common_guide_change_info'
+old = '情報切り替え'
+[[message]]
+key = 'common_guide_close'
+old = '閉じる'
+[[message]]
+key = 'common_guide_submenu'
+old = 'サブメニュー'
+[[message]]
+key = 'common_guide_decide'
+old = '決定'
+[[message]]
+key = 'common_guide_execute'
+old = '実行'
+[[message]]
+key = 'common_guide_end'
+old = '終了'
+[[message]]
+key = 'common_guide_change_page'
+old = 'ページ切り替え'
+[[message]]
+key = 'common_guide_return'
+old = '戻る'
+[[message]]
+key = 'common_date_format'
+old = '%Y/%m/%d'
+[[message]]
+key = 'common_guide_open'
+old = '開く'
+[[message]]
+key = 'common_delete'
+old = '削除'
+[[message]]
+key = 'common_rest_time'
+old = '時間'
+[[message]]
+key = 'common_rest_day'
+old = '日'
+[[message]]
+key = 'common_unit_gs'
+old = '個'
+[[message]]
+key = 'common_indicator_lestania'
+old = 'GT'
+[[message]]
+key = 'common_indicator_local'
+old = 'LT'
+[[message]]
+key = 'common_indicator_server'
+old = 'ST'
+[[message]]
+key = 'common_indicator_lobby'
+old = 'World'
+[[message]]
+key = 'common_key_alt'
+old = 'Alt'
+[[message]]
+key = 'common_indicator_saving'
+old = 'セーブ中'
+[[message]]
+key = 'common_guide_replacement'
+old = '入れ替え'
+[[message]]
+key = 'common_guide_set'
+old = 'セット'
+[[message]]
+key = 'common_guide_drag'
+old = 'つかむ'
+[[message]]
+key = 'common_guide_goto_itembag'
+old = 'アイテムバッグに移動'
+[[message]]
+key = 'common_rest_minute'
+old = '分'
+[[message]]
+key = 'common_time_limit'
+old = 'あと'
+[[message]]
+key = 'common_time_after'
+old = '後'
+[[message]]
+key = 'common_time_before'
+old = '前'
+[[message]]
+key = 'common_unit_turn'
+old = '回'
+[[message]]
+key = 'common_unit_body'
+old = '体'
+[[message]]
+key = 'common_switch_expand'
+old = '拡張枠'
+[[message]]
+key = 'common_switch_strage'
+old = '通常枠'
+[[message]]
+key = 'common_numbox'
+old = '直接入力'
+[[message]]
+key = 'common_switch_storagebox'
+old = '保管ボックス'
+[[message]]
+key = 'common_switch_itembag'
+old = 'アイテムバッグ'
+[[message]]
+key = 'common_guide_shortcut_set'
+old = 'ショートカット登録'
+[[message]]
+key = 'common_system_savedata'
+old = 'システムセーブデータ'
+[[message]]
+key = 'common_edit_savedata'
+old = 'エディットデータ'
+[[message]]
+key = 'common_new_edit_savedata'
+old = '新しいエディットデータ'
+[[message]]
+key = 'common_edit_savedata_author'
+old = '作成者：'
+[[message]]
+key = 'common_edit_savedata_sex'
+old = '性別：'
+[[message]]
+key = 'common_edit_savedata_comment'
+old = 'コメント：'
+[[message]]
+key = 'common_chat_ch_general'
+old = 'General'
+[[message]]
+key = 'common_chat_ch_party'
+old = 'Party'
+[[message]]
+key = 'common_unitname_silverticket'
+old = 'シルバーチケット'
+[[message]]
+key = 'common_titlename_jp'
+old = 'ドラゴンズドグマ オンライン'
+[[message]]
+key = 'common_clan_search_on'
+old = 'クラン情報公開'
+[[message]]
+key = 'common_clan_search_off'
+old = 'クラン情報非公開'
+[[message]]
+key = 'common_select_clan_motto_search'
+old = 'モットーを２つまで選択してください'
+[[message]]
+key = 'common_select_clan_day_search'
+old = '活動時間帯を選択してください'
+[[message]]
+key = 'common_select_clan_hour_search'
+old = '活動時間帯を選択してください'
+[[message]]
+key = 'common_select_clan_feature_search'
+old = '特徴を４つまで選択してください'
+[[message]]
+key = 'common_unitname_rp'
+old = 'レンタルポイント'
+[[message]]
+key = 'common_unit_rp'
+old = 'RP'
+[[message]]
+key = 'common_guide_drag_mousedrag'
+old = 'つかむ(ドラッグ操作)'
+[[message]]
+key = 'common_percent'
+old = '%'
+[[message]]
+key = 'common_enemy_transform_erosion_01'
+old = '・軽度'
+[[message]]
+key = 'common_enemy_transform_erosion_02'
+old = '・重度'
+[[message]]
+key = 'common_enemy_transform_erosion_03'
+old = '・危険'
+[[message]]
+key = 'common_switch_deposit'
+old = '通常枠'
+[[message]]
+key = 'common_unit_multiplication'
+old = '×'
+[[message]]
+key = 'common_quest_unpublished'
+old = '？？？？？？'
+[[message]]
+key = 'common_custom_skill_pallet_sub'
+old = 'パレット サブ'
+[[message]]
+key = 'common_custom_skill_pallet_main'
+old = 'パレット メイン'
+[[message]]
+key = 'common_equip_ir'
+old = 'IR.'
+[[message]]
+key = 'common_unitname_craftskillreset'
+old = 'クラフトスキルリセット'
+[[message]]
+key = 'common_switch_deposit_ex01'
+old = '拡張枠'
+[[message]]
+key = 'common_colon'
+old = '：'
+[[message]]
+key = 'common_nakaten'
+old = '・'
+[[message]]
+key = 'common_unit_pp'
+old = 'PP'
+[[message]]
+key = 'common_next_en'
+old = 'Next'
+[[message]]
+key = 'common_date'
+old = '日付'
+[[message]]
+key = 'common_unitname_cp'
+old = 'クランポイント'
+[[message]]
+key = 'common_enemy'
+old = '魔物'
+[[message]]
+key = 'common_enemy_transform_erosion_04'
+old = '・崩化'
+[[message]]
+key = 'common_question'
+old = '?'
+[[message]]
+key = 'common_inequality_left'
+old = '＜'
+[[message]]
+key = 'common_inequality_right'
+old = '＞'
+[[message]]
+key = 'common_unit_dp'
+old = 'DP'
+[[message]]
+key = 'common_unit_hb'
+old = 'HO'
+[[message]]
+key = 'common_none_nasi'
+old = 'なし'
+[[message]]
+key = 'common_unitname_hb'
+old = 'ハイオーブ'
+[[message]]
+key = 'common_partyboard_type01'
+old = 'パーティー募集掲示板'
+[[message]]
+key = 'common_unit_tp'
+old = 'BP'
+[[message]]
+key = 'common_unit_ep'
+old = 'EP'
+[[message]]
+key = 'common_equal'
+old = '='
+[[message]]
+key = 'common_percent_big'
+old = '％'
+[[message]]
+key = 'common_plus_big'
+old = '＋'
+[[message]]
+key = 'common_hyphen_big'
+old = '－'
+[[message]]
+key = 'common_enemy_transform_armed_01'
+old = '・軽装'
+[[message]]
+key = 'common_enemy_transform_armed_02'
+old = '・重装'
+[[message]]
+key = 'common_enemy_transform_armed_03'
+old = '・神装'
+[[message]]
+key = 'common_unitname_tp'
+old = '冒パスポイント'
+[[message]]
+key = 'common_unitname_dp'
+old = 'ドミニオンポイント'
+[[message]]
+key = 'common_unit_ptp'
+old = '育成EXP'
+[[message]]
+key = 'common_unit_pap'
+old = '対話回数'
+[[message]]
+key = 'common_slash'
+old = '/'
+[[message]]
+key = 'common_unit_silverticket'
+old = '枚'
+[[message]]
+key = 'common_unitname_evoticket'
+old = 'カスタムメイドサービス券'
+[[message]]
+key = 'common_unit_evoticket'
+old = '枚'
+[[message]]
+key = 'common_possession'
+old = '獲得'
+[[message]]
+key = 'common_double'
+old = '倍'
+[[message]]
+key = 'common_jp_kuten'
+old = '。'
+[[message]]
+key = 'common_jp_touten'
+old = '、'
+[[message]]
+key = 'common_msg_details'
+old = 'Details'
+[[message]]
+key = 'common_unitname_dragon_mark_01'
+old = '金竜の印'
+[[message]]
+key = 'common_unitname_dragon_mark_02'
+old = '銀竜の印'
+[[message]]
+key = 'common_unitname_dragon_mark_03'
+old = '赤竜の印'
+[[message]]
+key = 'common_unitname_entrance_right'
+old = '黒呪の迷宮リセット券'
+[[message]]
+key = 'common_open_onlineshop'
+old = 'オンラインショップを開く'
+[[message]]
+key = 'common_msg_gs_lack'
+old = '''
+黄金石が不足しています
+（所持数：<VAL>）'''
+[[message]]
+key = 'common_msg_state_progress'
+old = '進行状況'
+[[message]]
+key = 'common_msg_reward'
+old = '探索'
+[[message]]
+key = 'common_msg_received'
+old = 'クリア報酬が発生しません'
+[[message]]
+key = 'common_msg_not_received'
+old = '階層ごとの報酬が入手可能'
+[[message]]
+key = 'common_msg_visit_on'
+old = '訪問を許可する'
+[[message]]
+key = 'common_msg_visit_off'
+old = '訪問を許可しない'

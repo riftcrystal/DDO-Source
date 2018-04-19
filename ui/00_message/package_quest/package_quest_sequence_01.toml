@@ -1,0 +1,21 @@
+﻿[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_3'
+old = 'ピレモスへ食料運搬'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_4'
+old = '盗賊団のアジトへ食料運搬'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_5'
+old = '“幻の食材”を追って――'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_7'
+old = 'ティネス砦の食料調達'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_8'
+old = '大食堂の修復'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_9'
+old = '完全復活！　ティネス砦大食堂'
+[[message]]
+key = 'PACKAGE_QUEST_SEQUENCE_10'
+old = '協力者たちと親交を深める'

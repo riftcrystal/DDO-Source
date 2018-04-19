@@ -1,0 +1,87 @@
+﻿[[message]]
+key = 'EDIT_MSG_GUIDE_NAME'
+old = '名前を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_SEX'
+old = '性別を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_PRESET'
+old = 'プリセットを選択できます'
+[[message]]
+key = 'EDIT_MSG_GUIDE_RANDOM'
+old = '顔や肌色をランダムで設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_HAIR'
+old = '髪のパーツやカラーを設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_BONE'
+old = '顔の輪郭を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_EYE'
+old = '目のパーツやカラー、大きさ等を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_EYEBROW'
+old = '眉のパーツやカラー、間隔等を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_NOSE'
+old = '鼻のパーツや位置等を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_MOUSE'
+old = '口のパーツや幅等を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_EAR'
+old = '耳の大きさや向きを設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_FASHION'
+old = '化粧や傷/その他、しわ等を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_COLOR'
+old = '様々なカラーを設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_BODY'
+old = '肌のカラーや体格を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_VOICE'
+old = '声を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_PERSONAL'
+old = '口調を設定します'
+[[message]]
+key = 'EDIT_MSG_GUIDE_VOICE_FREQUENTLY'
+old = '発言頻度を設定します'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_HISTORY'
+old = 'ヒストリー'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_HISTORY_L'
+old = '元に戻る'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_HISTORY_R'
+old = 'やり直す'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_DEFAULT'
+old = 'デフォルトに戻す'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_SAVE_LOAD'
+old = 'セーブ / ロード'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_CAMERA_ZOOM'
+old = 'モデル回転<PADM> / ズーム</PADM>'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_CAMERA_ROTA'
+old = 'カメラ操作'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_CHANGE_EQUIP'
+old = '試着'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_CHANGE_LOCATION'
+old = '背景切替'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_TRIAL_MOTION'
+old = 'ポーズの確認'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_TRIAL_FACE'
+old = '表情の確認'
+[[message]]
+key = 'EDIT_MSG_BUTTON_GUIDE_TRIAL_VOICE'
+old = 'ボイスの試聴'

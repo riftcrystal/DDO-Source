@@ -1,0 +1,69 @@
+﻿[[message]]
+key = 'CLAN_SEARCH_MSG_NAME'
+old = 'クランの名前'
+[[message]]
+key = 'CLAN_SEARCH_MSG_RANK'
+old = 'ランク'
+[[message]]
+key = 'CLAN_SEARCH_MSG_MEMBER'
+old = 'メンバー数'
+[[message]]
+key = 'CLAN_SEARCH_MSG_MOTTO'
+old = 'モットー'
+[[message]]
+key = 'CLAN_SEARCH_MSG_ATIME'
+old = '活動時間帯'
+[[message]]
+key = 'CLAN_SEARCH_MSG_STYLE'
+old = '特徴'
+[[message]]
+key = 'CLAN_SEARCH_MSG_OK'
+old = '完了'
+[[message]]
+key = 'CLAN_SEARCH_MSG_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'CLAN_SEARCH_MSG_SEARCH_BACK'
+old = '検索条件変更に戻る'
+[[message]]
+key = 'CLAN_SEARCH_MSG_MEMBER_LIST'
+old = 'メンバー'
+[[message]]
+key = 'CLAN_SEARCH_MSG_DATE'
+old = '設立日'
+[[message]]
+key = 'CLAN_SEARCH_MSG_ORLESS'
+old = '<VAL>以下'
+[[message]]
+key = 'CLAN_SEARCH_MSG_ORLESS_P'
+old = '<VAL>名以下'
+[[message]]
+key = 'CLAN_SEARCH_RANK_LIMIT'
+old = '%d～%dまで'
+[[message]]
+key = 'CLAN_SEARCH_MEMBER_LIMIT'
+old = '%d～%d人まで'
+[[message]]
+key = 'CLAN_SEARCH_MEMBER_LIST_NUM'
+old = '<VAL> / <VAL>'
+[[message]]
+key = 'CLAN_SEARCH_MEMBER_NUM'
+old = '<VAL>名'
+[[message]]
+key = 'CLAN_SEARCH_INDEX_EN'
+old = 'Clan Search'
+[[message]]
+key = 'CLAN_SEARCH_INDEX_JP'
+old = 'クラン検索'
+[[message]]
+key = 'CLAN_SEARCH_SHORT_NAME'
+old = '略称で検索'
+[[message]]
+key = 'CLAN_SEARCH_MSG_RANK_EN'
+old = 'Rank'
+[[message]]
+key = 'CLAN_SEARCH_MSG_NOT_FOUND'
+old = 'クランが見つかりませんでした'
+[[message]]
+key = 'CLAN_SEARCH_MSG_NAME_FORMAT'
+old = '<NAME CLAN> <NAME CLAN_S>'

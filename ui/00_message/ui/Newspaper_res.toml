@@ -1,0 +1,292 @@
+﻿[[message]]
+key = 'np_msg_icon_new'
+old = '最近公開'
+[[message]]
+key = 'np_msg_icon_recommended'
+old = 'ボーナス'
+[[message]]
+key = 'np_msg_icon_party'
+old = 'PT推奨'
+[[message]]
+key = 'np_msg_menutitle_area'
+old = 'エリア選択メニュー'
+[[message]]
+key = 'np_msg_text_area'
+old = 'エリア選択'
+[[message]]
+key = 'np_msg_category_news'
+old = '本日のパーティーボーナス'
+[[message]]
+key = 'np_msg_fit'
+old = '推奨'
+[[message]]
+key = 'np_msg_lv'
+old = 'LV.'
+[[message]]
+key = 'np_msg_heard'
+old = '目撃文'
+[[message]]
+key = 'np_msg_reward'
+old = '初回報酬'
+[[message]]
+key = 'np_msg_limit'
+old = '<DATE> まで'
+[[message]]
+key = 'np_msg_sercret_reward'
+old = '未公開報酬'
+[[message]]
+key = 'np_msg_reward_rim'
+old = '<VAL RIM>'
+[[message]]
+key = 'np_msg_reward_g'
+old = '<VAL GOLD>'
+[[message]]
+key = 'np_msg_reward_exp'
+old = '<VAL XP>'
+[[message]]
+key = 'np_msg_nothing'
+old = '---'
+[[message]]
+key = 'np_msg_dialog_jump_check'
+old = '''
+<NAME AREA> に転移します
+必要リム：<VAL RIM>
+所持リム：<VAL RIM>'''
+[[message]]
+key = 'np_msg_dialoig_jump_norim'
+old = '''
+リムが不足しています
+必要リム：<VAL RIM>
+所持リム：<VAL RIM>'''
+[[message]]
+key = 'np_msg_decision_decide'
+old = '決定'
+[[message]]
+key = 'np_msg_decision_cansel'
+old = 'キャンセル'
+[[message]]
+key = 'np_msg_article_event'
+old = 'イベント情報'
+[[message]]
+key = 'np_msg_title'
+old = 'レスタニアニュース'
+[[message]]
+key = 'np_msg_guid_others'
+old = '他のイベント情報'
+[[message]]
+key = 'np_msg_state_partin'
+old = '参加中'
+[[message]]
+key = 'np_msg_state_nopartin'
+old = '参加受付中'
+[[message]]
+key = 'np_msg_subtitle_event'
+old = 'イベント情報'
+[[message]]
+key = 'np_msg_tab_ranking'
+old = 'ランキング'
+[[message]]
+key = 'np_msg_rab_reward'
+old = '報酬'
+[[message]]
+key = 'np_msg_pt'
+old = 'pt'
+[[message]]
+key = 'np_msg_ranking'
+old = 'ランキング'
+[[message]]
+key = 'np_msg_name'
+old = '名前'
+[[message]]
+key = 'np_msg_clan'
+old = 'クラン'
+[[message]]
+key = 'np_msg_reward_boarder'
+old = '累計スコア報酬'
+[[message]]
+key = 'np_msg_reward_ranking'
+old = 'ランキング報酬'
+[[message]]
+key = 'np_msg_rate'
+old = '<VAL>'
+[[message]]
+key = 'np_msg_rate_period'
+old = '<VAL>位～<VAL>位'
+[[message]]
+key = 'np_msg_noreward'
+old = '報酬なし'
+[[message]]
+key = 'np_msg_update'
+old = '集計日: <DATE>'
+[[message]]
+key = 'np_msg_starting'
+old = '開始直後'
+[[message]]
+key = 'np_msg_hoursago'
+old = '<VAL> 時間前'
+[[message]]
+key = 'np_msg_term'
+old = '<DATE> - <DATE>'
+[[message]]
+key = 'np_msg_pt_period'
+old = '<VAL>pt  - <VAL>pt'
+[[message]]
+key = 'np_msg_icon_ending'
+old = '終了直前'
+[[message]]
+key = 'np_msg_noquickpt'
+old = '新聞クイックパーティは現在利用できません'
+[[message]]
+key = 'np_msg_mypoint'
+old = 'スコア'
+[[message]]
+key = 'np_msg_area_select'
+old = 'Area Select'
+[[message]]
+key = 'np_msg_condition'
+old = '状況'
+[[message]]
+key = 'np_msg_period'
+old = '配信期間'
+[[message]]
+key = 'np_msg_period_start'
+old = '<DATE> から'
+[[message]]
+key = 'np_msg_period_end'
+old = '<DATE> まで'
+[[message]]
+key = 'np_msg_rank'
+old = '位'
+[[message]]
+key = 'np_msg_abst'
+old = '概要'
+[[message]]
+key = 'np_msg_entry_point'
+old = '参加場所'
+[[message]]
+key = 'np_msg_reward_info'
+old = 'ハイスコア報酬例'
+[[message]]
+key = 'np_msg_func_disable'
+old = 'この機能は現在使用できません'
+[[message]]
+key = 'np_msg_ability_reward'
+old = 'アビリティ：'
+[[message]]
+key = 'np_msg_total'
+old = 'Total'
+[[message]]
+key = 'np_msg_no_ranking'
+old = '現在ランキングは発表されていません'
+[[message]]
+key = 'np_msg_no_quest'
+old = '現在クエストの配信はありません'
+[[message]]
+key = 'np_msg_dailybonus'
+old = '''
+■<COL ffdc78>《本日のパーティーボーナス》</COL>詳細
+
+＜ボーナス発生条件＞
+　・対象のワールドクエストを他のプレイヤーと
+　　パーティーを組んで<VAL>回クリア
+　　（ポーンとの混成パーティーＯＫ）
+
+＜ボーナス内容＞
+　・クエスト報酬（XP/G/R/AP）にボーナス倍率
+　・レベルや進行度の差による報酬ペナルティ無効
+
+　※対象クエストはデイリーで変化します
+　※各クエストの受注画面、ログの報酬欄にて
+　　ボーナス詳細が確認できます'''
+[[message]]
+key = 'np_msg_dailybonus_bo'
+old = '''
+■<COL ffdc78>《本日のパーティーボーナス》</COL>詳細
+
+＜ボーナス発生条件＞
+　・対象のワールドクエストを他のプレイヤーと
+　　パーティーを組んで<VAL>回クリア
+　　（ポーンとの混成パーティーＯＫ）
+
+＜ボーナス内容＞
+　<COL ffdc78>★本日は《ブラッドオーブ</COL><VAL BO><COL ffdc78>》追加！</COL>
+　・クエスト報酬（XP/G/R/AP）にボーナス倍率
+　・レベルや進行度の差による報酬ペナルティ無効
+
+　※対象クエストはデイリーで変化します
+　※各クエストの受注画面、ログの報酬欄にて
+　　ボーナス詳細が確認できます'''
+[[message]]
+key = 'np_msg_guide_partybonus'
+old = 'パーティーボーナス情報'
+[[message]]
+key = 'np_msg_just'
+old = '適正'
+[[message]]
+key = 'np_msg_pt_period_more'
+old = '<VAL>pt 以上'
+[[message]]
+key = 'np_msg_state_preparation'
+old = '開戦準備中'
+[[message]]
+key = 'np_msg_state_ranking'
+old = '戦果分析中'
+[[message]]
+key = 'np_msg_state_receiving'
+old = '報酬配分中'
+[[message]]
+key = 'np_msg_reward_item_num'
+old = ' × '
+[[message]]
+key = 'np_msg_no_gm'
+old = '現在開催されていません'
+[[message]]
+key = 'np_msg_event_select'
+old = 'Event Select'
+[[message]]
+key = 'np_msg_andmore'
+old = 'and more...'
+[[message]]
+key = 'np_msg_order_info'
+old = '受注条件情報'
+[[message]]
+key = 'np_msg_header_gm'
+old = 'Grand Mission'
+[[message]]
+key = 'np_msg_header_wm'
+old = 'War Mission'
+[[message]]
+key = 'np_msg_dp_info_title'
+old = 'ポイント獲得状況'
+[[message]]
+key = 'np_msg_dp_info_name_pos'
+old = '<UNTN DP>'
+[[message]]
+key = 'np_msg_dp_info_name_acc'
+old = 'ウォーミッション累積ポイント'
+[[message]]
+key = 'np_msg_dp_info_att_cap'
+old = '注意事項'
+[[message]]
+key = 'np_msg_dp_info_att_inf'
+old = '''
+<UNTN DP>、ウォーミッション累積ポイントは
+次回のコンテンツ開催時にリセットされます'''
+[[message]]
+key = 'np_msg_state_receiving_wm'
+old = 'ランキング確定'
+[[message]]
+key = 'np_msg_wm_limited_condition_open'
+old = '期間限定開催！'
+[[message]]
+key = 'np_msg_mypoint_wm'
+old = 'ウォーミッション累積<UNIT PT>'
+[[message]]
+key = 'np_msg_period_01'
+old = '本作戦進行期間'
+[[message]]
+key = 'np_msg_period_02'
+old = '戦果分析期間'
+[[message]]
+key = 'np_msg_period_03'
+old = '報酬配分期間'

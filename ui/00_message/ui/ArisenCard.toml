@@ -1,0 +1,264 @@
+﻿[[message]]
+key = 'ARISEN_CARD_TEXT_ARISENCARD'
+old = 'Arisen Profile'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ARISENCARDJP'
+old = '覚者プロフィール'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PAWNCARD'
+old = 'Pawn Profile'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PAWNCARDJP'
+old = 'ポーンプロフィール'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CARDMENU'
+old = 'プロフィールの編集'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CLAN'
+old = 'Clan'
+[[message]]
+key = 'ARISEN_CARD_TEXT_RANK'
+old = 'RANK.'
+[[message]]
+key = 'ARISEN_CARD_TEXT_MEMBER'
+old = 'メンバー数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_JOBLV'
+old = 'Job LV'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PROFILE'
+old = 'Profile'
+[[message]]
+key = 'ARISEN_CARD_TEXT_LV'
+old = 'LV.'
+[[message]]
+key = 'ARISEN_CARD_TEXT_LGOAL'
+old = '冒険目的'
+[[message]]
+key = 'ARISEN_CARD_TEXT_SGOAL'
+old = '活動場所'
+[[message]]
+key = 'ARISEN_CARD_TEXT_STYLE'
+old = 'プレイスタイル'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABPROFILE'
+old = 'プロフィール'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABSTATUS'
+old = 'ステータス'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABSKILLABI'
+old = 'スキル・アビリティ'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABHISTORY'
+old = 'ヒストリー'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABPLAYER'
+old = '功績・覚者力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TABPAWN'
+old = '評価・オーブ'
+[[message]]
+key = 'ARISEN_CARD_TEXT_STATUS'
+old = 'Status'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PHYSICALATK'
+old = '物理攻撃力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_MAGICALATK'
+old = '魔法攻撃力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PHYSICALDEF'
+old = '物理防御力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_MAGICALDEF'
+old = '魔法防御力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_OFFENCE'
+old = 'Offence'
+[[message]]
+key = 'ARISEN_CARD_TEXT_STRENGTH'
+old = '筋力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHANCEATK'
+old = 'チャンス攻力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TIREDATK'
+old = '疲労攻力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_KNOCKEDATK'
+old = '気絶攻力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_DEFENCE'
+old = 'Defence'
+[[message]]
+key = 'ARISEN_CARD_TEXT_DEFPWR'
+old = '耐久力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CUREPWR'
+old = '生命治癒力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ELEMENT'
+old = 'Element'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PARCENT'
+old = '<VAL> %'
+[[message]]
+key = 'ARISEN_CARD_TEXT_SLASH'
+old = '/ <VAL>'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CM'
+old = '<VAL> cm'
+[[message]]
+key = 'ARISEN_CARD_TEXT_KG'
+old = '<VAL> '
+[[message]]
+key = 'ARISEN_CARD_TEXT_SKILL'
+old = 'Skill'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ABILITY'
+old = 'Ability'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CUSTOMSKILL'
+old = 'カスタムスキル'
+[[message]]
+key = 'ARISEN_CARD_TEXT_NORMALSKILL'
+old = 'ノーマルスキル'
+[[message]]
+key = 'ARISEN_CARD_TEXT_COST'
+old = 'Cost'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CRAFT'
+old = 'Craft'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PHARMACY'
+old = '生産作業スピード'
+[[message]]
+key = 'ARISEN_CARD_TEXT_FORGING'
+old = '装備の強化技術'
+[[message]]
+key = 'ARISEN_CARD_TEXT_SEWING'
+old = '高品質装備の作成力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHASING'
+old = '消耗品の生産数アップ'
+[[message]]
+key = 'ARISEN_CARD_TEXT_HERMETIC'
+old = 'コストパフォーマンス'
+[[message]]
+key = 'ARISEN_CARD_TEXT_OWNER'
+old = '覚者：'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHARACTER'
+old = '性格：'
+[[message]]
+key = 'ARISEN_CARD_TEXT_HP'
+old = 'HP'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ST'
+old = 'ST'
+[[message]]
+key = 'ARISEN_CARD_TEXT_NOJOIN'
+old = 'クランには所属していません。'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ADV'
+old = '冒険'
+[[message]]
+key = 'ARISEN_CARD_TEXT_BATTLE'
+old = '戦闘'
+[[message]]
+key = 'ARISEN_CARD_TEXT_GATHER'
+old = '収集'
+[[message]]
+key = 'ARISEN_CARD_TEXT_GROW'
+old = '成長'
+[[message]]
+key = 'ARISEN_CARD_TEXT_OHTER'
+old = 'その他'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ORBTITLE'
+old = '- Dedication Orb -'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CLASS'
+old = 'Class <VAL>'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TOTALVALUE'
+old = '総合評価'
+[[message]]
+key = 'ARISEN_CARD_TEXT_RENTALNUM'
+old = 'レンタル回数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_BATTLENUM'
+old = '戦闘回数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CRAFTNUM'
+old = 'クラフト回数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_LOOKSVALUE'
+old = '外見評価'
+[[message]]
+key = 'ARISEN_CARD_TEXT_BATTLEVALUE'
+old = '戦闘評価'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CRAFTVALUE'
+old = 'クラフト評価'
+[[message]]
+key = 'ARISEN_CARD_TEXT_EDITPROFILE'
+old = 'プロフィールの編集'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHANGEBG'
+old = '背景の変更'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHANGEPOSE'
+old = 'ポーズの変更'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CHANGEMYTITLE'
+old = '称号の変更'
+[[message]]
+key = 'ARISEN_CARD_TEXT_HISTORY'
+old = 'History'
+[[message]]
+key = 'ARISEN_CARD_TEXT_MAGIC'
+old = '魔力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_KNOCKBACK'
+old = '吹き飛ばし力'
+[[message]]
+key = 'ARISEN_CARD_TEXT_NOSKILL'
+old = 'なし'
+[[message]]
+key = 'ARISEN_CARD_TEXT_TITLE'
+old = '称号'
+[[message]]
+key = 'ARISEN_CARD_TEXT_NOTITLE'
+old = '称号設定なし'
+[[message]]
+key = 'ARISEN_CARD_TEXT_INVITEPARTY'
+old = 'パーティー参加'
+[[message]]
+key = 'ARISEN_CARD_TEXT_HISTORYGETACHIEVE'
+old = '<VAL> を獲得しました'
+[[message]]
+key = 'ARISEN_CARD_TEXT_ACHIEVEMENT'
+old = 'アチーブメント'
+[[message]]
+key = 'ARISEN_CARD_TEXT_RENTAL'
+old = 'Rental'
+[[message]]
+key = 'ARISEN_CARD_TEXT_BATTLEUSENUM'
+old = '戦闘使用数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_CRAFTUSENUM'
+old = 'クラフト使用数'
+[[message]]
+key = 'ARISEN_CARD_TEXT_RENTALVALUE'
+old = 'レンタルコスト'
+[[message]]
+key = 'ARISEN_CARD_TEXT_NOWRENTAL'
+old = 'レンタル中'
+[[message]]
+key = 'ARISEN_CARD_TEXT_SENID'
+old = 'SEN ID :'
+[[message]]
+key = 'ARISEN_CARD_TEXT_PLAYABLEJOB'
+old = '遊びたいジョブ'

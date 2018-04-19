@@ -1,0 +1,1088 @@
+﻿[[message]]
+key = 'syslog_battle_danger_tg'
+old = '<NAME TARGET>が行動不能になりました'
+[[message]]
+key = 'syslog_battle_danger'
+old = '<VAL> 秒で最後に立ち寄った拠点から再開されます'
+[[message]]
+key = 'syslog_battle_die'
+old = 'あと<VAL>秒で最後に立ち寄った拠点から再開されます'
+[[message]]
+key = 'syslog_tail_on'
+old = '<NAME TARGET>に追従オートランしました'
+[[message]]
+key = 'syslog_tail_off'
+old = '追従オートランが解除されました'
+[[message]]
+key = 'syslog_archieve_get'
+old = 'アチーブメント「<NAME ACHIEVE>」を獲得しました'
+[[message]]
+key = 'syslog_error_tell'
+old = '<NAME TARGET>にメッセージが送れませんでした'
+[[message]]
+key = 'syslog_error_clan'
+old = 'クランに加入していません'
+[[message]]
+key = 'syslog_error_entryb'
+old = 'エントリーボードに登録していません'
+[[message]]
+key = 'syslog_error_party_member_0'
+old = 'パーティーメンバーがいません'
+[[message]]
+key = 'syslog_friend_request'
+old = '<NAME TARGET>にフレンド申請をしました'
+[[message]]
+key = 'syslog_friend_requested'
+old = '<NAME TARGET>からフレンド申請されました'
+[[message]]
+key = 'syslog_friend_ok'
+old = '<NAME TARGET>とフレンドになりました'
+[[message]]
+key = 'syslog_friend_cancel_by_decline'
+old = '<NAME TARGET>のフレンド申請を断りました'
+[[message]]
+key = 'syslog_party_request'
+old = '<NAME TARGET>にパーティー要請しました'
+[[message]]
+key = 'syslog_party_requested'
+old = '<NAME TARGET>にパーティー要請されました'
+[[message]]
+key = 'syslog_party_decline'
+old = '<NAME TARGET>のパーティー要請を拒否しました'
+[[message]]
+key = 'syslog_party_declined'
+old = '<NAME TARGET>へのパーティー要請がキャンセルされました'
+[[message]]
+key = 'syslog_party_takeback'
+old = '<NAME TARGET>からのパーティー要請が取り消されました'
+[[message]]
+key = 'syslog_party_join_me'
+old = '<NAME TARGET>のパーティーに加わりました'
+[[message]]
+key = 'syslog_party_join_someone'
+old = '<NAME TARGET>がパーティーに加わりました'
+[[message]]
+key = 'syslog_party_join_pawn'
+old = '<NAME PAWN>がパーティーに加わりました'
+[[message]]
+key = 'syslog_party_leave_me'
+old = 'パーティーから抜けました'
+[[message]]
+key = 'syslog_party_leave_someone'
+old = '<NAME TARGET>がパーティーから抜けました'
+[[message]]
+key = 'syslog_party_leave_pawn'
+old = '<NAME PAWN>がパーティーから抜けました'
+[[message]]
+key = 'syslog_status_down_me'
+old = '<NAME PLAYER>が行動不能になりました'
+[[message]]
+key = 'syslog_status_down_someone'
+old = '<NAME TARGET>が行動不能になりました'
+[[message]]
+key = 'syslog_status_down_pawn'
+old = '<NAME PAWN>が行動不能になりました'
+[[message]]
+key = 'syslog_status_die_me'
+old = '<NAME PLAYER>が死亡状態になりました'
+[[message]]
+key = 'syslog_status_die_someone'
+old = '<NAME TARGET>が死亡状態になりました'
+[[message]]
+key = 'syslog_status_die_pawn'
+old = '<NAME PAWN>が死亡状態になりました'
+[[message]]
+key = 'syslog_status_resurrection_me'
+old = '<NAME PLAYER>が復活しました'
+[[message]]
+key = 'syslog_status_resurrection_someone'
+old = '<NAME TARGET>が復活しました'
+[[message]]
+key = 'syslog_status_resurrection_pawn'
+old = '<NAME PAWN>が復活しました'
+[[message]]
+key = 'syslog_favorite_login'
+old = '<NAME TARGET>がログインしました'
+[[message]]
+key = 'syslog_pawn_rescue_start'
+old = '<NAME PAWN>を救出してください'
+[[message]]
+key = 'syslog_pawn_rescue_faild'
+old = '<NAME PAWN>の救出に失敗しました'
+[[message]]
+key = 'syslog_pawn_rescue_success'
+old = '<NAME PAWN>の救出に成功しました。奥に進みポーンを解放しましょう'
+[[message]]
+key = 'syslog_pawn_rescue_resurrection'
+old = '<NAME PAWN>が復活して待機状態に戻り、再呼び出し可能になりました'
+[[message]]
+key = 'syslog_quest_accept_solo'
+old = '<NAME QUEST>を受注しました'
+[[message]]
+key = 'syslog_quest_accept_party'
+old = '<NAME TARGET>が<NAME QUEST>を受注しました'
+[[message]]
+key = 'syslog_quest_discover_solo'
+old = '<NAME QUEST>を発見しました'
+[[message]]
+key = 'syslog_quest_discover_party'
+old = '<NAME TARGET>が<NAME QUEST>を発見しました'
+[[message]]
+key = 'syslog_quest_clear'
+old = '<NAME QUEST>をクリアしました'
+[[message]]
+key = 'syslog_quest_assist'
+old = '<NAME QUEST>のクリアをアシストしました'
+[[message]]
+key = 'syslog_quest_happen'
+old = '<NAME QUEST>に異常事態が発生しました'
+[[message]]
+key = 'syslog_quest_dog_solo'
+old = '<NAME ITEM>×<VAL>を納品しました'
+[[message]]
+key = 'syslog_quest_dog_party'
+old = '<NAME TARGET>が<NAME ITEM>×<VAL>を納品しました'
+[[message]]
+key = 'syslog_quest_dog_clear'
+old = '<NAME ITEM>の納品が完了しました'
+[[message]]
+key = 'syslog_quest_order_wait'
+old = 'パーティーリーダーが<NAME QUEST>を受注待ちです'
+[[message]]
+key = 'syslog_quest_order'
+old = '＜<NAME QUEST>＞が受注待ちになりました'
+[[message]]
+key = 'syslog_quest_discontinue'
+old = '進行不可能になったクエストがあります'
+[[message]]
+key = 'syslog_reward_box_limit_notion'
+old = '''
+報酬ボックスの報酬件数が残り少なくなっています
+古い報酬を失う可能性があります'''
+[[message]]
+key = 'syslog_quest_update'
+old = '<NAME QUEST>：≪小目的用テキスト≫'
+[[message]]
+key = 'syslog_quest_dialog'
+old = '<NAME QUEST>：≪汎用アナウンス用テキスト≫'
+[[message]]
+key = 'syslog_quest_partyquest_set'
+old = '<NAME QUEST>がパーティークエストに設定されました'
+[[message]]
+key = 'syslog_quest_partyquest_unset'
+old = '<NAME QUEST>がパーティークエストから外されました'
+[[message]]
+key = 'syslog_quest_ready_start'
+old = '<NAME TARGET>がイベント準備・パーティー招集を行いました'
+[[message]]
+key = 'syslog_quest_ready_ready'
+old = '<NAME TARGET>が進行準備完了になりました'
+[[message]]
+key = 'syslog_quest_meinquest_enable'
+old = '<NAME QUEST>が受注可能になりました'
+[[message]]
+key = 'syslog_quest_stopedquest_enable'
+old = '進行不能が解除されたクエストがあります'
+[[message]]
+key = 'syslog_quest_cancel'
+old = '<NAME QUEST>を破棄しました'
+[[message]]
+key = 'syslog_quest_accept_max'
+old = 'クエスト受注数が最大になりました'
+[[message]]
+key = 'syslog_areamaster_ap_get'
+old = '''
+<NAME AREA>のエリアポイント
+<VAL AP>を獲得しました'''
+[[message]]
+key = 'syslog_areamaster_rankup_ready'
+old = '''
+<NAME AREA>のエリアランクアップが
+可能になりました'''
+[[message]]
+key = 'syslog_areamaster_spot_open'
+old = '<NAME SPOT>が解放されました'
+[[message]]
+key = 'syslog_jobmaster_job_get'
+old = '新ジョブ「<NAME JOB>」への転職が可能になりました'
+[[message]]
+key = 'syslog_jobmaster_skill_get'
+old = '「<NAME SKILL> <VAL LV>」へのレベルアップが可能になりました'
+[[message]]
+key = 'syslog_jobmaster_order_clear'
+old = '''
+ジョブ修練ログ「<VAL>」の課題を達成しました
+ジョブマスターに報告するか、ジョブ修練ログを開いてください'''
+[[message]]
+key = 'syslog_entryboard_creat'
+old = '<NAME QUEST>のエントリーボードを作成しました'
+[[message]]
+key = 'syslog_entryboard_entry'
+old = '<NAME QUEST>にエントリーしました'
+[[message]]
+key = 'syslog_entryboard_cancel'
+old = '<NAME QUEST>のエントリーを取り消しました'
+[[message]]
+key = 'syslog_content_start'
+old = '<NAME QUEST>を開始しました'
+[[message]]
+key = 'syslog_content_update'
+old = '<NAME QUEST>：≪小目的テキスト≫'
+[[message]]
+key = 'syslog_content_enemy_engage'
+old = '<EMNM n>が乱入しました'
+[[message]]
+key = 'syslog_content_convoy_hp_half'
+old = '<NAME TARGET>のHPが50％をきりました'
+[[message]]
+key = 'syslog_content_convoy_hp_little'
+old = '<NAME TARGET>のHPが瀕死状態です'
+[[message]]
+key = 'syslog_content_convoy_hp_zero'
+old = '<NAME TARGET>が倒れました'
+[[message]]
+key = 'syslog_content_pawn_rescure_success'
+old = '<NAME TARGET>(共闘ポーン名)の援護に成功しました'
+[[message]]
+key = 'syslog_content_pawn_add_reward'
+old = 'セカンドポーンの恩恵により<NAME QUEST>に報酬が追加されました'
+[[message]]
+key = 'syslog_content_pawn_get_pawn'
+old = 'セカンドポーンが仲間に加わりました'
+[[message]]
+key = 'syslog_content_boss_beat'
+old = '<EMNM n>を退けました'
+[[message]]
+key = 'syslog_content_boss_defeat'
+old = '<EMNM n>を討伐しました'
+[[message]]
+key = 'syslog_content_end_by_clear'
+old = '<NAME QUEST>をクリアにより終了します'
+[[message]]
+key = 'syslog_content_end_by_escape'
+old = '<NAME QUEST>を離脱により終了します'
+[[message]]
+key = 'syslog_content_end_by_friends_down'
+old = '<NAME QUEST>を<NAME TARGET>が倒れたため、終了します'
+[[message]]
+key = 'syslog_content_end_by_timeup'
+old = '<NAME QUEST>をタイムアップにより終了します'
+[[message]]
+key = 'syslog_content_anounce_prepare'
+old = '<NAME QUEST>が準備期間中です'
+[[message]]
+key = 'syslog_content_anounce_hold'
+old = '<NAME QUEST>が開催期間中です'
+[[message]]
+key = 'syslog_content_anounce_calcurate'
+old = '<NAME QUEST>が集計期間中です'
+[[message]]
+key = 'syslog_content_anounce_reward'
+old = '<NAME QUEST>が報酬受取期間中です'
+[[message]]
+key = 'syslog_content_reward_get_boarder'
+old = '<NAME QUEST>の累計スコア報酬が保管ボックスに入りました'
+[[message]]
+key = 'syslog_content_reward_get_ranked'
+old = '<NAME QUEST>のランキング報酬が保管ボックスに入りました'
+[[message]]
+key = 'syslog_pawnrestore_start'
+old = '<NAME PAWN>を救出せよ'
+[[message]]
+key = 'syslog_pawnrestore_success'
+old = '<NAME PAWN>の救出に成功しました'
+[[message]]
+key = 'syslog_pawnrestore_failure'
+old = '<NAME PAWN>の救出に失敗しました'
+[[message]]
+key = 'syslog_pawnrestore_restore'
+old = '<NAME PAWN>が復活しました'
+[[message]]
+key = 'syslog_craft_consume_item'
+old = '<NAME ITEM>を<VAL>個、消費しました'
+[[message]]
+key = 'syslog_craft_consume_gold'
+old = '<VAL GOLD>を消費しました'
+[[message]]
+key = 'syslog_craft_start'
+old = '<NAME PAWN>が<NAME ITEM>の生産を開始しました'
+[[message]]
+key = 'syslog_craft_recieve'
+old = '<NAME ITEM>を受け取りました'
+[[message]]
+key = 'syslog_craft_exp_get'
+old = '<NAME PAWN>がクラフト経験値<VAL XP>を取得しました'
+[[message]]
+key = 'syslog_craft_sophistcate'
+old = '<NAME ITEM>がグレードアップしました'
+[[message]]
+key = 'syslog_craft_crest_break'
+old = 'クレストを破壊しました'
+[[message]]
+key = 'syslog_craft_levelup'
+old = '<NAME PAWN>のクラフトレベルが<VAL>になりました'
+[[message]]
+key = 'syslog_craft_complete'
+old = 'クラフトが完成しました'
+[[message]]
+key = 'syslog_om_door_open_by_key'
+old = '<NAME TARGET>は鍵を使って扉を開けた'
+[[message]]
+key = 'syslog_om_door_open_by_enemy'
+old = '閉ざされていた道が開けた'
+[[message]]
+key = 'syslog_om_door_open_by_gimmik'
+old = '仕掛けにより扉が開いた'
+[[message]]
+key = 'syslog_om_rock_remove'
+old = '岩壁が爆破された'
+[[message]]
+key = 'syslog_om_rock_fall'
+old = '鍾乳石が落下した！'
+[[message]]
+key = 'syslog_om_trap'
+old = '天井の罠が発動した！'
+[[message]]
+key = 'syslog_om_warp'
+old = '<NAME TARGET>はリム転移した'
+[[message]]
+key = 'syslog_om_crank'
+old = '<NAME TARGET>はレバーを動かした'
+[[message]]
+key = 'syslog_om_gimmik'
+old = '仕掛けが作動した'
+[[message]]
+key = 'syslog_om_waterfall'
+old = '滝の流れが止まった'
+[[message]]
+key = 'syslog_om_treasure_trap'
+old = '宝箱のトラップが発動した！'
+[[message]]
+key = 'syslog_om_treasure_untrap'
+old = '<NAME TARGET>は宝箱のトラップを解除した'
+[[message]]
+key = 'syslog_achieve_open'
+old = '<NAME ACHIEVE>を解放しました'
+[[message]]
+key = 'syslog_achieve_unlock'
+old = 'アチーブメント報酬を獲得しました！'
+[[message]]
+key = 'syslog_tutorial_open'
+old = '<NAME TUTORIAL>がチュートリアルガイドに追加されました'
+[[message]]
+key = 'syslog_map_freemarker_on'
+old = 'マップにフリーマーカーを記入しました'
+[[message]]
+key = 'syslog_map_freemarker_off'
+old = 'マップのフリーマーカーを消去しました'
+[[message]]
+key = 'syslog_map_freemarker_described'
+old = '<NAME TARGET>がマップにフリーマーカーを記入しました'
+[[message]]
+key = 'syslog_map_freemarker_removed'
+old = '<NAME TARGET>がマップのフリーマーカーを消去しました'
+[[message]]
+key = 'syslog_levelup_job_me'
+old = '<NAME PLAYER>が<VAL LV>になりました'
+[[message]]
+key = 'syslog_levelup_job_someone'
+old = '<NAME TARGET>が<VAL LV>になりました'
+[[message]]
+key = 'syslog_levelup_job_pawn'
+old = '<NAME PAWN>が<VAL LV>になりました'
+[[message]]
+key = 'syslog_money_get'
+old = '<VAL G>を入手しました'
+[[message]]
+key = 'syslog_rim_get'
+old = '<VAL R>を入手しました'
+[[message]]
+key = 'syslog_bo_get'
+old = '<VAL BO>を入手しました'
+[[message]]
+key = 'syslog_bless_get'
+old = '復活力 が回復しました'
+[[message]]
+key = 'syslog_item_consume'
+old = '<NAME ITEM>を<VAL>個、使用しました'
+[[message]]
+key = 'syslog_item_get'
+old = '<NAME ITEM>を<VAL>個、獲得しました'
+[[message]]
+key = 'syslog_bazaar_put'
+old = 'バザーに<NAME ITEM>を出品しました'
+[[message]]
+key = 'syslog_bazaar_reput'
+old = 'バザーに<NAME ITEM>を再出品しました'
+[[message]]
+key = 'syslog_bazaar_cancel'
+old = 'バザーに出品中の<NAME ITEM>を取り消しました'
+[[message]]
+key = 'syslog_bazaar_sell'
+old = 'バザーに出品中の<NAME ITEM>が取引成立しました'
+[[message]]
+key = 'syslog_item_lost'
+old = '<NAME ITEM>を<VAL>個、失いました'
+[[message]]
+key = 'syslog_item_fortify'
+old = '<NAME ITEM>を強化しました'
+[[message]]
+key = 'syslog_item_sold'
+old = '<NAME ITEM>を<VAL>個、売却しました'
+[[message]]
+key = 'system_chat_renzoku'
+old = '同一のテキストは連続して発言できません'
+[[message]]
+key = 'syslog_item_error'
+old = 'アイテムの処理に失敗しました'
+[[message]]
+key = 'syslog_chatmacro_error'
+old = 'そのコマンドは実行できません'
+[[message]]
+key = 'syslog_clan_create'
+old = 'クランを作成しました'
+[[message]]
+key = 'syslog_clan_invite'
+old = '<NAME TARGET>からクランへの招待があります'
+[[message]]
+key = 'syslog_clan_req'
+old = '<NAME TARGET>からクラン加入申請がありました'
+[[message]]
+key = 'syslog_clan_join_other'
+old = '<NAME TARGET>がクランに加入しました'
+[[message]]
+key = 'syslog_clan_join'
+old = '<NAME TARGET>がクランに加入しました'
+[[message]]
+key = 'syslog_clan_chg_master'
+old = '<NAME TARGET>がクランマスターになりました'
+[[message]]
+key = 'syslog_clan_chg_leader'
+old = '<NAME TARGET>がクランリーダーになりました'
+[[message]]
+key = 'syslog_party_chg_leader'
+old = '<NAME TARGET>がパーティーリーダーになりました'
+[[message]]
+key = 'syslog_party_kicked'
+old = 'パーティーからはずれました'
+[[message]]
+key = 'syslog_party_request_ok'
+old = 'パーティー要請が受諾されました'
+[[message]]
+key = 'syslog_pawn_lost_escape'
+old = '<NAME PAWN>がロストを回避してリムストーンに帰還しました'
+[[message]]
+key = 'syslog_charge_course_start'
+old = '<NAME ETC> が発動しました'
+[[message]]
+key = 'syslog_charge_course_limit_1h'
+old = '<NAME ETC> の効果が、残り1時間をきりました'
+[[message]]
+key = 'syslog_charge_course_limit_24h'
+old = '<NAME ETC> の効果が、残り24時間をきりました'
+[[message]]
+key = 'syslog_charge_course_end'
+old = '<NAME ETC> が切れました'
+[[message]]
+key = 'syslog_content_entry'
+old = 'エクストリームミッションにエントリーしました'
+[[message]]
+key = 'syslog_mission_quit_reject'
+old = 'コンテンツ途中離脱が拒否されました'
+[[message]]
+key = 'syslog_mission_end'
+old = 'コンテンツを終了します'
+[[message]]
+key = 'syslog_mission_result_guid'
+old = 'リザルト確認後、担当NPC前に帰還します'
+[[message]]
+key = 'syslog_mission_npc_dying'
+old = '護衛対象の体力が残りわずかです'
+[[message]]
+key = 'syslog_mission_time_add'
+old = '残り時間が<VAL>秒追加されました'
+[[message]]
+key = 'syslog_mission_time_less_60sec'
+old = '残り60秒になりました'
+[[message]]
+key = 'syslog_mission_time_less_30sec'
+old = '残り30秒になりました'
+[[message]]
+key = 'syslog_mission_time_less_10sec'
+old = '残り10秒になりました'
+[[message]]
+key = 'syslog_mission_time_over'
+old = '時間切れになりました'
+[[message]]
+key = 'syslog_mission_quit_suggest'
+old = 'コンテンツ途中離脱の提案を行いました'
+[[message]]
+key = 'syslog_mission_quit_receive'
+old = 'コンテンツ途中離脱の提案がありました'
+[[message]]
+key = 'syslog_mission_quit_decide'
+old = 'コンテンツ途中離脱が決定されました'
+[[message]]
+key = 'syslog_pawn_adventure_dec'
+old = '<NAME PAWN>の冒険回数が減りました'
+[[message]]
+key = 'syslog_pawn_adventure_zero'
+old = '''
+<NAME PAWN>の冒険回数が0になりました
+パーティーから外れます'''
+[[message]]
+key = 'syslog_pawn_crafter_dec'
+old = '<NAME PAWN>のクラフト回数が減りました'
+[[message]]
+key = 'syslog_pawn_crafter_zero'
+old = '<NAME PAWN>のクラフト回数が0になりました'
+[[message]]
+key = 'syslog_item_deliver'
+old = '<NAME ITEM>を<VAL>個、納品しました'
+[[message]]
+key = 'syslog_stamp_bonus_day'
+old = '受け取っていない連続スタンプボーナスがあります'
+[[message]]
+key = 'syslog_stamp_bonus_cumulative'
+old = '受け取っていない累計スタンプボーナスがあります'
+[[message]]
+key = 'syslog_mission_interruption'
+old = 'コンテンツを中断します'
+[[message]]
+key = 'syslog_touchom_areamaster_lock'
+old = 'エリアマスターにより封鎖されている――'
+[[message]]
+key = 'syslog_soloquest_lock'
+old = '現在クエストを受注する事は出来ません。謁見の間でレオに話しかけてメインクエストを進行してください'
+[[message]]
+key = 'syslog_areamaster_ap_get_ex'
+old = '''
+<NAME AREA>のエリアポイント
+<VAL> (+<VAL>) <UNIT AP>を獲得しました'''
+[[message]]
+key = 'syslog_mission_jp_get'
+old = 'ジョブポイントを<VAL JP>獲得しました'
+[[message]]
+key = 'syslog_mission_jp_get_ex'
+old = 'ジョブポイントを<VAL> (+<VAL>) <UNIT JP>獲得しました'
+[[message]]
+key = 'syslog_quest_pawn_xp_get'
+old = '<NAME PAWN>が<VAL XP>獲得しました'
+[[message]]
+key = 'syslog_quest_pawn_xp_get_ex'
+old = '<NAME PAWN>が<VAL> (+<VAL>) <UNIT XP>獲得しました'
+[[message]]
+key = 'syslog_mission_pawn_jp'
+old = '<NAME PAWN>が<VAL JP>獲得しました'
+[[message]]
+key = 'syslog_mission_pawn_jp_ex'
+old = '<NAME PAWN>が<VAL> (+<VAL>) <UNIT JP>獲得しました'
+[[message]]
+key = 'syslog_goldstone_get'
+old = '黄金石を<VAL>個、入手しました（所持数：<VAL>）'
+[[message]]
+key = 'syslog_silvertickets_get'
+old = 'シルバーチケットを<VAL>枚、入手しました（所持数：<VAL>）'
+[[message]]
+key = 'syslog_success_input_eventcode'
+old = 'イベントコードの入力に成功しました'
+[[message]]
+key = 'syslog_receipt_mailitem'
+old = 'メールで特典アイテムをお受け取りください'
+[[message]]
+key = 'syslog_party_num_talk'
+old = 'パーティーメンバーがあと<VAL>人話しかけていません'
+[[message]]
+key = 'syslog_quest_end_dist_cancel'
+old = '＜<VAL>＞の配信期間が終了したためクエスト破棄されました'
+[[message]]
+key = 'syslog_awaitquest_auto_cancel'
+old = '受注待ちクエスト＜<VAL>＞を破棄しました'
+[[message]]
+key = 'syslog_craft_recieve2'
+old = '<NAME ITEM>を<VAL>個、受け取りました'
+[[message]]
+key = 'syslog_silvertichet_lost'
+old = 'シルバーチケットを<VAL>枚、消費しました（所持数：<VAL>）'
+[[message]]
+key = 'syslog_goldstone_lost'
+old = '黄金石を<VAL>個、消費しました（所持数：<VAL>）'
+[[message]]
+key = 'syslog_bo_lost'
+old = '<VAL BO>を消費しました'
+[[message]]
+key = 'syslog_rim_lost'
+old = '<VAL R>を消費しました'
+[[message]]
+key = 'syslog_money_lost'
+old = '<VAL G>を消費しました'
+[[message]]
+key = 'syslog_login_unclaimed_qreward'
+old = '保管ボックスに未受け取りのクエスト報酬があります'
+[[message]]
+key = 'syslog_quest_repeat_reward'
+old = '＜<NAME QUEST>＞の報酬に、繰り返しボーナスが適用されました'
+[[message]]
+key = 'syslog_quest_undiscover_reward'
+old = '＜<NAME QUEST>＞の未公開報酬を獲得しました'
+[[message]]
+key = 'syslog_quest_help_reward'
+old = 'リーダーが＜<NAME QUEST>＞をクリアしたため、アシスト報酬を獲得しました'
+[[message]]
+key = 'syslog_quest_party_bonus'
+old = 'パーティーでの＜<NAME QUEST>＞クリアにより、報酬にパーティーボーナスが適用されました'
+[[message]]
+key = 'syslog_quest_cannot_progress_party'
+old = 'リーダーと進行状況が異なるため、<NAME TARGET>の＜<NAME QUEST>＞が進行保留になりました'
+[[message]]
+key = 'syslog_quest_can_progress_party'
+old = '<NAME TARGET>の＜<NAME QUEST>＞が進行可能になりました'
+[[message]]
+key = 'syslog_quest_wait_order'
+old = 'パーティーリーダーの＜<NAME QUEST>＞が受注待ちになりました'
+[[message]]
+key = 'syslog_quest_can_progress_leader'
+old = 'パーティーリーダーの＜<NAME QUEST>＞が進行可能になりました'
+[[message]]
+key = 'syslog_quest_can_progress'
+old = '＜<NAME QUEST>＞が進行可能になりました'
+[[message]]
+key = 'syslog_quest_cannot_progress_leader'
+old = 'パーティーリーダーの＜<NAME QUEST>＞が進行不可になりました'
+[[message]]
+key = 'syslog_quest_cannot_progress'
+old = '＜<NAME QUEST>＞が進行不可になりました'
+[[message]]
+key = 'syslog_quest_party_progress_myself'
+old = '＜<VAL>＞を進行しようとしました（あと<VAL>人で進行）'
+[[message]]
+key = 'syslog_quest_party_progress'
+old = '＜<VAL>＞をパーティーメンバーが進行しようとしました（あと<VAL>人で進行）'
+[[message]]
+key = 'syslog_quest_party_order_myself'
+old = '＜<VAL>＞を受注しようとしました（あと<VAL>人で受注）'
+[[message]]
+key = 'syslog_quest_party_order'
+old = '＜<VAL>＞をパーティーメンバーが受注しようとしました（あと<VAL>人で受注）'
+[[message]]
+key = 'syslog_reward_box_limit_over'
+old = '''
+報酬ボックスの報酬件数がいっぱいです
+容量を超えると古い報酬は失われます'''
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_a_stone'
+old = '黄金石<VAL>個を消費して、ロットを1回まわしました'
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_stones'
+old = '黄金石<VAL>個を消費して、ロットを<VAL>連続でまわしました'
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_a_ticket'
+old = 'チケット<VAL>枚を消費して、ロットを1回まわしました'
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_a_tickets'
+old = 'チケット<VAL>枚を消費して、ロットを<VAL>連続でまわしました'
+[[message]]
+key = 'syslog_pawn_instruction_others'
+old = '''
+<NAME TARGET>がポーンに
+<PORD>を命令しました'''
+[[message]]
+key = 'syslog_quest_decide_deliver'
+old = '＜<NAME QUEST>＞の納品目標を達成しました'
+[[message]]
+key = 'syslog_jp_possession_max_notice'
+old = '''
+ジョブポイントの所持量が最大に近づいています
+( <VAL> / <VAL JP> )'''
+[[message]]
+key = 'syslog_jp_possession_max'
+old = 'ジョブポイントが最大に達したため、これ以上獲得できません'
+[[message]]
+key = 'syslog_jp_possession_max_notice_pawn'
+old = '''
+<NAME PAWN>のジョブポイントの所持量が最大に近づいています
+( <VAL> / <VAL JP> )'''
+[[message]]
+key = 'syslog_jp_possession_max_pawn'
+old = '<NAME PAWN>のジョブポイントが最大に達したため、これ以上獲得できません'
+[[message]]
+key = 'syslog_rentalpoint_get'
+old = 'レンタルポイントを<VAL RP>獲得しました'
+[[message]]
+key = 'syslog_rentalpoint_get_ex'
+old = 'レンタルポイントを<VAL> (+<VAL>) <UNIT RP>獲得しました'
+[[message]]
+key = 'syslog_rentalpoint_lost'
+old = 'レンタルポイントを<VAL RP>消費しました'
+[[message]]
+key = 'syslog_break_region_raid_boss'
+old = '''
+<VAL>の部位破壊に成功！
+討伐成功時にボーナス追加！'''
+[[message]]
+key = 'syslog_quest_progress_failed'
+old = '''
+＜<NAME QUEST>＞の進行に失敗しました
+クエストログで進行状況を確認してください'''
+[[message]]
+key = 'syslog_break_region_lose_raid_boss'
+old = '<VAL>の部位が壊れた！'
+[[message]]
+key = 'syslog_clan_member_login'
+old = '%sがログインしました'
+[[message]]
+key = 'syslog_clan_member_getachievement'
+old = '%sがアチーブメント「%s」を獲得しました'
+[[message]]
+key = 'syslog_quiq_mach_purpose'
+old = '''
+冒険目的＜<NAME ETC>＞
+小目的＜<NAME ETC>＞の条件でマッチングしました'''
+[[message]]
+key = 'syslog_name_etc_use'
+old = '<NAME ETC> を使用しました'
+[[message]]
+key = 'syslog_name_etc_buy'
+old = '<NAME ETC> を購入しました'
+[[message]]
+key = 'syslog_captrophy_complete'
+old = 'カプトロフィーの条件を達成しました'
+[[message]]
+key = 'syslog_exm_divide_player'
+old = '<VAL>が強制転移させられた'
+[[message]]
+key = 'syslog_exm_return_player'
+old = 'パーティーメンバーが転移先から復帰した！'
+[[message]]
+key = 'syslog_quest_stop_content_reset'
+old = 'クエストが進行不能のため、コンテンツ中断をおこなってください'
+[[message]]
+key = 'syslog_quest_root_reward'
+old = '''
+条件が満たされたため、＜<NAME QUEST>＞の
+クリア報酬が変化します'''
+[[message]]
+key = 'syslog_not_speak_a_while'
+old = 'しばらく発言できません'
+[[message]]
+key = 'syslog_pp_get'
+old = '<VAL PP>を入手しました'
+[[message]]
+key = 'syslog_pp_get_ex'
+old = '<VAL> (+<VAL>) <UNIT PP>を入手しました'
+[[message]]
+key = 'syslog_pp_lost'
+old = '<VAL PP>を消費しました'
+[[message]]
+key = 'syslog_clan_base_released'
+old = '<STG 210>を解放しました'
+[[message]]
+key = 'syslog_clan_point_use'
+old = '%s %sが、%sを購入しました（-%d <UNIT CP>）'
+[[message]]
+key = 'syslog_change_xp_mode'
+old = '%sの入手ポイントを%sに切り替えました'
+[[message]]
+key = 'syslog_cp_get'
+old = '<VAL CP>を入手しました'
+[[message]]
+key = 'syslog_clanquest_enable_clear_over'
+old = '''
+クランクエスト＜<VAL>＞の
+CP報酬の有効クリア回数が上限に達しました'''
+[[message]]
+key = 'syslog_clanlevelup'
+old = 'クランレベルが<VAL>になりました'
+[[message]]
+key = 'syslog_item_get_send_itempost'
+old = '<NAME ITEM>を<VAL>個、アイテムポストに送りました'
+[[message]]
+key = 'syslog_pawn_expedition_sp_delivery'
+old = '強化派遣により、希少なアイテムを持ち帰りました'
+[[message]]
+key = 'syslog_clan_base_release_possible'
+old = '''
+<STG 210>が解放可能になりました
+クラン酒場にいるキビザを訪ねてください'''
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_a_free'
+old = '無料で、ロットを1回まわしました'
+[[message]]
+key = 'syslog_gacha_msg_drawn_by_free'
+old = '無料で、ロットを<VAL>連続でまわしました'
+[[message]]
+key = 'syslog_pawn_expedition_expiration_hotspot_ite'
+old = '特別なアイテムを持ち帰りました'
+[[message]]
+key = 'syslog_quest_assist_accept'
+old = '＜<NAME QUEST>＞の受注条件を満たしていないため、アシスト状態で受注しました'
+[[message]]
+key = 'syslog_clan_clue_discover'
+old = '%s が %s を発見しました'
+[[message]]
+key = 'syslog_clan_dungeon_unlock'
+old = 'クランダンジョン %s が解放されました'
+[[message]]
+key = 'syslog_clan_common_unlock'
+old = '%s が解放されました'
+[[message]]
+key = 'syslog_dp_get'
+old = '<VAL DP>を入手しました'
+[[message]]
+key = 'syslog_dp_get_ex'
+old = '<VAL> (+<VAL>) <UNIT DP>を入手しました'
+[[message]]
+key = 'syslog_dp_lost'
+old = '<VAL DP>を消費しました'
+[[message]]
+key = 'syslog_hb_get'
+old = '<VAL HB>を入手しました'
+[[message]]
+key = 'syslog_hb_get_ex'
+old = '<VAL> (+<VAL>) <UNIT HB>を入手しました'
+[[message]]
+key = 'syslog_hb_lost'
+old = '<VAL HB>を消費しました'
+[[message]]
+key = 'syslog_xp_get'
+old = '<VAL XP>を入手しました'
+[[message]]
+key = 'syslog_xp_get_ex'
+old = '<VAL> (+<VAL>) <UNIT XP>を入手しました'
+[[message]]
+key = 'syslog_pgexp_get'
+old = '<NAME PAWN>が<VAL PTP>獲得しました'
+[[message]]
+key = 'syslog_pgexp_get_ex'
+old = '<NAME PAWN>が<VAL> (+<VAL>) <UNIT PTP>獲得しました'
+[[message]]
+key = 'syslog_mandragora_grow_up'
+old = 'マンドラゴラの育成が完了しました'
+[[message]]
+key = 'syslog_pap_get'
+old = '<NAME PAWN>に戦術育成が行えます'
+[[message]]
+key = 'syslog_craft_exp_get_ex'
+old = '<NAME PAWN>がクラフト経験値<VAL> (+<VAL>) <UNIT XP>を取得しました'
+[[message]]
+key = 'syslog_pq_seq_ana_start'
+old = '＜<VAL>＞の使命＜<VAL>＞を開始しました'
+[[message]]
+key = 'syslog_pq_seq_ana_acv_up'
+old = '＜<VAL>＞の使命＜<VAL>＞の達成度が上昇しました'
+[[message]]
+key = 'syslog_pq_seq_ana_acv_down'
+old = '＜<VAL>＞の使命＜<VAL>＞の達成度が減少しました'
+[[message]]
+key = 'syslog_pq_seq_ana_seqcomp'
+old = '＜<VAL>＞の使命＜<VAL>＞を達成しました'
+[[message]]
+key = 'syslog_pq_seq_ana_pacend'
+old = '＜<VAL>＞のすべての使命を達成しました'
+[[message]]
+key = 'syslog_wm_statement_gauge_0_defeat'
+old = '戦況が最悪化し、敗戦状態となりました'
+[[message]]
+key = 'syslog_release_area_spot'
+old = '<VAL>の<VAL>が解放されました'
+[[message]]
+key = 'syslog_pap_limit_up'
+old = '<NAME PAWN>の<UNTN PAP>の最大値が増加しました'
+[[message]]
+key = 'syslog_mission_time_down'
+old = '残り時間が<VAL>秒削減されました'
+[[message]]
+key = 'syslog_tp_get'
+old = '<VAL TP>を入手しました'
+[[message]]
+key = 'syslog_tp_lost'
+old = '<VAL TP>を消費しました'
+[[message]]
+key = 'syslog_tp_possession_max_notice'
+old = '''
+<UNTN TP>の所持量が最大に近づいています
+( <VAL> / <VAL TP> )'''
+[[message]]
+key = 'syslog_tp_possession_max'
+old = '<UNTN TP>が最大に達したため、これ以上獲得できません'
+[[message]]
+key = 'syslog_evoticket_get'
+old = '<UNTN MS>を<VAL><UNIT MS>、入手しました'
+[[message]]
+key = 'syslog_evoticket_lost'
+old = '<UNTN MS>を<VAL><UNIT MS>、消費しました'
+[[message]]
+key = 'syslog_action_tornado_target'
+old = '<NAME TARGET> が竜巻に狙われている'
+[[message]]
+key = 'syslog_action_tornado_sign'
+old = '<NAME TARGET> が竜巻を起こそうとしている'
+[[message]]
+key = 'syslog_action_humanhateup_target'
+old = '<NAME TARGET> が周囲の敵の標的になった'
+[[message]]
+key = 'syslog_pawn_expedition_hotsign'
+old = 'そろそろホットスポットが見つかりそうです'
+[[message]]
+key = 'syslog_wm_limited_condition_open'
+old = '''
+<VAL>が期間限定で開催決定！
+詳しくは、レスタニアニュースをご覧ください'''
+[[message]]
+key = 'syslog_action_fog_sign'
+old = '異界の霧が吐き零されていく――'
+[[message]]
+key = 'syslog_action_alldestroy_rest_num'
+old = '殲滅まで残り<VAL>体'
+[[message]]
+key = 'syslog_reward_box_limit_over_item'
+old = '''
+報酬ボックスのアイテム枠がいっぱいです
+報酬件数に関わらず古い報酬は失われます'''
+[[message]]
+key = 'syslog_reward_box_limit_notion_item'
+old = '''
+報酬ボックスのアイテム枠が残り少なくなっています
+報酬件数に関わらず古い報酬を失う可能性があります'''
+[[message]]
+key = 'syslog_action_fog_clear'
+old = '殲滅に成功　異界の霧が晴れてゆく――'
+[[message]]
+key = 'syslog_bo_get_ex'
+old = '<VAL> (+<VAL>) <UNIT BO>を入手しました'
+[[message]]
+key = 'syslog_money_get_ex'
+old = '<VAL> (+<VAL>) <UNIT G>を入手しました'
+[[message]]
+key = 'syslog_rim_get_ex'
+old = '<VAL> (+<VAL>) <UNIT R>を入手しました'
+[[message]]
+key = 'syslog_boardquest_sp_allclear_log'
+old = '''
+このクエストボードから配信されている
+すべてのクエストを一括してクリア状態にしました'''
+[[message]]
+key = 'syslog_hardboardquest_reload_log'
+old = '''
+スペシャルクエストボードがリロードされました
+（本日<VAL>回目）'''
+[[message]]
+key = 'syslog_action_summon_enemy01'
+old = '<NAME TARGET> が魔物を呼び寄せている――'
+[[message]]
+key = 'syslog_action_summon_enemy_clear'
+old = '召喚された魔物を一掃した――'
+[[message]]
+key = 'syslog_action_ensa'
+old = '怨嗟の声が渦巻いている――'
+[[message]]
+key = 'syslog_action_ensa_target_i'
+old = '''
+邪悪な怨念に憑りつかれた
+祓うには、“怨塊”を破壊せよ――'''
+[[message]]
+key = 'syslog_action_ensa_target_p'
+old = '''
+仲間が怨念に憑りつかれた
+祓うには、“怨塊”を破壊せよ――'''
+[[message]]
+key = 'syslog_action_ensa_clear'
+old = '“怨塊”を失い、<NAME TARGET> の力が弱まっていく――'
+[[message]]
+key = 'syslog_action_summon_enemy02'
+old = '<NAME TARGET> が魔物を召喚しようとしている――'
+[[message]]
+key = 'syslog_action_ikai_01'
+old = '<NAME TARGET> が異界に飛ばされた――'
+[[message]]
+key = 'syslog_action_ikai_02'
+old = '“魔物”を倒し、魂を集めて異界の扉を開け――'
+[[message]]
+key = 'syslog_action_ikai_03'
+old = '異界から救い出すには、“怨塊”を破壊せよ――'
+[[message]]
+key = 'syslog_action_ikai_04'
+old = '異界の扉が開かれた――'
+[[message]]
+key = 'syslog_action_ikai_05'
+old = '''
+仲間によって“怨塊”が破壊されたことで
+異界の扉が開かれた――'''
+[[message]]
+key = 'syslog_pawn_get_spskill_stack'
+old = '''
+<NAME PAWN>が
+<VAL>を閃きました'''
+[[message]]
+key = 'syslog_gdm_get'
+old = '<UNTN GDM>を<VAL><UNIT GDM>、入手しました'
+[[message]]
+key = 'syslog_sdm_get'
+old = '<UNTN SDM>を<VAL><UNIT SDM>、入手しました'
+[[message]]
+key = 'syslog_rdm_get'
+old = '<UNTN RDM>を<VAL><UNIT RDM>、入手しました'
+[[message]]
+key = 'syslog_gdm_lost'
+old = '<UNTN GDM>を<VAL><UNIT GDM>、消費しました'
+[[message]]
+key = 'syslog_sdm_lost'
+old = '<UNTN SDM>を<VAL><UNIT SDM>、消費しました'
+[[message]]
+key = 'syslog_rdm_lost'
+old = '<UNTN RDM>を<VAL><UNIT RDM>、消費しました'
+[[message]]
+key = 'syslog_kt_get'
+old = '<UNTN KT>を<VAL><UNIT KT>、入手しました'
+[[message]]
+key = 'syslog_kt_lost'
+old = '<UNTN KT>を<VAL><UNIT KT>、消費しました'
+[[message]]
+key = 'syslog_action_ikai_06'
+old = '異界の扉が、より多くの魂を求めている――'
+[[message]]
+key = 'syslog_action_ikai_07'
+old = '残り半分の魂を捧げれば、扉は開かれる――'
+[[message]]
+key = 'syslog_action_ikai_08'
+old = '残りわずかな魂で、異界の扉が開く――'
+[[message]]
+key = 'syslog_bbi_item_embody'
+old = '<VAL>に<NAME ITEM>を<VAL>個、持ち帰りました'
+[[message]]
+key = 'syslog_kt_possession_max'
+old = '<UNTN KT>が最大まで補充されました'
+[[message]]
+key = 'syslog_content_buff_get'
+old = '“<VAL>”の効果が付与されました'
+[[message]]
+key = 'syslog_content_buff_lost'
+old = '“<VAL>”の効果が解除されました'
+[[message]]
+key = 'syslog_action_ikai_09'
+old = '異界に飛ばされた――'
+[[message]]
+key = 'syslog_action_em_escape'
+old = '周囲から <NAME TARGET> の気配が消えた'
+[[message]]
+key = 'syslog_action_ikai_10'
+old = '残っている“怨塊”を、すべて破壊せよ――'
+[[message]]
+key = 'syslog_item_lockset'
+old = 'アイテムをセーフティ設定しました'
+[[message]]
+key = 'syslog_item_lockset_off'
+old = 'アイテムのセーフティ設定を解除しました'
+[[message]]
+key = 'syslog_action_ikai_11'
+old = '怨塊 残り“<VAL>個”――'
+[[message]]
+key = 'syslog_action_ikai_12'
+old = '''
+<NAME TARGET> が凶骨の祭壇へ運ばれた
+助けなければ、全員に厄災が降りかかる――'''
+[[message]]
+key = 'syslog_action_ikai_13'
+old = '''
+生贄として、<NAME TARGET> が祭壇に捧げられ
+全員に厄災が降りかかった――'''

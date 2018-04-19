@@ -1,0 +1,5239 @@
+﻿[[message]]
+key = 'ACHIEVEMENT_INFO_450'
+old = 'クエスト「横たわる神」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_519'
+old = 'クエスト「異界の戦士」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_520'
+old = 'クエスト「湯煙の館」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_521'
+old = 'クエスト「神の目覚め」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_522'
+old = 'クエスト「闇を纏う娘」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_523'
+old = 'クエスト「命の行方」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_524'
+old = 'クエスト「束の間の休息」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_525'
+old = 'クエスト「託された未来」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_526'
+old = 'クエスト「戦士たちの困惑」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_527'
+old = 'クエスト「偉大なる錬金術師」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_528'
+old = 'ボードクエスト（討伐）を初めてクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_529'
+old = 'ボードクエスト（討伐）を30回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_530'
+old = 'ボードクエスト（討伐）を100回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_531'
+old = 'ボードクエスト（討伐）を300回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_532'
+old = 'ボードクエスト（討伐）を600回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_533'
+old = 'ボードクエスト（納品）を初めてクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_534'
+old = 'ボードクエスト（納品）を30回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_535'
+old = 'ボードクエスト（納品）を100回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_536'
+old = 'ボードクエスト（納品）を300回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_537'
+old = 'ボードクエスト（納品）を600回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_538'
+old = 'ワールドクエスト（未公開）を初めてクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_539'
+old = 'ワールドクエスト（未公開）を10回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_540'
+old = 'ワールドクエスト（未公開）を50回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_541'
+old = 'ワールドクエスト（公開）を初めてクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_542'
+old = 'ワールドクエスト（公開）を10回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_543'
+old = 'ワールドクエスト（公開）を100回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_544'
+old = 'ワールドクエスト（公開）を300回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_582'
+old = '敵を総計100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_583'
+old = '敵を総計300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_584'
+old = '敵を総計1000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_585'
+old = '敵を総計10000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_590'
+old = '《ゴブリン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_591'
+old = '《ゴブリン》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_592'
+old = '《ゴブリン》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_608'
+old = '《ホブゴブリン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_609'
+old = '《ホブゴブリン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_610'
+old = '《ホブゴブリン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_623'
+old = '《ウルフ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_624'
+old = '《ウルフ》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_625'
+old = '《ウルフ》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_629'
+old = '《グリムワーグ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_630'
+old = '《グリムワーグ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_631'
+old = '《グリムワーグ》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_632'
+old = 'シャドーウルフを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_633'
+old = 'シャドーウルフを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_634'
+old = 'シャドーウルフを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_635'
+old = '《錬魔オオカミ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_636'
+old = '《錬魔オオカミ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_637'
+old = '《錬魔オオカミ》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_641'
+old = '《スケルトン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_642'
+old = '《スケルトン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_643'
+old = '《スケルトン》系エネミーを1000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_650'
+old = 'スカルロードを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_651'
+old = 'スカルロードを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_652'
+old = 'スカルロードを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_653'
+old = 'リビングアーマーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_654'
+old = 'リビングアーマーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_655'
+old = 'リビングアーマーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_662'
+old = 'デスナイトを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_663'
+old = 'デスナイトを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_664'
+old = 'デスナイトを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_665'
+old = 'ゴーストメイルを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_666'
+old = 'ゴーストメイルを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_667'
+old = 'ゴーストメイルを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_668'
+old = 'スケルトンアルケミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_669'
+old = 'スケルトンアルケミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_670'
+old = 'スケルトンアルケミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_671'
+old = '《リザードマン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_672'
+old = '《リザードマン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_673'
+old = '《リザードマン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_677'
+old = '《サルファーリザード》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_678'
+old = '《サルファーリザード》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_679'
+old = '《サルファーリザード》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_683'
+old = '《ロックリザード》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_684'
+old = '《ロックリザード》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_685'
+old = '《ロックリザード》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_689'
+old = 'ブルーニュートを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_690'
+old = 'ブルーニュートを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_691'
+old = 'ブルーニュートを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_692'
+old = '《アンデッド》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_693'
+old = '《アンデッド》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_694'
+old = '《アンデッド》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_707'
+old = '《液状人形》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_708'
+old = '《液状人形》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_709'
+old = '《液状人形》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_713'
+old = '《コープス》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_714'
+old = '《コープス》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_715'
+old = '《コープス》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_719'
+old = '《ハーピー》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_720'
+old = '《ハーピー》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_721'
+old = '《ハーピー》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_725'
+old = 'ハーピーアルケミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_726'
+old = 'ハーピーアルケミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_727'
+old = 'ハーピーアルケミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_728'
+old = 'シャドーハーピーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_729'
+old = 'シャドーハーピーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_730'
+old = 'シャドーハーピーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_731'
+old = '《地蟲》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_732'
+old = '《地蟲》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_733'
+old = '《地蟲》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_737'
+old = '《スライム》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_738'
+old = '《スライム》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_739'
+old = '《スライム》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_752'
+old = '《メルガン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_753'
+old = '《メルガン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_754'
+old = '《メルガン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_773'
+old = '《バンデッド》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_774'
+old = '《バンデッド》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_775'
+old = '《バンデッド》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_794'
+old = '《ローグ》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_795'
+old = '《ローグ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_796'
+old = '《ローグ》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_818'
+old = '《ミストマン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_819'
+old = '《ミストマン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_820'
+old = '《ミストマン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_836'
+old = '《呪縛ポーン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_837'
+old = '《呪縛ポーン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_838'
+old = '《呪縛ポーン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_863'
+old = '《フォレストゴブリン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_864'
+old = '《フォレストゴブリン》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_865'
+old = '《フォレストゴブリン》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_872'
+old = '《レッドキャップ》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_873'
+old = '《レッドキャップ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_874'
+old = '《レッドキャップ》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_881'
+old = '《錬魔ゴブリン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_882'
+old = '《錬魔ゴブリン》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_883'
+old = '《錬魔ゴブリン》系エネミーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_899'
+old = '《シャドーゴブリン》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_900'
+old = '《シャドーゴブリン》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_901'
+old = '《シャドーゴブリン》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_914'
+old = 'キラービーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_915'
+old = 'キラービーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_916'
+old = 'キラービーを500体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_917'
+old = '《サイクロプス》系エネミーを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_918'
+old = '《サイクロプス》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_919'
+old = '《サイクロプス》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_929'
+old = 'コロッサスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_930'
+old = 'コロッサスを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_931'
+old = 'コロッサスを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_935'
+old = 'エントを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_936'
+old = 'エントを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_937'
+old = 'エントを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_938'
+old = '《トロール》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_939'
+old = '《トロール》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_940'
+old = '《トロール》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_944'
+old = 'ゴーレムを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_945'
+old = 'ゴーレムを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_946'
+old = 'ゴーレムを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_947'
+old = '《巨人兵》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_948'
+old = '《巨人兵》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_949'
+old = '《巨人兵》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_953'
+old = 'ジオゴーレムを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_954'
+old = 'ジオゴーレムを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_955'
+old = 'ジオゴーレムを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_956'
+old = 'キメラを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_957'
+old = 'キメラを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_958'
+old = 'キメラを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_959'
+old = 'ホワイトキメラを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_960'
+old = 'ホワイトキメラを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_961'
+old = 'ホワイトキメラを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_962'
+old = 'シャドーキメラを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_963'
+old = 'シャドーキメラを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_964'
+old = 'シャドーキメラを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_965'
+old = 'グリフィンを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_966'
+old = 'グリフィンを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_967'
+old = 'グリフィンを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_968'
+old = 'コカトリスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_969'
+old = 'コカトリスを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_970'
+old = 'コカトリスを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_971'
+old = 'スフィンクスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_972'
+old = 'スフィンクスを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_973'
+old = 'スフィンクスを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_974'
+old = 'ブラックグリフィンを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_975'
+old = 'ブラックグリフィンを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_976'
+old = 'ブラックグリフィンを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_977'
+old = 'グリフィンアルケミーを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_978'
+old = 'グリフィンアルケミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_979'
+old = 'グリフィンアルケミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_980'
+old = '《ナイトメア》系エネミーを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_981'
+old = '《ナイトメア》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_982'
+old = '《ナイトメア》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_983'
+old = '《ジュエルアイ》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_984'
+old = '《ジュエルアイ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_985'
+old = '《ジュエルアイ》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_995'
+old = 'アルケミーアイを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_996'
+old = 'アルケミーアイを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_997'
+old = 'アルケミーアイを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_998'
+old = '《オーガ》系エネミーを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_999'
+old = '《オーガ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1000'
+old = '《オーガ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1001'
+old = '《エイプ》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1002'
+old = '《エイプ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1003'
+old = '《エイプ》系エネミーを200体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1004'
+old = 'グールを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1005'
+old = 'グールを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1006'
+old = 'グールを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1010'
+old = 'シルバーロアを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1011'
+old = 'シルバーロアを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1012'
+old = 'シルバーロアを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1013'
+old = 'ワイトを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1014'
+old = 'ワイトを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1015'
+old = 'ワイトを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1016'
+old = 'ウィッチを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1017'
+old = 'ウィッチを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1018'
+old = 'ウィッチを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1019'
+old = 'エンプレスゴーストを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1020'
+old = 'エンプレスゴーストを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1021'
+old = 'エンプレスゴーストを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1022'
+old = 'ドレイクを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1023'
+old = 'ドレイクを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1024'
+old = 'ドレイクを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1025'
+old = 'ウィルムを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1026'
+old = 'ウィルムを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1027'
+old = 'ウィルムを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1028'
+old = 'リンドブルムを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1029'
+old = 'リンドブルムを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1030'
+old = 'リンドブルムを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1031'
+old = 'アングルスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1032'
+old = 'アングルスを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1033'
+old = 'アングルスを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1034'
+old = 'ベヘモットを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1035'
+old = 'ベヘモットを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1036'
+old = 'ベヘモットを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1043'
+old = '《オーク》系エネミーを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1044'
+old = '《オーク》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1045'
+old = '《オーク》系エネミーを300体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1061'
+old = '《リーダーオーク》系エネミーを20体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1062'
+old = '《リーダーオーク》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1063'
+old = '《リーダーオーク》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1070'
+old = 'ギガン・マキナを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1071'
+old = 'ギガン・マキナを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1072'
+old = 'ギガン・マキナを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1073'
+old = 'ウサギを5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1074'
+old = '牛を5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1076'
+old = '《シカ》系動物を5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1077'
+old = '《ブタ》系動物を5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1079'
+old = 'カブトグモを5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1081'
+old = 'オオネズミを5体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1082'
+old = 'ズールを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1083'
+old = 'ズールを5体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1084'
+old = 'ズールを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1085'
+old = 'エルダードラゴンを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1086'
+old = 'エルダードラゴンを5体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1087'
+old = 'エルダードラゴンを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1091'
+old = '竜力の継承で覚者の体力値を初めて強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1092'
+old = '竜力の継承で覚者の体力値を20回強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1093'
+old = '竜力の継承で覚者のスタミナ値を初めて強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1094'
+old = '竜力の継承で覚者のスタミナ値を28回強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1095'
+old = '竜力の継承で覚者のアビリティコストを初めて強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1096'
+old = '竜力の継承で覚者のアビリティコストを12回強化'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1097'
+old = '竜力の継承でメインポーン契約枠を初めて増加'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1098'
+old = '竜力の継承でサポートポーン雇用枠を2回増加'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1099'
+old = '''
+ファイターのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1100'
+old = '''
+ファイターのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1101'
+old = '''
+ファイターのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1102'
+old = '''
+ハンターのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1103'
+old = '''
+ハンターのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1104'
+old = '''
+ハンターのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1105'
+old = '''
+プリーストのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1106'
+old = '''
+プリーストのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1107'
+old = '''
+プリーストのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1108'
+old = '''
+シールドセージのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1109'
+old = '''
+シールドセージのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1110'
+old = '''
+シールドセージのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1111'
+old = '''
+シーカーのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1112'
+old = '''
+シーカーのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1113'
+old = '''
+シーカーのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1114'
+old = '''
+ソーサラーのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1115'
+old = '''
+ソーサラーのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1116'
+old = '''
+ソーサラーのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1117'
+old = '''
+エレメントアーチャーのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1118'
+old = '''
+エレメントアーチャーのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1119'
+old = '''
+エレメントアーチャーのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1120'
+old = '''
+ウォリアーのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1121'
+old = '''
+ウォリアーのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1122'
+old = '''
+ウォリアーのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1123'
+old = '''
+アルケミストのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1124'
+old = '''
+アルケミストのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1125'
+old = '''
+アルケミストのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1126'
+old = '''
+ファイター・シーカー・ウォリアーの
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1127'
+old = '''
+ハンター・エレメントアーチャーの
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1128'
+old = '''
+シールドセージ・アルケミストの
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1129'
+old = '''
+プリースト・エレメントアーチャーの
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1130'
+old = '''
+プリースト・ソーサラー・シールドセージの
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1132'
+old = 'アルケミストまでの9種のジョブレベルが60に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1133'
+old = '''
+カスタムスキルを10回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1134'
+old = '''
+カスタムスキルを50回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1135'
+old = '''
+カスタムスキルを100回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1136'
+old = '''
+カスタムスキルを300回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1137'
+old = '''
+アビリティを10回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1138'
+old = '''
+アビリティを100回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1139'
+old = '''
+アビリティを300回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1140'
+old = '''
+アビリティを500回
+習得、またはレベルアップ'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1143'
+old = 'サポートポーンを初めて雇用'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1144'
+old = 'サポートポーンを累計30人雇用'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1145'
+old = 'サポートポーンを累計100人雇用'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1146'
+old = '''
+メインポーン（ファイター）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1147'
+old = '''
+メインポーン（ファイター）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1148'
+old = '''
+メインポーン（ファイター）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1149'
+old = '''
+メインポーン（ハンター）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1150'
+old = '''
+メインポーン（ハンター）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1151'
+old = '''
+メインポーン（ハンター）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1152'
+old = '''
+メインポーン（プリースト）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1153'
+old = '''
+メインポーン（プリースト）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1154'
+old = '''
+メインポーン（プリースト）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1155'
+old = '''
+メインポーン（シールドセージ）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1156'
+old = '''
+メインポーン（シールドセージ）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1157'
+old = '''
+メインポーン（シールドセージ）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1158'
+old = '''
+メインポーン（ソーサラー）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1159'
+old = '''
+メインポーン（ソーサラー）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1160'
+old = '''
+メインポーン（ソーサラー）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1161'
+old = '''
+メインポーン（シーカー）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1162'
+old = '''
+メインポーン（シーカー）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1163'
+old = '''
+メインポーン（シーカー）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1164'
+old = '''
+メインポーン（エレメントアーチャー）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1165'
+old = '''
+メインポーン（エレメントアーチャー）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1166'
+old = '''
+メインポーン（エレメントアーチャー）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1167'
+old = '''
+メインポーン（ウォリアー）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1168'
+old = '''
+メインポーン（ウォリアー）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1169'
+old = '''
+メインポーン（ウォリアー）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1170'
+old = '''
+メインポーン（アルケミスト）の
+ジョブレベルが10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1171'
+old = '''
+メインポーン（アルケミスト）の
+ジョブレベルが40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1172'
+old = '''
+メインポーン（アルケミスト）の
+ジョブレベルが60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1173'
+old = '''
+メインポーンのクラフトレベルが
+5に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1174'
+old = '''
+メインポーンのクラフトレベルが
+15に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1175'
+old = '''
+メインポーンのクラフトレベルが
+30に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1176'
+old = '''
+メインポーンがクラフトレベル8の
+クラフト昇格試験に合格'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1177'
+old = '''
+メインポーンがクラフトレベル16の
+クラフト昇格試験に合格'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_1228'
+old = '宝箱を10個開く'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1229'
+old = '宝箱を30個開く'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1230'
+old = '宝箱を100個開く'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1231'
+old = '茂み・草むらから10回採取'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1232'
+old = '茂み・草むらから30回採取'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1233'
+old = '茂み・草むらから100回採取'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1234'
+old = '鉱脈を10回採掘'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1235'
+old = '鉱脈を30回採掘'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1236'
+old = '鉱脈を100回採掘'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1237'
+old = '倒木を10回伐採'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1238'
+old = '倒木を30回伐採'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1239'
+old = '倒木を100回伐採'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1243'
+old = 'クラフトにより武器を初めて作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1244'
+old = 'クラフトにより武器を30回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1245'
+old = 'クラフトにより武器を100回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1246'
+old = 'クラフトにより武器を300回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1247'
+old = 'クラフトにより防具を初めて作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1248'
+old = 'クラフトにより防具を30回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1249'
+old = 'クラフトにより防具を100回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1250'
+old = 'クラフトにより防具を300回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1251'
+old = 'クラフトにより道具・素材を初めて作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1252'
+old = 'クラフトにより道具・素材を30回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1253'
+old = 'クラフトにより道具・素材を100回作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1254'
+old = 'クラフトにより武器を10種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1255'
+old = 'クラフトにより武器を100種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1256'
+old = 'クラフトにより武器を200種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1257'
+old = 'クラフトにより武器を300種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1258'
+old = 'クラフトにより防具を30種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1259'
+old = 'クラフトにより防具を100種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1260'
+old = 'クラフトにより防具を300種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1261'
+old = 'クラフトにより防具を500種作成'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1262'
+old = 'クラフトでグレード(★2)の強化に初めて成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1263'
+old = 'クラフトでグレード(★2)の強化に10回成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1264'
+old = 'クラフトでグレード(★3)の強化に初めて成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1265'
+old = 'クラフトでグレード(★3)の強化に10回成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1266'
+old = 'クラフトでグレード(★4)の強化に初めて成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1267'
+old = 'クラフトでグレード(★4)の強化に10回成功'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1276'
+old = 'クラフトによりクレストを初めて装着'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1277'
+old = 'クラフトによりクレストを100回装着'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1278'
+old = 'クラフトにより装備のカラーを初めて変更'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1279'
+old = 'クラフトにより装備のカラーを100回変更'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1291'
+old = 'フォトモードで100回撮影'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1292'
+old = 'ワールドクエスト（未公開）を100回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1295'
+old = '敵を総計20000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1296'
+old = '敵を総計30000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1297'
+old = 'グランエントを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1298'
+old = 'グランエントを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1299'
+old = 'グランエントを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1300'
+old = 'ミストドレイクを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1301'
+old = 'ミストドレイクを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1302'
+old = 'ミストドレイクを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1303'
+old = 'ミストウィルムを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1304'
+old = 'ミストウィルムを30体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1305'
+old = 'ミストウィルムを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1312'
+old = 'ファイターのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1313'
+old = 'ファイターのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1314'
+old = 'ファイターのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1315'
+old = 'ファイターのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1316'
+old = 'ファイターのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1317'
+old = 'ファイターのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1318'
+old = 'ファイターのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1319'
+old = 'ファイターのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1320'
+old = 'ファイターのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1321'
+old = 'ファイターのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1322'
+old = 'ファイターのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1323'
+old = 'ファイターのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1324'
+old = 'ファイターのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1325'
+old = 'ファイターのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1326'
+old = 'ファイターのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1327'
+old = 'ファイターのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1328'
+old = 'ファイターのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1329'
+old = 'ファイターのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1330'
+old = 'ファイターのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1331'
+old = 'ファイターのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1332'
+old = 'ファイターのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1333'
+old = 'ファイターのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1334'
+old = 'ファイターのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1335'
+old = 'ファイターのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1336'
+old = 'ファイターのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1337'
+old = 'ファイターのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1338'
+old = 'ファイターのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1339'
+old = 'ファイターのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1340'
+old = 'ファイターのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1341'
+old = 'ファイターのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1342'
+old = 'ファイターのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1343'
+old = 'ファイターのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1344'
+old = 'ファイターのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1345'
+old = 'ファイターのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1346'
+old = 'ファイターのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1347'
+old = 'ファイターのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1348'
+old = 'ファイターのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1349'
+old = 'ファイターのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1350'
+old = 'ファイターのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1351'
+old = 'ファイターのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1352'
+old = 'ファイターのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1353'
+old = 'ファイターのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1354'
+old = 'ファイターのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1355'
+old = 'ファイターのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1356'
+old = 'ファイターのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1357'
+old = 'ファイターのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1358'
+old = 'ファイターのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1359'
+old = 'ファイターのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1360'
+old = 'ファイターのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1361'
+old = 'ファイターのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1362'
+old = 'ファイターのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1363'
+old = 'ファイターのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1364'
+old = 'ファイターのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1365'
+old = 'ファイターのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1366'
+old = 'ファイターのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1367'
+old = 'ファイターのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1368'
+old = 'ファイターのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1369'
+old = 'ファイターのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1370'
+old = 'ファイターのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1371'
+old = 'ハンターのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1372'
+old = 'ハンターのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1373'
+old = 'ハンターのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1374'
+old = 'ハンターのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1375'
+old = 'ハンターのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1376'
+old = 'ハンターのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1377'
+old = 'ハンターのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1378'
+old = 'ハンターのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1379'
+old = 'ハンターのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1380'
+old = 'ハンターのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1381'
+old = 'ハンターのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1382'
+old = 'ハンターのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1383'
+old = 'ハンターのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1384'
+old = 'ハンターのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1385'
+old = 'ハンターのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1386'
+old = 'ハンターのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1387'
+old = 'ハンターのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1388'
+old = 'ハンターのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1389'
+old = 'ハンターのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1390'
+old = 'ハンターのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1391'
+old = 'ハンターのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1392'
+old = 'ハンターのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1393'
+old = 'ハンターのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1394'
+old = 'ハンターのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1395'
+old = 'ハンターのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1396'
+old = 'ハンターのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1397'
+old = 'ハンターのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1398'
+old = 'ハンターのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1399'
+old = 'ハンターのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1400'
+old = 'ハンターのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1401'
+old = 'ハンターのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1402'
+old = 'ハンターのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1403'
+old = 'ハンターのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1404'
+old = 'ハンターのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1405'
+old = 'ハンターのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1406'
+old = 'ハンターのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1407'
+old = 'ハンターのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1408'
+old = 'ハンターのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1409'
+old = 'ハンターのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1410'
+old = 'ハンターのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1411'
+old = 'ハンターのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1412'
+old = 'ハンターのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1413'
+old = 'ハンターのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1414'
+old = 'ハンターのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1415'
+old = 'ハンターのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1416'
+old = 'ハンターのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1417'
+old = 'ハンターのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1418'
+old = 'ハンターのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1419'
+old = 'ハンターのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1420'
+old = 'ハンターのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1421'
+old = 'ハンターのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1422'
+old = 'ハンターのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1423'
+old = 'ハンターのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1424'
+old = 'ハンターのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1425'
+old = 'ハンターのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1426'
+old = 'ハンターのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1427'
+old = 'ハンターのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1428'
+old = 'ハンターのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1429'
+old = 'ハンターのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1430'
+old = 'プリーストのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1431'
+old = 'プリーストのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1432'
+old = 'プリーストのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1433'
+old = 'プリーストのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1434'
+old = 'プリーストのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1435'
+old = 'プリーストのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1436'
+old = 'プリーストのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1437'
+old = 'プリーストのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1438'
+old = 'プリーストのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1439'
+old = 'プリーストのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1440'
+old = 'プリーストのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1441'
+old = 'プリーストのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1442'
+old = 'プリーストのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1443'
+old = 'プリーストのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1444'
+old = 'プリーストのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1445'
+old = 'プリーストのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1446'
+old = 'プリーストのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1447'
+old = 'プリーストのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1448'
+old = 'プリーストのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1449'
+old = 'プリーストのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1450'
+old = 'プリーストのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1451'
+old = 'プリーストのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1452'
+old = 'プリーストのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1453'
+old = 'プリーストのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1454'
+old = 'プリーストのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1455'
+old = 'プリーストのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1456'
+old = 'プリーストのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1457'
+old = 'プリーストのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1458'
+old = 'プリーストのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1459'
+old = 'プリーストのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1460'
+old = 'プリーストのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1461'
+old = 'プリーストのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1462'
+old = 'プリーストのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1463'
+old = 'プリーストのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1464'
+old = 'プリーストのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1465'
+old = 'プリーストのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1466'
+old = 'プリーストのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1467'
+old = 'プリーストのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1468'
+old = 'プリーストのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1469'
+old = 'プリーストのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1470'
+old = 'プリーストのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1471'
+old = 'プリーストのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1472'
+old = 'プリーストのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1473'
+old = 'プリーストのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1474'
+old = 'プリーストのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1475'
+old = 'プリーストのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1476'
+old = 'プリーストのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1477'
+old = 'プリーストのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1478'
+old = 'プリーストのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1479'
+old = 'プリーストのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1480'
+old = 'プリーストのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1481'
+old = 'プリーストのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1482'
+old = 'プリーストのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1483'
+old = 'プリーストのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1484'
+old = 'プリーストのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1485'
+old = 'プリーストのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1486'
+old = 'プリーストのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1487'
+old = 'プリーストのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1488'
+old = 'プリーストのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1489'
+old = 'シールドセージのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1490'
+old = 'シールドセージのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1491'
+old = 'シールドセージのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1492'
+old = 'シールドセージのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1493'
+old = 'シールドセージのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1494'
+old = 'シールドセージのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1495'
+old = 'シールドセージのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1496'
+old = 'シールドセージのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1497'
+old = 'シールドセージのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1498'
+old = 'シールドセージのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1499'
+old = 'シールドセージのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1500'
+old = 'シールドセージのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1501'
+old = 'シールドセージのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1502'
+old = 'シールドセージのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1503'
+old = 'シールドセージのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1504'
+old = 'シールドセージのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1505'
+old = 'シールドセージのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1506'
+old = 'シールドセージのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1507'
+old = 'シールドセージのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1508'
+old = 'シールドセージのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1509'
+old = 'シールドセージのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1510'
+old = 'シールドセージのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1511'
+old = 'シールドセージのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1512'
+old = 'シールドセージのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1513'
+old = 'シールドセージのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1514'
+old = 'シールドセージのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1515'
+old = 'シールドセージのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1516'
+old = 'シールドセージのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1517'
+old = 'シールドセージのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1518'
+old = 'シールドセージのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1519'
+old = 'シールドセージのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1520'
+old = 'シールドセージのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1521'
+old = 'シールドセージのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1522'
+old = 'シールドセージのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1523'
+old = 'シールドセージのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1524'
+old = 'シールドセージのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1525'
+old = 'シールドセージのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1526'
+old = 'シールドセージのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1527'
+old = 'シールドセージのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1528'
+old = 'シールドセージのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1529'
+old = 'シールドセージのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1530'
+old = 'シールドセージのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1531'
+old = 'シールドセージのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1532'
+old = 'シールドセージのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1533'
+old = 'シールドセージのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1534'
+old = 'シールドセージのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1535'
+old = 'シールドセージのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1536'
+old = 'シールドセージのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1537'
+old = 'シールドセージのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1538'
+old = 'シールドセージのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1539'
+old = 'シールドセージのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1540'
+old = 'シールドセージのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1541'
+old = 'シールドセージのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1542'
+old = 'シールドセージのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1543'
+old = 'シールドセージのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1544'
+old = 'シールドセージのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1545'
+old = 'シールドセージのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1546'
+old = 'シールドセージのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1547'
+old = 'シールドセージのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1548'
+old = 'ソーサラーのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1549'
+old = 'ソーサラーのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1550'
+old = 'ソーサラーのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1551'
+old = 'ソーサラーのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1552'
+old = 'ソーサラーのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1553'
+old = 'ソーサラーのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1554'
+old = 'ソーサラーのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1555'
+old = 'ソーサラーのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1556'
+old = 'ソーサラーのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1557'
+old = 'ソーサラーのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1558'
+old = 'ソーサラーのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1559'
+old = 'ソーサラーのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1560'
+old = 'ソーサラーのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1561'
+old = 'ソーサラーのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1562'
+old = 'ソーサラーのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1563'
+old = 'ソーサラーのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1564'
+old = 'ソーサラーのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1565'
+old = 'ソーサラーのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1566'
+old = 'ソーサラーのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1567'
+old = 'ソーサラーのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1568'
+old = 'ソーサラーのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1569'
+old = 'ソーサラーのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1570'
+old = 'ソーサラーのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1571'
+old = 'ソーサラーのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1572'
+old = 'ソーサラーのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1573'
+old = 'ソーサラーのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1574'
+old = 'ソーサラーのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1575'
+old = 'ソーサラーのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1576'
+old = 'ソーサラーのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1577'
+old = 'ソーサラーのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1578'
+old = 'ソーサラーのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1579'
+old = 'ソーサラーのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1580'
+old = 'ソーサラーのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1581'
+old = 'ソーサラーのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1582'
+old = 'ソーサラーのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1583'
+old = 'ソーサラーのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1584'
+old = 'ソーサラーのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1585'
+old = 'ソーサラーのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1586'
+old = 'ソーサラーのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1587'
+old = 'ソーサラーのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1588'
+old = 'ソーサラーのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1589'
+old = 'ソーサラーのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1590'
+old = 'ソーサラーのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1591'
+old = 'ソーサラーのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1592'
+old = 'ソーサラーのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1593'
+old = 'ソーサラーのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1594'
+old = 'ソーサラーのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1595'
+old = 'ソーサラーのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1596'
+old = 'ソーサラーのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1597'
+old = 'ソーサラーのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1598'
+old = 'ソーサラーのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1599'
+old = 'ソーサラーのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1600'
+old = 'ソーサラーのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1601'
+old = 'ソーサラーのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1602'
+old = 'ソーサラーのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1603'
+old = 'ソーサラーのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1604'
+old = 'ソーサラーのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1605'
+old = 'ソーサラーのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1606'
+old = 'ソーサラーのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1607'
+old = 'シーカーのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1608'
+old = 'シーカーのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1609'
+old = 'シーカーのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1610'
+old = 'シーカーのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1611'
+old = 'シーカーのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1612'
+old = 'シーカーのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1613'
+old = 'シーカーのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1614'
+old = 'シーカーのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1615'
+old = 'シーカーのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1616'
+old = 'シーカーのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1617'
+old = 'シーカーのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1618'
+old = 'シーカーのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1619'
+old = 'シーカーのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1620'
+old = 'シーカーのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1621'
+old = 'シーカーのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1622'
+old = 'シーカーのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1623'
+old = 'シーカーのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1624'
+old = 'シーカーのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1625'
+old = 'シーカーのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1626'
+old = 'シーカーのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1627'
+old = 'シーカーのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1628'
+old = 'シーカーのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1629'
+old = 'シーカーのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1630'
+old = 'シーカーのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1631'
+old = 'シーカーのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1632'
+old = 'シーカーのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1633'
+old = 'シーカーのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1634'
+old = 'シーカーのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1635'
+old = 'シーカーのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1636'
+old = 'シーカーのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1637'
+old = 'シーカーのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1638'
+old = 'シーカーのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1639'
+old = 'シーカーのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1640'
+old = 'シーカーのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1641'
+old = 'シーカーのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1642'
+old = 'シーカーのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1643'
+old = 'シーカーのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1644'
+old = 'シーカーのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1645'
+old = 'シーカーのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1646'
+old = 'シーカーのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1647'
+old = 'シーカーのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1648'
+old = 'シーカーのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1649'
+old = 'シーカーのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1650'
+old = 'シーカーのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1651'
+old = 'シーカーのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1652'
+old = 'シーカーのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1653'
+old = 'シーカーのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1654'
+old = 'シーカーのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1655'
+old = 'シーカーのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1656'
+old = 'シーカーのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1657'
+old = 'シーカーのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1658'
+old = 'シーカーのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1659'
+old = 'シーカーのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1660'
+old = 'シーカーのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1661'
+old = 'シーカーのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1662'
+old = 'シーカーのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1663'
+old = 'シーカーのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1664'
+old = 'シーカーのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1665'
+old = 'シーカーのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1666'
+old = 'エレメントアーチャーのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1667'
+old = 'エレメントアーチャーのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1668'
+old = 'エレメントアーチャーのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1669'
+old = 'エレメントアーチャーのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1670'
+old = 'エレメントアーチャーのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1671'
+old = 'エレメントアーチャーのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1672'
+old = 'エレメントアーチャーのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1673'
+old = 'エレメントアーチャーのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1674'
+old = 'エレメントアーチャーのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1675'
+old = 'エレメントアーチャーのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1676'
+old = 'エレメントアーチャーのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1677'
+old = 'エレメントアーチャーのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1678'
+old = 'エレメントアーチャーのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1679'
+old = 'エレメントアーチャーのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1680'
+old = 'エレメントアーチャーのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1681'
+old = 'エレメントアーチャーのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1682'
+old = 'エレメントアーチャーのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1683'
+old = 'エレメントアーチャーのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1684'
+old = 'エレメントアーチャーのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1685'
+old = 'エレメントアーチャーのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1686'
+old = 'エレメントアーチャーのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1687'
+old = 'エレメントアーチャーのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1688'
+old = 'エレメントアーチャーのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1689'
+old = 'エレメントアーチャーのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1690'
+old = 'エレメントアーチャーのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1691'
+old = 'エレメントアーチャーのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1692'
+old = 'エレメントアーチャーのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1693'
+old = 'エレメントアーチャーのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1694'
+old = 'エレメントアーチャーのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1695'
+old = 'エレメントアーチャーのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1696'
+old = 'エレメントアーチャーのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1697'
+old = 'エレメントアーチャーのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1698'
+old = 'エレメントアーチャーのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1699'
+old = 'エレメントアーチャーのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1700'
+old = 'エレメントアーチャーのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1701'
+old = 'エレメントアーチャーのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1702'
+old = 'エレメントアーチャーのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1703'
+old = 'エレメントアーチャーのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1704'
+old = 'エレメントアーチャーのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1705'
+old = 'エレメントアーチャーのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1706'
+old = 'エレメントアーチャーのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1707'
+old = 'エレメントアーチャーのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1708'
+old = 'エレメントアーチャーのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1709'
+old = 'エレメントアーチャーのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1710'
+old = 'エレメントアーチャーのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1711'
+old = 'エレメントアーチャーのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1712'
+old = 'エレメントアーチャーのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1713'
+old = 'エレメントアーチャーのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1714'
+old = 'エレメントアーチャーのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1715'
+old = 'エレメントアーチャーのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1716'
+old = 'エレメントアーチャーのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1717'
+old = 'エレメントアーチャーのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1718'
+old = 'エレメントアーチャーのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1719'
+old = 'エレメントアーチャーのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1720'
+old = 'エレメントアーチャーのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1721'
+old = 'エレメントアーチャーのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1722'
+old = 'エレメントアーチャーのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1723'
+old = 'エレメントアーチャーのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1724'
+old = 'エレメントアーチャーのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1725'
+old = 'ウォリアーのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1726'
+old = 'ウォリアーのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1727'
+old = 'ウォリアーのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1728'
+old = 'ウォリアーのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1729'
+old = 'ウォリアーのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1730'
+old = 'ウォリアーのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1731'
+old = 'ウォリアーのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1732'
+old = 'ウォリアーのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1733'
+old = 'ウォリアーのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1734'
+old = 'ウォリアーのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1735'
+old = 'ウォリアーのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1736'
+old = 'ウォリアーのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1737'
+old = 'ウォリアーのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1738'
+old = 'ウォリアーのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1739'
+old = 'ウォリアーのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1740'
+old = 'ウォリアーのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1741'
+old = 'ウォリアーのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1742'
+old = 'ウォリアーのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1743'
+old = 'ウォリアーのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1744'
+old = 'ウォリアーのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1745'
+old = 'ウォリアーのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1746'
+old = 'ウォリアーのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1747'
+old = 'ウォリアーのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1748'
+old = 'ウォリアーのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1749'
+old = 'ウォリアーのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1750'
+old = 'ウォリアーのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1751'
+old = 'ウォリアーのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1752'
+old = 'ウォリアーのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1753'
+old = 'ウォリアーのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1754'
+old = 'ウォリアーのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1755'
+old = 'ウォリアーのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1756'
+old = 'ウォリアーのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1757'
+old = 'ウォリアーのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1758'
+old = 'ウォリアーのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1759'
+old = 'ウォリアーのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1760'
+old = 'ウォリアーのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1761'
+old = 'ウォリアーのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1762'
+old = 'ウォリアーのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1763'
+old = 'ウォリアーのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1764'
+old = 'ウォリアーのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1765'
+old = 'ウォリアーのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1766'
+old = 'ウォリアーのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1767'
+old = 'ウォリアーのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1768'
+old = 'ウォリアーのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1769'
+old = 'ウォリアーのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1770'
+old = 'ウォリアーのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1771'
+old = 'ウォリアーのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1772'
+old = 'ウォリアーのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1773'
+old = 'ウォリアーのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1774'
+old = 'ウォリアーのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1775'
+old = 'ウォリアーのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1776'
+old = 'ウォリアーのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1777'
+old = 'ウォリアーのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1778'
+old = 'ウォリアーのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1779'
+old = 'ウォリアーのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1780'
+old = 'ウォリアーのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1781'
+old = 'ウォリアーのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1782'
+old = 'ウォリアーのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1783'
+old = 'ウォリアーのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1784'
+old = 'アルケミストのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1785'
+old = 'アルケミストのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1786'
+old = 'アルケミストのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1787'
+old = 'アルケミストのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1788'
+old = 'アルケミストのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1789'
+old = 'アルケミストのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1790'
+old = 'アルケミストのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1791'
+old = 'アルケミストのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1792'
+old = 'アルケミストのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1793'
+old = 'アルケミストのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1794'
+old = 'アルケミストのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1795'
+old = 'アルケミストのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1796'
+old = 'アルケミストのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1797'
+old = 'アルケミストのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1798'
+old = 'アルケミストのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1799'
+old = 'アルケミストのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1800'
+old = 'アルケミストのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1801'
+old = 'アルケミストのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1802'
+old = 'アルケミストのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1803'
+old = 'アルケミストのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1804'
+old = 'アルケミストのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1805'
+old = 'アルケミストのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1806'
+old = 'アルケミストのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1807'
+old = 'アルケミストのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1808'
+old = 'アルケミストのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1809'
+old = 'アルケミストのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1810'
+old = 'アルケミストのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1811'
+old = 'アルケミストのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1812'
+old = 'アルケミストのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1813'
+old = 'アルケミストのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1814'
+old = 'アルケミストのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1815'
+old = 'アルケミストのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1816'
+old = 'アルケミストのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1817'
+old = 'アルケミストのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1818'
+old = 'アルケミストのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1819'
+old = 'アルケミストのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1820'
+old = 'アルケミストのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1821'
+old = 'アルケミストのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1822'
+old = 'アルケミストのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1823'
+old = 'アルケミストのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1824'
+old = 'アルケミストのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1825'
+old = 'アルケミストのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1826'
+old = 'アルケミストのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1827'
+old = 'アルケミストのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1828'
+old = 'アルケミストのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1829'
+old = 'アルケミストのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1830'
+old = 'アルケミストのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1831'
+old = 'アルケミストのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1832'
+old = 'アルケミストのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1833'
+old = 'アルケミストのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1834'
+old = 'アルケミストのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1835'
+old = 'アルケミストのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1836'
+old = 'アルケミストのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1837'
+old = 'アルケミストのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1838'
+old = 'アルケミストのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1839'
+old = 'アルケミストのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1840'
+old = 'アルケミストのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1841'
+old = 'アルケミストのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1842'
+old = 'アルケミストのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1845'
+old = 'ウサギを10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1846'
+old = 'ウサギを20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1847'
+old = 'ウサギを50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1848'
+old = 'ウサギを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1922'
+old = '牛を10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1923'
+old = '牛を20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1924'
+old = '牛を50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1925'
+old = '牛を100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1926'
+old = '《シカ》系動物を10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1927'
+old = '《シカ》系動物を20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1928'
+old = '《シカ》系動物を50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1929'
+old = '《シカ》系動物を100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1930'
+old = '《ブタ》系動物を10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1931'
+old = '《ブタ》系動物を20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1932'
+old = '《ブタ》系動物を50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1933'
+old = '《ブタ》系動物を100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1934'
+old = 'カブトグモを10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1935'
+old = 'カブトグモを20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1936'
+old = 'カブトグモを50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1937'
+old = 'カブトグモを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1938'
+old = 'オオネズミを10体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1939'
+old = 'オオネズミを20体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1940'
+old = 'オオネズミを50体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1941'
+old = 'オオネズミを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1946'
+old = 'ファイターのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1947'
+old = 'ファイターのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1948'
+old = 'ファイターのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1949'
+old = 'ファイターのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1950'
+old = 'ファイターのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1951'
+old = 'ファイターのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1952'
+old = 'ファイターのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1953'
+old = 'ファイターのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1954'
+old = 'ファイターのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1955'
+old = 'ファイターのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1956'
+old = 'ファイターのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1957'
+old = 'ファイターのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1958'
+old = 'ファイターのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1959'
+old = 'ファイターのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1960'
+old = 'ファイターのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1961'
+old = 'ファイターのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1962'
+old = 'ファイターのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1963'
+old = 'ファイターのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1964'
+old = 'ファイターのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1965'
+old = 'ファイターのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1966'
+old = 'シーカーのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1967'
+old = 'シーカーのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1968'
+old = 'シーカーのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1969'
+old = 'シーカーのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1970'
+old = 'シーカーのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1971'
+old = 'シーカーのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1972'
+old = 'シーカーのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1973'
+old = 'シーカーのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1974'
+old = 'シーカーのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1975'
+old = 'シーカーのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1976'
+old = 'シーカーのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1977'
+old = 'シーカーのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1978'
+old = 'シーカーのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1979'
+old = 'シーカーのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1980'
+old = 'シーカーのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1981'
+old = 'シーカーのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1982'
+old = 'シーカーのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1983'
+old = 'シーカーのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1984'
+old = 'シーカーのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1985'
+old = 'シーカーのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1986'
+old = 'ハンターのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1987'
+old = 'ハンターのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1988'
+old = 'ハンターのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1989'
+old = 'ハンターのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1990'
+old = 'ハンターのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1991'
+old = 'ハンターのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1992'
+old = 'ハンターのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1993'
+old = 'ハンターのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1994'
+old = 'ハンターのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1995'
+old = 'ハンターのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1996'
+old = 'ハンターのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1997'
+old = 'ハンターのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1998'
+old = 'ハンターのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_1999'
+old = 'ハンターのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2000'
+old = 'ハンターのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2001'
+old = 'ハンターのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2002'
+old = 'ハンターのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2003'
+old = 'ハンターのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2004'
+old = 'ハンターのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2005'
+old = 'ハンターのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2006'
+old = 'プリーストのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2007'
+old = 'プリーストのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2008'
+old = 'プリーストのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2009'
+old = 'プリーストのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2010'
+old = 'プリーストのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2011'
+old = 'プリーストのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2012'
+old = 'プリーストのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2013'
+old = 'プリーストのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2014'
+old = 'プリーストのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2015'
+old = 'プリーストのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2016'
+old = 'プリーストのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2017'
+old = 'プリーストのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2018'
+old = 'プリーストのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2019'
+old = 'プリーストのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2020'
+old = 'プリーストのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2021'
+old = 'プリーストのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2022'
+old = 'プリーストのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2023'
+old = 'プリーストのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2024'
+old = 'プリーストのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2025'
+old = 'プリーストのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2026'
+old = 'シールドセージのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2027'
+old = 'シールドセージのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2028'
+old = 'シールドセージのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2029'
+old = 'シールドセージのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2030'
+old = 'シールドセージのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2031'
+old = 'シールドセージのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2032'
+old = 'シールドセージのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2033'
+old = 'シールドセージのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2034'
+old = 'シールドセージのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2035'
+old = 'シールドセージのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2036'
+old = 'シールドセージのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2037'
+old = 'シールドセージのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2038'
+old = 'シールドセージのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2039'
+old = 'シールドセージのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2040'
+old = 'シールドセージのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2041'
+old = 'シールドセージのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2042'
+old = 'シールドセージのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2043'
+old = 'シールドセージのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2044'
+old = 'シールドセージのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2045'
+old = 'シールドセージのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2046'
+old = 'ソーサラーのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2047'
+old = 'ソーサラーのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2048'
+old = 'ソーサラーのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2049'
+old = 'ソーサラーのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2050'
+old = 'ソーサラーのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2051'
+old = 'ソーサラーのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2052'
+old = 'ソーサラーのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2053'
+old = 'ソーサラーのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2054'
+old = 'ソーサラーのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2055'
+old = 'ソーサラーのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2056'
+old = 'ソーサラーのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2057'
+old = 'ソーサラーのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2058'
+old = 'ソーサラーのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2059'
+old = 'ソーサラーのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2060'
+old = 'ソーサラーのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2061'
+old = 'ソーサラーのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2062'
+old = 'ソーサラーのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2063'
+old = 'ソーサラーのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2064'
+old = 'ソーサラーのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2065'
+old = 'ソーサラーのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2066'
+old = 'ウォリアーのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2067'
+old = 'ウォリアーのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2068'
+old = 'ウォリアーのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2069'
+old = 'ウォリアーのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2070'
+old = 'ウォリアーのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2071'
+old = 'ウォリアーのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2072'
+old = 'ウォリアーのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2073'
+old = 'ウォリアーのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2074'
+old = 'ウォリアーのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2075'
+old = 'ウォリアーのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2076'
+old = 'ウォリアーのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2077'
+old = 'ウォリアーのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2078'
+old = 'ウォリアーのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2079'
+old = 'ウォリアーのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2080'
+old = 'ウォリアーのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2081'
+old = 'ウォリアーのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2082'
+old = 'ウォリアーのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2083'
+old = 'ウォリアーのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2084'
+old = 'ウォリアーのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2085'
+old = 'ウォリアーのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2086'
+old = 'エレメントアーチャーのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2087'
+old = 'エレメントアーチャーのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2088'
+old = 'エレメントアーチャーのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2089'
+old = 'エレメントアーチャーのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2090'
+old = 'エレメントアーチャーのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2091'
+old = 'エレメントアーチャーのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2092'
+old = 'エレメントアーチャーのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2093'
+old = 'エレメントアーチャーのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2094'
+old = 'エレメントアーチャーのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2095'
+old = 'エレメントアーチャーのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2096'
+old = 'エレメントアーチャーのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2097'
+old = 'エレメントアーチャーのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2098'
+old = 'エレメントアーチャーのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2099'
+old = 'エレメントアーチャーのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2100'
+old = 'エレメントアーチャーのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2101'
+old = 'エレメントアーチャーのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2102'
+old = 'エレメントアーチャーのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2103'
+old = 'エレメントアーチャーのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2104'
+old = 'エレメントアーチャーのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2105'
+old = 'エレメントアーチャーのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2106'
+old = 'アルケミストのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2107'
+old = 'アルケミストのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2108'
+old = 'アルケミストのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2109'
+old = 'アルケミストのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2110'
+old = 'アルケミストのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2111'
+old = 'アルケミストのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2112'
+old = 'アルケミストのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2113'
+old = 'アルケミストのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2114'
+old = 'アルケミストのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2115'
+old = 'アルケミストのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2116'
+old = 'アルケミストのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2117'
+old = 'アルケミストのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2118'
+old = 'アルケミストのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2119'
+old = 'アルケミストのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2120'
+old = 'アルケミストのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2121'
+old = 'アルケミストのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2122'
+old = 'アルケミストのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2123'
+old = 'アルケミストのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2124'
+old = 'アルケミストのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2125'
+old = 'アルケミストのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2205'
+old = 'スピリットランサーのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2206'
+old = 'スピリットランサーのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2207'
+old = 'スピリットランサーのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2208'
+old = 'スピリットランサーのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2209'
+old = 'スピリットランサーのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2210'
+old = 'スピリットランサーのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2211'
+old = 'スピリットランサーのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2212'
+old = 'スピリットランサーのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2213'
+old = 'スピリットランサーのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2214'
+old = 'スピリットランサーのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2215'
+old = 'スピリットランサーのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2216'
+old = 'スピリットランサーのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2217'
+old = 'スピリットランサーのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2218'
+old = 'スピリットランサーのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2219'
+old = 'スピリットランサーのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2220'
+old = 'スピリットランサーのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2221'
+old = 'スピリットランサーのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2222'
+old = 'スピリットランサーのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2223'
+old = 'スピリットランサーのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2224'
+old = 'スピリットランサーのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2225'
+old = 'スピリットランサーのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2226'
+old = 'スピリットランサーのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2227'
+old = 'スピリットランサーのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2228'
+old = 'スピリットランサーのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2229'
+old = 'スピリットランサーのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2230'
+old = 'スピリットランサーのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2231'
+old = 'スピリットランサーのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2232'
+old = 'スピリットランサーのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2233'
+old = 'スピリットランサーのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2234'
+old = 'スピリットランサーのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2235'
+old = 'スピリットランサーのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2236'
+old = 'スピリットランサーのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2237'
+old = 'スピリットランサーのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2238'
+old = 'スピリットランサーのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2239'
+old = 'スピリットランサーのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2240'
+old = 'スピリットランサーのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2241'
+old = 'スピリットランサーのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2242'
+old = 'スピリットランサーのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2243'
+old = 'スピリットランサーのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2244'
+old = 'スピリットランサーのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2245'
+old = 'スピリットランサーのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2246'
+old = 'スピリットランサーのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2247'
+old = 'スピリットランサーのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2248'
+old = 'スピリットランサーのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2249'
+old = 'スピリットランサーのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2250'
+old = 'スピリットランサーのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2251'
+old = 'スピリットランサーのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2252'
+old = 'スピリットランサーのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2253'
+old = 'スピリットランサーのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2254'
+old = 'スピリットランサーのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2255'
+old = 'スピリットランサーのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2256'
+old = 'スピリットランサーのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2257'
+old = 'スピリットランサーのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2258'
+old = 'スピリットランサーのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2259'
+old = 'スピリットランサーのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2260'
+old = 'スピリットランサーのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2261'
+old = 'スピリットランサーのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2262'
+old = 'スピリットランサーのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2263'
+old = 'スピリットランサーのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2264'
+old = 'スピリットランサーのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2265'
+old = 'スピリットランサーのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2266'
+old = 'スピリットランサーのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2267'
+old = 'スピリットランサーのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2268'
+old = 'スピリットランサーのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2269'
+old = 'スピリットランサーのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2270'
+old = 'スピリットランサーのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2271'
+old = 'スピリットランサーのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2272'
+old = 'スピリットランサーのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2273'
+old = 'スピリットランサーのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2274'
+old = 'スピリットランサーのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2275'
+old = 'スピリットランサーのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2276'
+old = 'スピリットランサーのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2277'
+old = 'スピリットランサーのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2278'
+old = 'スピリットランサーのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2279'
+old = 'スピリットランサーのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2280'
+old = 'スピリットランサーのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2281'
+old = 'スピリットランサーのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2282'
+old = 'スピリットランサーのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2283'
+old = 'スピリットランサーのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2285'
+old = 'クエスト「レスタニアの命運」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2286'
+old = 'クエスト「託されし者」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2287'
+old = 'クエスト「心の闇」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2288'
+old = 'クエスト「新しい世代」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2289'
+old = 'グランドミッション、ウォーミッションを累計10回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2290'
+old = 'グランドミッション、ウォーミッションを累計50回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2291'
+old = 'グランドミッション、ウォーミッションを累計100回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2292'
+old = 'エクストリームミッションを10回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2293'
+old = 'エクストリームミッションを50回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2294'
+old = 'エクストリームミッションを100回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2295'
+old = '''
+ファイターのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2296'
+old = '''
+ハンターのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2297'
+old = '''
+プリーストのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2298'
+old = '''
+シールドセージのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2299'
+old = '''
+シーカーのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2300'
+old = '''
+ソーサラーのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2301'
+old = '''
+エレメントアーチャーのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2302'
+old = '''
+ウォリアーのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2303'
+old = '''
+アルケミストのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2304'
+old = '''
+スピリットランサーのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2305'
+old = '''
+スピリットランサーのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2306'
+old = '''
+スピリットランサーのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2307'
+old = '''
+スピリットランサーのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2308'
+old = '鑑定交換で10個鑑定'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2309'
+old = '鑑定交換で50個鑑定'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2310'
+old = '鑑定交換で100個鑑定'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2311'
+old = '自室を入手した'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2312'
+old = '家具を作成した'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2313'
+old = 'パートナーポーンの好感度を上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2314'
+old = 'パートナーポーンの好感度をさらに上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2315'
+old = 'パートナーポーンの好感度をもっと上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2316'
+old = '《侵食ホブゴブリン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2318'
+old = '侵食ダイアウルフを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2319'
+old = 'ボルトグリムワーグを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2320'
+old = '《スカーレット》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2321'
+old = '《エリミネーター》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2322'
+old = 'ガーゴイルを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2323'
+old = 'ストリクスを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2324'
+old = '侵食スノーハーピーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2325'
+old = '《ゴアサイクロプス》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2326'
+old = '侵食グリフィンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2327'
+old = 'マンイーターを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2328'
+old = 'ゴーストを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2329'
+old = 'フロスト・マキナを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2330'
+old = '《スカージ》系エネミーを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2331'
+old = '《スカージ》系エネミーを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2332'
+old = '《スカージ》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2333'
+old = 'カースドラゴンを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2334'
+old = 'カースドラゴンを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2335'
+old = 'カースドラゴンを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2336'
+old = '《スケルトンブルート》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2337'
+old = '《侵食オーク》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2338'
+old = '《マンティコア》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2339'
+old = 'メドゥーサを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2341'
+old = '淀みし大竜力を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2342'
+old = '淀みし大竜力を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2343'
+old = '淀みし大竜力を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2344'
+old = 'アルタード・ズールを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2345'
+old = 'アルタード・ズールを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2346'
+old = 'アルタード・ズールを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2347'
+old = '《ピクシー》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2348'
+old = '《ワーグ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2349'
+old = '《スチュパリデス》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2350'
+old = '《フィンド》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2351'
+old = 'モスを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2352'
+old = 'マンドラゴラを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2353'
+old = '《グリゴリ》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2354'
+old = 'フットバイターを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2355'
+old = 'ゴアキメラを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2358'
+old = '《スパイン》系エネミーを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2359'
+old = 'ホワイトグリフィンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2360'
+old = 'ビフレストを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2362'
+old = '《タラスク》系エネミーを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2363'
+old = '《タラスク》系エネミーを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2364'
+old = '《タラスク》系エネミーを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2368'
+old = 'グリーンガーディアンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2369'
+old = 'セイレーンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2370'
+old = '狂侵グリフィンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2371'
+old = '狂侵デーモンを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2372'
+old = 'フィンダーエントを50体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2373'
+old = '黒騎士を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2374'
+old = '黒騎士を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2375'
+old = '黒騎士を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2376'
+old = '精霊竜ウィルミアを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2377'
+old = '精霊竜ウィルミアを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2378'
+old = '精霊竜ウィルミアを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2379'
+old = 'ポーン隊使用回数5回'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2380'
+old = 'ポーン隊の派遣回数50回'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2381'
+old = 'ポーン隊の派遣回数150回'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2384'
+old = 'ニワトリを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2385'
+old = 'ヤギを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2386'
+old = 'カエルを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2387'
+old = 'ワイルド・ボアを100体狩猟'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2520'
+old = 'クエスト「勇敢なる足跡」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2521'
+old = 'ワールドクエスト（公開）を3000回クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2522'
+old = 'グランドミッション、ウォーミッションを累計200回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2523'
+old = 'エクストリームミッションを200回攻略'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2524'
+old = 'スピリットランサーまでの10種のジョブレベルが60に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2525'
+old = '宝箱を1000個開く'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2526'
+old = '茂み・草むらから1000回採取'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2527'
+old = '鉱脈を1000回採掘'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2528'
+old = '倒木を1000回伐採'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2529'
+old = 'クラフトにより装備のカラーを200回変更'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2530'
+old = 'クラフトにより装備のカラーを500回変更'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2531'
+old = 'パートナーポーンの好感度をより上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2532'
+old = 'パートナーポーンの好感度をぐっと上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2533'
+old = 'パートナーポーンの好感度をなおいっそう上げた'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2534'
+old = '敵を総計100000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2535'
+old = 'マンドラゴラを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2536'
+old = 'マンドラゴラを1000体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2537'
+old = 'エラン水林で<ITEM 16522>を15個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2538'
+old = 'エラン水林で<ITEM 16522>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2539'
+old = 'ファーラナ平原で<ITEM 16522>を15個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2540'
+old = 'ファーラナ平原で<ITEM 16522>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2541'
+old = 'モロー樹林で<ITEM 16522>を15個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2542'
+old = 'モロー樹林で<ITEM 16522>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2543'
+old = 'キンガル峡谷で<ITEM 16522>を15個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2544'
+old = 'キンガル峡谷で<ITEM 16522>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2545'
+old = '小さくきらめく何かを累計30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2546'
+old = '小さくきらめく何かを累計60個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2547'
+old = '小さくきらめく何かを累計90個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2548'
+old = '小さくきらめく何かを累計120個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2549'
+old = 'ファイターのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2550'
+old = 'ファイターのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2551'
+old = 'ファイターのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2552'
+old = 'ファイターのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2553'
+old = 'ファイターのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2554'
+old = 'ファイターのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2555'
+old = 'ファイターのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2556'
+old = 'ファイターのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2557'
+old = 'ファイターのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2558'
+old = 'ファイターのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2559'
+old = 'ファイターのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2560'
+old = 'ファイターのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2561'
+old = 'ファイターのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2562'
+old = 'ファイターのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2563'
+old = 'ファイターのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2564'
+old = 'ファイターのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2565'
+old = 'ファイターのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2566'
+old = 'ファイターのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2567'
+old = 'ファイターのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2568'
+old = 'ファイターのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2569'
+old = 'シーカーのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2570'
+old = 'シーカーのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2571'
+old = 'シーカーのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2572'
+old = 'シーカーのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2573'
+old = 'シーカーのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2574'
+old = 'シーカーのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2575'
+old = 'シーカーのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2576'
+old = 'シーカーのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2577'
+old = 'シーカーのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2578'
+old = 'シーカーのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2579'
+old = 'シーカーのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2580'
+old = 'シーカーのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2581'
+old = 'シーカーのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2582'
+old = 'シーカーのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2583'
+old = 'シーカーのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2584'
+old = 'シーカーのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2585'
+old = 'シーカーのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2586'
+old = 'シーカーのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2587'
+old = 'シーカーのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2588'
+old = 'シーカーのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2589'
+old = 'ハンターのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2590'
+old = 'ハンターのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2591'
+old = 'ハンターのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2592'
+old = 'ハンターのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2593'
+old = 'ハンターのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2594'
+old = 'ハンターのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2595'
+old = 'ハンターのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2596'
+old = 'ハンターのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2597'
+old = 'ハンターのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2598'
+old = 'ハンターのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2599'
+old = 'ハンターのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2600'
+old = 'ハンターのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2601'
+old = 'ハンターのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2602'
+old = 'ハンターのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2603'
+old = 'ハンターのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2604'
+old = 'ハンターのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2605'
+old = 'ハンターのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2606'
+old = 'ハンターのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2607'
+old = 'ハンターのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2608'
+old = 'ハンターのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2609'
+old = 'プリーストのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2610'
+old = 'プリーストのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2611'
+old = 'プリーストのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2612'
+old = 'プリーストのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2613'
+old = 'プリーストのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2614'
+old = 'プリーストのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2615'
+old = 'プリーストのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2616'
+old = 'プリーストのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2617'
+old = 'プリーストのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2618'
+old = 'プリーストのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2619'
+old = 'プリーストのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2620'
+old = 'プリーストのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2621'
+old = 'プリーストのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2622'
+old = 'プリーストのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2623'
+old = 'プリーストのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2624'
+old = 'プリーストのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2625'
+old = 'プリーストのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2626'
+old = 'プリーストのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2627'
+old = 'プリーストのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2628'
+old = 'プリーストのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2629'
+old = 'シールドセージのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2630'
+old = 'シールドセージのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2631'
+old = 'シールドセージのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2632'
+old = 'シールドセージのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2633'
+old = 'シールドセージのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2634'
+old = 'シールドセージのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2635'
+old = 'シールドセージのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2636'
+old = 'シールドセージのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2637'
+old = 'シールドセージのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2638'
+old = 'シールドセージのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2639'
+old = 'シールドセージのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2640'
+old = 'シールドセージのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2641'
+old = 'シールドセージのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2642'
+old = 'シールドセージのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2643'
+old = 'シールドセージのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2644'
+old = 'シールドセージのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2645'
+old = 'シールドセージのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2646'
+old = 'シールドセージのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2647'
+old = 'シールドセージのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2648'
+old = 'シールドセージのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2649'
+old = 'ソーサラーのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2650'
+old = 'ソーサラーのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2651'
+old = 'ソーサラーのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2652'
+old = 'ソーサラーのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2653'
+old = 'ソーサラーのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2654'
+old = 'ソーサラーのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2655'
+old = 'ソーサラーのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2656'
+old = 'ソーサラーのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2657'
+old = 'ソーサラーのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2658'
+old = 'ソーサラーのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2659'
+old = 'ソーサラーのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2660'
+old = 'ソーサラーのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2661'
+old = 'ソーサラーのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2662'
+old = 'ソーサラーのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2663'
+old = 'ソーサラーのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2664'
+old = 'ソーサラーのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2665'
+old = 'ソーサラーのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2666'
+old = 'ソーサラーのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2667'
+old = 'ソーサラーのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2668'
+old = 'ソーサラーのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2669'
+old = 'ウォリアーのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2670'
+old = 'ウォリアーのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2671'
+old = 'ウォリアーのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2672'
+old = 'ウォリアーのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2673'
+old = 'ウォリアーのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2674'
+old = 'ウォリアーのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2675'
+old = 'ウォリアーのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2676'
+old = 'ウォリアーのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2677'
+old = 'ウォリアーのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2678'
+old = 'ウォリアーのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2679'
+old = 'ウォリアーのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2680'
+old = 'ウォリアーのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2681'
+old = 'ウォリアーのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2682'
+old = 'ウォリアーのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2683'
+old = 'ウォリアーのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2684'
+old = 'ウォリアーのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2685'
+old = 'ウォリアーのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2686'
+old = 'ウォリアーのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2687'
+old = 'ウォリアーのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2688'
+old = 'ウォリアーのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2689'
+old = 'エレメントアーチャーのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2690'
+old = 'エレメントアーチャーのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2691'
+old = 'エレメントアーチャーのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2692'
+old = 'エレメントアーチャーのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2693'
+old = 'エレメントアーチャーのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2694'
+old = 'エレメントアーチャーのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2695'
+old = 'エレメントアーチャーのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2696'
+old = 'エレメントアーチャーのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2697'
+old = 'エレメントアーチャーのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2698'
+old = 'エレメントアーチャーのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2699'
+old = 'エレメントアーチャーのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2700'
+old = 'エレメントアーチャーのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2701'
+old = 'エレメントアーチャーのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2702'
+old = 'エレメントアーチャーのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2703'
+old = 'エレメントアーチャーのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2704'
+old = 'エレメントアーチャーのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2705'
+old = 'エレメントアーチャーのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2706'
+old = 'エレメントアーチャーのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2707'
+old = 'エレメントアーチャーのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2708'
+old = 'エレメントアーチャーのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2709'
+old = 'アルケミストのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2710'
+old = 'アルケミストのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2711'
+old = 'アルケミストのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2712'
+old = 'アルケミストのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2713'
+old = 'アルケミストのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2714'
+old = 'アルケミストのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2715'
+old = 'アルケミストのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2716'
+old = 'アルケミストのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2717'
+old = 'アルケミストのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2718'
+old = 'アルケミストのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2719'
+old = 'アルケミストのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2720'
+old = 'アルケミストのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2721'
+old = 'アルケミストのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2722'
+old = 'アルケミストのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2723'
+old = 'アルケミストのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2724'
+old = 'アルケミストのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2725'
+old = 'アルケミストのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2726'
+old = 'アルケミストのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2727'
+old = 'アルケミストのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2728'
+old = 'アルケミストのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2729'
+old = 'スピリットランサーのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2730'
+old = 'スピリットランサーのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2731'
+old = 'スピリットランサーのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2732'
+old = 'スピリットランサーのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2733'
+old = 'スピリットランサーのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2734'
+old = 'スピリットランサーのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2735'
+old = 'スピリットランサーのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2736'
+old = 'スピリットランサーのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2737'
+old = 'スピリットランサーのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2738'
+old = 'スピリットランサーのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2739'
+old = 'スピリットランサーのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2740'
+old = 'スピリットランサーのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2741'
+old = 'スピリットランサーのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2742'
+old = 'スピリットランサーのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2743'
+old = 'スピリットランサーのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2744'
+old = 'スピリットランサーのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2745'
+old = 'スピリットランサーのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2746'
+old = 'スピリットランサーのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2747'
+old = 'スピリットランサーのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2748'
+old = 'スピリットランサーのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2749'
+old = 'ハイセプターのジョブレベルが2になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2750'
+old = 'ハイセプターのジョブレベルが3になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2751'
+old = 'ハイセプターのジョブレベルが4になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2752'
+old = 'ハイセプターのジョブレベルが5になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2753'
+old = 'ハイセプターのジョブレベルが6になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2754'
+old = 'ハイセプターのジョブレベルが7になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2755'
+old = 'ハイセプターのジョブレベルが8になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2756'
+old = 'ハイセプターのジョブレベルが9になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2757'
+old = 'ハイセプターのジョブレベルが10になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2758'
+old = 'ハイセプターのジョブレベルが11になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2759'
+old = 'ハイセプターのジョブレベルが12になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2760'
+old = 'ハイセプターのジョブレベルが13になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2761'
+old = 'ハイセプターのジョブレベルが14になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2762'
+old = 'ハイセプターのジョブレベルが15になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2763'
+old = 'ハイセプターのジョブレベルが16になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2764'
+old = 'ハイセプターのジョブレベルが17になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2765'
+old = 'ハイセプターのジョブレベルが18になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2766'
+old = 'ハイセプターのジョブレベルが19になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2767'
+old = 'ハイセプターのジョブレベルが20になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2768'
+old = 'ハイセプターのジョブレベルが21になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2769'
+old = 'ハイセプターのジョブレベルが22になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2770'
+old = 'ハイセプターのジョブレベルが23になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2771'
+old = 'ハイセプターのジョブレベルが24になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2772'
+old = 'ハイセプターのジョブレベルが25になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2773'
+old = 'ハイセプターのジョブレベルが26になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2774'
+old = 'ハイセプターのジョブレベルが27になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2775'
+old = 'ハイセプターのジョブレベルが28になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2776'
+old = 'ハイセプターのジョブレベルが29になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2777'
+old = 'ハイセプターのジョブレベルが30になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2778'
+old = 'ハイセプターのジョブレベルが31になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2779'
+old = 'ハイセプターのジョブレベルが32になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2780'
+old = 'ハイセプターのジョブレベルが33になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2781'
+old = 'ハイセプターのジョブレベルが34になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2782'
+old = 'ハイセプターのジョブレベルが35になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2783'
+old = 'ハイセプターのジョブレベルが36になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2784'
+old = 'ハイセプターのジョブレベルが37になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2785'
+old = 'ハイセプターのジョブレベルが38になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2786'
+old = 'ハイセプターのジョブレベルが39になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2787'
+old = 'ハイセプターのジョブレベルが40になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2788'
+old = 'ハイセプターのジョブレベルが41になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2789'
+old = 'ハイセプターのジョブレベルが42になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2790'
+old = 'ハイセプターのジョブレベルが43になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2791'
+old = 'ハイセプターのジョブレベルが44になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2792'
+old = 'ハイセプターのジョブレベルが45になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2793'
+old = 'ハイセプターのジョブレベルが46になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2794'
+old = 'ハイセプターのジョブレベルが47になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2795'
+old = 'ハイセプターのジョブレベルが48になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2796'
+old = 'ハイセプターのジョブレベルが49になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2797'
+old = 'ハイセプターのジョブレベルが50になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2798'
+old = 'ハイセプターのジョブレベルが51になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2799'
+old = 'ハイセプターのジョブレベルが52になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2800'
+old = 'ハイセプターのジョブレベルが53になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2801'
+old = 'ハイセプターのジョブレベルが54になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2802'
+old = 'ハイセプターのジョブレベルが55になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2803'
+old = 'ハイセプターのジョブレベルが56になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2804'
+old = 'ハイセプターのジョブレベルが57になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2805'
+old = 'ハイセプターのジョブレベルが58になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2806'
+old = 'ハイセプターのジョブレベルが59になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2807'
+old = 'ハイセプターのジョブレベルが60になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2808'
+old = 'ハイセプターのジョブレベルが61になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2809'
+old = 'ハイセプターのジョブレベルが62になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2810'
+old = 'ハイセプターのジョブレベルが63になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2811'
+old = 'ハイセプターのジョブレベルが64になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2812'
+old = 'ハイセプターのジョブレベルが65になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2813'
+old = 'ハイセプターのジョブレベルが66になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2814'
+old = 'ハイセプターのジョブレベルが67になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2815'
+old = 'ハイセプターのジョブレベルが68になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2816'
+old = 'ハイセプターのジョブレベルが69になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2817'
+old = 'ハイセプターのジョブレベルが70になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2818'
+old = 'ハイセプターのジョブレベルが71になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2819'
+old = 'ハイセプターのジョブレベルが72になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2820'
+old = 'ハイセプターのジョブレベルが73になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2821'
+old = 'ハイセプターのジョブレベルが74になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2822'
+old = 'ハイセプターのジョブレベルが75になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2823'
+old = 'ハイセプターのジョブレベルが76になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2824'
+old = 'ハイセプターのジョブレベルが77になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2825'
+old = 'ハイセプターのジョブレベルが78になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2826'
+old = 'ハイセプターのジョブレベルが79になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2827'
+old = 'ハイセプターのジョブレベルが80になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2828'
+old = 'ハイセプターのジョブレベルが81になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2829'
+old = 'ハイセプターのジョブレベルが82になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2830'
+old = 'ハイセプターのジョブレベルが83になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2831'
+old = 'ハイセプターのジョブレベルが84になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2832'
+old = 'ハイセプターのジョブレベルが85になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2833'
+old = 'ハイセプターのジョブレベルが86になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2834'
+old = 'ハイセプターのジョブレベルが87になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2835'
+old = 'ハイセプターのジョブレベルが88になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2836'
+old = 'ハイセプターのジョブレベルが89になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2837'
+old = 'ハイセプターのジョブレベルが90になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2838'
+old = 'ハイセプターのジョブレベルが91になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2839'
+old = 'ハイセプターのジョブレベルが92になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2840'
+old = 'ハイセプターのジョブレベルが93になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2841'
+old = 'ハイセプターのジョブレベルが94になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2842'
+old = 'ハイセプターのジョブレベルが95になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2843'
+old = 'ハイセプターのジョブレベルが96になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2844'
+old = 'ハイセプターのジョブレベルが97になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2845'
+old = 'ハイセプターのジョブレベルが98になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2846'
+old = 'ハイセプターのジョブレベルが99になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2847'
+old = 'ハイセプターのジョブレベルが100になった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2848'
+old = 'クエスト「王子ネド」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2849'
+old = 'クエスト「展望城の戦い」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2850'
+old = 'クエスト「王都の決戦」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2852'
+old = 'クエスト「魔軍戦車カトブレパス」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2853'
+old = '「英霊眠りし道 ラスニテ山麓」のすべての力を授かる'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2854'
+old = 'サブストーリー「王家を救いし料理番」のすべての使命をクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2855'
+old = 'ウォーミッション「ダクレイム砦奪還戦」で獣の将を討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2856'
+old = 'クエスト「王家再興の褒章１」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2857'
+old = 'クエスト「古代の闇の中へ」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2858'
+old = '「英霊眠りし道 フェルヤナ荒原」のすべての力を授かる'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2859'
+old = 'サブストーリー「奪還を指揮せし異才者」のすべての使命をクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2860'
+old = 'ウォーミッション「ジフール砦攻略戦」で骸の将を討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2861'
+old = 'クエスト「王家再興の褒章２」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2862'
+old = 'クエスト「力に呑まれし王者」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2863'
+old = '「英霊眠りし道 メガドシスの記憶」のすべての力を授かる'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2864'
+old = 'サブストーリー「暗部を暴きし暗躍者」のすべての使命をクリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2865'
+old = 'ウォーミッション「霧の森の死闘」で闇の将を討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2866'
+old = 'クエスト「王家再興の褒章３」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2882'
+old = '''
+ハイセプターのジョブレベルが
+10に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2883'
+old = '''
+ハイセプターのジョブレベルが
+40に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2884'
+old = '''
+ハイセプターのジョブレベルが
+60に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2885'
+old = '''
+ハイセプターのジョブレベルが
+80に到達'''
+[[message]]
+key = 'ACHIEVEMENT_INFO_2887'
+old = 'ハイセプターまでの11種のジョブレベルが80に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2888'
+old = 'クエスト「ガーデン・エクステンド」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2889'
+old = 'クエスト「奇妙な魔物探索」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2890'
+old = 'マンドラゴラ生態図鑑で5種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2891'
+old = 'マンドラゴラ生態図鑑で50種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2892'
+old = 'マンドラゴラ生態図鑑で100種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2893'
+old = 'マンドラゴラ生態図鑑で150種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2894'
+old = 'マンドラゴラ生態図鑑で200種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2895'
+old = 'マンドラゴラ生態図鑑で230種類発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2898'
+old = 'いずれかのエンブレムストーンのレベルが5に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2899'
+old = 'いずれかのエンブレムストーンのレベルが15に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2902'
+old = 'クエスト「不思議な呼び鈴」クリア'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2903'
+old = 'ポーン戦術育成を累計1回おこなった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2904'
+old = 'ポーン戦術育成を累計10回おこなった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2905'
+old = 'ポーン戦術育成を累計30回おこなった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2906'
+old = 'ポーン戦術育成を累計50回おこなった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2907'
+old = 'ポーン戦術育成を累計100回おこなった'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2908'
+old = '獣の将を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2909'
+old = '獣の将を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2910'
+old = '獣の将を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2911'
+old = 'カトブレパスを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2912'
+old = 'カトブレパスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2913'
+old = 'カトブレパスを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2914'
+old = '骸の将を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2915'
+old = '骸の将を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2916'
+old = '骸の将を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2917'
+old = 'イービルアイを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2918'
+old = 'イービルアイを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2919'
+old = 'イービルアイを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2920'
+old = '闇の将を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2921'
+old = '闇の将を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2922'
+old = '闇の将を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2923'
+old = '戦の将を1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2924'
+old = '戦の将を10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2925'
+old = '戦の将を100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2926'
+old = 'イフリートを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2927'
+old = 'イフリートを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2928'
+old = 'イフリートを100体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2935'
+old = 'ラスニテ山麓で<ITEM 18738>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2936'
+old = 'フェルヤナ荒原で<ITEM 19652>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2937'
+old = 'メガドシス高地で<ITEM 21252>を30個発見'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2939'
+old = '黒呪の迷宮を1周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2940'
+old = '黒呪の迷宮を3周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2941'
+old = '黒呪の迷宮を10周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2942'
+old = '黒呪の迷宮を30周踏破'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2947'
+old = 'デスを1体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2948'
+old = 'デスを10体討伐'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2949'
+old = 'デスを100体討伐'

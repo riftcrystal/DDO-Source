@@ -1,0 +1,24 @@
+﻿[[message]]
+key = 'pawn_personality_1'
+old = 'ノーマル'
+[[message]]
+key = 'pawn_personality_2'
+old = 'シャイ'
+[[message]]
+key = 'pawn_personality_3'
+old = 'アクティブ'
+[[message]]
+key = 'pawn_personality_4'
+old = 'スマート'
+[[message]]
+key = 'pawn_personality_5'
+old = 'クール'
+[[message]]
+key = 'pawn_personality_6'
+old = 'ピュア'
+[[message]]
+key = 'pawn_personality_7'
+old = 'ワイルド'
+[[message]]
+key = 'pawn_personality_8'
+old = 'セクシー'

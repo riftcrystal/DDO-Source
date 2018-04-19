@@ -1,0 +1,42 @@
+﻿[[message]]
+key = 'popp_mokuteki_1'
+old = '冒険目的'
+[[message]]
+key = 'popp_mokuteki_2'
+old = '活動場所'
+[[message]]
+key = 'popp_playstyle'
+old = 'プレイスタイル'
+[[message]]
+key = 'popp_comment'
+old = 'コメント'
+[[message]]
+key = 'popp_party'
+old = 'パーティー参加'
+[[message]]
+key = 'popp_maching_profile_en'
+old = 'Matching Profile'
+[[message]]
+key = 'popp_maching_profile_jp'
+old = 'マッチングプロフィール'
+[[message]]
+key = 'popp_decide'
+old = '決定'
+[[message]]
+key = 'popp_cancel'
+old = 'キャンセル'
+[[message]]
+key = 'popp_pt_ok'
+old = '受ける'
+[[message]]
+key = 'popp_pt_ng'
+old = '受けない'
+[[message]]
+key = 'popp_main_purpose'
+old = '冒険目的'
+[[message]]
+key = 'popp_sub_purpose'
+old = '活動場所'
+[[message]]
+key = 'popp_job'
+old = '遊びたいジョブ'

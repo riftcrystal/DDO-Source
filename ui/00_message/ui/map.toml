@@ -1,0 +1,48 @@
+﻿[[message]]
+key = 'map_menumap_titlee'
+old = 'MAP'
+[[message]]
+key = 'map_menumap_titlej'
+old = 'マップ'
+[[message]]
+key = 'map_menumap_maptypes'
+old = '詳細マップ'
+[[message]]
+key = 'map_menumap_maptypem'
+old = 'フィールドマップ'
+[[message]]
+key = 'map_menumap_maptypel'
+old = '広域マップ'
+[[message]]
+key = 'map_menumap_guide_zoom'
+old = 'ズームイン/アウト'
+[[message]]
+key = 'map_menumap_guide_filter'
+old = 'マーカーフィルター変更'
+[[message]]
+key = 'map_menumap_guide_movecursor'
+old = 'カーソル移動'
+[[message]]
+key = 'map_menumap_guide_moveplayer'
+old = 'プレイヤー移動'
+[[message]]
+key = 'map_menumap_guide_backgm'
+old = 'ゲームメニューに戻る'
+[[message]]
+key = 'map_menumap_guide_chat'
+old = 'チャット'
+[[message]]
+key = 'map_menumap_guide_freemarker'
+old = 'フリーマーカー (長押しで消去)'
+[[message]]
+key = 'map_menumap_guide_close'
+old = '閉じる'
+[[message]]
+key = 'map_menumap_guide_transparent'
+old = '透明度の変更'
+[[message]]
+key = 'map_menumap_guide_change_freemarker'
+old = 'フリーマーカーの切り替え'
+[[message]]
+key = 'map_menumap_guide_change_land'
+old = '大陸の切り替え'

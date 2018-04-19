@@ -1,0 +1,122 @@
+﻿[[message]]
+key = 'title_lost_city_foundation'
+old = '亡都の礎'
+[[message]]
+key = 'title_sub_dragon_foundation'
+old = '竜の礎'
+[[message]]
+key = 'title_sub_rim_transport'
+old = 'リム転移'
+[[message]]
+key = 'title_sub_transport_foundation'
+old = '拠点の礎'
+[[message]]
+key = 'heading_current_place'
+old = '現在地'
+[[message]]
+key = 'option_transport_other'
+old = '各地の礎へ転移'
+[[message]]
+key = 'option_registration'
+old = 'マイ拠点に登録'
+[[message]]
+key = 'title_choice'
+old = '転移先の礎を選択'
+[[message]]
+key = 'heading_pay_rim'
+old = '消費リム'
+[[message]]
+key = 'dialog_transport_check'
+old = '''
+選択した礎にリム転移します
+よろしいですか？'''
+[[message]]
+key = 'dialog_registration_check'
+old = '''
+この礎をマイ拠点に登録します
+よろしいですか？'''
+[[message]]
+key = 'dialog_overwrite_check'
+old = '''
+この礎をマイ拠点として上書き登録します
+よろしいですか？'''
+[[message]]
+key = 'option_not_registration'
+old = '未登録'
+[[message]]
+key = 'heading_registered'
+old = '登録済の礎'
+[[message]]
+key = 'option_transport_rim'
+old = '神殿内へ転移'
+[[message]]
+key = 'diarog_transport_rim_check'
+old = '''
+選択したリムストーンへ転移します
+よろしいですか？'''
+[[message]]
+key = 'announce_registration_myposition'
+old = '<NAME SPOT>をマイ拠点に登録しました'
+[[message]]
+key = 'announce_cannot_use'
+old = '転移可能な礎がありません'
+[[message]]
+key = 'notice_pt_warp_over'
+old = 'パーティー同行リム転移の期限が切れました'
+[[message]]
+key = 'list_name_pt_warp'
+old = '<COL ffdc78>パーティー同行リム転移</COL>'
+[[message]]
+key = 'dialog_pt_warp_check'
+old = '''
+パーティーリーダーのいるところへ転移します
+よろしいですか？'''
+[[message]]
+key = 'notice_pt_warp_limit'
+old = 'パーティー同行リム転移残り時間 <VAL>秒です'
+[[message]]
+key = 'error_warp_fail'
+old = '転移に失敗しました'
+[[message]]
+key = 'error_regist_fail'
+old = 'マイ拠点の登録に失敗しました'
+[[message]]
+key = 'error_get_list_fail'
+old = '拠点リストの取得に失敗しました'
+[[message]]
+key = 'title_rim_transport'
+old = 'Warp'
+[[message]]
+key = 'error_already_favorite'
+old = 'すでにマイ拠点登録済みの礎です'
+[[message]]
+key = 'tab_sub_foundation'
+old = '辺境の礎'
+[[message]]
+key = 'tab_favorite_foundation'
+old = 'マイ拠点'
+[[message]]
+key = 'tab_all_foundation'
+old = 'すべての礎'
+[[message]]
+key = 'tab_main_foundation'
+old = '拠点の礎'
+[[message]]
+key = 'tab_lobby_foundation'
+old = '拠点内'
+[[message]]
+key = 'list_name_large_pt_warp'
+old = '<COL ffdc78>集合場所に戻る</COL>'
+[[message]]
+key = 'dialog_large_pt_warp_check'
+old = '''
+集合場所に戻ります
+よろしいですか？'''
+[[message]]
+key = 'list_name_return_kokuju_entrance'
+old = '<COL ffdc78>黒呪の迷宮・入り江に戻る</COL>'
+[[message]]
+key = 'dialog_return_kokuju_entrance_check'
+old = '''
+黒呪の迷宮・入り江に戻ります
+よろしいですか？'''

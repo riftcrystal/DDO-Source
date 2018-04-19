@@ -1,0 +1,2018 @@
+﻿[[message]]
+key = 'ana_cmd_error'
+old = 'そのコマンドは実行できません'
+[[message]]
+key = 'ana_mprofile_off'
+old = '''
+パーティーへの参加希望をOFFにします。よろしいですか？
+受け取ったパーティーへの誘いは取り消されます'''
+[[message]]
+key = 'ana_recv_invite_cancel'
+old = '受け取ったパーティーの誘いは取り消されます'
+[[message]]
+key = 'ana_party_remove_q'
+old = '''
+<NAME TARGET>を
+パーティーから外します。よろしいですか？'''
+[[message]]
+key = 'ana_party_remove_tg'
+old = '<NAME TARGET>がパーティーから外れました'
+[[message]]
+key = 'ana_party_remove_error_tg'
+old = '<NAME TARGET>をパーティーから外せませんでした'
+[[message]]
+key = 'ana_party_leader_q'
+old = '''
+<NAME TARGET>を
+リーダーにします。よろしいですか？'''
+[[message]]
+key = 'ana_party_leader_tg'
+old = '<NAME TARGET>がリーダーになりました'
+[[message]]
+key = 'ana_party_leader'
+old = 'パーティーリーダーになりました'
+[[message]]
+key = 'ana_party_leader_error'
+old = 'パーティーリーダーになれませんでした'
+[[message]]
+key = 'ana_party_leader_error_tg'
+old = '<NAME TARGET>をリーダーにできませんでした'
+[[message]]
+key = 'ana_party_invite_q'
+old = '<NAME TARGET>をパーティーに誘いますか？'
+[[message]]
+key = 'ana_party_invite'
+old = '<NAME TARGET>をパーティーに誘いました'
+[[message]]
+key = 'ana_party_invite_error'
+old = '<NAME TARGET>をパーティーに誘えませんでした'
+[[message]]
+key = 'ana_party_join_q'
+old = '''
+<NAME TARGET>の
+パーティーに参加します。よろしいですか？ '''
+[[message]]
+key = 'ana_party_join_in'
+old = '<NAME TARGET>のパーティーに参加しました'
+[[message]]
+key = 'ana_party_join_tg'
+old = '<NAME TARGET>がパーティーに参加しました'
+[[message]]
+key = 'ana_party_join_error'
+old = '<NAME TARGET>のパーティーに参加できませんでした'
+[[message]]
+key = 'ana_party_dissolution_q'
+old = 'パーティーを解散します。よろしいですか？'
+[[message]]
+key = 'ana_party_dissolution_leader'
+old = 'パーティーを解散しました'
+[[message]]
+key = 'ana_party_dissolution'
+old = 'パーティーが解散されました'
+[[message]]
+key = 'ana_party_dissolution_error'
+old = 'パーティーを解散できませんでした'
+[[message]]
+key = 'ana_party_invite_cancel_q'
+old = '''
+<NAME TARGET>への
+パーティーの誘いを取り消します。よろしいですか？'''
+[[message]]
+key = 'ana_party_invite_cancel'
+old = '<NAME TARGET>へのパーティーの誘いを取り消しました'
+[[message]]
+key = 'ana_party_invite_cancel_error'
+old = '<NAME TARGET>へのパーティーの誘いを取り消せませんでした'
+[[message]]
+key = 'ana_party_member_conflict'
+old = 'すでに同じメンバーがパーティーにいます'
+[[message]]
+key = 'ana_party_no_mainpawn'
+old = 'メインポーンがいない状態ではサポートポーンはパーティーに入れられません'
+[[message]]
+key = 'ana_party_pawn_invite_q'
+old = '<NAME PAWN>をパーティーに入れますか？'
+[[message]]
+key = 'ana_party_pawn_invite'
+old = '<NAME PAWN>をパーティーに入れました'
+[[message]]
+key = 'ana_party_pawn_invite_error'
+old = '<NAME PAWN>をパーティーに入れられませんでした'
+[[message]]
+key = 'ana_party_pawn_remove_q'
+old = '<NAME PAWN>をパーティーから外しますか？'
+[[message]]
+key = 'ana_party_pawn_remove'
+old = '<NAME PAWN>をパーティーから外しました'
+[[message]]
+key = 'ana_party_pawn_remove_error'
+old = '<NAME PAWN>をパーティーから外せませんでした'
+[[message]]
+key = 'ana_employ_q'
+old = '<NAME PAWN>を雇用しますか？'
+[[message]]
+key = 'ana_employ'
+old = '<NAME PAWN>を雇用しました'
+[[message]]
+key = 'ana_employ_error'
+old = '<NAME PAWN>を雇用できませんでした'
+[[message]]
+key = 'ana_dismissal_q'
+old = '''
+<NAME PAWN>を
+返却します。よろしいですか？'''
+[[message]]
+key = 'ana_dismissal'
+old = '<NAME PAWN>を返却しました'
+[[message]]
+key = 'ana_dismissal_error'
+old = '<NAME PAWN>を返却できませんでした'
+[[message]]
+key = 'ana_req_friend_q'
+old = '''
+<NAME TARGET>に
+フレンド申請をします。よろしいですか？'''
+[[message]]
+key = 'ana_req_friend'
+old = '<NAME TARGET>にフレンド申請しました'
+[[message]]
+key = 'ana_req_friend_error'
+old = '<NAME TARGET>にフレンド申請できませんでした'
+[[message]]
+key = 'ana_permit_friend_q'
+old = '''
+<NAME TARGET>の
+フレンド申請を許可します。よろしいですか？'''
+[[message]]
+key = 'ana_permit_friend'
+old = '<NAME TARGET>とフレンドになりました'
+[[message]]
+key = 'ana_permit_friend_error'
+old = '<NAME TARGET>とフレンドになれませんでした'
+[[message]]
+key = 'ana_denial_friend_q'
+old = '''
+<NAME TARGET>の
+フレンド申請を拒否します。よろしいですか？'''
+[[message]]
+key = 'ana_denial_friend'
+old = '<NAME TARGET>のフレンド申請を拒否しました'
+[[message]]
+key = 'ana_denial_friend_error'
+old = '<NAME TARGET>のフレンド申請を拒否できませんでした'
+[[message]]
+key = 'ana_release_friend_q'
+old = '''
+<NAME TARGET>との
+フレンドを解除します。よろしいですか？'''
+[[message]]
+key = 'ana_release_friend'
+old = '<NAME TARGET>のフレンドを解除しました'
+[[message]]
+key = 'ana_release_friend_error'
+old = '<NAME TARGET>のフレンドを解除できませんでした'
+[[message]]
+key = 'ana_fav_friend_q'
+old = '''
+<NAME TARGET>を
+お気に入りに登録します。よろしいですか？'''
+[[message]]
+key = 'ana_fav_friend'
+old = '<NAME TARGET>をお気に入りに登録しました'
+[[message]]
+key = 'ana_fav_friend_error'
+old = '<NAME TARGET>をお気に入りに登録できませんでした'
+[[message]]
+key = 'ana_fav_release_friend_q'
+old = '''
+<NAME TARGET>の
+お気に入りを解除します。よろしいですか？'''
+[[message]]
+key = 'ana_fav_release_friend'
+old = '<NAME TARGET>のお気に入りを解除しました'
+[[message]]
+key = 'ana_fav_release_friend_error'
+old = '<NAME TARGET>のお気に入りを解除できませんでした'
+[[message]]
+key = 'ana_entryb_entry'
+old = 'エントリーボードに参加申請を出しました'
+[[message]]
+key = 'ana_entryb_entry_error'
+old = 'エントリーボードに参加申請を出せませんでした'
+[[message]]
+key = 'ana_entryb_join'
+old = 'エントリーボードに参加しました'
+[[message]]
+key = 'ana_entryb_join_error'
+old = 'エントリーボードに参加できませんでした'
+[[message]]
+key = 'ana_entryb_join_cancel'
+old = 'エントリーボードの参加を取り消します。 よろしいですか？'
+[[message]]
+key = 'ana_member_ready_wait'
+old = '全員が準備完了するのを待っています'
+[[message]]
+key = 'ana_member_less_party_q'
+old = '''
+規定人数に足りていませんがパーティーを組みます
+よろしいですか？'''
+[[message]]
+key = 'ana_search_result'
+old = '検索結果は<VAL>件でした'
+[[message]]
+key = 'ana_transport_error'
+old = '礎を解放する条件をみたしていません'
+[[message]]
+key = 'ana_countdown_die'
+old = 'カウントがなくなると死亡状態になります'
+[[message]]
+key = 'ana_revival_and_credits_num'
+old = '''
+復活力を使用して復活しました
+残り<VAL>個です'''
+[[message]]
+key = 'ana_you_die'
+old = '戦闘不能になりました'
+[[message]]
+key = 'ana_revival_and_credits_full'
+old = '黄金石を使用して復活しました'
+[[message]]
+key = 'ana_pawn_delete_q'
+old = '''
+<NAME PAWN>を
+削除します。よろしいですか？'''
+[[message]]
+key = 'ana_pawn_delete'
+old = '<NAME PAWN>を削除しました'
+[[message]]
+key = 'ana_pawn_public'
+old = '公開設定を変更しました'
+[[message]]
+key = 'ana_mail_send'
+old = 'メールを送信しました'
+[[message]]
+key = 'ana_mail_delete_q'
+old = 'メールを削除します。よろしいですか？'
+[[message]]
+key = 'ana_clan_info_update'
+old = 'クラン情報を更新しました'
+[[message]]
+key = 'ana_clan_join_q'
+old = '''
+<NAME CLAN>に
+加入申請をします。よろしいですか？
+（一定期間承認されない場合、申請はキャンセルされます）'''
+[[message]]
+key = 'ana_clan_join'
+old = '<NAME CLAN>に加入申請しました'
+[[message]]
+key = 'ana_clan_join_cancel_q'
+old = '''
+クランの加入申請をキャンセルします。
+よろしいですか？'''
+[[message]]
+key = 'ana_clan_join_cancel'
+old = '加入申請をキャンセルしました'
+[[message]]
+key = 'ana_clan_join_permit_q'
+old = '''
+<NAME TARGET>の
+加入を許可します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_join_permit'
+old = '<NAME TARGET>の加入を許可しました'
+[[message]]
+key = 'ana_clan_join_ng_q'
+old = '''
+<NAME TARGET>の
+加入を拒否します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_join_ng'
+old = '<NAME TARGET>の加入を拒否しました'
+[[message]]
+key = 'ana_clan_leave_q'
+old = 'クランを脱退します。よろしいですか？'
+[[message]]
+key = 'ana_clan_leave'
+old = 'クランを脱退しました'
+[[message]]
+key = 'ana_clan_scout_entry'
+old = '''
+スカウトリストにエントリーしました
+クランから招待が届くようになります'''
+[[message]]
+key = 'ana_clan_invite_q'
+old = '''
+<NAME TARGET>を
+クランに勧誘します。よろしいですか？
+（一定期間承認されない場合、申請はキャンセルされます）'''
+[[message]]
+key = 'ana_clan_invite'
+old = '<NAME TARGET>をクランに誘いました'
+[[message]]
+key = 'ana_clan_scout_cancel_q'
+old = '''
+クランへのスカウトをキャンセルします
+よろしいですか？'''
+[[message]]
+key = 'ana_clan_scout_cancel'
+old = '勧誘をキャンセルしました'
+[[message]]
+key = 'ana_clan_invite_ok_q'
+old = '''
+<NAME CLAN>の
+勧誘を承認します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_join_result'
+old = '<NAME CLAN>に加入しました'
+[[message]]
+key = 'ana_clan_invite_ng_q'
+old = '''
+<NAME CLAN>の
+勧誘を拒否します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_invite_ng'
+old = '<NAME CLAN>の勧誘を拒否しました'
+[[message]]
+key = 'ana_entryb_kicked'
+old = 'エントリーボードから抜けました'
+[[message]]
+key = 'ana_entryb_dissolution'
+old = 'エントリーボードが解散されました'
+[[message]]
+key = 'ana_entryb_timeup'
+old = 'エントリーボードの有効時間が切れました'
+[[message]]
+key = 'ana_entryb_ready_timeup'
+old = '時間内に準備完了できなかったので、エントリーボードから抜けました'
+[[message]]
+key = 'ana_member_ready_timeup'
+old = '全員が準備完了しませんでした。エントリー状態を解除します'
+[[message]]
+key = 'ana_entryb_alarm'
+old = 'エントリー可能時間が<VAL>分を切りました'
+[[message]]
+key = 'ana_mail_present_get'
+old = 'メール添付アイテムを取得しました'
+[[message]]
+key = 'ana_entryb_alarm_reset'
+old = 'エントリーから<VAL>分経ちました。再延長が可能です'
+[[message]]
+key = 'ana_leader_join_ready_info'
+old = 'リーダーがパーティー要請を受諾しました。一定時間内に準備完了してください'
+[[message]]
+key = 'ana_quiq_mach_ready_info'
+old = 'クイックパーティーで同じ目的のプレイヤーが見つかりました。合流するには一定時間内に準備完了してください'
+[[message]]
+key = 'ana_entryb_ready_info'
+old = 'エントリーメンバーがそろいました。一定時間内に準備完了してください'
+[[message]]
+key = 'ana_gchat_invite'
+old = '<NAME TARGET>からグループチャットに招待されました'
+[[message]]
+key = 'ana_gchat_invite_tg'
+old = '<NAME TARGET>が<NAME TARGET>をグループチャットに招待しました'
+[[message]]
+key = 'ana_gchat_leave'
+old = '<NAME TARGET>がグループチャットから抜けました'
+[[message]]
+key = 'ana_gchat_kick'
+old = '<NAME TARGET>によってグループチャットからキックされました'
+[[message]]
+key = 'ana_gchat_kicked'
+old = 'グループチャットからキックされました'
+[[message]]
+key = 'ana_gchat_kick_tg'
+old = '<NAME TARGET>が<NAME TARGET>をグループチャットからキックしました'
+[[message]]
+key = 'ana_gchat_kicked_tg'
+old = '<NAME TARGET>がグループチャットからキックされました'
+[[message]]
+key = 'ana_entryb_join_tg'
+old = 'エントリーボードに<NAME TARGET>が参加しました'
+[[message]]
+key = 'ana_entryb_leave_tg'
+old = 'エントリーボードから<NAME TARGET>が離脱しました'
+[[message]]
+key = 'ana_dialog_entryb_join_q'
+old = '''
+エントリーボードに参加します。
+よろしいですか？'''
+[[message]]
+key = 'ana_dialog_gchat_invite_tg_q'
+old = '''
+<NAME TARGET>を
+グループチャットに誘います。よろしいですか？'''
+[[message]]
+key = 'ana_dialog_gchat_invite_tg'
+old = '<NAME TARGET>をグループチャットに誘いました'
+[[message]]
+key = 'ana_dialog_gchat_leave_q'
+old = '''
+グループチャットから抜けます。
+よろしいですか？'''
+[[message]]
+key = 'ana_dialog_gchat_leave'
+old = 'グループチャットから抜けました'
+[[message]]
+key = 'ana_dialog_gchat_kick_q'
+old = '''
+<NAME TARGET>を
+グループチャットから外します。よろしいですか？'''
+[[message]]
+key = 'ana_dialog_gchat_kick'
+old = '<NAME TARGET>をグループチャットから外しました'
+[[message]]
+key = 'ana_dialog_retire_proposed'
+old = 'コンテンツ途中離脱の提案を行いました'
+[[message]]
+key = 'ana_dialog_retire_proposed_tg'
+old = '<NAME TARGET>さんから途中離脱の提案がありました'
+[[message]]
+key = 'ana_dialog_retire_win'
+old = 'コンテンツ途中離脱が決定されました'
+[[message]]
+key = 'ana_dialog_retire_lose'
+old = 'コンテンツ途中離脱が拒否されました'
+[[message]]
+key = 'ana_dialog_retire_isanswer'
+old = 'コンテンツを途中離脱しますか？'
+[[message]]
+key = 'ana_dialog_retire_ispropose'
+old = 'コンテンツ途中離脱の提案をしますか？'
+[[message]]
+key = 'ana_dialog_retire_agree'
+old = '賛成'
+[[message]]
+key = 'ana_dialog_retire_re_agree'
+old = '「賛成」で返答しました'
+[[message]]
+key = 'ana_dialog_retire_re_disagree'
+old = '「反対」で返答しました'
+[[message]]
+key = 'ana_dialog_retire_disagree'
+old = '反対'
+[[message]]
+key = 'ana_dialog_retire_noreply'
+old = '返答せず閉じる'
+[[message]]
+key = 'ana_dialog_retire_inform'
+old = 'コンテンツ途中離脱の提案がありました'
+[[message]]
+key = 'ana_dialog_item_get'
+old = '<ITEM n>を入手した'
+[[message]]
+key = 'ana_dialog_shortage_gold'
+old = '所持金が不足しています'
+[[message]]
+key = 'ana_warp_regist_error'
+old = '礎の解放に失敗しました'
+[[message]]
+key = 'ana_warp_regist_error_main_quest'
+old = '''
+メインクエストの進行度が不足しているため
+拠点の礎の解放に失敗しました'''
+[[message]]
+key = 'ana_warp_regist_error_area_rank'
+old = '''
+エリアランクが不足しているため
+拠点の礎の解放に失敗しました'''
+[[message]]
+key = 'ana_pt_warp_begin'
+old = '''
+<NAME TARGET>が＜<VAL>＞にリム転移しました
+<VAL PARTY_WARP_SEC>秒の間、同行リム転移が可能です'''
+[[message]]
+key = 'ana_warp_point_release'
+old = '礎「<NAME SPOT>」を解放しました'
+[[message]]
+key = 'ana_warp_regist_error_area_or_quest'
+old = '''
+メインクエストの進行度
+またはエリアランク不足のため
+拠点の礎の解放に失敗しました'''
+[[message]]
+key = 'ana_warp_disable_battle'
+old = '戦闘中は使用できません'
+[[message]]
+key = 'ana_warp_disable_large_party'
+old = '特定のコンテンツ中は使用できません'
+[[message]]
+key = 'ana_event_skip'
+old = '''
+イベントをスキップしますか？
+
+※パーティーの場合は
+　全員が承認することでスキップできます'''
+[[message]]
+key = 'ana_KICK_ERR_NOT_OWNER_PAWN'
+old = '自分のメインポーンのみキックできます'
+[[message]]
+key = 'ana_KICK_ERR_NOT_PARTY'
+old = 'パーティーメンバーではありません'
+[[message]]
+key = 'ana_KICK_ERR_NOT_LEADER'
+old = 'リーダー時のみ選択できます'
+[[message]]
+key = 'ana_KICK_ERR_MYSELF'
+old = '自分をキックすることはできません'
+[[message]]
+key = 'ana_KICK_ERR_EXIST_SUPPORT_PAWN'
+old = 'サポートポーンがパーティにいるためできません'
+[[message]]
+key = 'ana_CHANGE_LEADER_ERR_NOT_PL'
+old = 'プレイヤーキャラクターではありません'
+[[message]]
+key = 'ana_CHANGE_LEADER_ERR_NOT_PARTY'
+old = 'パーティーが組まれていません'
+[[message]]
+key = 'ana_CHANGE_LEADER_ERR_AREA'
+old = 'リーダー変更可能エリアに全員が集まっていません'
+[[message]]
+key = 'ana_CHANGE_LEADER_ERR_PERMISSION'
+old = 'リーダーかリーダー不在でなければ選べません'
+[[message]]
+key = 'ana_CHANGE_LEADER_ERR_ALREADY'
+old = '現在のリーダーです'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_LOST_PAWN'
+old = 'ロスト中のポーンは呼び出せません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_ALREADY_PAWN'
+old = 'すでにパーティーメンバーです'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_CRAFT_PAWN'
+old = 'クラフト中のポーンです'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_ADVENTURE_NUM'
+old = '冒険回数が0です'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_NO_MAIN_PAWN'
+old = '先にメインポーンを雇う必要があります'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_NOT_LEADER'
+old = 'リーダー以外は誘えません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_PLACE'
+old = 'パーティー要請が不可能なエリアです'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_ALREADY_PL'
+old = '現在パーティーにいるメンバーです'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_INVITED'
+old = '要請を受けています'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_MYSELF'
+old = '自分をパーティーに誘うことはできません'
+[[message]]
+key = 'ana_JOIN_PARTY_ERR_UNABLE_READY'
+old = 'パーティー準備を完了できません'
+[[message]]
+key = 'ana_PAWN_RENTAL_ERR_RIM'
+old = 'リムが足りません'
+[[message]]
+key = 'ana_PAWN_RENTAL_ERR_NO_SPACE'
+old = '空き枠がありません'
+[[message]]
+key = 'ana_PAWN_DELETE_ERR_PARTY'
+old = 'パーティーにいるポーンは削除できません'
+[[message]]
+key = 'ana_PAWN_DELETE_ERR_CRAFT'
+old = 'クラフト中のポーンです'
+[[message]]
+key = 'ana_PAWN_RETURN_ERR_PARTY'
+old = 'パーティーにいるポーンは返却できません'
+[[message]]
+key = 'ana_PAWN_RETURN_ERR_CRAFT'
+old = 'クラフト中のポーンです'
+[[message]]
+key = 'ana_GROUP_CHAT_ERR_ALREDY_MEMBER'
+old = 'すでにグループチャットのメンバーです'
+[[message]]
+key = 'ana_GROUP_CHAT_ERR_NOT_PLAYER'
+old = 'グループチャットに誘える相手ではありません'
+[[message]]
+key = 'ana_GROUP_CHAT_KICK_ERR_MYSELF'
+old = '自分をキックすることはできません'
+[[message]]
+key = 'ana_EXPEL_CLAN_ERR_MYSELF'
+old = '自分を除名することはできません'
+[[message]]
+key = 'ana_CHANGE_CLAN_MASTER_ERR_MYSELF'
+old = 'クランマスターに変更できません'
+[[message]]
+key = 'ana_SET_CLAN_MEMBER_RANK_ERR_MYSELF'
+old = '自分にはクランランクを設定できません'
+[[message]]
+key = 'ana_FRIEND_ERR_MYSELF'
+old = '自分にフレンド申請はだせません'
+[[message]]
+key = 'ana_TELL_ERR_MYSELF'
+old = 'Tellは自分にできません'
+[[message]]
+key = 'ana_AUTORUN_ERR_PAWN'
+old = 'ポーンを対象に追従オートランできません'
+[[message]]
+key = 'ana_AUTORUN_ERR_MYSELF'
+old = '自分を対象に追従オートランできません'
+[[message]]
+key = 'ana_AUTORUN_ERR_NO_PARTY'
+old = 'パーティーメンバー以外に追従オートランできません'
+[[message]]
+key = 'ana_AUTORUN_ERR_NO_UNIT'
+old = '追従オートラン対象が同エリアにいません'
+[[message]]
+key = 'ana_ERR_UNKNOWN'
+old = '不明なエラーが発生しました'
+[[message]]
+key = 'ana_clan_create'
+old = 'クランを作成しました'
+[[message]]
+key = 'ana_clan_expulsion_q'
+old = '''
+<NAME TARGET>を
+クランから除名します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_expulsion'
+old = '<NAME TARGET>を除名しました'
+[[message]]
+key = 'ana_clan_chg_master_q'
+old = '''
+<NAME TARGET>を
+クランマスターにします。よろしいですか？'''
+[[message]]
+key = 'ana_clan_chg_master'
+old = '<NAME TARGET>をクランマスターにしました'
+[[message]]
+key = 'ana_clan_chg_leader_q'
+old = '''
+<NAME TARGET>を
+サブマスターにします。よろしいですか？'''
+[[message]]
+key = 'ana_clan_chg_member_q'
+old = '''
+<NAME TARGET>を
+通常メンバーにします。よろしいですか？'''
+[[message]]
+key = 'ana_clan_chg_member'
+old = '<NAME TARGET>を通常メンバーにしました'
+[[message]]
+key = 'ana_clan_chg_leader'
+old = '<NAME TARGET>をサブマスターにしました'
+[[message]]
+key = 'ana_re_entry_q'
+old = '''
+現在のパーティーを解散して
+エントリーボードに登録しなおします。
+よろしいですか？'''
+[[message]]
+key = 'ana_re_entry'
+old = 'パーティーが解散され、エントリーボードに再登録されました'
+[[message]]
+key = 'ana_fav_pawn_q'
+old = '''
+<NAME TARGET>を
+お気に入りに設定します。よろしいですか？'''
+[[message]]
+key = 'ana_fav_del_pawn_q'
+old = '''
+<NAME TARGET>を
+お気に入りから削除します。よろしいですか？'''
+[[message]]
+key = 'ana_fav_pawn'
+old = '<NAME TARGET>をお気に入りに追加しました'
+[[message]]
+key = 'ana_fav_del_pawn'
+old = '<NAME TARGET>をお気に入りから削除しました'
+[[message]]
+key = 'ana_friend_req_cancel_q'
+old = '''
+<NAME TARGET>への
+フレンド申請をキャンセルします。よろしいですか？'''
+[[message]]
+key = 'ana_friend_req_cancel'
+old = '<NAME TARGET>へのフレンド申請をキャンセルしました'
+[[message]]
+key = 'ana_mitem_get_con'
+old = 'メール添付アイテムを受け取りますか？'
+[[message]]
+key = 'ana_mitem_get'
+old = 'メール添付アイテムを受け取りました'
+[[message]]
+key = 'ana_mitem_all_get_q'
+old = '''
+アイテム付きメール<VAL>件のアイテムを
+すべて受け取りますか？'''
+[[message]]
+key = 'ana_mitem_opt_alert'
+old = '''
+※<OPCS>のアイテムは
+　個別に受け取ってください'''
+[[message]]
+key = 'ana_mitem_get_num'
+old = 'アイテム付きメール<VAL>件のアイテムを受け取りました'
+[[message]]
+key = 'ana_blist_add_q'
+old = '''
+<NAME TARGET>を
+ブラックリストに追加します。よろしいですか？'''
+[[message]]
+key = 'ana_blist_del_q'
+old = '''
+<NAME TARGET>を
+ブラックリストから削除します。よろしいですか？'''
+[[message]]
+key = 'ana_blist_add'
+old = '<NAME TARGET>をブラックリストに追加しました'
+[[message]]
+key = 'ana_blist_del'
+old = '<NAME TARGET>をブラックリストから削除しました'
+[[message]]
+key = 'ana_PAWN_DELETE_ERR_LAST'
+old = '残り1体なので削除できません'
+[[message]]
+key = 'ana_mitem_get_msg_index'
+old = 'アイテム付きのメール<VAL>件を受け取りました'
+[[message]]
+key = 'ana_mitem_get_gameitem'
+old = '　アイテム x <VAL> 入手'
+[[message]]
+key = 'ana_mitem_get_opt_course'
+old = '　<OPCS> x <VAL> 発動'
+[[message]]
+key = 'ana_mitem_get_opt_goldstone'
+old = '　メール <VAL>件分の黄金石 直接入手'
+[[message]]
+key = 'ana_mitem_get_opt_cticket'
+old = '　通貨系アイテム x <VAL> 直接入手'
+[[message]]
+key = 'ana_mitem_get_opt_lpawnticket'
+old = '　クラフトマスターポーン利用券 x <VAL> 入手'
+[[message]]
+key = 'ana_mitem_get_err_gameitem'
+old = 'アイテム x <VAL> を受け取れませんでした'
+[[message]]
+key = 'ana_mitem_get_err_opt_course'
+old = '<OPCS> x <VAL> を受け取れませんでした'
+[[message]]
+key = 'ana_mitem_get_err_opt_goldstone'
+old = 'メール <VAL>件分の黄金石 を受け取れませんでした'
+[[message]]
+key = 'ana_mitem_get_err_opt_cticket'
+old = '通貨系アイテム x <VAL> を受け取れませんでした'
+[[message]]
+key = 'ana_mitem_get_err_opt_lpawnticket'
+old = 'クラフトマスターポーン利用券 x <VAL> を受け取れませんでした'
+[[message]]
+key = 'ana_get_ability'
+old = 'アビリティ「<NAME ABILITY> <VAL LV>」を習得しました'
+[[message]]
+key = 'ana_grandmission_get_reward'
+old = '報酬が保管ボックスに送られました'
+[[message]]
+key = 'ana_unlock_contents'
+old = '<TEXT>が解放されました'
+[[message]]
+key = 'ana_gamemenu_atlobby'
+old = 'この場所では使用できません'
+[[message]]
+key = 'ana_gamemenu_dontnow'
+old = '今は使用できません'
+[[message]]
+key = 'ana_gamemenu_playcontents'
+old = '特定コンテンツプレイ時にしか選べません'
+[[message]]
+key = 'ana_gamemenu_clanmember'
+old = 'クランに所属していなければ選べません'
+[[message]]
+key = 'ana_gamemenu_dontrimwarp'
+old = 'カメラ制限がかかっているためフォトモードに移行できません'
+[[message]]
+key = 'ana_charge_course_start'
+old = '<NAME ETC> が発動しました'
+[[message]]
+key = 'ana_charge_course_limit_1h'
+old = '<NAME ETC> の期限が、残り1時間をきりました'
+[[message]]
+key = 'ana_charge_course_limit_24h'
+old = '<NAME ETC> の期限が、残り24時間をきりました'
+[[message]]
+key = 'ana_charge_course_end'
+old = '<NAME ETC> が切れました'
+[[message]]
+key = 'ana_pawn_lost_escape'
+old = '<NAME PAWN>はロストすることなく、リムストーンに戻りました'
+[[message]]
+key = 'ana_cantchange'
+old = 'その項目は変更できません'
+[[message]]
+key = 'ana_number_selection'
+old = '個数を選択してください'
+[[message]]
+key = 'ana_tutorial_announce'
+old = '新しいチュートリアルがあります'
+[[message]]
+key = 'ana_content_starting_standby'
+old = '出発スタンバイをしますか？'
+[[message]]
+key = 'ana_content_starting_cancel'
+old = '出発スタンバイをキャンセルしますか？'
+[[message]]
+key = 'ana_content_party_standby'
+old = 'パーティーの準備ができたので移動しますか？'
+[[message]]
+key = 'ana_creating_second_pawn'
+old = '新しいメインポーンと契約しました。パーティー管理から呼び出せます'
+[[message]]
+key = 'ana_get_keyitem'
+old = '「%s」を入手しました'
+[[message]]
+key = 'ana_quest_party_join'
+old = '''
+%sを
+パーティーに入れます。よろしいですか？'''
+[[message]]
+key = 'ana_grand_npc_escort_faild'
+old = '護衛対象の護衛に失敗'
+[[message]]
+key = 'ana_extream_timelimit_faild'
+old = '制限時間内での目的達成に失敗'
+[[message]]
+key = 'ana_pawn_adventure_dec'
+old = '<NAME PAWN>の冒険回数が減りました'
+[[message]]
+key = 'ana_pawn_adventure_zero'
+old = '''
+<NAME PAWN>の冒険回数が0になりました
+パーティーから外れます'''
+[[message]]
+key = 'ana_pawn_crafter_dec'
+old = '<NAME PAWN>のクラフト回数が減りました'
+[[message]]
+key = 'ana_pawn_crafter_zero'
+old = '<NAME PAWN>のクラフト回数が0になりました'
+[[message]]
+key = 'ana_release_element'
+old = '<VAL>を解放しました'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_PROGRESS_PL'
+old = 'まだプレイヤーをパーティーに誘うことができません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_PROGRESS_PAWN'
+old = 'まだポーンをパーティーに参加させることができません'
+[[message]]
+key = 'ana_CARD_ERR_NOT_ONLINE'
+old = 'オフラインです'
+[[message]]
+key = 'ana_APPLY_CLAN_ERR_ALREADY_JOIN'
+old = 'すでにクランに所属しています'
+[[message]]
+key = 'ana_entry_board_name_taken_list'
+old = 'リストから名前取得'
+[[message]]
+key = 'ana_entry_board_name_taken_friend'
+old = 'フレンドリストから'
+[[message]]
+key = 'ana_entry_board_name_taken_clan'
+old = 'クランリストから'
+[[message]]
+key = 'ana_mail_ana_receivedmail_full'
+old = '知り合いメールボックスがいっぱいです'
+[[message]]
+key = 'ana_mail_ana_receivedmail_full_near'
+old = '知り合いメールボックスの容量が少なくなってます'
+[[message]]
+key = 'ana_mail_ana_notificationmail_full'
+old = '''
+運営メールボックスがいっぱいです
+新しい運営メールを受信するには、不要になった運営メールを削除してください'''
+[[message]]
+key = 'ana_mail_ana_notificationmail_full_near'
+old = '運営メールボックスの容量が少なくなってます'
+[[message]]
+key = 'ana_mail_ana_0_newmail'
+old = '新着メールはありません'
+[[message]]
+key = 'ana_mail_ana_0_itemmail'
+old = '添付アイテムはありません'
+[[message]]
+key = 'ana_mail_ana_notset_address'
+old = '宛先が設定されていません'
+[[message]]
+key = 'ana_mail_ana_notinput_text'
+old = '本文が入力されていません'
+[[message]]
+key = 'ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_READY'
+old = '''
+スカウトエントリーをキャンセルします。
+よろしいですか？'''
+[[message]]
+key = 'ana_CLAN_SCOUT_DIALOG_SCOUT_CANCEL_END'
+old = 'スカウトエントリーをキャンセルしました'
+[[message]]
+key = 'ana_om_cannotstart_battle'
+old = '戦闘中は起動できません'
+[[message]]
+key = 'ana_questreward_to_rewardbox'
+old = 'クエスト報酬が報酬ボックスに入りました'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_sendspbox_nonsp'
+old = '＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_sendbox_ng_frame'
+old = 'アイテム枠がいっぱいです'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_sendbox_ng_stack'
+old = 'アイテムスタック数を超えています'
+[[message]]
+key = 'ana_version_error'
+old = 'このバージョンでは使用できません'
+[[message]]
+key = 'ana_new_leader_re_entry'
+old = '新たなリーダーに任命されました。出撃確認画面に入り直して下さい'
+[[message]]
+key = 'ana_quick_pt_recruiting_ng'
+old = 'クイックパーティー中のため募集できません'
+[[message]]
+key = 'ana_quick_pt_join_ng'
+old = 'クイックパーティー中のため参加できません'
+[[message]]
+key = 'ana_entryb_already_disable'
+old = 'コンテンツエントリー中のため選べません'
+[[message]]
+key = 'ana_entryb_party_disable'
+old = '特定コンテンツ用パーティーのため選べません'
+[[message]]
+key = 'ana_entryb_only_disable'
+old = 'コンテンツエントリー時にしか選べません'
+[[message]]
+key = 'ana_contents_leave_ng'
+old = 'コンテンツ中はパーティーから抜けられません'
+[[message]]
+key = 'ana_quickparty_leave_ng'
+old = 'クイックパーティー中はパーティーから抜けられません'
+[[message]]
+key = 'ana_dialog_party_leave_q'
+old = '''
+パーティーから抜けます
+よろしいですか？'''
+[[message]]
+key = 'ana_KICK_ERR_QUICK_PT'
+old = 'クイックパーティー中はキックできません'
+[[message]]
+key = 'ana_KICK_ERR_CONTENTS'
+old = '特定のコンテンツ中はキックできません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_QUICK_PT'
+old = 'クイックパーティー中はパーティーに誘えません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_CONTENTS'
+old = '特定のコンテンツ中はパーティーに誘えません'
+[[message]]
+key = 'ana_DEACTIVATE_ERR_QUICK_PT'
+old = 'クイックパーティー中は解散できません'
+[[message]]
+key = 'ana_DEACTIVATE_ERR_CONTENTS'
+old = '特定のコンテンツ中は解散できません'
+[[message]]
+key = 'ana_pawn_review_err'
+old = 'すべての評価を行わないと返却できません'
+[[message]]
+key = 'ana_create_character_max'
+old = 'これ以上新規キャラクターを作成できません'
+[[message]]
+key = 'ana_delete_character_zero'
+old = 'キャラクターが作成されていません'
+[[message]]
+key = 'ana_lot_err_goldstone_short'
+old = '黄金石が不足しています'
+[[message]]
+key = 'ana_lot_err_silverticket_short'
+old = 'シルバーチケットが不足しています'
+[[message]]
+key = 'ana_lot_err_itempost_full'
+old = 'アイテムポストの空きが足りないためロットできません'
+[[message]]
+key = 'ana_party_leave_err_battle'
+old = '戦闘中はパーティーからぬけられません'
+[[message]]
+key = 'ana_party_leave_err_solo'
+old = '一人の時はパーティーからぬけられません'
+[[message]]
+key = 'ana_news_err_favorite_warp'
+old = '拠点をマイ拠点に登録していないためリム転移できません'
+[[message]]
+key = 'ana_quest_order_err_condition'
+old = 'クエスト受注条件を満たしていません'
+[[message]]
+key = 'ana_quest_order_err_max'
+old = 'クエスト受注数が上限に達しています'
+[[message]]
+key = 'ana_quest_cancel_err'
+old = 'このクエストは破棄できません'
+[[message]]
+key = 'ana_bazaar_no_sales'
+old = 'バザーの売上がありません'
+[[message]]
+key = 'ana_input_device_err_mouse_key'
+old = 'マウス・キーボードが接続されていません'
+[[message]]
+key = 'ana_equip_condition_err'
+old = '条件をみたしていないため装備できません'
+[[message]]
+key = 'ana_box_err_exspace'
+old = '＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_input_device_err_pad'
+old = '<PFWD 0>が接続されていません'
+[[message]]
+key = 'ana_input_device_err_mouse_key_unchangable'
+old = 'マウス・キーボードが接続されていません'
+[[message]]
+key = 'ana_input_device_err_pad_unchangable'
+old = '<PFWD 0>が接続されていません'
+[[message]]
+key = 'ana_notion_exbox_without_charge'
+old = '本ボックスは＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_dialog_areatest'
+old = 'ランクアップにはエリア試練クエストのクリアが必要です'
+[[message]]
+key = 'ana_err_arearankup_by_guest'
+old = 'エリアランクアップはパーティーリーダーのみ可能です'
+[[message]]
+key = 'ana_pawn_delete_q_equip'
+old = '保管ボックスの空きが足りないので装備品が消えますが、<NAME PAWN>を削除してよろしいですか？'
+[[message]]
+key = 'ana_clan_info_reload'
+old = 'クランの情報が更新されました'
+[[message]]
+key = 'ana_play_main_quest'
+old = 'メインクエストで遊ぶ'
+[[message]]
+key = 'ana_play_area'
+old = 'エリアスポットで遊ぶ'
+[[message]]
+key = 'ana_common_back'
+old = '戻る'
+[[message]]
+key = 'ana_common_ready'
+old = '準備完了'
+[[message]]
+key = 'ana_common_refuse'
+old = '拒否'
+[[message]]
+key = 'ana_common_return'
+old = '戻る'
+[[message]]
+key = 'ana_q_use_item'
+old = '＜<NAME ITEM>＞を使いますか？'
+[[message]]
+key = 'ana_select_destination'
+old = '行き先選択'
+[[message]]
+key = 'ana_common_cancel'
+old = 'やめる'
+[[message]]
+key = 'CRAFT_NG_USED_PAWN'
+old = 'クラフト中のポーンです'
+[[message]]
+key = 'CRAFT_NG_SELECTED_PAWN'
+old = 'クラフト選択済のポーンです'
+[[message]]
+key = 'CRAFT_NG_CRAFTRANK'
+old = 'クラフトレベルを満たしていません'
+[[message]]
+key = 'CRAFT_NG_NON_POSSIBLE_PAWN'
+old = 'クラフト可能なポーンがいません'
+[[message]]
+key = 'CRAFT_NG_NON_NEED_ITEM'
+old = '素材が足りません'
+[[message]]
+key = 'CRAFT_NG_NON_CRAFTRANK_PAWN'
+old = 'クラフトレベルを満たしているポーンがいません'
+[[message]]
+key = 'CRAFT_NG_NON_MONEY'
+old = '所持金が足りません'
+[[message]]
+key = 'ana_qpt_checkbox_sel_err'
+old = '現在のパーティー構成では選択できません'
+[[message]]
+key = 'ana_q_setting_initialize'
+old = '設定を初期化しますか？'
+[[message]]
+key = 'ana_q_setting_recommended'
+old = '設定をおすすめに戻しますか？'
+[[message]]
+key = 'ana_join_lobby'
+old = 'パーティーに合流します'
+[[message]]
+key = 'ana_enter_password'
+old = 'パスワードを入力してください'
+[[message]]
+key = 'ana_select_type_quickmatch'
+old = 'クイックパーティーの冒険目的を選択してください'
+[[message]]
+key = 'ana_freemarker_delete'
+old = '<NAME TARGET>の<VAL>番フリーマーカー情報を削除しました'
+[[message]]
+key = 'ana_freemarker_set'
+old = '<NAME TARGET>の<VAL>番フリーマーカー情報を反映しました'
+[[message]]
+key = 'ana_quest_info_assept'
+old = 'パーティーメンバーが＜<VAL>＞を受注しました'
+[[message]]
+key = 'ana_quest_info_clear'
+old = 'パーティーメンバーが＜<VAL>＞をクリアしました'
+[[message]]
+key = 'ana_quest_info_cancel'
+old = '<VAL>が＜<VAL>＞を破棄しました'
+[[message]]
+key = 'ana_pt_mem_warp_begin'
+old = '<NAME TARGET>が＜<VAL>＞にリム転移しました'
+[[message]]
+key = 'ana_quest_info_update'
+old = 'パーティーメンバーが＜<VAL>＞を進行しました'
+[[message]]
+key = 'ana_quest_info_accept_solo'
+old = '＜<VAL>＞を受注しました'
+[[message]]
+key = 'ana_quest_info_clear_solo'
+old = '＜<VAL>＞をクリアしました'
+[[message]]
+key = 'ana_quest_info_update_solo'
+old = '＜<VAL>＞を進行しました'
+[[message]]
+key = 'ana_TELL_ERR_PAWN'
+old = 'Tellはポーンにできません'
+[[message]]
+key = 'ana_COMMON_ERR_PAWN'
+old = 'ポーンにはできません'
+[[message]]
+key = 'ana_job_release_order_start'
+old = '新ジョブ「<VAL>」の習得試練を開始しました'
+[[message]]
+key = 'ana_party_full'
+old = 'メンバーの上限を越えるため誘えません'
+[[message]]
+key = 'ana_disparty_in_battle'
+old = '戦闘中なのでパーティー解散できません'
+[[message]]
+key = 'ana_join_disable_discondition'
+old = '募集条件を満たしていません'
+[[message]]
+key = 'ana_event_skip_button'
+old = 'スキップ'
+[[message]]
+key = 'ana_server_crowded'
+old = '''
+現在サーバーが混み合っています。
+順次ログイン処理を行いますので
+しばらくお待ちください。
+(現在<VAL>人待ちです)'''
+[[message]]
+key = 'ana_char_edit_crowded'
+old = '''
+現在サーバーが混み合っています。
+キャラクター作成処理が完了するまで
+しばらくおまちください。
+(現在<VAL>人待ちです)'''
+[[message]]
+key = 'ana_solve_crowded'
+old = 'ゲーム開始可能になりました'
+[[message]]
+key = 'ana_is_backlobby'
+old = 'タイトルに戻りますか？'
+[[message]]
+key = 'ana_box_disable'
+old = '拡張枠は使用できません'
+[[message]]
+key = 'ana_nomore_choice'
+old = 'これ以上選択できません'
+[[message]]
+key = 'ana_change_cancel'
+old = '''
+変更をキャンセルします
+よろしいですか？'''
+[[message]]
+key = 'ana_entryb_ready_alert'
+old = 'メンバーが集合しました。担当NPCから《出撃》を選択してください'
+[[message]]
+key = 'ana_entryb_ready_wait_alert'
+old = '他のメンバーの出撃完了を待っています'
+[[message]]
+key = 'ana_entryb_reentry_alert'
+old = 'メンバーが揃っていません。再エントリーを行ってください'
+[[message]]
+key = 'ana_areamaster_no_quest'
+old = '現在、配信されているクエストがありません'
+[[message]]
+key = 'ana_pawn_upset'
+old = 'ポーンが参加できる状態ではないためキャンセルされました'
+[[message]]
+key = 'ana_entry_ready_gather'
+old = '他のメンバーの準備完了を待っています'
+[[message]]
+key = 'ana_quest_wait_order_member_error'
+old = 'リーダーのみ操作が可能です'
+[[message]]
+key = 'ana_quest_progress_error'
+old = '''
+＜<NAME QUEST>＞は
+進行条件を満たしていません'''
+[[message]]
+key = 'ana_quickpt_fail_by_friend'
+old = '''
+全員が準備完了できなかったため
+キャンセルされました'''
+[[message]]
+key = 'ana_quickpt_fail_by_decline'
+old = '''
+準備完了できなかったプレイヤーがいたため
+再マッチングを行います'''
+[[message]]
+key = 'ana_gacha_no_items'
+old = 'トレジャーズロットに商品がありません'
+[[message]]
+key = 'ana_event_skip_solo'
+old = 'イベントをスキップしますか？'
+[[message]]
+key = 'ana_crowded_cancel'
+old = '順番待ちを中止しますか？'
+[[message]]
+key = 'ana_disable_quickp'
+old = 'クイックパーティー中のため選べません'
+[[message]]
+key = 'ana_disable_make_pt'
+old = 'パーティー要請中のため選べません'
+[[message]]
+key = 'ana_disable_join_pt'
+old = 'パーティー参加中のため選べません'
+[[message]]
+key = 'ana_craft_noxp_rankup'
+old = '''
+選択中のポーンは昇格試験クリアまで
+クラフト経験値を獲得できません'''
+[[message]]
+key = 'ana_autologout_notice'
+old = '''
+長時間、操作が行われていません
+この状態があと <VAL>分 続くと、サーバーとの接続が切断されます'''
+[[message]]
+key = 'ana_disable_not_leader_common_err'
+old = 'リーダーではないため選べません'
+[[message]]
+key = 'ana_disable_qpt_fullmenber'
+old = 'パーティーメンバーが揃っているため選べません'
+[[message]]
+key = 'ana_clan_search_setting_dialog'
+old = '''
+クランの情報を公開してメンバーを募集しますか？
+（クラン編集から設定変更できます）'''
+[[message]]
+key = 'ana_clan_create_err_scoutentry'
+old = 'スカウトエントリー中のため作成できません'
+[[message]]
+key = 'ana_clan_create_err_joinreq'
+old = 'クランに加入申請中のため作成できません'
+[[message]]
+key = 'ana_error_party_unassembled'
+old = 'パーティー全員が揃っていないため使用できません'
+[[message]]
+key = 'ana_pl_num_lobby_in'
+old = 'ワールド <NAME LOBBY> へ移動しました'
+[[message]]
+key = 'ana_autologout_avoidance'
+old = '長時間の未操作状態から復帰しました'
+[[message]]
+key = 'ana_no_contents_party_dissolution'
+old = '''
+現在のパーティーで参加できるコンテンツがありません
+パーティー解散をしてください'''
+[[message]]
+key = 'ana_rimstone_menu_ex_lost_pawn'
+old = '＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_skill_release_order_start'
+old = '新しいジョブ修練の課題を開始しました'
+[[message]]
+key = 'ana_lostpawn_rescue_q'
+old = '''
+<VAL RIM>を消費して
+<NAME PAWN>を救出します
+よろしいですか？'''
+[[message]]
+key = 'ana_lostpawn_resque_rim_err'
+old = 'リムが足りないためできません'
+[[message]]
+key = 'ana_lostpawn_rescue'
+old = '<NAME PAWN>を復活させました'
+[[message]]
+key = 'ana_revival_and_credits_rim'
+old = 'リムを使用して復活しました'
+[[message]]
+key = 'ana_lostpawn_resque_userim_err'
+old = '''
+リムが足りないためできません
+<VAL RIM>必要です'''
+[[message]]
+key = 'ana_inputtxt_min_err'
+old = '入力文字数が足りません'
+[[message]]
+key = 'ana_error_no_target_opcs'
+old = '＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_simple_req_notfound'
+old = '条件のあうプレイヤーがみつかりませんでした'
+[[message]]
+key = 'ana_simple_req_retry'
+old = '続けてパーティーへの参加要請を送りますか？'
+[[message]]
+key = 'ana_play_news'
+old = 'レスタニアニュースで遊ぶ'
+[[message]]
+key = 'ana_request_entry_invitation'
+old = 'エントリーボードに招待されました'
+[[message]]
+key = 'ana_entry_password_release_conf'
+old = 'パスワードを解除します。よろしいですか？'
+[[message]]
+key = 'ana_entry_password_release_deci'
+old = 'パスワードを解除しました'
+[[message]]
+key = 'ana_entry_comment_input'
+old = 'コメントを入力してください'
+[[message]]
+key = 'ana_entry_comment_change'
+old = 'コメントを変更しました'
+[[message]]
+key = 'ana_entry_invitation_pl_conf'
+old = '''
+<NAME TARGET>を
+エントリーボードに招待します。よろしいですか？'''
+[[message]]
+key = 'ana_entry_invitation_pt_conf'
+old = '''
+パーティーメンバーを
+エントリーボードに招待します。よろしいですか？'''
+[[message]]
+key = 'ana_entry_invitation_pl_deci'
+old = '''
+<NAME TARGET>を
+エントリーボードに招待しました'''
+[[message]]
+key = 'ana_entry_invitation_pt_deci'
+old = '''
+パーティーメンバーを
+エントリーボードに招待しました'''
+[[message]]
+key = 'ana_get_gmission_reward'
+old = 'を獲得！'
+[[message]]
+key = 'ana_totalscore_reward'
+old = '累計スコア報酬を獲得！'
+[[message]]
+key = 'ana_totalscore_ability_reward'
+old = '''
+累計スコア報酬で
+シークレットアビリティを獲得！'''
+[[message]]
+key = 'ana_ranking_reward'
+old = 'ランキング報酬を獲得！'
+[[message]]
+key = 'ana_ranking_ability_reward'
+old = '''
+ランキング報酬で
+シークレットアビリティを獲得！'''
+[[message]]
+key = 'OS_announce_buy_item'
+old = '<NAME ETC> を購入しました'
+[[message]]
+key = 'OS_announce_buygs'
+old = '黄金石 <VAL> 個を購入しました'
+[[message]]
+key = 'OS_annnounce_for_itempost'
+old = '''
+商品の受け取りは
+メールをご確認ください'''
+[[message]]
+key = 'OS_annnounce_for_rimstone'
+old = '''
+クラフトマスターポーンのご利用は
+リムストーンで行えます'''
+[[message]]
+key = 'OS_annnounce_for_beautyshop'
+old = 'ポーンボイスの設定は美容院で行えます'
+[[message]]
+key = 'ana_party_join_leader_name_info'
+old = '''
+クイックパーティーで合流しました
+目的を共有しあい、冒険を楽しみましょう
+リーダーは <NAME TARGET> です'''
+[[message]]
+key = 'ana_main_quest_accept_error_party_inviting'
+old = 'パーティー要請中のため、メインクエストを受注できません'
+[[message]]
+key = 'ana_err_cannot_use_me'
+old = '自分には使用できません'
+[[message]]
+key = 'ana_err_quest_progress_no_leader_'
+old = 'リーダーが不在のため、クエストを進行できません'
+[[message]]
+key = 'ana_mitem_get_num_all_opcsitem'
+old = '受け取れるアイテムがありませんでした'
+[[message]]
+key = 'ana_mitem_get_opt_course_notget'
+old = '※<OPCS>は個別に受け取ってください'
+[[message]]
+key = 'ana_mitem_opt_alert_one'
+old = '''
+【ご注意】アイテムの中に<OPCS>が含まれています
+※<OPCS>は受け取ると発動します'''
+[[message]]
+key = 'ana_mail_delete_all_read_mail_q'
+old = '''
+未読／未取得以外のメール<VAL>件を
+すべて削除します。よろしいですか？'''
+[[message]]
+key = 'ana_mail_deleted'
+old = '削除しました'
+[[message]]
+key = 'ana_mail_delete_all_read_mail_0'
+old = '既読メールはありません'
+[[message]]
+key = 'ana_quiq_mach_ready_info_pop'
+old = '''
+クイックパーティーで同じ目的のプレイヤーが見つかりました
+合流するには一定時間内に準備完了してください'''
+[[message]]
+key = 'ana_entry_no_war_situation'
+old = '参加しようとしていた戦況が終了しました'
+[[message]]
+key = 'ana_gm_reward_syslog'
+old = '''
+グランドミッションの戦果報酬配分期間です
+参加した覚者は窓口の人物に話しかけて
+報酬を受け取りましょう'''
+[[message]]
+key = 'ana_gm_situation_syslog'
+old = '''
+グランドミッションの戦況が変化しました
+窓口の人物に話しかけて確認しましょう'''
+[[message]]
+key = 'ana_quickpt_ng_mq_solo'
+old = '受注条件がパーティープレイ不可のため使用できません'
+[[message]]
+key = 'ana_mq_ng_different_progression_usenot_keyite'
+old = '''
+リーダーと進行状況が異なるため
+キーアイテムは使用できません'''
+[[message]]
+key = 'ana_craftskillreset_ng_ticket'
+old = 'クラフトスキルリセット権がありません'
+[[message]]
+key = 'ana_craftskillreset_ng_craft'
+old = 'クラフト中なので使用できません'
+[[message]]
+key = 'ana_craftskillreset_ng_party'
+old = 'パーティー中なので使用できません'
+[[message]]
+key = 'ana_craftskillreset_conf'
+old = '''
+<NAME PAWN>の
+クラフトスキルをリセットしますか？
+※クラフトスキルリセット権が消費されます'''
+[[message]]
+key = 'ana_craftskillreset_dec'
+old = '''
+<NAME PAWN>の
+クラフトスキルをリセットしました'''
+[[message]]
+key = 'ana_storageextension_dec'
+old = '''
+ストレージが拡張されました
+該当する画面を確認してください'''
+[[message]]
+key = 'ana_craftskillreset_dec_guide'
+old = '''
+クラフトスキルリセットのご利用は
+リムストーンでおこなえます'''
+[[message]]
+key = 'ana_quest_invalid_status_change'
+old = 'クエスト状況が変化したため進行できませんでした'
+[[message]]
+key = 'ana_storage_num_increase'
+old = '保管ボックスのアイテム枠数が増加しました'
+[[message]]
+key = 'ana_CLAN_ERR_INTERVAL'
+old = 'クランインターバル期間中のためできません'
+[[message]]
+key = 'ana_already_received_supplies'
+old = 'すでに支援品を受け取っています'
+[[message]]
+key = 'ana_warning_barricade_out'
+old = '戦闘エリアから離れています'
+[[message]]
+key = 'ana_warp_barricade_out'
+old = '戦闘エリアを出たためワープします'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ng_configured'
+old = 'すでに設定済みです'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ng_myroom_only'
+old = '自室のリムストーンでのみ設定できます'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ng_reward_unacquired'
+old = 'リワードがあるときは変更できません'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ok_decision'
+old = '<NAME PAWN>をパートナーポーンに設定しました'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_conf'
+old = '''
+<NAME PAWN>を
+パートナーポーンに設定しますか？'''
+[[message]]
+key = 'ana_error_no_target_service'
+old = '''
+オンラインショップより対象のサービスを
+ご購入いただくことで使用可能となります'''
+[[message]]
+key = 'ana_om_door_open_by_enemy'
+old = '閉ざされていた道が開けた'
+[[message]]
+key = 'ana_partner_pawn_rim_day'
+old = '1日1回しか渡すことができません'
+[[message]]
+key = 'ana_partner_pawn_rim_max'
+old = 'これ以上渡すことができません'
+[[message]]
+key = 'ana_partner_pawn_rwmsg_edit'
+old = '''
+ポーンに新しい髪型の提案を受け
+エディットパーツが増えました！'''
+[[message]]
+key = 'ana_partner_pawn_rwmsg_ability'
+old = '''
+ポーンに戦技の提案を受け
+シークレットアビリティを獲得！'''
+[[message]]
+key = 'ana_partner_pawn_rwmsg_emo'
+old = 'ポーンに新しいエモートを教えてもらった！'
+[[message]]
+key = 'ana_partner_pawn_rwmsg_talk'
+old = 'ポーンの会話が増えました！'
+[[message]]
+key = 'ana_partner_pawn_lpup'
+old = 'パートナーポーンとの絆が深まった'
+[[message]]
+key = 'ana_quest_announce_set_discover_add'
+old = '未公開クエスト「%s」を発見した！'
+[[message]]
+key = 'ana_mission_order_err_condition'
+old = '受注条件を満たしていません'
+[[message]]
+key = 'ana_mission_order_err_condition_ir'
+old = 'アイテムランクの条件を満たしていません'
+[[message]]
+key = 'ana_unauthorized_cannotuse'
+old = '権限がないため使用できません'
+[[message]]
+key = 'ana_clan_invite_q_direct'
+old = '''
+<NAME TARGET>を
+クランに直接招待します。よろしいですか？'''
+[[message]]
+key = 'ana_clan_invite_direct'
+old = '''
+<NAME TARGET>を
+クランに直接招待しました'''
+[[message]]
+key = 'ana_disp_cleartime'
+old = 'クリアタイム'
+[[message]]
+key = 'ana_PAWN_DELETE_ERR_PARTNER'
+old = 'パートナーポーンは削除できません'
+[[message]]
+key = 'ana_craftskillreset_ng_0point'
+old = 'ポイントが割り振られていないため使用できません'
+[[message]]
+key = 'ana_not_login_cogid_ng_caplink'
+old = '''
+「カプリンク」を使用するには
+カプコンオンラインゲームズ(COG)のIDでログインする必要があります'''
+[[message]]
+key = 'ana_not_login_cogid_ng_support'
+old = '''
+「サポート・報告」を使用するには
+カプコンオンラインゲームズ(COG)のIDでログインする必要があります
+お問い合わせについては公式サイトをご覧ください'''
+[[message]]
+key = 'ana_om_warp_single_seater_used'
+old = 'すでに転移の力を失っている'
+[[message]]
+key = 'ana_item_cannot_use_by_bat_status'
+old = 'アイテム封印中のため使用できません'
+[[message]]
+key = 'ana_cpOmOneWay'
+old = '壁の向こう側へ移動しますか？'
+[[message]]
+key = 'ana_cpOmJukeBox'
+old = '再生するアビリティを選択してください'
+[[message]]
+key = 'ana_cpOmJukeBox_stop'
+old = '曲を止める'
+[[message]]
+key = 'ana_clan_kyoten_ng_pass_stage'
+old = '<STG 210>は解放されていません'
+[[message]]
+key = 'ana_clan_kyoten_ng_pass_door'
+old = 'この扉は解放されていません'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ng_quest_order'
+old = 'ポーンクエスト受注中のときは変更できません'
+[[message]]
+key = 'ana_keyconfig_dialog_overlap'
+old = '''
+重複しているキーがあるため
+閉じることができません'''
+[[message]]
+key = 'ana_keyconfig_dialog_overlap_item_1'
+old = '重複しているキーを変更前に戻して閉じる'
+[[message]]
+key = 'ana_keyconfig_announce_err_01'
+old = 'このキーはブランクキーにできません'
+[[message]]
+key = 'ana_keyconfig_edit_name_title'
+old = '名前の編集'
+[[message]]
+key = 'ana_keyconfig_dialog_copy_select'
+old = 'どれにコピーしますか？'
+[[message]]
+key = 'ana_keyconfig_dialog_copy_conf'
+old = '''
+キーコンフィグ内容をコピーします
+よろしいですか？
+
+　コピー元：%s
+　コピー先：%s'''
+[[message]]
+key = 'ana_clan_authority_settings_err_01'
+old = '変更する権限がありません'
+[[message]]
+key = 'ana_clan_authority_settings_err_02'
+old = 'インターバル期間中のため変更できません'
+[[message]]
+key = 'ana_keyconfig_dialog_category_initialization_'
+old = '''
+すべてのキーを初期設定に戻します
+よろしいですか？'''
+[[message]]
+key = 'ana_itembox_submenu_tooltip_senditempost'
+old = 'アイテムポストには送れません'
+[[message]]
+key = 'ana_INVITE_PARTY_ERR_PAWN_EXPEDITION'
+old = '遠征中は呼び出せません'
+[[message]]
+key = 'ana_PARTNERPAWN_SET_ng_pawn_expedition'
+old = '遠征中は変更できません'
+[[message]]
+key = 'ana_clan_err_applying'
+old = 'すでに申請中のため選べません'
+[[message]]
+key = 'ana_TreasurePoint_Discovery'
+old = '小さくきらめく何かを発見した！'
+[[message]]
+key = 'ana_keyconfig_announce_auto_key_change'
+old = 'キーコンフィグを「%s」に変更しました'
+[[message]]
+key = 'ana_keyconfig_dialog_not_yet_saved_attention'
+old = '''
+キーコンフィグの変更はまだ保存されていません
+デバイス設定の適用ボタンを押してください
+
+<COL aa1414>キーコンフィグによる設定キーの変更は
+ゲームが正しく動作しない可能性があります
+ご注意ください</COL>'''
+[[message]]
+key = 'ana_keyconfig_dialog_link_job_key_alteration'
+old = '''
+ジョブとキーコンフィグの関連付けの
+変更はまだ保存されていません
+デバイス設定の適用ボタンを押してください'''
+[[message]]
+key = 'ana_mail_err_not_receive_item'
+old = '添付アイテムを受け取っていないため削除できません'
+[[message]]
+key = 'ana_keyconfig_dialog_all_blank'
+old = '''
+すべてのキーをブランクキーにします
+よろしいですか？
+（一部のキーはブランクキーにできません）'''
+[[message]]
+key = 'ana_keyconfig_ng_can_not_be_changed'
+old = 'このキーは変更できません'
+[[message]]
+key = 'ana_entry_invitation_clan_pt_conf'
+old = '''
+同じクランに所属しているパーティーメンバーを
+エントリーボードに招待します。よろしいですか？'''
+[[message]]
+key = 'ana_entry_invitation_clan_pt_deci'
+old = '''
+同じクランに所属しているパーティーメンバーを
+エントリーボードに招待しました'''
+[[message]]
+key = 'ana_entryb_clan_member_disable'
+old = '同じクランに所属しているメンバーにのみ使用できます'
+[[message]]
+key = 'ana_mail_receive_box'
+old = '保管ボックスに受け取る'
+[[message]]
+key = 'ana_mail_receive_post'
+old = 'ポストに受け取る'
+[[message]]
+key = 'ana_mail_receive_bag'
+old = 'アイテムバッグに受け取る'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_sendbox_ng_same'
+old = '同じアイテムは選択できません'
+[[message]]
+key = 'OS_annnounce_for_fixed_phrase'
+old = '対象のボイス定型文が使用可能になりました'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_sendspbox_nonsp1'
+old = '格納チェスト引出し<VAL>は＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_box_err_exspace1'
+old = '格納チェスト引出し<VAL>は＜<OPCS>＞の発動中に使用可能となります'
+[[message]]
+key = 'ana_gamemenu_purchase_processing'
+old = '購入情報を処理しています'
+[[message]]
+key = 'ana_party_waiting_for_all'
+old = 'パーティー全員が参加するまで、しばらくお待ちください'
+[[message]]
+key = 'ana_party_waiting_for_me'
+old = 'パーティーメンバーがあなたの参加を待っています'
+[[message]]
+key = 'ana_om_warp_nazo_warp'
+old = '今は転移の力を失っているようだ――'
+[[message]]
+key = 'ana_camera_angle_limit'
+old = '装備判定により、撮影アングルが制限されました'
+[[message]]
+key = 'OS_annnounce_for_available_immediately'
+old = '購入した商品が利用可能になりました'
+[[message]]
+key = 'ana_get_custom_skill'
+old = 'カスタムスキル「<NAME CUSTOM_SKILL> <VAL LV>」を習得しました'
+[[message]]
+key = 'ana_get_normal_skill'
+old = 'ノーマルスキル「<NAME NORMAL_SKILL>」を習得しました'
+[[message]]
+key = 'ana_get_custom_skill_no_level'
+old = 'カスタムスキル「<NAME CUSTOM_SKILL>」を習得しました'
+[[message]]
+key = 'ana_pawn_expedition_report_em_subjugation'
+old = '-討伐結果報告-'
+[[message]]
+key = 'ana_epitaph_001'
+old = '''
+よくここまできた
+試練を乗り越えしものに力を授けよう'''
+[[message]]
+key = 'ana_epitaph_002'
+old = '''
+炎が煌めいており
+すでに力は授かっているようだ'''
+[[message]]
+key = 'ana_wm_limited_condition_open'
+old = '新たな戦況が期間限定で開催決定！'
+[[message]]
+key = 'ana_epitaph_003'
+old = 'カテゴリ選択'
+[[message]]
+key = 'ana_epitaph_004'
+old = 'ダンジョン選択'
+[[message]]
+key = 'ana_epitaph_005'
+old = '確認'
+[[message]]
+key = 'ana_epitaph_007'
+old = '待ち受けをキャンセルしますか？'
+[[message]]
+key = 'ana_epitaph_008'
+old = 'パーティーリーダーが決定するまで、使用できません'
+[[message]]
+key = 'ana_epitaph_009'
+old = 'リーダーが選択したダンジョンに突入しますか？'
+[[message]]
+key = 'ana_epitaph_010'
+old = '《魂》を捧げることで道が開けそうだ――'
+[[message]]
+key = 'ana_epitaph_011'
+old = '''
+パーティーメンバーが開拓済みのため
+一時的に《魂》を捧げずに開拓できます
+(その場合、開拓状況は保存されません)'''
+[[message]]
+key = 'ana_epitaph_012'
+old = '通常開拓'
+[[message]]
+key = 'ana_epitaph_013'
+old = '一時開拓'
+[[message]]
+key = 'ana_epitaph_014'
+old = '''
+不思議な文字が
+刻み込まれている――'''
+[[message]]
+key = 'ana_epitaph_015'
+old = '試練一覧'
+[[message]]
+key = 'ana_epitaph_016'
+old = '''
+試練を中断しますか？
+(中断した場合、納品したアイテムは破棄されます)'''
+[[message]]
+key = 'ana_epitaph_017'
+old = '''
+パーティーメンバーが別の場所で
+試練開始を待っています'''
+[[message]]
+key = 'ana_epitaph_019'
+old = '待ち受けをキャンセルしますか？'
+[[message]]
+key = 'ana_epitaph_020'
+old = '''
+試練の開始待ちです
+(キャンセルはできません)'''
+[[message]]
+key = 'ana_epitaph_021'
+old = '石板が青白く輝いている――'
+[[message]]
+key = 'ana_epitaph_022'
+old = '''
+絶技の継承から
+さらなる力を得られるようになった'''
+[[message]]
+key = 'ana_epitaph_023'
+old = '不思議な力が辺りに散らばった'
+[[message]]
+key = 'ana_err_not_enough_item'
+old = 'アイテムが足りません'
+[[message]]
+key = 'ana_q_use_item2'
+old = '''
+ダンジョンへの突入時に以下のアイテムを消費します
+よろしいですか？
+
+<NAME ITEM> × <VAL>枚'''
+[[message]]
+key = 'ana_pack_seq_empty'
+old = '''
+使命：＜<NAME QUEST>＞
+本日のミッションは達成しています'''
+[[message]]
+key = 'ana_clan_kyoten_no_authority_layout'
+old = '拠点のレイアウトを使用する権限が与えられていません'
+[[message]]
+key = 'ana_member_remove_q'
+old = '''
+<NAME TARGET>を
+メンバーから外します。よろしいですか？'''
+[[message]]
+key = 'ana_entry_chat_recruit_01'
+old = '''
+チャットにエントリーボード募集を配信します
+宛先を選択してください'''
+[[message]]
+key = 'ana_entry_chat_recruit_02'
+old = '発言したいテキストを入力してください'
+[[message]]
+key = 'ana_entry_chat_recruit_03'
+old = 'エントリー募集中！'
+[[message]]
+key = 'ana_entry_chat_recruit_04'
+old = 'にチャット募集しました'
+[[message]]
+key = 'ana_itembox_submenu_tooltip_ng_itemlock_01'
+old = 'セーフティ設定しているアイテムを選択しています'
+[[message]]
+key = 'ana_item_conf_itemlock_caution_01'
+old = '''
+<COL ffdc78>貴重なアイテム</COL>を選択しています
+本当によろしいですか？'''
+[[message]]
+key = 'ana_lde_no_items'
+old = '開催しているイベントがありません'
+[[message]]
+key = 'ana_common_msg_usage_prohibited'
+old = '使用できません'
+[[message]]
+key = 'ana_pspskill_sub_ng_01'
+old = '空いている状態で使用できます'
+[[message]]
+key = 'ana_om_chest_open_by_enemy'
+old = '閉ざされていた宝箱が開いた'
+[[message]]
+key = 'ana_om_chest_close_by_enemy'
+old = '何かの強い力で、固く閉ざされているようだ――'
+[[message]]
+key = 'ana_bitterblack_match_001'
+old = '進行をリセットする必要があります'
+[[message]]
+key = 'ana_bitterblack_match_002'
+old = 'クイックパーティ申請中のため使用できません'
+[[message]]
+key = 'ana_bitterblack_match_003'
+old = 'クイックパーティー申請をキャンセルしますか？'
+[[message]]
+key = 'ana_bitterblack_match_004'
+old = '''
+現在のジョブで突入準備しますか？
+<COL aa1414>決定するとリセットするまでジョブは変更できません</COL>'''
+[[message]]
+key = 'ana_bitterblack_match_005'
+old = '突入方法を選択してください'
+[[message]]
+key = 'ana_bitterblack_match_006'
+old = '現在のパーティーで突入する'
+[[message]]
+key = 'ana_bitterblack_match_007'
+old = '他のプレイヤーと突入する'
+[[message]]
+key = 'ana_bitterblack_match_008'
+old = 'ポーンと突入する（ソロ専用）'
+[[message]]
+key = 'ana_bitterblack_match_009'
+old = '即時クリア'
+[[message]]
+key = 'ana_bitterblack_match_010'
+old = 'パーティーに他プレイヤーがいるため選べません'
+[[message]]
+key = 'ana_bitterblack_match_011'
+old = 'パーティーを組んでいるため選べません'
+[[message]]
+key = 'ana_bitterblack_match_012'
+old = '黒呪の迷宮をクリアしていないため選べません'
+[[message]]
+key = 'ana_bitterblack_match_013'
+old = 'リーダーではないため選べません'
+[[message]]
+key = 'ana_bitterblack_match_014'
+old = '''
+<COL ffdc78>黄金石</COL>を使って
+黒呪の迷宮を即時クリアしますか？
+<COL ffdc78>黄金石<VAL GS></COL>を消費します（所持数：<HAVE GS>）'''
+[[message]]
+key = 'ana_bitterblack_match_015'
+old = '''
+<COL aa1414>現在の探索状態ではクリア報酬が発生しません</COL>
+本当に即時クリアしますか？'''
+[[message]]
+key = 'ana_quest_navi_ng_01'
+old = '''
+ナビゲート設定できません
+白竜神殿かエリアマスターのいる拠点施設で設定してください'''
+[[message]]
+key = 'ana_bitterblack_job_change_disable'
+old = '黒呪の迷宮に突入している為、ジョブチェンジできません'
+[[message]]
+key = 'ana_epitaph_024'
+old = '開拓する場所を選んでください'
+[[message]]
+key = 'ana_epitaph_025'
+old = '開拓可能な場所がありません'
+[[message]]
+key = 'ana_epitaph_026'
+old = '発動するバフを選択してください'
+[[message]]
+key = 'ana_epitaph_027'
+old = '受け取らない'
+[[message]]
+key = 'ana_epitaph_028'
+old = 'バフを受け取らずに終了しますか？'
+[[message]]
+key = 'ana_epitaph_029'
+old = '''
+これ以上、バフを追加することができません
+すでに発動しているバフと置き換えてください'''
+[[message]]
+key = 'ana_epitaph_030'
+old = '選択したバフと置き換えてもよろしいですか？'
+[[message]]
+key = 'ana_epitaph_031'
+old = '''
+大きな力が宿っている
+しかし、まだ試練を受ける資格がないようだ――'''
+[[message]]
+key = 'ana_jobmaster_order_report'
+old = '達成済みのジョブ修練をジョブマスターに報告しました'
+[[message]]
+key = 'ana_common_item_get'
+old = 'アイテムを受け取りました'
+[[message]]
+key = 'ana_bitterblack_match_016'
+old = '突入を開始しますか？'

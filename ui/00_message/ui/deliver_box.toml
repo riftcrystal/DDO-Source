@@ -1,0 +1,32 @@
+﻿[[message]]
+key = 'DELIVER_MSG_TITLE01'
+old = 'Quest List'
+[[message]]
+key = 'DELIVER_MSG_TITLE02'
+old = 'クエストリスト'
+[[message]]
+key = 'DELIVER_MSG_CAPTION_EN'
+old = 'Delivery Item'
+[[message]]
+key = 'DELIVER_MSG_CAPTION_JP'
+old = '納品アイテム'
+[[message]]
+key = 'DELIVER_MSG_NOTION_NOQUEST'
+old = '納品が必要なボードクエストを受注していません'
+[[message]]
+key = 'DELIVER_MSG_LB_GOAL'
+old = '目標納品数'
+[[message]]
+key = 'DELIVER_MSG_NOTION_DELIVER'
+old = '<NAME ITEM> × <VAL> を納品しました'
+[[message]]
+key = 'DELIVER_MSG_NOTION_FINISH'
+old = '''
+「<NAME QUEST>」
+納品目標を全て達成しました'''
+[[message]]
+key = 'DELIVER_MSG_BUTTON_FINISH'
+old = '完了'
+[[message]]
+key = 'DELIVER_MSG_BUTTON_END'
+old = 'キャンセル'

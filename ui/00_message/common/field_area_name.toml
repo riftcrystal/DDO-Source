@@ -1,0 +1,24 @@
+﻿[[message]]
+key = 'FIELD_AREA_INFO_1'
+old = 'レスタニア'
+[[message]]
+key = 'FIELD_AREA_INFO_2'
+old = 'メルゴダ下層'
+[[message]]
+key = 'FIELD_AREA_INFO_3'
+old = 'メルゴダ王宮層'
+[[message]]
+key = 'FIELD_AREA_INFO_4'
+old = '魔赤島'
+[[message]]
+key = 'FIELD_AREA_INFO_5'
+old = 'フィンダム'
+[[message]]
+key = 'FIELD_AREA_INFO_6'
+old = 'アッカーシェラン'
+[[message]]
+key = 'FIELD_AREA_INFO_7'
+old = 'アッカーシェラン[過去]'
+[[message]]
+key = 'FIELD_AREA_INFO_8'
+old = '黒呪の迷宮'

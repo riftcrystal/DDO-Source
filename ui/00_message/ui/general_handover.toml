@@ -1,0 +1,88 @@
+﻿[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE00'
+old = 'Receive'
+[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE01'
+old = '受け取り'
+[[message]]
+key = 'HANDOVER_MSG_BTN_ALL'
+old = 'すべて受け取る'
+[[message]]
+key = 'HANDOVER_MSG_BTN_NONE'
+old = 'すべて破棄'
+[[message]]
+key = 'HANDOVER_MSG_BTN_CANCEL'
+old = 'キャンセル'
+[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE02'
+old = 'Present'
+[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE03'
+old = 'プレゼント'
+[[message]]
+key = 'HANDOVER_MSG_TAB_CONSUME'
+old = '消費'
+[[message]]
+key = 'HANDOVER_MSG_TAB_EQUIP'
+old = '装備'
+[[message]]
+key = 'HANDOVER_MSG_TAB_MATERIAL'
+old = '素材'
+[[message]]
+key = 'HANDOVER_MSG_TAB_SPECIAL'
+old = '特殊'
+[[message]]
+key = 'HANDOVER_MSG_BTN_FINISH'
+old = '完了'
+[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE04'
+old = 'Delivery'
+[[message]]
+key = 'HANDOVER_MSG_TITLE_M_TITLE05'
+old = '納品'
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_00'
+old = '''
+アイテムを受け取らずに戻りますか？
+受け取ったアイテムは戻されます'''
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_YES'
+old = 'はい'
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_NO'
+old = 'いいえ'
+[[message]]
+key = 'HANDOVER_MSG_ANNOUCE_00'
+old = '送り先がいっぱいのため、受け取ることができません'
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_01'
+old = '''
+アイテムを受け取らずすべて捨てます
+よろしいですか？'''
+[[message]]
+key = 'HANDOVER_MSG_ANNOUCE_01'
+old = 'アイテムを受け取りました'
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_02'
+old = '''
+アイテムの納品をキャンセルします
+よろしいですか？'''
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_03'
+old = '''
+選択したアイテムを渡します
+よろしいですか？'''
+[[message]]
+key = 'HANDOVER_MSG_ANNOUCE_02'
+old = 'アイテムを渡しました'
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_04'
+old = '''
+アイテムが選択されていません
+アイテムの納品をキャンセルします
+よろしいですか？'''
+[[message]]
+key = 'HANDOVER_MSG_DIALOG_00_MANDRA'
+old = '''
+アイテムの受け取りを中止しますか？
+(未受け取りのままだと再び育てることができません)'''

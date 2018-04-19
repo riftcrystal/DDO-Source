@@ -1,0 +1,168 @@
+﻿[[message]]
+key = 'PLAY_PURPOSE_MAIN_001'
+old = 'とくになし'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_002'
+old = 'レベルあげ'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_003'
+old = 'お金を稼ぐ'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_004'
+old = '素材集め'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_005'
+old = 'オーブエネミーを倒す'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_006'
+old = 'イベントで遊ぶ'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_007'
+old = '大目的予備'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_008'
+old = '大目的予備'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_009'
+old = '大目的予備'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_010'
+old = '大目的予備'
+[[message]]
+key = 'PLAY_PURPOSE_MAIN_011'
+old = '大目的予備'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_001'
+old = '冒険エリア＜ハイデル平原＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_002'
+old = '冒険エリア＜ブリア海岸＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_003'
+old = '冒険エリア＜ミスリウ森林＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_004'
+old = '冒険エリア＜ミスリウ森林深部＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_005'
+old = '冒険エリア＜ダウ渓谷＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_006'
+old = '冒険エリア＜ボルド鉱山＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_007'
+old = '冒険エリア＜バートランド平原＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_008'
+old = '冒険エリア＜バートランド平原北部＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_009'
+old = '冒険エリア＜ディナン深層林＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_010'
+old = '冒険エリア＜ザンドラ東部＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_011'
+old = '冒険エリア＜ザンドラ禁域＞'
+[[message]]
+key = 'PLAY_PURPOSE_AREA_012'
+old = '冒険エリア＜亡都メルゴダ＞'
+[[message]]
+key = 'PLAY_STYLE_001'
+old = '指定なし'
+[[message]]
+key = 'PLAY_STYLE_002'
+old = 'まったりあそぼう'
+[[message]]
+key = 'PLAY_STYLE_003'
+old = '戦闘大好き'
+[[message]]
+key = 'PLAY_STYLE_004'
+old = 'お金大好き'
+[[message]]
+key = 'PLAY_STYLE_005'
+old = 'クエスト攻略大好き'
+[[message]]
+key = 'PLAY_STYLE_006'
+old = 'ミッション攻略大好き'
+[[message]]
+key = 'PLAY_STYLE_007'
+old = '限定イベント大好き'
+[[message]]
+key = 'PLAY_STYLE_008'
+old = 'シナリオ大好き'
+[[message]]
+key = 'PLAY_STYLE_009'
+old = 'クラフト大好き'
+[[message]]
+key = 'PLAY_STYLE_010'
+old = 'ランキング大好き'
+[[message]]
+key = 'PLAY_STYLE_011'
+old = 'アタッカーでプレイしています！'
+[[message]]
+key = 'PLAY_STYLE_012'
+old = 'タンクでプレイしています！'
+[[message]]
+key = 'PLAY_STYLE_013'
+old = 'ヒーラーでプレイしています！'
+[[message]]
+key = 'PLAY_STYLE_014'
+old = '複数のジョブでプレイしています！'
+[[message]]
+key = 'PLAY_STYLE_015'
+old = 'ポーンを混ぜてパーティーを組もう'
+[[message]]
+key = 'PLAY_STYLE_016'
+old = '朝方中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_017'
+old = '昼型中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_018'
+old = '夜型中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_019'
+old = 'いつでもプレイ'
+[[message]]
+key = 'PLAY_STYLE_020'
+old = '平日中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_021'
+old = '週末中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_022'
+old = '休日中心プレイ'
+[[message]]
+key = 'PLAY_STYLE_023'
+old = '毎日プレイ'
+[[message]]
+key = 'PLAY_STYLE_024'
+old = '不定期にコツコツプレイ'
+[[message]]
+key = 'PLAY_STYLE_025'
+old = 'フレンド募集中'
+[[message]]
+key = 'PLAY_STYLE_026'
+old = 'クランに入りたい'
+[[message]]
+key = 'PLAY_STYLE_027'
+old = 'クランメンバー募集中'
+[[message]]
+key = 'PLAY_STYLE_028'
+old = 'グループチャットに入りたい'
+[[message]]
+key = 'PLAY_STYLE_029'
+old = 'スタイル予備'
+[[message]]
+key = 'PLAY_STYLE_030'
+old = 'スタイル予備'
+[[message]]
+key = 'PLAY_STYLE_031'
+old = 'スタイル予備'
+[[message]]
+key = 'PLAY_STYLE_032'
+old = 'スタイル予備'
+[[message]]
+key = 'PLAY_STYLE_033'
+old = 'スタイル予備'
