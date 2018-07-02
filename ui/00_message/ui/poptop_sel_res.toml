@@ -291,7 +291,7 @@ key = 'poptop_recycle_equip'
 old = '武具の分解'
 [[message]]
 key = 'poptop_recycle_gs_equip'
-old = 'ロット武具の分解'
+old = '特殊武具の分解'
 [[message]]
 key = 'poptop_recycle_remaining_num_reset'
 old = '残り回数リセット'
