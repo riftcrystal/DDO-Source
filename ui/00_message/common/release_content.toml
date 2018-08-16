@@ -214,3 +214,6 @@ old = 'ポーンの新特技'
 [[message]]
 key = 'RELEASE_CONTENT_81'
 old = 'ハイセプターの戦技の継承'
+[[message]]
+key = 'RELEASE_CONTENT_82'
+old = '絶技の継承'

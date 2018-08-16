@@ -274,3 +274,6 @@ old = '魔力が%sゲージ以上ありません'
 [[message]]
 key = 'hud_notice_no_charm_stack'
 old = '魔力が%sスタック以上ありません'
+[[message]]
+key = 'hud_name_om_safetydome'
+old = '護身の結界'

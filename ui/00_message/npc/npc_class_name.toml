@@ -303,6 +303,8 @@ old = 'グランドミッション：古代神殿の死闘'
 [[message]]
 old = 'エリアマスター・紋章メダル交換'
 [[message]]
+old = 'エリアマスター・紋章メダル交換'
+[[message]]
 old = '宿・戦技補佐'
 [[message]]
 old = 'よろず屋'
@@ -399,15 +401,29 @@ old = '鑑定交換'
 [[message]]
 old = '冒険手帳サポート係'
 [[message]]
+old = '宿・戦技補佐'
+[[message]]
+old = 'よろず屋'
+[[message]]
+old = '冒険仲介係'
+[[message]]
+old = 'よろず屋'
+[[message]]
+old = '冒険仲介係'
+[[message]]
+old = '宿・戦技補佐'
+[[message]]
 old = '美容院'
 [[message]]
 old = '鑑定交換'
 [[message]]
-old = '復活力の回復'
+old = '復活力・ログインスタンプ'
 [[message]]
 old = '武器屋'
 [[message]]
 old = 'ウォーミッション：霧の森の死闘'
+[[message]]
+old = 'ウォーミッション：悪しき竜'
 [[message]]
 old = 'カスタムメイド工房'
 [[message]]

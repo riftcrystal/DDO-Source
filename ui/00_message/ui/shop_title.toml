@@ -178,3 +178,6 @@ old = 'レアアイテムの鑑定'
 [[message]]
 key = 'shop_title_bbi_embody'
 old = '黒呪アイテムの持ち帰り'
+[[message]]
+key = 'shop_title_daily_mission'
+old = 'デイリーミッション（仮）'

@@ -62,3 +62,9 @@ old = 'セットボタンを押す'
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_07_226'
 old = 'セットボタンを押す'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_07_227'
+old = 'セットボタンを押す'
+[[message]]
+key = 'CUSTOM_SKILL_COMMAND_07_228'
+old = 'セットボタンを押す'

@@ -69,10 +69,10 @@ key = 'FURNITURE_LAYOUT_NAME_26'
 old = '自室の装飾'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_27'
-old = 'オブジェクト・B'
+old = 'オブジェクト'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_28'
-old = 'オブジェクト'
+old = 'オブジェクト・B'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_29'
 old = '覚者の部屋着'

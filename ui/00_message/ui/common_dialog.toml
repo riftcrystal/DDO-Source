@@ -1618,7 +1618,7 @@ key = 'ana_cpOmOneWay'
 old = '壁の向こう側へ移動しますか？'
 [[message]]
 key = 'ana_cpOmJukeBox'
-old = '再生するアビリティを選択してください'
+old = '再生する項目を選択してください'
 [[message]]
 key = 'ana_cpOmJukeBox_stop'
 old = '曲を止める'
@@ -2016,3 +2016,38 @@ old = 'アイテムを受け取りました'
 [[message]]
 key = 'ana_bitterblack_match_016'
 old = '突入を開始しますか？'
+[[message]]
+key = 'ana_ordeal_conf_reward'
+old = '報酬を確認する'
+[[message]]
+key = 'ana_ordeal_choice_conf_reward'
+old = '報酬を確認する試練を選択してください'
+[[message]]
+key = 'title_ordeal_rewards'
+old = 'Ordeals Rewards'
+[[message]]
+key = 'title_sub_ordeal_rewards'
+old = '試練で得られる可能性のある報酬の一覧'
+[[message]]
+key = 'ana_ordeal_conf_start'
+old = '試練に挑む準備はよろしいですか？'
+[[message]]
+key = 'ana_epitaph_032'
+old = '大試練解放まで残りの試練<VAL>つ'
+[[message]]
+key = 'ana_epitaph_033'
+old = '第<VAL>区画の大試練が解放された――'
+[[message]]
+key = 'ana_dialog_currency_leak_warning_01'
+old = '''
+<COL ffdc78>※注意※
+このまま受け取ると、所持上限値を超えてしまう
+通貨系アイテムが含まれています
+満額受け取ることができませんのでご注意ください</COL>'''
+[[message]]
+key = 'ana_dialog_currency_leak_warning_02'
+old = '''
+<COL ffdc78>※注意※
+このまま受け取ると、所持上限値を超えてしまう
+通貨系アイテムが含まれている場合があります
+満額受け取ることができませんのでご注意ください</COL>'''

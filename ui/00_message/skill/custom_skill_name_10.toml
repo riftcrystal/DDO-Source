@@ -46,3 +46,9 @@ old = 'コル・スパイク 剛'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_10_234'
 old = 'コル・スパイク 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_10_235'
+old = 'キュア・グラスタ 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_10_236'
+old = 'キュア・グラスタ 技'

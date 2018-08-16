@@ -58,3 +58,9 @@ old = '蹴り跳び 剛'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_02_214'
 old = '蹴り跳び 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_02_215'
+old = 'アギト裂き 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_02_216'
+old = 'アギト裂き 技'

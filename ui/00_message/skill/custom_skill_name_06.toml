@@ -58,3 +58,9 @@ old = 'フレイムウォール 剛'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_06_222'
 old = 'フレイムウォール 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_06_223'
+old = 'フロストスパイク 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_06_224'
+old = 'フロストスパイク 技'

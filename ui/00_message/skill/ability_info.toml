@@ -58,7 +58,7 @@ old = '''
 key = 'ABILITY_INFO_467'
 old = '''
 魔印の減退速度が低下する
-<COL ffdc78>LVUP毎により減退速度がさらに低下</COL>'''
+<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>'''
 [[message]]
 key = 'ABILITY_INFO_4'
 old = '''
@@ -125,7 +125,7 @@ key = 'ABILITY_INFO_473'
 old = '''
 属性の付与されたルイン・ブレードで
 より敵を状態異常にかかりやすくする
-<COL ffdc78>LVUP毎に状態異常値がより増加</COL>'''
+<COL ffdc78>LV UP毎に状態異常値がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_15'
 old = '''
@@ -192,8 +192,8 @@ old = '''
 [[message]]
 key = 'ABILITY_INFO_478'
 old = '''
-攻撃を受けて体勢を崩された際の魔印を減退を抑える
-<COL ffdc78>LVUP毎に減退量がさらに軽減</COL>'''
+攻撃を受けて体勢を崩された際の魔印の減退速度が低下する
+<COL ffdc78>LV UP毎により減退速度がさらに低下</COL>'''
 [[message]]
 key = 'ABILITY_INFO_5'
 old = '''
@@ -259,7 +259,7 @@ key = 'ABILITY_INFO_469'
 old = '''
 ルイン・ショットのダメージ量と
 吹き飛ばし力と弾速が増加する
-<COL ffdc78>LVUP毎にダメージと吹き飛ばし力がより増加</COL>'''
+<COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_1'
 old = '''
@@ -325,7 +325,7 @@ old = '''
 key = 'ABILITY_INFO_468'
 old = '''
 瀕死時に剣による攻撃の魔力吸収量が増加する
-<COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>'''
+<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_9'
 old = '''
@@ -391,7 +391,7 @@ old = '''
 key = 'ABILITY_INFO_483'
 old = '''
 疲労攻力が上昇する
-<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>'''
+<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_16'
 old = '''
@@ -462,7 +462,7 @@ old = '''
 key = 'ABILITY_INFO_485'
 old = '''
 瀕死状態中に、疲労攻力が上昇する
-<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>'''
+<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_6'
 old = '''
@@ -526,7 +526,7 @@ old = '''
 key = 'ABILITY_INFO_472'
 old = '''
 剣による攻撃の魔力吸収量が上がる
-<COL ffdc78>LVUP毎に魔力吸収量がより増加</COL>'''
+<COL ffdc78>LV UP毎に魔力吸収量がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_25'
 old = '''
@@ -591,7 +591,7 @@ key = 'ABILITY_INFO_479'
 old = '''
 スタミナを一定量消費するスキルを使用した際に
 一定確率で消費を無効にする
-<COL ffdc78>LVUP毎に無効になる確率がより増加</COL>'''
+<COL ffdc78>LV UP毎に無効になる確率がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_23'
 old = '''
@@ -655,7 +655,7 @@ old = '''
 key = 'ABILITY_INFO_466'
 old = '''
 魔力スタックが2以上の時に、筋力と魔力が増加する
-<COL ffdc78>LVUP毎に筋力と魔力がより増加</COL>'''
+<COL ffdc78>LV UP毎に筋力と魔力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_24'
 old = '''
@@ -721,7 +721,7 @@ old = '''
 key = 'ABILITY_INFO_484'
 old = '''
 体力が一定量以上のとき、疲労攻力が上昇する
-<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>'''
+<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_22'
 old = '''
@@ -785,7 +785,7 @@ old = '''
 key = 'ABILITY_INFO_486'
 old = '''
 スタミナが一定量以上のとき、疲労攻力が上昇する
-<COL ffdc78>LVUP毎に疲労攻力がより増加</COL>'''
+<COL ffdc78>LV UP毎に疲労攻力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_10'
 old = '''
@@ -848,7 +848,7 @@ old = '''
 key = 'ABILITY_INFO_470'
 old = '''
 純魔法発動後、一定時間魔法攻撃力が増加する
-<COL ffdc78>LVUP毎に効果時間がより増加</COL>'''
+<COL ffdc78>LV UP毎に効果時間がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_2'
 old = '''
@@ -913,7 +913,7 @@ old = '''
 key = 'ABILITY_INFO_471'
 old = '''
 純魔法発動後、一定時間物理攻撃力が増加する
-<COL ffdc78>LVUP毎に効果時間がより増加</COL>'''
+<COL ffdc78>LV UP毎に効果時間がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_12'
 old = '''
@@ -979,7 +979,7 @@ key = 'ABILITY_INFO_482'
 old = '''
 毒沼やマグマなどの特殊な地形から受けるダメージや
 状態異常値が減る
-<COL ffdc78>LVUP毎にダメージと状態異常値がさらに減少</COL>'''
+<COL ffdc78>LV UP毎にダメージと状態異常値がさらに減少</COL>'''
 [[message]]
 key = 'ABILITY_INFO_17'
 old = '''
@@ -1044,7 +1044,7 @@ old = '''
 フォースゲージ／リベンジゲージ／魔力ゲージを
 消費するスキルを使用した際に
 一定確率で消費を無効にする
-<COL ffdc78>LVUP毎に無効になる確率がより増加</COL>'''
+<COL ffdc78>LV UP毎に無効になる確率がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_19'
 old = '''
@@ -1112,7 +1112,7 @@ old = '''
 key = 'ABILITY_INFO_489'
 old = '''
 戦甲系の敵から受けるダメージ量が減少する
-<COL ffdc78>LVUP毎にダメージさらに軽減</COL>'''
+<COL ffdc78>LV UP毎にダメージさらに軽減</COL>'''
 [[message]]
 key = 'ABILITY_INFO_8'
 old = '''
@@ -1174,7 +1174,7 @@ old = '''
 key = 'ABILITY_INFO_481'
 old = '''
 大砲の砲弾により与えるダメージと吹き飛ばし力が増加する
-<COL ffdc78>LVUP毎にダメージと吹き飛ばし力がより増加</COL>'''
+<COL ffdc78>LV UP毎にダメージと吹き飛ばし力がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_18'
 old = '''
@@ -1239,8 +1239,8 @@ old = '''
 [[message]]
 key = 'ABILITY_INFO_488'
 old = '''
-戦甲パーツへ与えるダメージと吹き飛ばし力が増加する
-<COL ffdc78>LVUP毎にダメージがより増加</COL>'''
+戦甲へ与えるダメージと吹き飛ばし力が増加する
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_3'
 old = '''
@@ -1305,7 +1305,7 @@ old = '''
 key = 'ABILITY_INFO_490'
 old = '''
 戦甲系の敵に与えるダメージ量が増加する
-<COL ffdc78>LVUP毎にダメージがより増加</COL>'''
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_13'
 old = '''
@@ -1368,7 +1368,7 @@ old = '''
 key = 'ABILITY_INFO_477'
 old = '''
 補助魔法を発動し魔力消費した際に少し魔力が残る
-<COL ffdc78>LVUP毎に魔力残量がより増加</COL>'''
+<COL ffdc78>LV UP毎に魔力残量がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_21'
 old = '''
@@ -1489,7 +1489,7 @@ old = '''
 key = 'ABILITY_INFO_475'
 old = '''
 純魔法を発動し魔力消費した際に少し魔力が残る
-<COL ffdc78>LVUP毎に魔力残量がより増加</COL>'''
+<COL ffdc78>LV UP毎に魔力残量がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_7'
 old = '''
@@ -1555,7 +1555,7 @@ key = 'ABILITY_INFO_487'
 old = '''
 敵にダメージを与えた時
 自身の蓄積中の状態異常値が減少する
-<COL ffdc78>LVUP毎に状態異常値がさらに減少</COL>'''
+<COL ffdc78>LV UP毎に状態異常値がさらに減少</COL>'''
 [[message]]
 key = 'ABILITY_INFO_14'
 old = '''
@@ -1616,7 +1616,7 @@ key = 'ABILITY_INFO_474'
 old = '''
 ルイン・ブレードの魔力消費量を増加させ
 ダメージを大幅に増加させる
-<COL ffdc78>LVUP毎にダメージがより増加</COL>'''
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_20'
 old = '''
@@ -1685,7 +1685,7 @@ LV5～6で吹き飛ばし力が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_499'
 old = '''
-四連撃のダメージ量が増加する
+四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>'''
 [[message]]
@@ -1756,7 +1756,7 @@ LV5～6で吹き飛ばし力が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_500'
 old = '''
-弧連撃のダメージ量が増加する
+弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で吹き飛ばし力が増加</COL>'''
 [[message]]
@@ -1970,7 +1970,7 @@ LV5～6で吹き飛ばし力が増加</COL>'''
 key = 'ABILITY_INFO_497'
 old = '''
 全てのノーマルスキルのダメージ量が増加する
-<COL ffdc78>LVUP毎にダメージがより増加</COL>'''
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_256'
 old = '''
@@ -2035,7 +2035,7 @@ key = 'ABILITY_INFO_504'
 old = '''
 剣による攻撃の魔印の成長速度が増加するが、
 攻撃を受けて体勢を崩された際の減退量も増加する
-<COL ffdc78>LVUP毎に魔印の成長速度がより増加</COL>'''
+<COL ffdc78>LV UP毎に魔印の成長速度がより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_257'
 old = '''
@@ -2105,7 +2105,7 @@ LV5～6でチャンス攻力と疲労攻力が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_493'
 old = '''
-四連撃のダメージ量が増加する
+四連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 [[message]]
@@ -2176,7 +2176,7 @@ LV5～6でチャンス攻力と疲労攻力が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_494'
 old = '''
-弧連撃のダメージ量が増加する
+弧連斬のダメージ量が増加する
 <COL ffdc78>LVUP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 [[message]]
@@ -2249,7 +2249,7 @@ LV5～6でチャンス攻力と疲労攻力が増加</COL>'''
 key = 'ABILITY_INFO_495'
 old = '''
 空叉斬のダメージ量が増加する
-<COL ffdc78>LVUP毎にダメージがより増加
+<COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_260'
@@ -2314,7 +2314,7 @@ old = '''
 key = 'ABILITY_INFO_496'
 old = '''
 昇墜斬のダメージ量が増加する
-<COL ffdc78>LVUP毎にダメージがより増加
+<COL ffdc78>LV UP毎にダメージがより増加
 LV5～6で魔力吸収量が増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_261'
@@ -2381,6 +2381,12 @@ old = '''
 <COL ffdc78>LV UP毎にダメージがより増加
 LV5～6でチャンス攻力と疲労攻力が増加</COL>'''
 [[message]]
+key = 'ABILITY_INFO_498'
+old = '''
+発動すると前方へ大きく移動するスキルの
+ダメージ量が増加する
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
+[[message]]
 key = 'ABILITY_INFO_262'
 old = '''
 闇防低下の状態異常への耐性が増加する
@@ -2441,6 +2447,12 @@ key = 'ABILITY_INFO_440'
 old = '''
 攻撃時のスピリットゲージの蓄積量が増加
 <COL ffdc78>LV UP毎にゲージ蓄積量がより増加</COL>'''
+[[message]]
+key = 'ABILITY_INFO_503'
+old = '''
+敵の攻撃に合わせて発動することで
+ダメージを与えるスキルのダメージ量が増加する
+<COL ffdc78>LV UP毎にダメージがより増加</COL>'''
 [[message]]
 key = 'ABILITY_INFO_263'
 old = '''
@@ -2729,20 +2741,22 @@ old = '''
 [[message]]
 key = 'ABILITY_INFO_461'
 old = '''
-友体/友活/友攻/友魔/友防/友護の
-Lv6以上の全てのアビリティ効果が付与される'''
+友体/友活/友攻/友魔/友防/友護
+上記アビリティのLV.6より高い効果が付与される
+ポーンが装備した場合は効果なし'''
 [[message]]
 key = 'ABILITY_INFO_462'
 old = '''
-探採/宝眼/延泉/安着/流断/薬効の
-Lv6以上の全てのアビリティ効果が付与される'''
+探採/宝眼/延泉/安着/流断/薬効
+探採と宝眼以外はLV.6より高い効果が付与される
+ポーンが装備した場合、探採/宝眼の効果なし'''
 [[message]]
 key = 'ABILITY_INFO_463'
 old = '''
-侵壊/侵護/減侵/豪握/強壮の
-Lv6以上の全てのアビリティ効果が付与される'''
+侵壊/侵護/減侵/豪握/強壮
+上記アビリティのLV.6より高い効果が付与される'''
 [[message]]
 key = 'ABILITY_INFO_464'
 old = '''
-羅刹/夜叉/空滅/速離/聖体の
-Lv6以上の全てのアビリティ効果が付与される'''
+羅刹/夜叉/空滅/速離/聖体
+上記アビリティのLV.6より高い効果が付与される'''

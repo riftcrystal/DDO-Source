@@ -324,7 +324,7 @@ key = 'pawn_growtalk_advice_choice_52'
 old = '特技設定について'
 [[message]]
 key = 'pawn_call_bell_menu'
-old = 'ポーン呼び出しベルメニュー'
+old = '語らいのベルメニュー'
 [[message]]
 key = 'pawn_change_retry'
 old = 'ポーンがジョブチェンジした事の無いジョブです'

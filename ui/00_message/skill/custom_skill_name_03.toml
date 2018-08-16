@@ -58,3 +58,9 @@ old = '剛力射ち 剛'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_03_198'
 old = '剛力射ち 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_03_199'
+old = '降らし爆炎矢 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_03_200'
+old = '降らし爆炎矢 技'

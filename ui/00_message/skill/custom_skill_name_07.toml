@@ -58,3 +58,9 @@ old = 'かわし斬り 剛'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_07_226'
 old = 'かわし斬り 技'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_07_227'
+old = '大輪斬 剛'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_07_228'
+old = '大輪斬 技'

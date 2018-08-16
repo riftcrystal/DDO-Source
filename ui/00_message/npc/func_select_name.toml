@@ -198,7 +198,7 @@ key = 'FUNC_SELECT_NAME_70'
 old = 'ドミニオンポイントショップ'
 [[message]]
 key = 'FUNC_SELECT_NAME_71'
-old = '戦徒の転生'
+old = '転生'
 [[message]]
 key = 'FUNC_SELECT_NAME_72'
 old = '武具のカスタムメイド'
@@ -243,7 +243,7 @@ key = 'FUNC_SELECT_NAME_86'
 old = '冒険ガイド'
 [[message]]
 key = 'FUNC_SELECT_NAME_87'
-old = 'パーティー募集掲示板'
+old = '募集掲示板'
 [[message]]
 key = 'FUNC_SELECT_NAME_88'
 old = '黒呪装具の効果封印'

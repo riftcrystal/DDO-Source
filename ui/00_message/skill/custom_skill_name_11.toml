@@ -19,3 +19,6 @@ old = 'テラー・ブラスト'
 [[message]]
 key = 'CUSTOM_SKILL_NAME_11_239'
 old = 'エクリプス・ブライト'
+[[message]]
+key = 'CUSTOM_SKILL_NAME_11_243'
+old = 'ファントム・エッジ'

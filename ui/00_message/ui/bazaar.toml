@@ -226,3 +226,18 @@ old = '''
 時間を置いてもう一度お試しいただくか
 アクセス頻度を下げてご利用いただきますよう
 お願いいたします'''
+[[message]]
+key = 'bazaar_msg_announce_error_notcovered'
+old = '対象のアイテムはバザーで購入できません'
+[[message]]
+key = 'bazaar_msg_name_bazaar_en'
+old = 'Bazaar'
+[[message]]
+key = 'bazaar_msg_name_bazaar_jp'
+old = 'バザー'
+[[message]]
+key = 'bazaar_msg_name_required_material'
+old = '必要素材名'
+[[message]]
+key = 'bazaar_msg_name_num_listings'
+old = '出品数'

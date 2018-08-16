@@ -1550,6 +1550,24 @@ old = '魔軍出撃待機所'
 key = 'SPOT_NAME_1051'
 old = '虜囚尋問牢'
 [[message]]
+key = 'SPOT_NAME_1052'
+old = 'サラマンダーコロニー'
+[[message]]
+key = 'SPOT_NAME_1053'
+old = '空望広場'
+[[message]]
+key = 'SPOT_NAME_1054'
+old = '静かな抗戦跡'
+[[message]]
+key = 'SPOT_NAME_1055'
+old = '痛刻の洞'
+[[message]]
+key = 'SPOT_NAME_1056'
+old = '原初の集落'
+[[message]]
+key = 'SPOT_NAME_1057'
+old = '建設資材集積場'
+[[message]]
 key = 'SPOT_NAME_1058'
 old = 'ラスニテ山麓'
 [[message]]
@@ -1561,6 +1579,9 @@ old = 'フェルヤナ荒原'
 [[message]]
 key = 'SPOT_NAME_1061'
 old = 'メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1062'
+old = 'ウルテカ山岳'
 [[message]]
 key = 'SPOT_NAME_1063'
 old = 'ラスニテ地下水路'
@@ -1604,6 +1625,18 @@ old = 'メガド大聖堂'
 key = 'SPOT_NAME_1076'
 old = '戦練の社'
 [[message]]
+key = 'SPOT_NAME_1077'
+old = '憩いの坑洞'
+[[message]]
+key = 'SPOT_NAME_1078'
+old = '火垂れ山拝竜院'
+[[message]]
+key = 'SPOT_NAME_1079'
+old = '聖炎の参竜道'
+[[message]]
+key = 'SPOT_NAME_1080'
+old = '悼まれぬ者の葬室'
+[[message]]
 key = 'SPOT_NAME_1081'
 old = '魔軍緊急野営地'
 [[message]]
@@ -1621,6 +1654,12 @@ old = 'ニルビリス大橋関所'
 [[message]]
 key = 'SPOT_NAME_1088'
 old = '軍獣強化場'
+[[message]]
+key = 'SPOT_NAME_1089'
+old = '原種の縄張り'
+[[message]]
+key = 'SPOT_NAME_1090'
+old = '還れぬ炎の吹き溜まり'
 [[message]]
 key = 'SPOT_NAME_1091'
 old = 'ティネス砦'
@@ -1658,6 +1697,9 @@ old = '古テキア洞窟'
 key = 'SPOT_NAME_1102'
 old = '隠匿の王間'
 [[message]]
+key = 'SPOT_NAME_1103'
+old = '魔角の間'
+[[message]]
 key = 'SPOT_NAME_1104'
 old = '王家の隠れ道'
 [[message]]
@@ -1678,6 +1720,9 @@ old = '英霊眠りし道　フェルヤナ荒原'
 [[message]]
 key = 'SPOT_NAME_1110'
 old = 'メガドシスの記憶'
+[[message]]
+key = 'SPOT_NAME_1111'
+old = 'ウルテカの記憶'
 [[message]]
 key = 'SPOT_NAME_1112'
 old = '王家の隠れ道 秘密の扉前'
@@ -1985,6 +2030,24 @@ old = '予備枠'
 key = 'SPOT_NAME_1215'
 old = '高地のあばら屋'
 [[message]]
+key = 'SPOT_NAME_1216'
+old = '北の盗賊のアジト'
+[[message]]
+key = 'SPOT_NAME_1217'
+old = '火垂れ山野営地'
+[[message]]
+key = 'SPOT_NAME_1218'
+old = 'メガド離宮'
+[[message]]
+key = 'SPOT_NAME_1219'
+old = '聖炎の参竜道'
+[[message]]
+key = 'SPOT_NAME_1220'
+old = '王家の墓'
+[[message]]
+key = 'SPOT_NAME_1221'
+old = '悪しき竜のねぐら'
+[[message]]
 key = 'SPOT_NAME_1223'
 old = '兵士詰所'
 [[message]]
@@ -2062,6 +2125,9 @@ old = '城塞都市メガド クラフトルーム'
 [[message]]
 key = 'SPOT_NAME_1248'
 old = '王家の隠れ部屋 メガドシス高地'
+[[message]]
+key = 'SPOT_NAME_1249'
+old = '王家の隠れ部屋 ウルテカ山岳'
 [[message]]
 key = 'SPOT_NAME_1250'
 old = '古テキア洞窟　中心部'
@@ -2159,11 +2225,50 @@ old = '霧の森'
 key = 'SPOT_NAME_1281'
 old = '展望城 港'
 [[message]]
+key = 'SPOT_NAME_1282'
+old = 'ウルテカ山岳 東部'
+[[message]]
+key = 'SPOT_NAME_1283'
+old = 'ウルテカ山岳 北部'
+[[message]]
+key = 'SPOT_NAME_1284'
+old = 'ウルテカ山岳 西部'
+[[message]]
+key = 'SPOT_NAME_1285'
+old = '崩れた進入路'
+[[message]]
 key = 'SPOT_NAME_1286'
 old = '異界の扉'
 [[message]]
+key = 'SPOT_NAME_1287'
+old = '王家の墓前'
+[[message]]
 key = 'SPOT_NAME_1288'
 old = '旧英霊廟'
+[[message]]
+key = 'SPOT_NAME_1289'
+old = '憩いの坑洞 中層'
+[[message]]
+key = 'SPOT_NAME_1290'
+old = '憩いの坑洞 最深部'
+[[message]]
+key = 'SPOT_NAME_1291'
+old = '崩れた進入路 最深部'
+[[message]]
+key = 'SPOT_NAME_1292'
+old = '火垂れ山拝竜院 中層'
+[[message]]
+key = 'SPOT_NAME_1293'
+old = '火垂れ山拝竜院 最深部'
+[[message]]
+key = 'SPOT_NAME_1294'
+old = '悼まれぬ者の葬室 最深部'
+[[message]]
+key = 'SPOT_NAME_1295'
+old = '悼まれぬ者の葬室 不死者の房'
+[[message]]
+key = 'SPOT_NAME_1296'
+old = '悼まれぬ者の葬室　火炎体の巣窟'
 [[message]]
 key = 'SPOT_NAME_1297'
 old = '大地の記憶 メガドシス古道 フェルヤナ方面'
@@ -2173,3 +2278,24 @@ old = '大地の記憶 メガドシス古道 中腹'
 [[message]]
 key = 'SPOT_NAME_1299'
 old = '大地の記憶 メガドシス古道 メガドシス方面'
+[[message]]
+key = 'SPOT_NAME_1300'
+old = '王家の墓 最奥'
+[[message]]
+key = 'SPOT_NAME_1301'
+old = '聖炎の参竜道 上層'
+[[message]]
+key = 'SPOT_NAME_1302'
+old = 'メガドシスの記憶 武神の間'
+[[message]]
+key = 'SPOT_NAME_1303'
+old = 'ウルテカの記憶 武神の間'
+[[message]]
+key = 'SPOT_NAME_1304'
+old = 'ウルテカの記憶 西部 入口'
+[[message]]
+key = 'SPOT_NAME_1305'
+old = 'ウルテカの記憶 東部 入口'
+[[message]]
+key = 'SPOT_NAME_1306'
+old = 'ウルテカの記憶 北部 入口'
