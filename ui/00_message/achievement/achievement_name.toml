@@ -5006,6 +5006,9 @@ old = '信仰の証'
 key = 'ACHIEVEMENT_NAME_2900'
 old = '精神の証'
 [[message]]
+key = 'ACHIEVEMENT_NAME_2901'
+old = '永遠の証'
+[[message]]
 key = 'ACHIEVEMENT_NAME_2902'
 old = '戦徒ゼミナール開校'
 [[message]]

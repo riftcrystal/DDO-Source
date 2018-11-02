@@ -7269,7 +7269,7 @@ old = '戦の将'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2519
-old = '火垂山に巣食う炎獣'
+old = '火垂れ山に巣食う炎獣'
 type = {old = 'Replace'}
 [[named_param]]
 id = 2520

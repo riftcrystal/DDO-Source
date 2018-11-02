@@ -5195,7 +5195,7 @@ key = 'ACHIEVEMENT_INFO_2896'
 old = 'マンドラゴラ生態図鑑で270種類発見'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2897'
-old = 'マンドラゴラ生態図鑑で320種類発見'
+old = 'マンドラゴラ生態図鑑で312種類発見'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2898'
 old = 'いずれかのエンブレムストーンのレベルが5に到達'
@@ -5205,6 +5205,9 @@ old = 'いずれかのエンブレムストーンのレベルが15に到達'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2900'
 old = 'いずれかのエンブレムストーンのレベルが20に到達'
+[[message]]
+key = 'ACHIEVEMENT_INFO_2901'
+old = 'いずれかのエンブレムストーンのレベルが25に到達'
 [[message]]
 key = 'ACHIEVEMENT_INFO_2902'
 old = 'クエスト「不思議な呼び鈴」クリア'
