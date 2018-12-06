@@ -263,7 +263,7 @@ key = 'kcd_076'
 old = '<COL DAEEF3>【Ｓｅ】</COL>ロープ投げ（ロープ構え中）'
 [[message]]
 key = 'kcd_077'
-old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填'
+old = '<COL DAEEF3>【Ｈｕ】</COL>矢の装填　　<COL DAEEF3>【Ｅｌ】</COL>魔眼転移'
 [[message]]
 key = 'kcd_078'
 old = '<COL DAEEF3>【Ａｌ】</COL>エリクシル・チェンジ　<COL DAEEF3>【Ｓｐ】</COL>アタックブースト'

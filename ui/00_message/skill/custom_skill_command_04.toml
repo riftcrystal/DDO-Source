@@ -33,7 +33,9 @@ key = 'CUSTOM_SKILL_COMMAND_04_53'
 old = 'セットボタンを押して詠唱、詠唱完了で発動'
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_04_51'
-old = 'セットボタンを押して詠唱、詠唱完了で発動'
+old = '''
+セットボタンを押して詠唱、詠唱完了で発動
+展開後、その場に留まることで展開時間を延長'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_04_133'
 old = 'セットボタンを押して詠唱、詠唱完了で発動、再度押すと解除'

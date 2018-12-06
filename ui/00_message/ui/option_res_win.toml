@@ -982,7 +982,7 @@ key = 'OPTION_MSG_BUTTON_EDIT'
 old = '編集'
 [[message]]
 key = 'OPTION_MSG_UI_BIGSIZE'
-old = 'UIを拡大表示する (解像度1920×1080 以上で有効)'
+old = 'UIを拡大表示する (解像度1600×900 以上で有効)'
 [[message]]
 key = 'OPTION_MSG_CAPTION_CLAN'
 old = 'クラン'
@@ -1118,3 +1118,9 @@ old = '紹介通知のポップアップを表示する'
 [[message]]
 key = 'OPTION_MSG_NAVIGATION_DISP'
 old = 'ナビゲーションを表示する'
+[[message]]
+key = 'OPTION_MSG_QUEST_MOB_HUNT'
+old = 'ワイルドハント'
+[[message]]
+key = 'OPTION_MSG_UI_SCALE'
+old = 'UIを拡大表示した時のスケール値'

@@ -34,3 +34,6 @@ old = '<PADM><KC WEAPON_SUB>または<KC WEAPON_MAIN>を押しながら右ステ
 [[message]]
 key = 'NORMAL_SKILL_COMMAND_08_135'
 old = 'しがみつき中に<KC ATTACK1>を押す'
+[[message]]
+key = 'NORMAL_SKILL_COMMAND_08_178'
+old = '<KC RELOAD>を押す'

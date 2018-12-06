@@ -69,10 +69,13 @@ key = 'RIM_POP_MSG_M_GENDER_FEMALE'
 old = '女性'
 [[message]]
 key = 'RIM_POP_MSG_SEARCH_JOB'
-old = 'ジョブで探す'
+old = 'ジョブ'
 [[message]]
 key = 'RIM_POP_MSG_SEARCH_CRAFTSKILL'
-old = 'クラフトスキルで探す'
+old = 'クラフトスキル'
 [[message]]
 key = 'RIM_POP_MSG_CHARACTER_M_IR'
 old = 'アイテムランク指定'
+[[message]]
+key = 'RIM_POP_MSG_SEARCH_DRASKILL'
+old = 'ドラゴンアビリティ'

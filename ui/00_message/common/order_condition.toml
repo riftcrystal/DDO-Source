@@ -61,3 +61,6 @@ old = 'ワールドクエスト＜<QCND 0>＞をクリア'
 [[message]]
 key = 'ORDER_CONDITION_1016'
 old = 'サブストーリー＜<QCND 0>＞をクリア'
+[[message]]
+key = 'ORDER_CONDITION_1017'
+old = '現在のジョブのジョブレベル<QCND 0>以上'

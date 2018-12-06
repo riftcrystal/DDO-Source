@@ -92,7 +92,7 @@ old = 'サーバーと通信中です'
 key = 'sys_announce_firstoption_uisize'
 old = '''
 UIの表示設定を選択してください
-(解像度1920×1080 以上で有効になります)'''
+(解像度1600×900 以上で有効になります)'''
 [[message]]
 key = 'sys_announce_choice_uilarge'
 old = 'UIを拡大表示する'

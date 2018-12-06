@@ -679,3 +679,6 @@ old = 'マグマ耐性'
 [[message]]
 key = 'material_cateforyname_pspskill'
 old = 'ポーンの閃き'
+[[message]]
+key = 'material_cateforyname_draskill'
+old = 'ドラゴンアビリティ'

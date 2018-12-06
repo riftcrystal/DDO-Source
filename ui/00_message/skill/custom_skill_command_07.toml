@@ -38,7 +38,10 @@ old = '''
 <COL ff7878>溜め満了で戦甲へのカウンターに特化</COL>'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_07_139'
-old = 'しがみつき中にセットボタンを押す'
+old = '''
+しがみつき中にセットボタンを押す
+抉り中にセットボタン長押し、または
+ボタン連打を止めると引き抜き攻撃'''
 [[message]]
 key = 'CUSTOM_SKILL_COMMAND_07_140'
 old = '''

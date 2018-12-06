@@ -168,7 +168,7 @@ key = 'menu_boxgacha'
 old = 'ボックストレジャーズロット'
 [[message]]
 key = 'menu_time_event'
-old = '期間イベント'
+old = 'リワードミッション'
 [[message]]
 key = 'menu_ps_store'
 old = ''

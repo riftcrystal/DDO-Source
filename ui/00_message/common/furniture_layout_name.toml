@@ -136,3 +136,6 @@ old = 'マンドラゴラ鉢植え③パスポート'
 [[message]]
 key = 'FURNITURE_LAYOUT_NAME_61'
 old = '楽譜'
+[[message]]
+key = 'FURNITURE_LAYOUT_NAME_63'
+old = 'ホログラムパターン'

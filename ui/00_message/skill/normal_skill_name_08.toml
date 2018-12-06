@@ -34,3 +34,6 @@ old = '狙いの神眼'
 [[message]]
 key = 'NORMAL_SKILL_NAME_08_135'
 old = '奮わせ直魔矢'
+[[message]]
+key = 'NORMAL_SKILL_NAME_08_178'
+old = '魔眼転移'
