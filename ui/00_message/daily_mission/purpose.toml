@@ -22,3 +22,6 @@ old = 'リワードミッションを<VAL>回クリアする'
 [[message]]
 key = 'DAILY_MISSION_PURPOSE_8'
 old = 'リワードミッションを<VAL>回クリアする'
+[[message]]
+key = 'DAILY_MISSION_PURPOSE_9'
+old = 'リワードミッションを<VAL>回クリアする'

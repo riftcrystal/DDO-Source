@@ -3,7 +3,7 @@ key = 'DAILY_MISSION_TASK_16'
 old = 'ウォーミッションをクリアする'
 [[message]]
 key = 'DAILY_MISSION_TASK_17'
-old = 'エクストリームミッションをクリアする'
+old = 'エクストリームミッションをクリア　※大竜晶破壊戦を除く'
 [[message]]
 key = 'DAILY_MISSION_TASK_18'
 old = 'ワイルドハントをクリアする'
