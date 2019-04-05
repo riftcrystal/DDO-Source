@@ -1678,3 +1678,6 @@ old = 'メルゴダ王宮層'
 [[message]]
 key = 'STAGE_NAME_721'
 old = '白竜神殿'
+[[message]]
+key = 'STAGE_NAME_723'
+old = 'ボーナスダンジョン【SP】'
